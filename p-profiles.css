@@ -1162,3 +1162,15 @@ visibility: hidden;
 background: url("https://i.imgur.com/1i7WMk8.png");
 background-size: cover;
 }
+
+.p-profiles  img[alt*="Maetel"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="maetel"] .image-cutter {
+  background: url("https://i.imgur.com/pPv4Vom.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="maetel"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/Jpr8FOt.gif');
+}
