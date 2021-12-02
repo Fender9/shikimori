@@ -1167,10 +1167,19 @@ background-size: cover;
   visibility: hidden;
 }
 
-.p-profiles .cover[data-tooltip_url*="maetel"] .image-cutter {
+.p-profiles .cover[data-tooltip_url*="6321-maetel"] .image-cutter {
   background: url("https://i.imgur.com/pPv4Vom.png");
   background-size: cover; 
 }
-.p-profiles .cover[data-tooltip_url*="maetel"]:hover .image-cutter {
+.p-profiles .cover[data-tooltip_url*="6321-maetel"]:hover .image-cutter {
     background-image: url('https://i.imgur.com/Jpr8FOt.gif');
+}
+
+.p-profiles  img[alt*="Kanye West"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="21059-kanye-west"] .image-cutter {
+  background: url("https://i.imgur.com/oC2gk0p.png");
+  background-size: cover; 
 }
