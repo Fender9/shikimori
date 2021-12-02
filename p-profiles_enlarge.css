@@ -323,3 +323,9 @@
 .b-catalog_entry-tooltip > a[href *= 'people/19313-'] {
   background-image: url(https://i.imgur.com/D7w1HLh.png);
 }
+
+/* Kanye West */
+.b-catalog_entry a[href *= 'people/21059-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/21059-'] {
+  background-image: url(https://i.imgur.com/oC2gk0p.png);
+}
