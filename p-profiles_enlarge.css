@@ -99,7 +99,7 @@
 /* Momo Ayase */
 .b-catalog_entry a[href *= 'characters/196898-'] .image-cutter,
 .b-catalog_entry-tooltip > a[href *= 'characters/196898-'] {
-  background-image: url(https://i.imgur.com/QdiYvCC.png);
+  background-image: url(https://i.imgur.com/eLD5Um1.png);
 }
 
 /* Maetel */
@@ -329,3 +329,10 @@
 .b-catalog_entry-tooltip > a[href *= 'people/21059-'] {
   background-image: url(https://i.imgur.com/oC2gk0p.png);
 }
+
+/* Gura Gawr */
+.b-catalog_entry a[href *= 'characters/197751-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/197751-'] {
+  background-image: url(https://i.imgur.com/tYh5ouB.png);
+}
+
