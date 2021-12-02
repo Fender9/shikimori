@@ -1069,7 +1069,7 @@ visibility: hidden;
 }
 
 .p-profiles .cover[data-tooltip_url*="196900-santa-dodoria"] .image-cutter {
-background: url("https://i.imgur.com/duJTrOk.png");
+background: url("https://i.imgur.com/7GkrerU.png");
 background-size: cover;
 }
 
@@ -1087,7 +1087,7 @@ visibility: hidden;
 }
 
 .p-profiles .cover[data-tooltip_url*="196898-momo-ayase"] .image-cutter {
-background: url("https://i.imgur.com/QdiYvCC.png");
+background: url("https://i.imgur.com/eLD5Um1.png");
 background-size: cover;
 }
 
@@ -1182,4 +1182,16 @@ background-size: cover;
 .p-profiles .cover[data-tooltip_url*="21059-kanye-west"] .image-cutter {
   background: url("https://i.imgur.com/oC2gk0p.png");
   background-size: cover; 
+}
+
+.p-profiles  img[alt*="Gura Gawr"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="197751-gura-gawr"] .image-cutter {
+  background: url("https://i.imgur.com/tYh5ouB.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="197751-gura-gawr"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/ImJ1qjF.gif');
 }
