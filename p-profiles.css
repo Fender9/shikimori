@@ -135,7 +135,7 @@ background-image: url('https://i.imgur.com/mtVQMnx.gif');
 }
 
 .p-profiles .cover[data-tooltip_url*="seishuu-handa"] .image-cutter {
-  background: url("https://dere.shikimori.one/system/characters/original/31274.jpg?1545694868");
+  background: url("https://i.imgur.com/6Ox6YCt.png");
   background-size: cover; 
 }
 .p-profiles .cover[data-tooltip_url*="seishuu-handa"]:hover .image-cutter {
@@ -188,6 +188,15 @@ background-image: url('https://i.imgur.com/mtVQMnx.gif');
 }
 .p-profiles .cover[data-tooltip_url*="shinobu-oshino"]:hover .image-cutter {
     background-image: url('https://i.imgur.com/WNYnotV.gif');
+}
+
+.p-profiles  img[alt*="Takena Nagao"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="14009-takena-nagao"] .image-cutter {
+  background: url("https://i.imgur.com/07iF5wg.png");
+  background-size: cover; 
 }
 
 .p-profiles  img[alt*="Steins;Gate"] {
@@ -409,7 +418,7 @@ background-image: url('https://i.imgur.com/mtVQMnx.gif');
 }
 
 .p-profiles .cover[data-tooltip_url*="robin-nico"] .image-cutter {
-  background: url("https://i.imgur.com/3FnGMyd.png");
+  background: url("https://i.imgur.com/6wagoDk.png");
   background-size: cover; 
 }
 .p-profiles .cover[data-tooltip_url*="robin-nico"]:hover .image-cutter {
@@ -445,7 +454,7 @@ background-image: url('https://i.imgur.com/mtVQMnx.gif');
 }
 
 .p-profiles .cover[data-tooltip_url*="satoru-gojou"] .image-cutter {
-  background: url("https://i.imgur.com/8pPgGMF.png");
+  background: url("https://i.imgur.com/9Apcn4s.png");
   background-size: cover; 
 }
 .p-profiles .cover[data-tooltip_url*="satoru-gojou"]:hover .image-cutter {
@@ -481,7 +490,7 @@ background-image: url('https://i.imgur.com/mtVQMnx.gif');
 }
 
 .p-profiles .cover[data-tooltip_url*="shinji-ikari"] .image-cutter {
-  background: url("https://i.imgur.com/v55aCoq.png");
+  background: url("https://i.imgur.com/vslhhXt.png");
   background-size: cover; 
 }
 .p-profiles .cover[data-tooltip_url*="shinji-ikari"]:hover .image-cutter {
