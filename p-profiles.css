@@ -706,7 +706,7 @@ visibility: hidden;
 }
 
 .p-profiles .cover[data-tooltip_url*="18679-kill-la-kill"] .image-cutter {
-background: url("https://i.imgur.com/JzRjw9O.png");
+background: url("https://i.imgur.com/FDhK81K.png");
 background-size: cover;
 }
 
@@ -1194,4 +1194,25 @@ background-size: cover;
 }
 .p-profiles .cover[data-tooltip_url*="197751-gura-gawr"]:hover .image-cutter {
     background-image: url('https://i.imgur.com/ImJ1qjF.gif');
+}
+
+.p-profiles  img[alt*="Isaac Dian"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="3662-isaac-dian"] .image-cutter {
+  background: url("https://i.imgur.com/On161kf.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="3662-isaac-dian"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/V0qUkUD.gif');
+}
+
+.p-profiles  img[alt*="Baccano!"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="2251-baccano"] .image-cutter {
+  background: url("https://i.imgur.com/cxgISlR.png");
+  background-size: cover; 
 }
