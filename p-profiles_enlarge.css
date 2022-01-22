@@ -335,3 +335,15 @@
 .b-catalog_entry-tooltip > a[href *= 'characters/197751-'] {
   background-image: url(https://i.imgur.com/G8nw4h1.png);
 }
+
+/* Ikuru Kamijou */
+.b-catalog_entry a[href *= 'people/48127-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/48127-'] {
+  background-image: url(https://i.imgur.com/v319JBd.png);
+}
+
+/* Connor Colquhoun */
+.b-catalog_entry a[href *= 'people/197751-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/56246-'] {
+  background-image: url(https://i.imgur.com/Sm2n5Ni.png);
+}
