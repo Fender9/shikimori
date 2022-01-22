@@ -1225,3 +1225,21 @@ background-size: cover;
   background: url("https://i.imgur.com/cxgISlR.png");
   background-size: cover; 
 }
+
+.p-profiles  img[alt*="Ikuru Kamijou"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="48127-ikuru-kamijou"] .image-cutter {
+  background: url("https://i.imgur.com/v319JBd.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Connor Colquhoun"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="56246-connor-colquhoun"] .image-cutter {
+  background: url("https://i.imgur.com/Sm2n5Ni.png");
+  background-size: cover; 
+}
