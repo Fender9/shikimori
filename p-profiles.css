@@ -1243,3 +1243,12 @@ background-size: cover;
   background: url("https://i.imgur.com/Sm2n5Ni.png");
   background-size: cover; 
 }
+
+.p-profiles  img[alt*="Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de."] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="100448-jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de"] .image-cutter {
+  background: url("https://i.imgur.com/Sm2n5Ni.png");
+  background-size: cover; 
+}
