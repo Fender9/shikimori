@@ -1252,3 +1252,33 @@ background-size: cover;
   background: url("https://desu.shikimori.one/system/mangas/original/100448.jpg?1634020650");
   background-size: cover; 
 }
+
+.p-profiles  img[alt*="pablo uchida"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="48931-pablo-uchida"] .image-cutter {
+  background: url("https://i.imgur.com/YSeTdjs.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Spy x Family"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="119161-spy-x-family"] .image-cutter {
+  background: url("https://i.imgur.com/xx6dD3Y.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Anya Forger"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="170256-anya-forger"] .image-cutter {
+  background: url("https://i.imgur.com/XCPjSEa.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="170256-anya-forger"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/FpjePhM.gif');
+}
