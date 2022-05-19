@@ -1,0 +1,29 @@
+.p-profiles  img[alt*="Anya Forger"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="anya-forger"] .image-cutter {
+  background: url("https://i.imgur.com/XCPjSEa.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="anya-forger"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/FpjePhM.gif');
+}
+
+.p-profiles  img[alt*="pablo uchida"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="pablo-uchida"] .image-cutter {
+  background: url("https://i.imgur.com/YSeTdjs.png");
+  background-size: cover; 
+}
+
+.p-profiles img[alt*="Death Note"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="119161-spy-x-family"] .image-cutter {
+background: url("https://i.imgur.com/xx6dD3Y.png");
+background-size: cover;
+}
