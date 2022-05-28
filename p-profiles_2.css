@@ -1,41 +1,17 @@
-.p-profiles  img[alt*="Anya Forger"] {
-  visibility: hidden;
-}
-
-.p-profiles .cover[data-tooltip_url*="anya-forger"] .image-cutter {
-  background: url("https://i.imgur.com/XCPjSEa.png");
-  background-size: cover; 
-}
-.p-profiles .cover[data-tooltip_url*="anya-forger"]:hover .image-cutter {
-    background-image: url('https://i.imgur.com/FpjePhM.gif');
-}
-
-.p-profiles  img[alt*="pablo uchida"] {
-  visibility: hidden;
-}
-
-.p-profiles .cover[data-tooltip_url*="pablo-uchida"] .image-cutter {
-  background: url("https://i.imgur.com/YSeTdjs.png");
-  background-size: cover; 
-}
-
-.p-profiles img[alt*="Death Note"] {
+.p-profiles img[alt*="Santa Dodoria"] {
 visibility: hidden;
 }
 
-.p-profiles .cover[data-tooltip_url*="119161-spy-x-family"] .image-cutter {
-background: url("https://i.imgur.com/xx6dD3Y.png");
+.p-profiles .cover[data-tooltip_url*="196900-santa-dodoria"] .image-cutter {
+background: url("https://i.imgur.com/iV4i80O.png");
 background-size: cover;
 }
 
-/* Anya Forger */
-.b-catalog_entry a[href *= 'characters/170256-'] .image-cutter,
-.b-catalog_entry-tooltip > a[href *= 'characters/170256-'] {
-  background-image: url(https://i.imgur.com/XCPjSEa.png);
+.p-profiles img[alt*="Aira Shiratori"] {
+visibility: hidden;
 }
 
-/* pablo uchida */
-.b-catalog_entry a[href *= 'people/48931-'] .image-cutter,
-.b-catalog_entry-tooltip > a[href *= 'people/48931-'] {
-  background-image: url(https://i.imgur.com/YSeTdjs.png);
+.p-profiles .cover[data-tooltip_url*="198942-aira-shiratori"] .image-cutter {
+background: url("https://i.imgur.com/o63RvpN.png");
+background-size: cover;
 }
