@@ -1073,24 +1073,6 @@ background: url("https://i.imgur.com/D7w1HLh.png");
 background-size: cover;
 }
 
-.p-profiles img[alt*="Santa Dodoria"] {
-visibility: hidden;
-}
-
-.p-profiles .cover[data-tooltip_url*="196900-santa-dodoria"] .image-cutter {
-background: url("https://i.imgur.com/iV4i80O.png");
-background-size: cover;
-}
-
-.p-profiles img[alt*="Aira Shiratori"] {
-visibility: hidden;
-}
-
-.p-profiles .cover[data-tooltip_url*="198942-aira-shiratori"] .image-cutter {
-background: url("https://i.imgur.com/o63RvpN.png");
-background-size: cover;
-}
-
 .p-profiles img[alt*="Momo Ayase"] {
 visibility: hidden;
 }
