@@ -1282,3 +1282,12 @@ visibility: hidden;
 background: url("https://i.imgur.com/xx6dD3Y.png");
 background-size: cover;
 }
+
+.p-profiles  img[alt*="Risuka Mizukura"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="risuka-mizukura"] .image-cutter {
+  background: url("https://i.imgur.com/j5WA294.png");
+  background-size: cover; 
+}
