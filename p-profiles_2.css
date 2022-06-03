@@ -1,3 +1,1279 @@
+.p-profiles  img[alt*="Deishuu Kaiki"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="deishuu-kaiki"] .image-cutter {
+  background: url("https://i.imgur.com/qUU9pKK.jpg");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="deishuu-kaiki"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/P876IKX.gif');
+}
+
+.p-profiles  img[alt*="Byakuya Togami"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="byakuya-togami"] .image-cutter {
+  background: url("https://i.imgur.com/gJHxREx.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="byakuya-togami"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/51j58x1.gif');
+}
+
+.p-profiles img[alt*="Spike Spiegel"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="spike-spiegel"] .image-cutter {
+background: url("https://i.imgur.com/qOpiG03.png");
+background-size: cover;
+}
+.p-profiles .cover[data-tooltip_url*="spike-spiegel"]:hover .image-cutter {
+background-image: url('https://i.imgur.com/mtVQMnx.gif');
+}
+
+.p-profiles  img[alt*="Meme Oshino"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="meme-oshino"] .image-cutter {
+  background: url("https://i.imgur.com/lm5GfJa.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="meme-oshino"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/0b0xYEy.gif');
+}
+
+.p-profiles  img[alt*="Kiritsugu Emiya"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="kiritsugu-emiya"] .image-cutter {
+  background: url("https://i.imgur.com/TpnKfp1.jpg");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="kiritsugu-emiya"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/2BobuxP.gif');
+}
+
+.p-profiles  img[alt*="Favaro Leone"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="favaro-leone"] .image-cutter {
+  background: url("https://i.imgur.com/AJpmxHx.jpg");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="favaro-leone"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/EzCBui4.gif');
+}
+
+.p-profiles  img[alt*="Rintarou Okabe"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="rintarou-okabe"] .image-cutter {
+  background: url("https://i.imgur.com/TG8mhLw.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="rintarou-okabe"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/aQiGcjt.gif');
+}
+
+.p-profiles  img[alt*="Rin Kaga"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="rin-kaga"] .image-cutter {
+  background: url("https://i.imgur.com/nfUq9pE.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="rin-kaga"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/8VLrPPg.gif');
+}
+
+.p-profiles  img[alt*="Chi Yamada"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="chi-yamada"] .image-cutter {
+  background: url("https://i.imgur.com/NkmHBk4.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="chi-yamada"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/aJsNMxz.gif');
+}
+
+.p-profiles  img[alt*="Faye Valentine"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="faye-valentine"] .image-cutter {
+  background: url("https://i.imgur.com/DrpCi1o.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="faye-valentine"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/zKt8o4X.gif');
+}
+
+.p-profiles  img[alt*="Ginko"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="ginko"] .image-cutter {
+  background: url("https://i.imgur.com/XLZA3D1.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="ginko"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/Jkwq57z.gif');
+}
+
+.p-profiles  img[alt*="Seishuu Handa"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="seishuu-handa"] .image-cutter {
+  background: url("https://i.imgur.com/6Ox6YCt.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="seishuu-handa"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/4M3Mknu.gif');
+}
+
+.p-profiles  img[alt*="Urumi Kanzaki"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="urumi-kanzaki"] .image-cutter {
+  background: url("https://i.imgur.com/T8jDHuJ.jpg");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="urumi-kanzaki"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/ghWx7TO.gif');
+}
+
+.p-profiles  img[alt*="Reiko Natsume"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="reiko-natsume"] .image-cutter {
+  background: url("https://i.imgur.com/lalxtsc.jpg");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="reiko-natsume"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/c5f7hJg.gif');
+}
+
+.p-profiles  img[alt*="Kurisu Makise"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="kurisu-makise"] .image-cutter {
+  background: url("https://i.imgur.com/DIKVQpJ.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="kurisu-makise"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/3S8csJc.gif');
+}
+
+.p-profiles  img[alt*="Shinobu Oshino"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="shinobu-oshino"] .image-cutter {
+  background: url("https://i.imgur.com/4ymNcqM.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="shinobu-oshino"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/WNYnotV.gif');
+}
+
+.p-profiles  img[alt*="Takena Nagao"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="14009-takena-nagao"] .image-cutter {
+  background: url("https://i.imgur.com/07iF5wg.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Steins;Gate"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="steins-gate"] .image-cutter {
+  background: url("https://i.imgur.com/gyqceIl.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="One Piece"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="one-piece"] .image-cutter {
+  background: url("https://i.imgur.com/LPckT3y.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Kimi no Na wa."] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="kimi-no-na-wa"] .image-cutter {
+  background: url("https://i.imgur.com/TMD79tj.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Samurai Champloo"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="samurai-champloo"] .image-cutter {
+  background: url("https://i.imgur.com/ZnOPpZF.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Byousoku 5 Centimeter"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="byousoku-5-centimeter"] .image-cutter {
+  background: url("https://i.imgur.com/1pIujWy.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Kotonoha no Niwa"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="kotonoha-no-niwa"] .image-cutter {
+  background: url("https://i.imgur.com/c7ZiIVS.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Cowboy Bebop"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="cowboy-bebop"] .image-cutter {
+  background: url("https://i.imgur.com/uLwmsY9.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Bakemono no Ko"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="bakemono-no-ko"] .image-cutter {
+  background: url("https://i.imgur.com/RHYqPo0.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Mushishi"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="mushishi"] .image-cutter {
+  background: url("https://i.imgur.com/tzUGQUB.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="JoJo no Kimyou na Bouken Part 7: Steel Ball Run"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="jojo-no-kimyou-na-bouken-part-7-steel-ball-run"] .image-cutter {
+  background: url("https://i.imgur.com/Pre0s6B.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Evangelion: 3.0+1.0 Thrice Upon a Time"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="evangelion-3-0-1-0-thrice-upon-a-time"] .image-cutter {
+  background: url("https://i.imgur.com/pEbVujV.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Boku dake ga Inai Machi"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="boku-dake-ga-inai-machi"] .image-cutter {
+  background: url("https://i.imgur.com/GCB4NZI.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Space☆Dandy 2nd Season"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="space-dandy-2nd-season"] .image-cutter {
+  background: url("https://i.imgur.com/xnz1NSC.png");
+  background-size: cover; 
+}
+
+
+.p-profiles  img[alt*="Barakamon"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="barakamon"] .image-cutter {
+  background: url("https://i.imgur.com/QPQ3xSP.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Hirohiko Araki"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="hirohiko-araki"] .image-cutter {
+  background: url("https://i.imgur.com/FKQNIK9.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Ookami to Koushinryou"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="ookami-to-koushinryou"] .image-cutter {
+  background: url("https://i.imgur.com/yAx3E72.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Dandy"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="91119-dandy"] .image-cutter {
+  background: url("https://i.imgur.com/GRAQ11f.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="91119-dandy"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/3RNPo03.gif');
+}
+
+.p-profiles  img[alt*="Miyavi"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="miyavi"] .image-cutter {
+  background: url("https://i.imgur.com/Tji0dNa.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Daoko"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="daoko"] .image-cutter {
+  background: url("https://i.imgur.com/Xd9Dbs9.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Yasuyuki Okamura"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="yasuyuki-okamura"] .image-cutter {
+  background: url("https://i.imgur.com/HwELT4I.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Touko Kuchiki"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="touko-kuchiki"] .image-cutter {
+  background: url("https://i.imgur.com/4rVnQy8.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Ayase Kishimoto"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="ayase-kishimoto"] .image-cutter {
+  background: url("https://i.imgur.com/8hNWIM3.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="ayase-kishimoto"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/oqbHslK.gif');
+}
+
+.p-profiles  img[alt*="Bonbello"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="bonbello"] .image-cutter {
+  background: url("https://i.imgur.com/TwcmiBE.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Robin Nico"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="robin-nico"] .image-cutter {
+  background: url("https://i.imgur.com/6wagoDk.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="robin-nico"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/2Hju500.gif');
+}
+
+.p-profiles  img[alt*="Brook"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="brook"] .image-cutter {
+  background: url("https://i.imgur.com/KHULdV8.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="brook"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/Phj5ssm.gif');
+}
+
+.p-profiles  img[alt*="Perona"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="perona"] .image-cutter {
+  background: url("https://i.imgur.com/Gs6dHVt.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="perona"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/zOfLGO7.gif');
+}
+
+.p-profiles  img[alt*="Satoru Gojou"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="satoru-gojou"] .image-cutter {
+  background: url("https://i.imgur.com/9Apcn4s.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="satoru-gojou"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/mfaESma.gif');
+}
+
+.p-profiles  img[alt*="Momo Kawamoto"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="momo-kawamoto"] .image-cutter {
+  background: url("https://i.imgur.com/cP3RRls.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="momo-kawamoto"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/XKBsKuK.gif');
+}
+
+.p-profiles  img[alt*="Hana Midorikawa"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="hana-midorikawa"] .image-cutter {
+  background: url("https://i.imgur.com/4bH8bJz.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="hana-midorikawa"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/bYsH033.gif');
+}
+
+.p-profiles  img[alt*="Shinji Ikari"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="shinji-ikari"] .image-cutter {
+  background: url("https://i.imgur.com/vslhhXt.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="shinji-ikari"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/nIU2J3F.gif');
+}
+
+.p-profiles  img[alt*="Asuka Langley Souryuu"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="asuka-langley-souryuu"] .image-cutter {
+  background: url("https://i.imgur.com/a6QVqZw.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="asuka-langley-souryuu"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/4BiNMr2.gif');
+}
+
+.p-profiles  img[alt*="Sapphire"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="sapphire"] .image-cutter {
+  background: url("https://i.imgur.com/qjrNZbA.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="sapphire"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/KhNyF5f.gif');
+}
+
+.p-profiles  img[alt*="Kozue Ayuhara"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="kozue-ayuhara"] .image-cutter {
+  background: url("https://i.imgur.com/iG1smQ0.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="kozue-ayuhara"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/SJ0yT0W.gif');
+}
+
+.p-profiles  img[alt*="Sabu to Ichi Torimono Hikae"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="sabu-to-ichi-torimono-hikae"] .image-cutter {
+  background: url("https://i.imgur.com/m2EupvF.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Ichi"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="80839-ichi"] .image-cutter {
+  background: url("https://i.imgur.com/A2KQim0.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="80839-ichi"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/hA7cyS3.gif');
+}
+
+.p-profiles  img[alt*="Shiroe"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="81367-shiroe"] .image-cutter {
+  background: url("https://i.imgur.com/bJYCDIS.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="81367-shiroe"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/P5pWXZG.gif');
+}
+
+.p-profiles  img[alt*="Oyasumi Punpun"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="4632-oyasumi-punpun"] .image-cutter {
+  background: url("https://i.imgur.com/7oeb6Wz.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Owarimonogatari 2nd Season"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="35247-owarimonogatari-2nd-season"] .image-cutter {
+background: url("https://i.imgur.com/UaiA8uD.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Zankyou no Terror"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="23283-zankyou-no-terror"] .image-cutter {
+background: url("https://i.imgur.com/j7yXji4.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="ACCA: 13-ku Kansatsu-ka"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="33337-acca-13-ku-kansatsu-ka"] .image-cutter {
+background: url("https://i.imgur.com/9uW9JzO.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Darker than Black: Kuro no Keiyakusha"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="2025-darker-than-black-kuro-no-keiyakusha"] .image-cutter {
+background: url("https://i.imgur.com/mxDbv2J.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Jujutsu Kaisen (TV)"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="40748-jujutsu-kaisen-tv"] .image-cutter {
+background: url("https://i.imgur.com/Hhif8ae.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Otoko Ippiki Gaki Daishou"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="17467-otoko-ippiki-gaki-daishou"] .image-cutter {
+background: url("https://i.imgur.com/QU6iYpG.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Golden Time"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="17895-golden-time"] .image-cutter {
+background: url("https://i.imgur.com/NUDcc8U.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Great Teacher Onizuka"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="245-great-teacher-onizuka"] .image-cutter {
+background: url("https://i.imgur.com/zMHRCBD.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Koukaku Kidoutai"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="43-koukaku-kidoutai"] .image-cutter {
+background: url("https://i.imgur.com/S5ksxZs.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Natsume Yuujinchou"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="4081-natsume-yuujinchou"] .image-cutter {
+background: url("https://i.imgur.com/j1HWylU.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Serial Experiments Lain"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="339-serial-experiments-lain"] .image-cutter {
+background: url("https://i.imgur.com/T1tKdBZ.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Kyojin no Hoshi"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="5834-kyojin-no-hoshi"] .image-cutter {
+background: url("https://i.imgur.com/PRkzQLT.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Code Geass: Hangyaku no Lelouch R2"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="2904-code-geass-hangyaku-no-lelouch-r2"] .image-cutter {
+background: url("https://i.imgur.com/eFyY80K.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="FLCL"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="227-flcl"] .image-cutter {
+background: url("https://i.imgur.com/lv21aEf.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Gegege no Kitarou (1968)"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="5688-gegege-no-kitarou-1968"] .image-cutter {
+background: url("https://i.imgur.com/zPEi6DF.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Kill la Kill"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="18679-kill-la-kill"] .image-cutter {
+background: url("https://i.imgur.com/FDhK81K.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Paprika"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="1943-paprika"] .image-cutter {
+background: url("https://i.imgur.com/uZAJcYa.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Perfect Blue"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="437-perfect-blue"] .image-cutter {
+background: url("https://i.imgur.com/UZrXH0V.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Psycho-Pass"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="13601-psycho-pass"] .image-cutter {
+background: url("https://i.imgur.com/ZZW96vo.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Sakamoto Desu ga?"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="32542-sakamoto-desu-ga"] .image-cutter {
+background: url("https://i.imgur.com/s2kJ22c.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Subete ga F ni Naru"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="28621-subete-ga-f-ni-naru"] .image-cutter {
+background: url("https://i.imgur.com/1Puzfz3.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Trigun"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="6-trigun"] .image-cutter {
+background: url("https://i.imgur.com/yfXfAw0.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Yojouhan Shinwa Taikei"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="7785-yojouhan-shinwa-taikei"] .image-cutter {
+background: url("https://i.imgur.com/O5a1uoM.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Mankichi Togawa"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="mankichi-togawa"] .image-cutter {
+  background: url("https://i.imgur.com/KXaiEqQ.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="mankichi-togawa"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/h5c6Yvu.gif');
+}
+
+.p-profiles img[alt*="Hiroshi Kamiya"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="118-hiroshi-kamiya"] .image-cutter {
+background: url("https://i.imgur.com/vllEZTR.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Daisuke Ono"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="212-daisuke-ono"] .image-cutter {
+background: url("https://i.imgur.com/GlzYb3z.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Takehito Koyasu"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="160-takehito-koyasu"] .image-cutter {
+background: url("https://i.imgur.com/EIZYk62.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Mamoru Miyano"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="65-mamoru-miyano"] .image-cutter {
+background: url("https://i.imgur.com/Dg8lqkO.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Daisuke Namikawa"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="87-daisuke-namikawa"] .image-cutter {
+background: url("https://i.imgur.com/ZZGErup.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Kana Hanazawa"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="185-kana-hanazawa"] .image-cutter {
+background: url("https://i.imgur.com/hbPY9cu.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Maaya Sakamoto"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="90-maaya-sakamoto"] .image-cutter {
+background: url("https://i.imgur.com/F9LO37R.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Yuuichi Nakamura"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="513-yuuichi-nakamura"] .image-cutter {
+background: url("https://i.imgur.com/4RQVer9.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Tomokazu Sugita"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="2-tomokazu-sugita"] .image-cutter {
+background: url("https://i.imgur.com/dlRV6Xv.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Kenjirou Tsuda"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="591-kenjirou-tsuda"] .image-cutter {
+background: url("https://i.imgur.com/cs0MhTx.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Shinichiro Miki"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="22-shinichiro-miki"] .image-cutter {
+background: url("https://i.imgur.com/olEWh4i.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Takahiro Sakurai"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="79-takahiro-sakurai"] .image-cutter {
+background: url("https://i.imgur.com/y8lXSdV.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Noburou Oofuji"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="36897-noburou-oofuji"] .image-cutter {
+background: url("https://i.imgur.com/zCtyTlG.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Shinichiro Watanabe"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="2009-shinichiro-watanabe"] .image-cutter {
+background: url("https://i.imgur.com/QFYhyaP.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Makoto Shinkai"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="1117-makoto-shinkai"] .image-cutter {
+background: url("https://i.imgur.com/ztTtlna.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Mamoru Hosoda"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="5067-mamoru-hosoda"] .image-cutter {
+background: url("https://i.imgur.com/vfmZEkL.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Hayao Miyazaki"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="1870-hayao-miyazaki"] .image-cutter {
+background: url("https://i.imgur.com/56SVNWM.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Satoshi Kon"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="4580-satoshi-kon"] .image-cutter {
+background: url("https://i.imgur.com/7HDcoZL.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Yoji Kuri"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="8545-yoji-kuri"] .image-cutter {
+background: url("https://i.imgur.com/wRkRZJH.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Takashi Murakami"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="7963-takashi-murakami"] .image-cutter {
+background: url("https://i.imgur.com/ylF723L.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="ISIN NISIO"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="5254-isin-nisio"] .image-cutter {
+background: url("https://i.imgur.com/4RXmCZA.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="huke"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="10145-huke"] .image-cutter {
+background: url("https://i.imgur.com/iQQSdCp.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="5pb."] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="14749-5pb"] .image-cutter {
+background: url("https://i.imgur.com/9hRFwPc.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Osamu Tezuka"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="1938-osamu-tezuka"] .image-cutter {
+background: url("https://i.imgur.com/IV0fV0A.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Sanpei Shirato"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="6586-sanpei-shirato"] .image-cutter {
+background: url("https://i.imgur.com/XkW2C0U.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Yoshitaka Amano"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="2967-yoshitaka-amano"] .image-cutter {
+background: url("https://i.imgur.com/Suj0vrN.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Hideo Kojima"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="5732-hideo-kojima"] .image-cutter {
+background: url("https://i.imgur.com/eZxv4v7.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Yoko Kanno"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="508-yoko-kanno"] .image-cutter {
+background: url("https://i.imgur.com/kJr4nz0.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Satoru Kousaki"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="6555-satoru-kousaki"] .image-cutter {
+background: url("https://i.imgur.com/ITuEPLr.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Motoi Sakuraba"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="5191-motoi-sakuraba"] .image-cutter {
+background: url("https://i.imgur.com/kV515dL.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Chiyomaru Shikura"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="19313-chiyomaru-shikura"] .image-cutter {
+background: url("https://i.imgur.com/D7w1HLh.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Momo Ayase"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="196898-momo-ayase"] .image-cutter {
+background: url("https://i.imgur.com/7AOFztD.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Ken Takakura"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="196899-ken-takakura"] .image-cutter {
+background: url("https://i.imgur.com/Dnh2mzQ.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Berserk"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="2-berserk"] .image-cutter {
+background: url("https://i.imgur.com/Atd24l0.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Koukaku Kidoutai: Arise - Sleepless Eye"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="48321-koukaku-kidoutai-arise-sleepless-eye"] .image-cutter {
+background: url("https://i.imgur.com/SkXtpZ8.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Death Note"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="21-death-note"] .image-cutter {
+background: url("https://i.imgur.com/T8Luuwb.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Omoide Emanon"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="17465-omoide-emanon"] .image-cutter {
+background: url("https://i.imgur.com/VmXluvi.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="JoJo no Kimyou na Bouken Part 6: Stone Ocean"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="3009-jojo-no-kimyou-na-bouken-part-6-stone-ocean"] .image-cutter {
+background: url("https://i.imgur.com/cSdxNet.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Gangsta."] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="24903-gangsta"] .image-cutter {
+background: url("https://i.imgur.com/f4tEN0O.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Keiichi Tanaami"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="28807-keiichi-tanaami"] .image-cutter {
+background: url("https://i.imgur.com/1i7WMk8.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Maetel"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="6321-maetel"] .image-cutter {
+  background: url("https://i.imgur.com/pPv4Vom.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="6321-maetel"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/Jpr8FOt.gif');
+}
+
+.p-profiles  img[alt*="Kanye West"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="21059-kanye-west"] .image-cutter {
+  background: url("https://i.imgur.com/oC2gk0p.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Gura Gawr"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="197751-gura-gawr"] .image-cutter {
+  background: url("https://i.imgur.com/G8nw4h1.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="197751-gura-gawr"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/Kx683AU.gif');
+}
+
+.p-profiles  img[alt*="Isaac Dian"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="3662-isaac-dian"] .image-cutter {
+  background: url("https://i.imgur.com/QUYJqAK.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="3662-isaac-dian"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/V0qUkUD.gif');
+}
+
+.p-profiles  img[alt*="Baccano!"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="2251-baccano"] .image-cutter {
+  background: url("https://i.imgur.com/cxgISlR.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Ikuru Kamijou"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="48127-ikuru-kamijou"] .image-cutter {
+  background: url("https://i.imgur.com/v319JBd.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Connor Colquhoun"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="56246-connor-colquhoun"] .image-cutter {
+  background: url("https://i.imgur.com/Sm2n5Ni.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de."] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="100448-jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de"] .image-cutter {
+  background: url("https://desu.shikimori.one/system/mangas/original/100448.jpg?1634020650");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Anya Forger"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="anya-forger"] .image-cutter {
+  background: url("https://i.imgur.com/XCPjSEa.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="anya-forger"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/FpjePhM.gif');
+}
+
+.p-profiles  img[alt*="pablo uchida"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="pablo-uchida"] .image-cutter {
+  background: url("https://i.imgur.com/YSeTdjs.png");
+  background-size: cover; 
+}
+
+.p-profiles img[alt*="Spy x Family"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="119161-spy-x-family"] .image-cutter {
+background: url("https://i.imgur.com/xx6dD3Y.png");
+background-size: cover;
+}
+
+.p-profiles  img[alt*="Risuka Mizukura"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="risuka-mizukura"] .image-cutter {
+  background: url("https://i.imgur.com/j5WA294.png");
+  background-size: cover; 
+}
+
 .p-profiles img[alt*="Santa Dodoria"] {
 visibility: hidden;
 }
@@ -13,5 +1289,23 @@ visibility: hidden;
 
 .p-profiles .cover[data-tooltip_url*="198942-aira-shiratori"] .image-cutter {
 background: url("https://i.imgur.com/LHZ0QO8.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Monogatari Series: Second Season"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="z23751-monogatari-series-second-season"] .image-cutter {
+background: url("https://i.imgur.com/UJ0B7b8.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Zaregoto Series"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="zaregoto-series"] .image-cutter {
+background: url("https://i.imgur.com/cM2CyQY.png");
 background-size: cover;
 }
