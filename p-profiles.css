@@ -340,7 +340,7 @@ background-image: url('https://i.imgur.com/mtVQMnx.gif');
 }
 
 .p-profiles .cover[data-tooltip_url*="ookami-to-koushinryou"] .image-cutter {
-  background: url("https://i.imgur.com/CRlHPsI.png");
+  background: url("https://i.imgur.com/yAx3E72.png");
   background-size: cover; 
 }
 
@@ -1292,3 +1292,19 @@ background: url("https://i.imgur.com/LHZ0QO8.png");
 background-size: cover;
 }
 
+.p-profiles img[alt*="Monogatari Series: Second Season"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="z23751-monogatari-series-second-season"] .image-cutter {
+background: url("https://i.imgur.com/UJ0B7b8.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Zaregoto Series"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="zaregoto-series"] .image-cutter {
+background: url("https://i.imgur.com/cM2CyQY.png");
+backgro
