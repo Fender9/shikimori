@@ -1307,4 +1307,5 @@ visibility: hidden;
 
 .p-profiles .cover[data-tooltip_url*="zaregoto-series"] .image-cutter {
 background: url("https://i.imgur.com/cM2CyQY.png");
-backgro
+background-size: cover;
+}
