@@ -203,7 +203,7 @@ background-image: url('https://i.imgur.com/mtVQMnx.gif');
   visibility: hidden;
 }
 
-.p-profiles .cover[data-tooltip_url*="z9253-steins-gate"] .image-cutter {
+.p-profiles .cover[data-tooltip_url*="z9253"] .image-cutter {
   background: url("https://i.imgur.com/gyqceIl.png");
   background-size: cover; 
 }
