@@ -1318,3 +1318,13 @@ visibility: hidden;
 background: url("https://i.imgur.com/omNAkzT.png");
 background-size: cover;
 }
+
+.p-profiles img[alt*="Devil Summoner: Kuzunoha Raidou vs Shibito Ekishi"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="76973-devil-summoner-kuzunoha-raidou-vs-shibito-ekishi"] .image-cutter {
+background: url("https://i.imgur.com/yzgkr85.png");
+background-size: cover;
+}
+
