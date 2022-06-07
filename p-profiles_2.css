@@ -7,7 +7,7 @@
   background-size: cover; 
 }
 .p-profiles .cover[data-tooltip_url*="deishuu-kaiki"]:hover .image-cutter {
-    background-image: url('https://i.imgur.com/P876IKX.gif');
+    background-image: url('https://i.imgur.com/1ZgP8Bv.gif');
 }
 
 .p-profiles  img[alt*="Byakuya Togami"] {
@@ -187,7 +187,7 @@ background-image: url('https://i.imgur.com/mtVQMnx.gif');
   background-size: cover; 
 }
 .p-profiles .cover[data-tooltip_url*="shinobu-oshino"]:hover .image-cutter {
-    background-image: url('https://i.imgur.com/WNYnotV.gif');
+    background-image: url('https://i.imgur.com/hSvmk9K.gif');
 }
 
 .p-profiles  img[alt*="Takena Nagao"] {
@@ -1328,3 +1328,122 @@ background: url("https://i.imgur.com/yzgkr85.png");
 background-size: cover;
 }
 
+.p-profiles  img[alt*="Raidou Kuzunoha"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="36699-raidou-kuzunoha"] .image-cutter {
+  background: url("https://i.imgur.com/yiQsnXr.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="36699-raidou-kuzunoha"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/fhE4q2P.gif');
+}
+
+.p-profiles  img[alt*="Nemissa"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="166412-nemissa"] .image-cutter {
+  background: url("https://i.imgur.com/17RjIh7.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="166412-nemissa"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/500M6D1.gif');
+}
+
+.p-profiles  img[alt*="Motoko Kusanagi"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="1795-motoko-kusanagi"] .image-cutter {
+  background: url("https://i.imgur.com/b3eoHPZ.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="1795-motoko-kusanagi"]:hover .image-cutter {
+    background-image: url('');
+}
+
+.p-profiles  img[alt*="Mayoi Hachikuji"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="22052-mayoi-hachikuji"] .image-cutter {
+  background: url("https://i.imgur.com/hjZqHsV.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="22052-mayoi-hachikuji"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/k31zQSW.gif');
+}
+
+.p-profiles  img[alt*="Suruga Kanbaru"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="22054-suruga-kanbaru"] .image-cutter {
+  background: url("https://i.imgur.com/sL51tk2.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="22054-suruga-kanbaru"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/47cjujy.gif');
+}
+
+.p-profiles  img[alt*="Ougi Oshino"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="90393-ougi-oshino"] .image-cutter {
+  background: url("https://i.imgur.com/OWS0xSB.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="90393-ougi-oshino"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/KuAjeAh.gif');
+}
+
+.p-profiles  img[alt*="Jun Aikawa"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="29595-jun-aikawa"] .image-cutter {
+  background: url("https://i.imgur.com/qENmCFo.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="29595-jun-aikawa"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/pGYNgCE.gif');
+}
+
+.p-profiles  img[alt*="Boku"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="29593-boku"] .image-cutter {
+  background: url("https://i.imgur.com/yByo9Di.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Hitoshiki Zerozaki"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="34293-hitoshiki-zerozaki"] .image-cutter {
+  background: url("https://i.imgur.com/WOrCHvg.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Takashi Saitou"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="153048-takashi-saitou"] .image-cutter {
+  background: url("https://i.imgur.com/EuN0tJm.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Izumu Niounomiya"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="127932-izumu-niounomiya"] .image-cutter {
+  background: url("https://i.imgur.com/5gWep71.png");
+  background-size: cover; 
+}
