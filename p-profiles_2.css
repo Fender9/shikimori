@@ -1361,7 +1361,7 @@ background-size: cover;
   background-size: cover; 
 }
 .p-profiles .cover[data-tooltip_url*="1795-motoko-kusanagi"]:hover .image-cutter {
-    background-image: url('');
+    background-image: url('https://i.imgur.com/Icg7xyp.gif');
 }
 
 .p-profiles  img[alt*="Mayoi Hachikuji"] {
