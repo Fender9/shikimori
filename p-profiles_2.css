@@ -1447,3 +1447,13 @@ background-size: cover;
   background: url("https://i.imgur.com/5gWep71.png");
   background-size: cover; 
 }
+
+
+.p-profiles  img[alt*="Animentary: Ketsudan"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="8436-animentary-ketsudan"] .image-cutter {
+  background: url("https://i.imgur.com/Ox0zQ4g.png");
+  background-size: cover; 
+}
