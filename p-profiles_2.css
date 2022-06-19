@@ -312,7 +312,7 @@ background-image: url('https://i.imgur.com/mtVQMnx.gif');
 }
 
 .p-profiles .cover[data-tooltip_url*="space-dandy-2nd-season"] .image-cutter {
-  background: url("https://i.imgur.com/xnz1NSC.png");
+  background: url("https://i.imgur.com/yYi8Fg9.png");
   background-size: cover; 
 }
 
@@ -580,7 +580,7 @@ visibility: hidden;
 }
 
 .p-profiles .cover[data-tooltip_url*="35247-owarimonogatari-2nd-season"] .image-cutter {
-background: url("https://i.imgur.com/8eemD3E.png");
+background: url("https://i.imgur.com/YclKI1B.png");
 background-size: cover;
 }
 
@@ -589,7 +589,7 @@ visibility: hidden;
 }
 
 .p-profiles .cover[data-tooltip_url*="23283-zankyou-no-terror"] .image-cutter {
-background: url("https://i.imgur.com/j7yXji4.png");
+background: url("https://i.imgur.com/4ccqmRz.png");
 background-size: cover;
 }
 
@@ -778,7 +778,7 @@ visibility: hidden;
 }
 
 .p-profiles .cover[data-tooltip_url*="7785-yojouhan-shinwa-taikei"] .image-cutter {
-background: url("https://i.imgur.com/O5a1uoM.png");
+background: url("https://i.imgur.com/wm6WYj9.png");
 background-size: cover;
 }
 
@@ -1231,7 +1231,7 @@ background-size: cover;
 }
 
 .p-profiles .cover[data-tooltip_url*="100448-jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de"] .image-cutter {
-  background: url("https://desu.shikimori.one/system/mangas/original/100448.jpg?1634020650");
+  background: url("https://i.imgur.com/sP4vUuT.png");
   background-size: cover; 
 }
 
@@ -1448,12 +1448,38 @@ background-size: cover;
   background-size: cover; 
 }
 
-
 .p-profiles  img[alt*="Animentary: Ketsudan"] {
   visibility: hidden;
 }
 
 .p-profiles .cover[data-tooltip_url*="8436-animentary-ketsudan"] .image-cutter {
   background: url("https://i.imgur.com/Ox0zQ4g.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Mononoke"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="2246-mononoke"] .image-cutter {
+  background: url("https://i.imgur.com/ksq3IXb.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Nijuu Mensou no Musume"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="3673-nijuu-mensou-no-musume"] .image-cutter {
+  background: url("https://i.imgur.com/j2PEb8Q.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Opus"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="23736-opus"] .image-cutter {
+  background: url("https://i.imgur.com/ts89Bwa.png");
   background-size: cover; 
 }
