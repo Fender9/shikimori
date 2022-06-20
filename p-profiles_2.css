@@ -1483,3 +1483,12 @@ background-size: cover;
   background: url("https://i.imgur.com/ts89Bwa.png");
   background-size: cover; 
 }
+
+.p-profiles  img[alt*="Kona Furugoori"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="60157-kona-furugoori"] .image-cutter {
+  background: url("https://i.imgur.com/YKuvVBM.png");
+  background-size: cover; 
+}
