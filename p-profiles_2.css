@@ -1492,3 +1492,6 @@ background-size: cover;
   background: url("https://i.imgur.com/YKuvVBM.png");
   background-size: cover; 
 }
+.p-profiles .cover[data-tooltip_url*="60157-kona-furugoori"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/jofOV84.gif');
+}
