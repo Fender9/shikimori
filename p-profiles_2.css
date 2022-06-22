@@ -1453,7 +1453,7 @@ background-size: cover;
 }
 
 .p-profiles .cover[data-tooltip_url*="8436-animentary-ketsudan"] .image-cutter {
-  background: url("https://i.imgur.com/Ox0zQ4g.png");
+  background: url("https://i.imgur.com/Jqie1A6.png");
   background-size: cover; 
 }
 
@@ -1494,4 +1494,25 @@ background-size: cover;
 }
 .p-profiles .cover[data-tooltip_url*="60157-kona-furugoori"]:hover .image-cutter {
     background-image: url('https://i.imgur.com/jofOV84.gif');
+}
+
+.p-profiles  img[alt*="Redline"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="6675-redline"] .image-cutter {
+  background: url("https://i.imgur.com/u4hJGFv.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="JP"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="33973-jp"] .image-cutter {
+  background: url("https://i.imgur.com/7BlgoaQ.png");
+  background-size: cover; 
+}
+.p-profiles .cover[data-tooltip_url*="33973-jp"]:hover .image-cutter {
+    background-image: url('https://i.imgur.com/ydN5zuK.gif');
 }
