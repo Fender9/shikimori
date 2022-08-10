@@ -1516,3 +1516,12 @@ background-size: cover;
 .p-profiles .cover[data-tooltip_url*="33973-jp"]:hover .image-cutter {
     background-image: url('https://i.imgur.com/ydN5zuK.gif');
 }
+
+.p-profiles  img[alt*="Redline"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="116778-chainsaw-man"] .image-cutter {
+  background: url("https://i.imgur.com/oaIUq3W.png");
+  background-size: cover; 
+}
