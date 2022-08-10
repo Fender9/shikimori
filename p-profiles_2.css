@@ -611,11 +611,11 @@ background: url("https://i.imgur.com/mxDbv2J.png");
 background-size: cover;
 }
 
-.p-profiles  img[alt*="Jujutsu Kaisen (TV)"] {
+.p-profiles  img[alt*="Jujutsu Kaisen"] {
 visibility: hidden;
 }
 
-.p-profiles .cover[data-tooltip_url*="40748-jujutsu-kaisen-tv"] .image-cutter {
+.p-profiles .cover[data-tooltip_url*="40748-jujutsu-kaisen"] .image-cutter {
 background: url("https://i.imgur.com/Hhif8ae.png");
 background-size: cover;
 }
