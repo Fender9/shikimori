@@ -1525,3 +1525,13 @@ background-size: cover;
   background: url("https://i.imgur.com/8HBr0XL.png");
   background-size: cover; 
 }
+
+
+.p-profiles  img[alt*="JP"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="212605-rei-reiho"] .image-cutter {
+  background: url("https://i.imgur.com/ONeKIbH.png");
+  background-size: cover; 
+}
