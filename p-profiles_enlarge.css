@@ -365,3 +365,9 @@
 .b-catalog_entry-tooltip > a[href *= 'characters/212605-'] {
   background-image: url(https://i.imgur.com/juR8bCR.png);
 }
+
+/* TAKE */
+.b-catalog_entry a[href *= 'people/10875-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/10875-'] {
+  background-image: url(https://i.imgur.com/qheDqHY.png);
+}
