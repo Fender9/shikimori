@@ -1526,12 +1526,83 @@ background-size: cover;
   background-size: cover; 
 }
 
-
 .p-profiles  img[alt*="Rei Reiho"] {
   visibility: hidden;
 }
 
 .p-profiles .cover[data-tooltip_url*="212605-rei-reiho"] .image-cutter {
   background: url("https://i.imgur.com/juR8bCR.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Starscourge Radahn"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="217039-starscourge-radahn"] .image-cutter {
+  background: url("https://i.imgur.com/bUBKBjP.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Caim"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="109471-caim"] .image-cutter {
+  background: url("https://i.imgur.com/GGaiFRa.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Jeanne"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="94595-jeanne"] .image-cutter {
+  background: url("https://i.imgur.com/4vR41sZ.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Kitten"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="150706-kitten"] .image-cutter {
+  background: url("https://i.imgur.com/VHVq5BH.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Emilie De Rochefort"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="39028-emilie-de-rochefort"] .image-cutter {
+  background: url("https://i.imgur.com/ZruDKMs.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Y'shtola Rhul"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="210813-y-shtola-rhul"] .image-cutter {
+  background: url("https://i.imgur.com/Som4DXI.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Kainé"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="157535-kain"] .image-cutter {
+  background: url("https://i.imgur.com/GGaiFRa.png");
+  background-size: cover; 
+}
+
+.p-profiles  img[alt*="Take"] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="10875-take"] .image-cutter {
+  background: url("https://i.imgur.com/BrQr3iD.png");
   background-size: cover; 
 }
