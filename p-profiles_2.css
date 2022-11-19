@@ -1606,3 +1606,12 @@ background-size: cover;
   background: url("https://i.imgur.com/qheDqHY.png");
   background-size: cover; 
 }
+
+.p-profiles  img[alt*=""] {
+  visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*=""] .image-cutter {
+  background: url("");
+  background-size: cover; 
+}
