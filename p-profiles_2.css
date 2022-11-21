@@ -907,7 +907,16 @@ visibility: hidden;
 }
 
 .p-profiles .cover[data-tooltip_url*="36897-noburou-oofuji"] .image-cutter {
-background: url("https://i.imgur.com/zCtyTlG.png");
+background: url("https://i.imgur.com/e1HwRzQ.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Akiyuki Shinbou"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="5089-akiyuki-shinbou"] .image-cutter {
+background: url("https://i.imgur.com/WYeJ6WD.png");
 background-size: cover;
 }
 
