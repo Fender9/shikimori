@@ -183,7 +183,13 @@
 /* Noburou Oofuji */
 .b-catalog_entry a[href *= 'people/36897-'] .image-cutter,
 .b-catalog_entry-tooltip > a[href *= 'people/36897-'] {
-  background-image: url(https://i.imgur.com/zCtyTlG.png);
+  background-image: url(https://i.imgur.com/e1HwRzQ.png);
+}
+
+/* Akiyuki Shinbou */
+.b-catalog_entry a[href *= 'people/5089-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/5089-'] {
+  background-image: url(https://i.imgur.com/WYeJ6WD.png);
 }
 
 /* Shinichiro Watanabe */
