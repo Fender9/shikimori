@@ -413,3 +413,15 @@
 .b-catalog_entry-tooltip > a[href *= 'people/8582-'] {
   background-image: url(https://i.imgur.com/2LZGhNj.png);
 }
+
+/* Yasuomi Umetsu */
+.b-catalog_entry a[href *= 'people/6583-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/6583-'] {
+  background-image: url(https://i.imgur.com/5U6FLX2.png);
+}
+
+/* Takena Nagao */
+.b-catalog_entry a[href *= 'people/14009-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/14009-'] {
+  background-image: url(https://i.imgur.com/07iF5wg.png);
+}
