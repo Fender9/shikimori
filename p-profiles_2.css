@@ -1078,7 +1078,7 @@ visibility: hidden;
 }
 
 .p-profiles .cover[data-tooltip_url*="19313-chiyomaru-shikura"] .image-cutter {
-background: url("https://i.imgur.com/D7w1HLh.png");
+background: url("https://i.imgur.com/Q5vT9mZ.png");
 background-size: cover;
 }
 
@@ -1614,4 +1614,67 @@ background-size: cover;
 .p-profiles .cover[data-tooltip_url*="10875-take"] .image-cutter {
   background: url("https://i.imgur.com/qheDqHY.png");
   background-size: cover; 
+}
+
+.p-profiles img[alt*="Miyuki Sawashiro"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="99-miyuki-sawashiro"] .image-cutter {
+background: url("https://i.imgur.com/5Bkp7rY.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Kei Tomiyama"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="870-kei-tomiyama"] .image-cutter {
+background: url("https://i.imgur.com/MHki08t.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Masaaki Yuasa"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="5068-masaaki-yuasa"] .image-cutter {
+background: url("https://i.imgur.com/appI236.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Yasuomi Umetsu"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="6583-yasuomi-umetsu"] .image-cutter {
+background: url("https://i.imgur.com/5U6FLX2.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Shoutarou Ishinomori"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="2478-shoutarou-ishinomori"] .image-cutter {
+background: url("https://i.imgur.com/pFCcTrk.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Mariko Gotou"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="31631-mariko-gotou"] .image-cutter {
+background: url("https://i.imgur.com/98ksEZT.png");
+background-size: cover;
+}
+
+.p-profiles img[alt*="Hideki Naganuma"] {
+visibility: hidden;
+}
+
+.p-profiles .cover[data-tooltip_url*="8582-hideki-naganuma"] .image-cutter {
+background: url("https://i.imgur.com/2LZGhNj.png");
+background-size: cover;
 }
