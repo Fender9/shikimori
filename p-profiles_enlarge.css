@@ -327,7 +327,7 @@
 /* Chiyomaru Shikura */
 .b-catalog_entry a[href *= 'people/19313-'] .image-cutter,
 .b-catalog_entry-tooltip > a[href *= 'people/19313-'] {
-  background-image: url(https://i.imgur.com/D7w1HLh.png);
+  background-image: url(https://i.imgur.com/Q5vT9mZ.png);
 }
 
 /* Kanye West */
@@ -376,4 +376,40 @@
 .b-catalog_entry a[href *= 'people/10875-'] .image-cutter,
 .b-catalog_entry-tooltip > a[href *= 'people/10875-'] {
   background-image: url(https://i.imgur.com/qheDqHY.png);
+}
+
+/* Miyuki Sawashiro */
+.b-catalog_entry a[href *= 'people/99-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/99-'] {
+  background-image: url(https://i.imgur.com/5Bkp7rY.png);
+}
+
+/* Kei Tomiyama */
+.b-catalog_entry a[href *= 'people/870-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/870-'] {
+  background-image: url(https://i.imgur.com/MHki08t.png);
+}
+
+/* Masaaki Yuasa */
+.b-catalog_entry a[href *= 'people/5068-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/5068-'] {
+  background-image: url(https://i.imgur.com/appI236.png);
+}
+
+/* Shoutarou Ishinomori */
+.b-catalog_entry a[href *= 'people/2478-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/2478-'] {
+  background-image: url(https://i.imgur.com/pFCcTrk.png);
+}
+
+/* Mariko Gotou */
+.b-catalog_entry a[href *= 'people/31631-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/31631-'] {
+  background-image: url(https://i.imgur.com/98ksEZT.png);
+}
+
+/* Hideki Naganuma */
+.b-catalog_entry a[href *= 'people/8582-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'people/8582-'] {
+  background-image: url(https://i.imgur.com/2LZGhNj.png);
 }
