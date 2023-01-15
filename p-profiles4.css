@@ -1,0 +1,41 @@
+/* Steins;Gate */
+[href*="animes/z9253-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gyqceIl.png);
+}
+
+/* Cowboy Bebop */
+[href*="animes/1-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uLwmsY9.png);
+}
+
+/* Kimi no Na wa. */
+[href*="animes/32281-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TMD79tj.png);
+}
+
+/* Samurai Champloo */
+[href*="animes/205-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZnOPpZF.png);
+}
+
+/* Space☆Dandy 2nd Season */
+[href*="animes/23327-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yYi8Fg9.png);
+}
+
+/* Evangelion: 3.0+1.0 Thrice Upon a Time */
+[href*="animes/3786-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pEbVujV.png);
+}
+
+/* Sabu to Ichi Torimono Hikae */
+[href*="animes/5997-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/m2EupvF.png);
+}
