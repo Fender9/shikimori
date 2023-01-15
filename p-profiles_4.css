@@ -413,11 +413,11 @@
 /* Dandy */
 [href*="characters/91119-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/GRAQ11f.png);
+  --custom-image: url(https://i.imgur.com/7F64jqI.png);
 }
 [href*="characters/91119-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/3RNPo03.gif);
+  --custom-image: url(https://i.imgur.com/Q0KyBNS.gif);
 }
 
 /* Bonbello */
@@ -765,11 +765,11 @@
 /* Momo Ayase */
 [href*="characters/196898-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/7AOFztD.png);
+  --custom-image: url(https://i.imgur.com/KFX0pOL.png);
 }
 [href*="characters/196898-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/7AOFztD.png);
+  --custom-image: url(https://i.imgur.com/KFX0pOL.png);
 }
 
 /* Seiko Ayase */
@@ -785,7 +785,7 @@
 /* Maetel */
 [href*="characters/6321-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/pPv4Vom.png);
+  --custom-image: url(https://i.imgur.com/qZX1CcU.png);
 }
 [href*="characters/6321-"]:hover {
   --show-default: 0;
@@ -963,13 +963,13 @@
 /* Daisuke Ono */
 [href*="people/212-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/GlzYb3z.png);
+  --custom-image: url(https://i.imgur.com/3o8RGOk.png);
 }
 
 /* Mamoru Miyano */
 [href*="people/65-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Dg8lqkO.png);
+  --custom-image: url(https://i.imgur.com/yxzTZGM.png);
 }
 
 /* Daisuke Namikawa */
@@ -1011,7 +1011,7 @@
 /* Shinichiro Miki */
 [href*="people/22-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/olEWh4i.png);
+  --custom-image: url(https://i.imgur.com/BmSNRlu.png);
 }
 
 /* Takahiro Sakurai */
@@ -1159,25 +1159,25 @@
 /* Hideo Kojima */
 [href*="people/5732-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/eZxv4v7.png);
+  --custom-image: url(https://i.imgur.com/3sfxDMp.png);
 }
 
 /* Kazuma Kaneko */
 [href*="people/33589-"] {
   --show-default: 0;
-  --custom-image: url(https://dere.shikimori.one/uploads/poster/people/33589/main_2x-8a712cfcfae151bd383a616e3c2f9f23.webp);
+  --custom-image: url(https://i.imgur.com/uGMul5Y.png);
 }
 
 /* Shigenori Soejima */
 [href*="people/12279-"] {
   --show-default: 0;
-  --custom-image: url(https://dere.shikimori.one/uploads/poster/people/12279/main_2x-2d38e5fb95bf594d3cb94dcbb47040f4.webp);
+  --custom-image: url(https://i.imgur.com/ziELjim.png);
 }
 
 /* Ikki Kajiwara */
 [href*="people/4017-"] {
   --show-default: 0;
-  --custom-image: url(https://moe.shikimori.one/uploads/poster/people/4017/main_2x-986dfab12e76d42578cd0a700cb2551d.webp);
+  --custom-image: url(https://i.imgur.com/UN5MYGY.png);
 }
 
 /* Shoutarou Ishinomori */
@@ -1209,7 +1209,7 @@
 /* Asian Kung-Fu Generation */
 [href*="people/5251-"] {
   --show-default: 0;
-  --custom-image: url(https://kawai.shikimori.one/uploads/poster/people/5251/main_2x-adf1a929edfdae9fdd9889d08f6ab463.webp);
+  --custom-image: url(https://i.imgur.com/rpBvW7m.png);
 }
 
 /* Satoru Kousaki */
@@ -1251,7 +1251,7 @@
 /* Akihiko Yoshida */
 [href*="people/46007-"] {
   --show-default: 0;
-  --custom-image: url(https://moe.shikimori.one/uploads/poster/people/46007/main_2x-1bef389b132ac06ea9255a5d977aefa4.webp);
+  --custom-image: url(https://i.imgur.com/64rJiyQ.png);
 }
 
 /* pablo uchida */
@@ -1281,17 +1281,17 @@
 /* Ringo Shiina */
 [href*="people/8213-"] {
   --show-default: 0;
-  --custom-image: url(https://desu.shikimori.one/uploads/poster/people/8213/main_2x-2ffdfc229607a99e73f15055c8ffe38b.webp);
+  --custom-image: url(https://i.imgur.com/YFztlJ8.png);
 }
 
 /* Boris */
 [href*="people/40186-"] {
   --show-default: 0;
-  --custom-image: url(https://kawai.shikimori.one/uploads/poster/people/40186/main_2x-eac610c769c43abaa7485944f9591429.webp);
+  --custom-image: url(https://i.imgur.com/nY7jBEp.png);
 }
 
 /* John Lennon */
 [href*="people/37595-"] {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/tzpYhs9.png);
 }
