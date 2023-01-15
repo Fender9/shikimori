@@ -1,3 +1,5 @@
+/* ANIME */
+
 /* Steins;Gate */
 [href*="animes/z9253-"] {
   --show-default: 0;
@@ -38,4 +40,198 @@
 [href*="animes/5997-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/m2EupvF.png);
+}
+
+/* Owarimonogatari 2nd Season */
+[href*="animes/z35247-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/eXnHFTJ.png);
+}
+
+/* Zankyou no Terror */
+[href*="animes/23283-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4ccqmRz.png);
+}
+
+/* ACCA: 13-ku Kansatsu-ka */
+[href*="animes/33337-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9uW9JzO.png);
+}
+
+/* Darker than Black: Kuro no Keiyakusha */
+[href*="animes/z2025-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mxDbv2J.png);
+}
+
+/* Jujutsu Kaisen */
+[href*="animes/40748-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xs7Aut4.png);
+}
+
+/* Mushishi */
+[href*="animes/457-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tzUGQUB.png);
+}
+
+/* Otoko Ippiki Gaki Daishou */
+[href*="animes/17467-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QU6iYpG.png);
+}
+
+/* Golden Time */
+[href*="animes/z17895-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/NUDcc8U.png);
+}
+
+/* Great Teacher Onizuka */
+[href*="animes/245-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zMHRCBD.png);
+}
+
+/* Kill la Kill */
+[href*="animes/z18679-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FDhK81K.png);
+}
+
+/* Gegege no Kitarou (1968) */
+[href*="animes/z5688-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zPEi6DF.png);
+}
+
+/* FLCL */
+[href*="animes/227-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lv21aEf.png);
+}
+
+/* Code Geass: Hangyaku no Lelouch R2 */
+[href*="animes/2904-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/eFyY80K.png);
+}
+
+/* Kyojin no Hoshi */
+[href*="animes/5834-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PRkzQLT.png);
+}
+
+/* Serial Experiments Lain */
+[href*="animes/339-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/T1tKdBZ.png);
+}
+
+/* Natsume Yuujinchou */
+[href*="animes/4081-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/j1HWylU.png);
+}
+
+/* Koukaku Kidoutai */
+[href*="animes/43-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/S5ksxZs.png);
+}
+
+/* Mononoke */
+[href*="animes/2246-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ksq3IXb.png);
+}
+
+/* Paprika */
+[href*="animes/1943-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uZAJcYa.png);
+}
+
+/* Perfect Blue */
+[href*="animes/437-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UZrXH0V.png);
+}
+
+/* Nijuu Mensou no Musume */
+[href*="animes/3673-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/j2PEb8Q.png);
+}
+
+/* Psycho-Pass */
+[href*="animes/z13601-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZZW96vo.png);
+}
+
+/* Sakamoto Desu ga? */
+[href*="animes/z32542-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/s2kJ22c.png);
+}
+
+/* Subete ga F ni Naru */
+[href*="animes/y28621-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1Puzfz3.png);
+}
+
+/* Trigun */
+[href*="animes/6-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yfXfAw0.png);
+}
+
+/* Yojouhan Shinwa Taikei */
+[href*="animes/7785-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wm6WYj9.png);
+}
+
+/* Baccano! */
+[href*="animes/z2251-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cxgISlR.png);
+}
+
+/* Animentary: Ketsudan */
+[href*="animes/8436-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ssjFmZu.png);
+}
+
+/* Redline */
+[href*="animes/6675-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/u4hJGFv.png);
+}
+
+/* MANGA */
+
+/* WIP */
+[href*="animes/5997-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+
+/* WIP */
+[href*="animes/5997-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+
+/* WIP */
+[href*="animes/5997-"] {
+  --show-default: 0;
+  --custom-image: url();
 }
