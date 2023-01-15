@@ -775,11 +775,11 @@
 /* Seiko Ayase */
 [href*="characters/196900-"] {
   --show-default: 0;
-  --custom-image: url(https://nyaa.shikimori.one/uploads/poster/characters/196900/main_2x-7bc784ee16cc5a3c2a62ddb527ff1159.webp);
+  --custom-image: url(https://i.imgur.com/WygfHGV.png);
 }
 [href*="characters/196900-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://nyaa.shikimori.one/uploads/poster/characters/196900/main_2x-7bc784ee16cc5a3c2a62ddb527ff1159.webp);
+  --custom-image: url(https://i.imgur.com/WygfHGV.png);
 }
 
 /* Maetel */
