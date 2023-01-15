@@ -218,20 +218,112 @@
 
 /* MANGA */
 
-/* WIP */
-[href*="animes/5997-"] {
+/* Barakamon */
+[href*="mangas/17051-"] {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/QPQ3xSP.png);
 }
 
-/* WIP */
-[href*="animes/5997-"] {
+/* JoJo no Kimyou na Bouken Part 6: Stone Ocean */
+[href*="mangas/3009-"] {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/cSdxNet.png);
 }
 
-/* WIP */
-[href*="animes/5997-"] {
+/* Mushishi */
+[href*="mangas/418-"] {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/tzUGQUB.png);
+}
+
+/* One Piece */
+[href*="mangas/z13-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LPckT3y.png);
+}
+
+/* Oyasumi Punpun */
+[href*="mangas/4632-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7oeb6Wz.png);
+}
+
+/* Dandadan */
+[href*="mangas/135496-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/omNAkzT.png);
+}
+
+/* Berserk */
+[href*="mangas/2-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Atd24l0.png);
+}
+
+/* Koukaku Kidoutai: Arise - Sleepless Eye */
+[href*="mangas/48321-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SkXtpZ8.png);
+}
+
+/* Omoide Emanon */
+[href*="mangas/17465-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VmXluvi.png);
+}
+
+/* Chainsaw Man */
+[href*="mangas/116778-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8HBr0XL.png);
+}
+
+/* Spy x Family */
+[href*="mangas/119161-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xx6dD3Y.png);
+}
+
+/* Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de. */
+[href*="mangas/100448-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sP4vUuT.png);
+}
+
+/* Gangsta. */
+[href*="mangas/24903-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/f4tEN0O.png);
+}
+
+/* Opus */
+[href*="mangas/23736-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ts89Bwa.png);
+}
+
+/* RANOBE */
+
+/* Monogatari Series: Second Season */
+[href*="ranobe/z23751-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aJzmkWw.png);
+}
+
+/* Zaregoto Series */
+[href*="ranobe/9726-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cM2CyQY.png);
+}
+
+/* Ookami to Koushinryou */
+[href*="ranobe/9115-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yAx3E72.png);
+}
+
+/* Devil Summoner: Kuzunoha Raidou vs Shibito Ekishi */
+[href*="ranobe/76973-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yzgkr85.png);
 }
