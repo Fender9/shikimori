@@ -328,6 +328,12 @@
   --custom-image: url(https://i.imgur.com/yzgkr85.png);
 }
 
+/* Mahoutsukai no Yoru */
+[href*="ranobe/26027-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zp7SQW5.png);
+}
+
 /* MALE CHARS */
 
 /* Seishuu Handa */
