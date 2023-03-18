@@ -1301,3 +1301,9 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/tzpYhs9.png);
 }
+
+/* Achille-Claude Debussy */
+[href*="people/21437-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D3oEfkE.png);
+}
