@@ -958,6 +958,18 @@
   --custom-image: url(https://i.imgur.com/pGYNgCE.gif);
 }
 
+/* Fran */
+[href*="characters/32633-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WfE7Gr2.png);
+}
+
+/* Balthier */
+[href*="characters/32628-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZL7cI4f.png);
+}
+
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
