@@ -1319,3 +1319,9 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/D3oEfkE.png);
 }
+
+/* Atarashii Gakkou no Leaders */
+[href*="people/71642-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/k3NNafg.png);
+}
