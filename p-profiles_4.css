@@ -533,8 +533,10 @@
 }
 [href*="characters/217039-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/9Q9Oeyb.gif);
+  --custom-image: url(https://i.imgur.com/5hACNlE.gif);
 }
+
+/*https://i.imgur.com/9Q9Oeyb.gif OLD RADAHN GIF*/
 
 /* Caim */
 [href*="characters/109471-"] {
