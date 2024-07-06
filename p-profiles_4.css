@@ -972,6 +972,26 @@
   --custom-image: url(https://i.imgur.com/ZL7cI4f.png);
 }
 
+/* Lightning */
+[href*="characters/118835-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/N1rJ084.png);
+}
+[href*="characters/118835-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uDTHn8n.gif);
+}
+
+/* Kageaki Minato */
+[href*="characters/91703-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0WX0kkI.png);
+}
+[href*="characters/91703-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DUFT2G9.gif);
+}
+
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
