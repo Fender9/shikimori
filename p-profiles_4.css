@@ -591,11 +591,11 @@
 /* Gaisuke Utsurugi */
 [href*="characters/139919-"] {
   --show-default: 0;
-  --custom-image: url(https://dere.shikimori.one/uploads/poster/characters/139919/main_2x-94a5e3ac5bc906c366be229ea6bd83e6.webp);
+  --custom-image: url(https://i.imgur.com/aQdtA5F.png);
 }
 [href*="characters/139919-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://dere.shikimori.one/uploads/poster/characters/139919/main_2x-94a5e3ac5bc906c366be229ea6bd83e6.webp);
+  --custom-image: url(https://i.imgur.com/aQdtA5F.png);
 }
 
 /* Izumu Niounomiya */
