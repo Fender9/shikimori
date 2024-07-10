@@ -992,6 +992,60 @@
   --custom-image: url(https://i.imgur.com/DUFT2G9.gif);
 }
 
+/* Zenos yae Galvus */
+[href*="characters/206134-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/40FyvAd.png);
+}
+
+/* Hope Estheim */
+[href*="characters/171802-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0pfMj4R.png);
+}
+
+/* Roger Smith */
+[href*="characters/2015-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dfuUuKs.png);
+}
+
+/* Soujuurou Shizuki */
+[href*="characters/61129-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GdnyBFh.png);
+}
+
+/* Jean Otus */
+[href*="characters/143758-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/R4AeHmy.png);
+}
+
+/* Hei */
+[href*="characters/2160-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/k5BWXVV.png);
+}
+
+/* Tatsuya Suou */
+[href*="characters/-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VP0sexc.png);
+}
+
+/*  */
+[href*="characters/-"] {
+  --show-default: 0;
+  --custom-image: url(h);
+}
+
+/*  */
+[href*="characters/-"] {
+  --show-default: 0;
+  --custom-image: url(h);
+}
+
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
