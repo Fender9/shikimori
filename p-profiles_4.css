@@ -1069,6 +1069,13 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/qo21PNb.png);
 }
+
+/* Arcueid Brunestud */
+[href*="characters/2213-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/X8RQyvn.png);
+}
+
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
