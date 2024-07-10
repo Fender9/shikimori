@@ -633,7 +633,7 @@
 /* Reiko Natsume */
 [href*="characters/13886-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/lalxtsc.jpg);
+  --custom-image: url(https://i.imgur.com/Qwovt5q.png);
 }
 [href*="characters/13886-"]:hover {
   --show-default: 0;
@@ -643,7 +643,7 @@
 /* Urumi Kanzaki */
 [href*="characters/455-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/T8jDHuJ.jpg);
+  --custom-image: url(https://i.imgur.com/r2ppfv1.png);
 }
 [href*="characters/455-"]:hover {
   --show-default: 0;
@@ -663,7 +663,7 @@
 /* Rin Kaga */
 [href*="characters/12669-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/nfUq9pE.png);
+  --custom-image: url(https://i.imgur.com/rZbnaPc.png);
 }
 [href*="characters/12669-"]:hover {
   --show-default: 0;
@@ -1034,18 +1034,41 @@
   --custom-image: url(https://i.imgur.com/VP0sexc.png);
 }
 
-/*  */
-[href*="characters/-"] {
+/* Frieren */
+[href*="characters/184947-"] {
   --show-default: 0;
-  --custom-image: url(h);
+  --custom-image: url(https://i.imgur.com/dSywAbV.png);
 }
 
-/*  */
-[href*="characters/-"] {
+/* Fujiko Mine */
+[href*="characters/1047-"] {
   --show-default: 0;
-  --custom-image: url(h);
+  --custom-image: url(https://i.imgur.com/VQ0tocK.png);
 }
 
+/* Naoto Shirogane */
+[href*="characters/16249-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oXcd9QD.png);
+}
+
+/* Maya Amano */
+[href*="characters/126857-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kpIoBwW.png);
+}
+
+/* Eriko Kirishima */
+[href*="characters/36546-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vmEW8yI.png);
+}
+
+/* Aoko Aozaki */
+[href*="characters/11298-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/EzBEUIx.png);
+}
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
