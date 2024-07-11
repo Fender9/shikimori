@@ -1076,6 +1076,12 @@
   --custom-image: url(https://i.imgur.com/X8RQyvn.png);
 }
 
+/* Ryouko Koiso */
+[href*="characters/8567-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TxVWsyY.png);
+}
+
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
