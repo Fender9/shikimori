@@ -1094,6 +1094,30 @@
   --custom-image: url(https://i.imgur.com/VqaybgM.png);
 }
 
+/* Chachamaru Ashikaga */
+[href*="characters/91713-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/y95v8bI.png);
+}
+
+/* Hinae Arimura */
+[href*="characters/144140-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CHkef26.png);
+}
+
+/* Shuuichi Wakui */
+[href*="characters/144149-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Bf4VNGL.png);
+}
+
+/* Phantom */
+[href*="characters/252574-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QCkiaUb.png);
+}
+
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
