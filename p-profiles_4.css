@@ -302,6 +302,13 @@
   --custom-image: url(https://i.imgur.com/ts89Bwa.png);
 }
 
+/* Yokohama */
+[href*="mangas/4-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SzzGUjs.png);
+}
+
+
 /* RANOBE */
 
 /* Monogatari Series: Second Season */
