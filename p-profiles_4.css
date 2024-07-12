@@ -783,11 +783,11 @@
 /* Seiko Ayase */
 [href*="characters/196900-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/WygfHGV.png);
+  --custom-image: url(https://i.imgur.com/0ZPLpPu.png);
 }
 [href*="characters/196900-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/WygfHGV.png);
+  --custom-image: url(https://i.imgur.com/0ZPLpPu.png);
 }
 
 /* Maetel */
@@ -1080,6 +1080,18 @@
 [href*="characters/8567-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/MmV2yWN.png);
+}
+
+/* Deathtopia Virtuoso Suicide-Master */
+[href*="characters/138576-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tCnOouK.png);
+}
+
+/* Juuzou Inui */
+[href*="characters/142470-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VqaybgM.png);
 }
 
 /* СЕЙЮ */
