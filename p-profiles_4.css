@@ -93,7 +93,7 @@
 /* Great Teacher Onizuka */
 [href*="animes/245-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/zMHRCBD.png);
+  --custom-image: url(https://i.imgur.com/A61qtdh.png);
 }
 
 /* Kill la Kill */
@@ -251,7 +251,7 @@
 /* Dandadan */
 [href*="mangas/135496-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/omNAkzT.png);
+  --custom-image: url(https://i.imgur.com/kB54QXN.png);
 }
 
 /* Berserk */
@@ -308,6 +308,11 @@
   --custom-image: url(https://i.imgur.com/SzzGUjs.png);
 }
 
+/* The Climber */
+[href*="mangas/7375-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JeUtD7d.png);
+}
 
 /* RANOBE */
 
@@ -1123,6 +1128,18 @@
 [href*="characters/252574-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/QCkiaUb.png);
+}
+
+/* Kumiko Yamaguchi */
+[href*="characters/798-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RFu6w34.png);
+}
+
+/* Buntarou Mori */
+[href*="characters/35510-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9AaIIid.png);
 }
 
 /* СЕЙЮ */
