@@ -593,7 +593,7 @@
 }
 [href*="characters/29593-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/yByo9Di.png);
+  --custom-image: url(https://i.imgur.com/P3rMdu6.png);
 }
 
 /* Hitoshiki Zerozaki */
@@ -603,7 +603,7 @@
 }
 [href*="characters/34293-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/WOrCHvg.png);
+  --custom-image: url(https://i.imgur.com/b3UJnqk.png);
 }
 
 /* Gaisuke Utsurugi */
@@ -613,7 +613,7 @@
 }
 [href*="characters/139919-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/aQdtA5F.png);
+  --custom-image: url(https://i.imgur.com/zjNz76W.png);
 }
 
 /* Izumu Niounomiya */
@@ -623,7 +623,7 @@
 }
 [href*="characters/127932-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/5gWep71.png);
+  --custom-image: url(https://i.imgur.com/9LUE6m7.png);
 }
 
 /* Takashi Saitou */
@@ -1050,6 +1050,10 @@
 [href*="characters/126856-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/VP0sexc.png);
+}
+[href*="characters/126856-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gZn1HEc.gif);
 }
 
 /* Frieren */
