@@ -216,6 +216,12 @@
   --custom-image: url(https://i.imgur.com/i3gp409.png);
 }
 
+/* Yofukashi no Uta */
+[href*="animes/50346-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Npaags7.png);
+}
+
 /* MANGA */
 
 /* Barakamon */
