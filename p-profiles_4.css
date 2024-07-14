@@ -216,12 +216,6 @@
   --custom-image: url(https://i.imgur.com/i3gp409.png);
 }
 
-/* Yofukashi no Uta */
-[href*="animes/50346-"] {
-  --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Npaags7.png);
-}
-
 /* MANGA */
 
 /* Barakamon */
@@ -318,6 +312,12 @@
 [href*="mangas/7375-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/JeUtD7d.png);
+}
+
+/* Yofukashi no Uta */
+[href*="mangas/121480-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Npaags7.png);
 }
 
 /* RANOBE */
