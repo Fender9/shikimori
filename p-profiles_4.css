@@ -695,7 +695,7 @@
 }
 [href*="characters/29926-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/4rVnQy8.png);
+  --custom-image: url(https://i.imgur.com/e2LFkEg.png);
 }
 
 /* Ayase Kishimoto */
@@ -715,7 +715,7 @@
 }
 [href*="characters/61-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/2Hju500.gif);
+  --custom-image: url(https://i.imgur.com/VgnPVW8.gif);
 }
 
 /* Perona */
@@ -795,7 +795,7 @@
 }
 [href*="characters/196898-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/KFX0pOL.png);
+  --custom-image: url(https://i.imgur.com/FFMkVhK.png);
 }
 
 /* Seiko Ayase */
@@ -1057,17 +1057,29 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/dSywAbV.png);
 }
+[href*="characters/184947-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rwUhG8E.gif);
+}
 
 /* Fujiko Mine */
 [href*="characters/1047-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Yqdqd26.png);
 }
+[href*="characters/1047-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VIFLEX8.gif);
+}
 
 /* Naoto Shirogane */
 [href*="characters/16249-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/oXcd9QD.png);
+}
+[href*="characters/16249-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FPo3YXr.gif);
 }
 
 /* Maya Amano */
@@ -1096,6 +1108,10 @@
 [href*="characters/2213-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/X8RQyvn.png);
+}
+[href*="characters/2213-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/of6MEbg.gif);
 }
 
 /* Ryouko Koiso */
@@ -1172,6 +1188,10 @@
 [href*="characters/182976-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/sTW0FRN.png);
+}
+[href*="characters/182976-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kWVSUbK.gif);
 }
 
 /* Nazuna Nanakusa */
