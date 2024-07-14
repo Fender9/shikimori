@@ -675,7 +675,7 @@
 }
 [href*="characters/2-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/zKt8o4X.gif);
+  --custom-image: url(https://i.imgur.com/BfTAHHE.gif);
 }
 
 /* Rin Kaga */
@@ -755,7 +755,7 @@
 }
 [href*="characters/94-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/4BiNMr2.gif);
+  --custom-image: url(https://i.imgur.com/TdNZ2Ej.gif);
 }
 
 /* Sapphire */
@@ -1087,6 +1087,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/kpIoBwW.png);
 }
+[href*="characters/126857-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gKA8bx0.gif);
+}
 
 /* Eriko Kirishima */
 [href*="characters/36546-"] {
@@ -1102,6 +1106,10 @@
 [href*="characters/11298-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/qo21PNb.png);
+}
+[href*="characters/11298-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/e2cIGX7.gif);
 }
 
 /* Arcueid Brunestud */
@@ -1140,6 +1148,10 @@
 [href*="characters/91713-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/y95v8bI.png);
+}
+[href*="characters/91713-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2mNQYpG.png);
 }
 
 /* Hinae Arimura */
