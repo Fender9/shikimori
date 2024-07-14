@@ -1033,11 +1033,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/GdnyBFh.png);
 }
+[href*="characters/61129-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PaFdhaI.gif);
+}
 
 /* Jean Otus */
 [href*="characters/143758-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/R4AeHmy.png);
+}
+[href*="characters/143758-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sPWLrE4.gif);
 }
 
 /* Hei */
@@ -1150,6 +1158,10 @@
 [href*="characters/142470-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/VqaybgM.png);
+}
+[href*="characters/142470-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0lHchEG.gif);
 }
 
 /* Chachamaru Ashikaga */
