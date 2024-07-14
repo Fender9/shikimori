@@ -1015,6 +1015,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/40FyvAd.png);
 }
+[href*="characters/206134-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/iBMm1he.gif);
+}
 
 /* Hope Estheim */
 [href*="characters/171802-"] {
