@@ -629,11 +629,11 @@
 /* Takashi Saitou */
 [href*="characters/153048-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/EuN0tJm.png);
+  --custom-image: url(https://i.imgur.com/hKTwOL3.png);
 }
 [href*="characters/153048-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/EuN0tJm.png);
+  --custom-image: url(https://i.imgur.com/OUMlYv5.png);
 }
 
 /* FEM CHARS */
@@ -965,7 +965,7 @@
 }
 [href*="characters/93553-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/j5WA294.png);
+  --custom-image: url(https://i.imgur.com/3fiinbO.png);
 }
 
 /* Jun Aikawa */
@@ -1136,6 +1136,10 @@
 [href*="characters/138576-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Rfvxs0E.png);
+}
+[href*="characters/138576-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nROEu8f.png);
 }
 
 /* Juuzou Inui */
