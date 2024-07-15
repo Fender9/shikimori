@@ -1268,6 +1268,16 @@
   --custom-image: url(https://i.imgur.com/V5gz4IL.gif);
 }
 
+/* Nyarlathotep */
+[href*="characters/252681-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ljLOlYm.png);
+}
+[href*="characters/252681-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mkQ1ZpK.png);
+}
+
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
