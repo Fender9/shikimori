@@ -507,7 +507,7 @@
 /* Ken Takakura */
 [href*="characters/196899-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Dnh2mzQ.png);
+  --custom-image: url(https://i.imgur.com/0iV9yPK.png);
 }
 [href*="characters/196899-"]:hover {
   --show-default: 0;
@@ -989,6 +989,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ZL7cI4f.png);
 }
+[href*="characters/32628-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fyJ9LtV.gif);
+}
 
 /* Lightning */
 [href*="characters/118835-"] {
@@ -1031,6 +1035,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/dfuUuKs.png);
 }
+[href*="characters/2015-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wNs5jAT.gif);
+}
 
 /* Soujuurou Shizuki */
 [href*="characters/61129-"] {
@@ -1056,6 +1064,10 @@
 [href*="characters/2160-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/k5BWXVV.png);
+}
+[href*="characters/2160-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/a7zCbsa.gif);
 }
 
 /* Tatsuya Suou */
@@ -1202,6 +1214,10 @@
 [href*="characters/252574-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/QCkiaUb.png);
+}
+[href*="characters/252574-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yR2dtmZ.png);
 }
 
 /* Kumiko Yamaguchi */
