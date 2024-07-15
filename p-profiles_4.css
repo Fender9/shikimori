@@ -451,7 +451,7 @@
 }
 [href*="characters/176815-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/TwcmiBE.png);
+  --custom-image: url(https://i.imgur.com/Dt0sOzE.png);
 }
 
 /* Brook */
@@ -983,6 +983,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/WfE7Gr2.png);
 }
+[href*="characters/32633-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xSyiddQ.gif);
+}
 
 /* Balthier */
 [href*="characters/32628-"] {
@@ -1028,6 +1032,10 @@
 [href*="characters/171802-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/0pfMj4R.png);
+}
+[href*="characters/171802-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WPeZ4pY.png);
 }
 
 /* Roger Smith */
