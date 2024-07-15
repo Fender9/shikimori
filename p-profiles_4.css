@@ -320,6 +320,12 @@
   --custom-image: url(https://i.imgur.com/Npaags7.png);
 }
 
+/* Yotsuba to!*/
+[href*="mangas/104-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lxT2nQl.png);
+}
+
 /* RANOBE */
 
 /* Monogatari Series: Second Season */
@@ -1276,6 +1282,36 @@
 [href*="characters/252681-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/mkQ1ZpK.png);
+}
+
+/* Yasuda */
+[href*="characters/3609-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0fnWM25.png);
+}
+[href*="characters/3609-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/g3Qydar.png);
+}
+
+/* Yotsuba Koiwai */
+[href*="characters/252681-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/biWP6oO.png);
+}
+[href*="characters/252681-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9nHkzqt.png);
+}
+
+/* Asagi Ayase */
+[href*="characters/252681-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dSxG2JJ.png);
+}
+[href*="characters/252681-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/r3tKSVM.png);
 }
 
 /* СЕЙЮ */
