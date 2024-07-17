@@ -221,7 +221,7 @@
 /* Barakamon */
 [href*="mangas/17051-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/ohRrOm4.png);
+  --custom-image: url(https://i.imgur.com/FyrLZ9r.png);
 }
 
 /* JoJo no Kimyou na Bouken Part 6: Stone Ocean */
@@ -320,10 +320,16 @@
   --custom-image: url(https://i.imgur.com/Npaags7.png);
 }
 
-/* Yotsuba to!*/
+/* Yotsuba to! */
 [href*="mangas/104-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/lxT2nQl.png);
+}
+
+/* Wet Moon */
+[href*="mangas/47921-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lSLgwQU.png);
 }
 
 /* RANOBE */
