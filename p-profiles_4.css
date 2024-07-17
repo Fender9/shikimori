@@ -329,7 +329,13 @@
 /* Wet Moon */
 [href*="mangas/47921-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/lSLgwQU.png);
+  --custom-image: url(https://i.imgur.com/WayemEE.png);
+}
+
+/* Bambi */
+[href*="mangas/5710-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/V4DR814.png);
 }
 
 /* RANOBE */
