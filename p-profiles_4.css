@@ -338,6 +338,12 @@
   --custom-image: url(https://i.imgur.com/V4DR814.png);
 }
 
+/* Onanie Master Kurosawa */
+[href*="mangas/8967-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZAJiiRS.png);
+}
+
 /* RANOBE */
 
 /* Monogatari Series: Second Season */
