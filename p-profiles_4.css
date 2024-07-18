@@ -216,6 +216,18 @@
   --custom-image: url(https://i.imgur.com/i3gp409.png);
 }
 
+/* Ergo Proxy */
+[href*="animes/z790-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xoScy8l.png);
+}
+
+/* Sonny Boy */
+[href*="animes/48849-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2EC3krq.png);
+}
+
 /* MANGA */
 
 /* Barakamon */
@@ -342,6 +354,12 @@
 [href*="mangas/8967-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ZAJiiRS.png);
+}
+
+/* Sayonara Zetsubou Sensei */
+[href*="mangas/661-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/48ZrDgv.png);
 }
 
 /* RANOBE */
@@ -1328,6 +1346,56 @@
   --custom-image: url(https://i.imgur.com/dSxG2JJ.png);
 }
 [href*="characters/9164-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/r3tKSVM.png);
+}
+
+/* Nozomu Itoshiki */
+[href*="characters/3169-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xFk38KA.png);
+}
+[href*="characters/3169-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xFk38KA.png);
+}
+
+/* Kaere Kimura */
+[href*="characters/3768-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7ctsHae.png);
+}
+[href*="characters/3768-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7ctsHae.png);
+}
+
+/* Re-l Mayer */
+[href*="characters/643-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SHOe0Yq.png);
+}
+[href*="characters/643-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SHOe0Yq.png);
+}
+
+/* Bambi */
+[href*="characters/16160-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RociQqW.png);
+}
+[href*="characters/16160-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/n2F6L2g.png);
+}
+
+/* Kakeru Kurosawa */
+[href*="characters/16454-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dSxG2JJ.png);
+}
+[href*="characters/16454-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/r3tKSVM.png);
 }
