@@ -228,6 +228,12 @@
   --custom-image: url(https://i.imgur.com/2EC3krq.png);
 }
 
+/* Haibane Renmei */
+[href*="animes/z387-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qtkk7k1.png);
+}
+
 /* MANGA */
 
 /* Barakamon */
@@ -1398,6 +1404,16 @@
 [href*="characters/16454-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/siwNyW9.png);
+}
+
+/* Reki */
+[href*="characters/1996-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oLnIMUd.png);
+}
+[href*="characters/1996-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3XwcK17.png);
 }
 
 /* СЕЙЮ */
