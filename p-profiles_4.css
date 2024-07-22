@@ -1416,6 +1416,16 @@
   --custom-image: url(https://i.imgur.com/3XwcK17.png);
 }
 
+/* Aya Tokiwa */
+[href*="characters/78361-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dedQCoA.png);
+}
+[href*="characters/78361-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Tz4yTjp.png);
+}
+
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
