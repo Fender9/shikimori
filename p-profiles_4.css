@@ -406,6 +406,12 @@
   --custom-image: url(https://i.imgur.com/zp7SQW5.png);
 }
 
+/* Sekai Series */
+[href*="ranobe/21115-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7RKT9M2.png);
+}
+
 /* MALE CHARS */
 
 /* Seishuu Handa */
