@@ -374,6 +374,12 @@
   --custom-image: url(https://i.imgur.com/vp34MOH.png);
 }
 
+/* Golden Kamuy */
+[href*="mangas/85968-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/28JWHvK.png);
+}
+
 /* RANOBE */
 
 /* Monogatari Series: Second Season */
@@ -1436,6 +1442,16 @@
 [href*="characters/78361-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Tz4yTjp.png);
+}
+
+/* Toshizou Hijikata */
+[href*="characters/138492-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AWs3K40.png);
+}
+[href*="characters/138492-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GleX6Gd.gif);
 }
 
 /* СЕЙЮ */
