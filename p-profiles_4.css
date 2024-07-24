@@ -380,6 +380,12 @@
   --custom-image: url(https://i.imgur.com/28JWHvK.png);
 }
 
+/* Shurayuki-hime */
+[href*="mangas/1672-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D4tYR4v.png);
+}
+
 /* RANOBE */
 
 /* Monogatari Series: Second Season */
