@@ -424,6 +424,12 @@
   --custom-image: url(https://i.imgur.com/7RKT9M2.png);
 }
 
+/* Ginga Eiyuu Densetsu */
+[href*="ranobe/6978-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KmoYcvl.png);
+}
+
 /* MALE CHARS */
 
 /* Seishuu Handa */
@@ -1552,6 +1558,22 @@
   --custom-image: url(https://i.imgur.com/5Bkp7rY.png);
 }
 
+/* Ami Koshimizu */
+[href*="people/70-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/klwbnsc.png);
+}
+[href*="characters/70-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/o4Bbv7W.png);
+}
+
+/* Kouichi Yamadera */
+[href*="people/11-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZnUhcQk.png);
+}
+
 /* РЕЖИССЕРЫ */
 
 /* Noburou Oofuji */
@@ -1618,6 +1640,12 @@
 [href*="people/6583-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/5U6FLX2.png);
+}
+
+/* Tomoyuki Itamura */
+[href*="people/15639-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/44412Og.png);
 }
 
 /* МАНГАКИ */
@@ -1710,6 +1738,18 @@
 [href*="people/1991-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/WgsFJQ0.png);
+}
+
+/* Range Murata */
+[href*="people/3445-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VNNs3ru.png);
+}
+
+/* Naoyuki Katou */
+[href*="people/6987-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RB1x0JB.png);
 }
 
 /* ПРОЧИЕ ЛЮДИ */
