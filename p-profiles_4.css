@@ -1466,6 +1466,16 @@
   --custom-image: url(https://i.imgur.com/GleX6Gd.gif);
 }
 
+/* Wen-li Yang */
+[href*="characters/2780-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UwABwaA.png);
+}
+[href*="characters/2780-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zlXKCeg.gif);
+}
+
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
