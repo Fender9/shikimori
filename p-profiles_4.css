@@ -1537,7 +1537,11 @@
 /* Connor Colquhoun */
 [href*="people/56246-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Sm2n5Ni.png);
+  --custom-image: url(https://i.imgur.com/pdb1nV3.png);
+}
+[href*="people/56246-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HsATG1r.png);
 }
 
 /* Ikuru Kamijou */
@@ -1577,7 +1581,7 @@
 /* Garnt Maneetapho */
 [href*="people/68045-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/NlbSAcp.png);
+  --custom-image: url(https://i.imgur.com/ZesrhK8.png);
 }
 
 /* РЕЖИССЕРЫ */
