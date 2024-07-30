@@ -398,6 +398,12 @@
   --custom-image: url(https://i.imgur.com/C3R5GoE.png);
 }
 
+/* Kouya no Shounen Isamu */
+[href*="mangas/58449-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/A6WmAXL.png);
+}
+
 /* RANOBE */
 
 /* Monogatari Series: Second Season */
