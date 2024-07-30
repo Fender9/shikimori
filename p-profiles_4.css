@@ -410,6 +410,12 @@
   --custom-image: url(https://i.imgur.com/Zo4mqXT.png);
 }
 
+/* Aku no Hana */
+[href*="mangas/z24705-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CnQpsy0.png);
+}
+
 /* RANOBE */
 
 /* Monogatari Series: Second Season */
