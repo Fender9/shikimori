@@ -404,6 +404,12 @@
   --custom-image: url(https://i.imgur.com/0MT5fYs.png);
 }
 
+/* Adolf ni Tsugu */
+[href*="mangas/1695-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PhJPsKL.png);
+}
+
 /* RANOBE */
 
 /* Monogatari Series: Second Season */
