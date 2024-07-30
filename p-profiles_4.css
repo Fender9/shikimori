@@ -255,6 +255,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/FyrLZ9r.png);
 }
+[href*="mangas/17051-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D5HUXCm.png);
+}
 
 /* JoJo no Kimyou na Bouken Part 6: Stone Ocean */
 [href*="mangas/3009-"] {
@@ -285,11 +289,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/kB54QXN.png);
 }
+[href*="mangas/135496-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dxTV5Fu.png);
+}
 
 /* Berserk */
 [href*="mangas/2-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/sQzhfei.png);
+}
+[href*="mangas/2-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4r5SOlE.png);
 }
 
 /* Koukaku Kidoutai: Arise - Sleepless Eye */
@@ -303,11 +315,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/VmXluvi.png);
 }
+[href*="mangas/17465-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1t331qL.png);
+}
 
 /* Chainsaw Man */
 [href*="mangas/116778-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ZCRmLvk.png);
+}
+[href*="mangas/116778-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UbwDSZA.png);
 }
 
 /* Spy x Family */
@@ -321,11 +341,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/bzzHYiw.png);
 }
+[href*="mangas/100448-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KfCf0WM.png);
+}
 
 /* Gangsta. */
 [href*="mangas/24903-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/aKnxIAw.png);
+}
+[href*="mangas/24903-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yXsa5dp.png);
 }
 
 /* Opus */
@@ -333,11 +361,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/LM65zSh.png);
 }
+[href*="mangas/23736-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8d8t2oY.png);
+}
 
 /* Yokohama */
 [href*="mangas/4-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/SzzGUjs.png);
+}
+[href*="mangas/4-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/n2WD0pM.png);
 }
 
 /* The Climber */
@@ -356,6 +392,10 @@
 [href*="mangas/104-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/lxT2nQl.png);
+}
+[href*="mangas/104-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pUDna0Z.png);
 }
 
 /* Wet Moon */
@@ -393,11 +433,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/28JWHvK.png);
 }
+[href*="mangas/85968-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VAd13lR.png);
+}
 
 /* Shurayuki-hime */
 [href*="mangas/1672-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/D4tYR4v.png);
+}
+[href*="mangas/1672-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ENw2Jm9.png);
 }
 
 /* Sabu to Ichi Torimono Hikae */
@@ -416,6 +464,10 @@
 [href*="mangas/1695-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Zo4mqXT.png);
+}
+[href*="mangas/1695-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Cpsyaz3.gif);
 }
 
 /* Aku no Hana */
