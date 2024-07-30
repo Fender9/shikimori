@@ -95,11 +95,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/zNVGkFz.png);
 }
+[href*="animes/245-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ciPOixE.png);
+}
 
 /* Kill la Kill */
 [href*="animes/z18679-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/FDhK81K.png);
+  --custom-image: url(https://i.imgur.com/ceyEHYq.png);
+}
+[href*="animes/z18679-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OAdSTIq.png);
 }
 
 /* Gegege no Kitarou (1968) */
