@@ -1687,11 +1687,11 @@
 }
 
 /* Yasuomi Umetsu */
-[href*="characters/6583-"] {
+[href*="people/6583-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/eDC4Ist.png);
 }
-[href*="characters/6583-"]:hover {
+[href*="people/6583-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/5U6FLX2.png);
 }
