@@ -1689,6 +1689,9 @@
 /* Yasuomi Umetsu */
 [href*="people/6583-"] {
   --show-default: 0;
+  --custom-image: url(https://i.imgur.com/eDC4Ist.png);
+[href*="people/6583-"]:hover {
+  --show-default: 0;
   --custom-image: url(https://i.imgur.com/5U6FLX2.png);
 }
 
@@ -1704,6 +1707,12 @@
   --custom-image: url(https://i.imgur.com/OdtyQx3.png);
 }
 
+  /* Hiroshi Nagahama */
+[href*="people/4346-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5MsL6Kd.png);
+}
+  
 /* МАНГАКИ */
 
 /* ISIN NISIO */
