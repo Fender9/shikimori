@@ -265,11 +265,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/cSdxNet.png);
 }
+[href*="mangas/3009-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/M90OSaS.png);
+}
 
 /* Mushishi */
 [href*="mangas/418-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/83CTw12.png);
+}
+[href*="mangas/418-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZG9iRJF.png);
 }
 
 /* One Piece */
@@ -277,11 +285,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/LPckT3y.png);
 }
+[href*="mangas/z13-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZG9iRJF.png);
+}
 
 /* Oyasumi Punpun */
 [href*="mangas/4632-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/7oeb6Wz.png);
+}
+[href*="mangas/4632-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lz9Co11.png);
 }
 
 /* Dandadan */
@@ -309,6 +325,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/SkXtpZ8.png);
 }
+[href*="mangas/48321-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6AZhsoY.png);
+}
 
 /* Omoide Emanon */
 [href*="mangas/17465-"] {
@@ -334,6 +354,10 @@
 [href*="mangas/119161-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/xx6dD3Y.png);
+}
+[href*="mangas/119161-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4BFNV22.png);
 }
 
 /* Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de. */
@@ -379,13 +403,21 @@
 /* The Climber */
 [href*="mangas/7375-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/JeUtD7d.png);
+  --custom-image: url(https://i.imgur.com/GpHAdEb.png);
+}
+[href*="mangas/7375-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4nkzRQF.png);
 }
 
 /* Yofukashi no Uta */
 [href*="mangas/121480-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Npaags7.png);
+}
+[href*="mangas/121480-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IellgY7.png);
 }
 
 /* Yotsuba to! */
@@ -402,6 +434,10 @@
 [href*="mangas/47921-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Y9eNKwm.png);
+}
+[href*="mangas/47921-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2Z1TmZp.png);
 }
 
 /* Bambi */
@@ -426,6 +462,10 @@
 [href*="mangas/138673-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/vp34MOH.png);
+}
+[href*="mangas/138673-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MiDpCm2.png);
 }
 
 /* Golden Kamuy */
@@ -453,11 +493,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/C3R5GoE.png);
 }
+[href*="mangas/12427-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/N1uOluv.png);
+}
 
 /* Kouya no Shounen Isamu */
 [href*="mangas/58449-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/0MT5fYs.png);
+}
+[href*="mangas/58449-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WI0dDcU.png);
 }
 
 /* Adolf ni Tsugu */
