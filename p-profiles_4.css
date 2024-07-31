@@ -39,7 +39,11 @@
 /* Sabu to Ichi Torimono Hikae */
 [href*="animes/5997-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/m2EupvF.png);
+  --custom-image: url(https://i.imgur.com/h1wTZcO.png);
+}
+[href*="animes/5997-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BgjeNv6.png);
 }
 
 /* Owarimonogatari 2nd Season */
