@@ -273,11 +273,11 @@
 /* Mushishi */
 [href*="mangas/418-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/83CTw12.png);
+  --custom-image: url(https://i.imgur.com/0QchX9e.png);
 }
 [href*="mangas/418-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/ZG9iRJF.png);
+  --custom-image: url(https://i.imgur.com/HTVNsw4.png);
 }
 
 /* One Piece */
@@ -445,17 +445,29 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/V4DR814.png);
 }
+[href*="mangas/5710-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WqbP2N1.png);
+}
 
 /* Onanie Master Kurosawa */
 [href*="mangas/8967-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ZAJiiRS.png);
 }
+[href*="mangas/8967-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wZ7oCht.png);
+}
 
 /* Sayonara Zetsubou Sensei */
 [href*="mangas/661-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Vdi8aiN.png);
+  --custom-image: url(https://i.imgur.com/rNLx9au.png);
+}
+[href*="mangas/661-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/i5E10xa.png);
 }
 
 /* Look Back */
@@ -522,6 +534,10 @@
 [href*="mangas/z24705-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/CnQpsy0.png);
+}
+[href*="mangas/z24705-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/z2QcQvQ.png);
 }
 
 /* RANOBE */
