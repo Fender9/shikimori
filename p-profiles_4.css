@@ -252,6 +252,16 @@
   --custom-image: url(https://i.imgur.com/wXnbpq1.png);
 }
 
+/* Ace wo Nerae! */
+[href*="animes/311-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/A8w5IS3.png);
+}
+[href*="animes/311-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UHfv4DK.png);
+}
+
 /* MANGA */
 
 /* Barakamon */
