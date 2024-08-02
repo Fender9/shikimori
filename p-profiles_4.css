@@ -25,7 +25,7 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/SJMCmUU.png);
 }
-[href*="animes/5997-"]:hover {
+[href*="animes/32281-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/3pU69Jl.png);
 }
@@ -226,6 +226,10 @@
 [href*="animes/1943-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/uZAJcYa.png);
+}
+[href*="animes/1943-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/olSkMLd.png);
 }
 
 /* Perfect Blue */
