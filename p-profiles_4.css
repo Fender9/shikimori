@@ -103,11 +103,11 @@
 /* Darker than Black: Kuro no Keiyakusha */
 [href*="animes/z2025-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/2UpVwaO.png);
+  --custom-image: url(https://i.imgur.com/XvtIKkF.png);
 }
 [href*="animes/z2025-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/XvtIKkF.png);
+  --custom-image: url(https://i.imgur.com/2UpVwaO.png);
 }
 
 /* Jujutsu Kaisen */
@@ -193,11 +193,11 @@
 /* Code Geass: Hangyaku no Lelouch R2 */
 [href*="animes/2904-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/eFyY80K.png);
+  --custom-image: url(https://i.imgur.com/FKVB0EB.png);
 }
 [href*="animes/2904-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/FKVB0EB.png);
+  --custom-image: url(https://i.imgur.com/eFyY80K.png);
 }
 
 /* Kyojin no Hoshi */
