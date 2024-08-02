@@ -5,17 +5,29 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/gyqceIl.png);
 }
+[href*="animes/z9253-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hPmzIbp.png);
+}
 
 /* Cowboy Bebop */
 [href*="animes/1-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/uLwmsY9.png);
+  --custom-image: url(https://i.imgur.com/CcMNtQX.png);
+}
+[href*="animes/1-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ixeI0bk.png);
 }
 
 /* Kimi no Na wa. */
 [href*="animes/32281-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/TMD79tj.png);
+  --custom-image: url(https://i.imgur.com/SJMCmUU.png);
+}
+[href*="animes/5997-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3pU69Jl.png);
 }
 
 /* Samurai Champloo */
@@ -23,17 +35,29 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ZnOPpZF.png);
 }
+[href*="animes/205-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TV3r89d.png);
+}
 
 /* Space☆Dandy 2nd Season */
 [href*="animes/23327-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/yYi8Fg9.png);
 }
+[href*="animes/23327-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/q1eqIXL.png);
+}
 
 /* Evangelion: 3.0+1.0 Thrice Upon a Time */
 [href*="animes/3786-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/pEbVujV.png);
+}
+[href*="animes/3786-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kxYyNYn.png);
 }
 
 /* Sabu to Ichi Torimono Hikae */
@@ -51,6 +75,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/eXnHFTJ.png);
 }
+[href*="animes/z35247-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3nhAf3H.png);
+}
 
 /* Zankyou no Terror */
 [href*="animes/23283-"] {
@@ -61,13 +89,21 @@
 /* ACCA: 13-ku Kansatsu-ka */
 [href*="animes/33337-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/9uW9JzO.png);
+  --custom-image: url(https://i.imgur.com/KNokLCY.png);
+}
+[href*="animes/33337-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wB5ZpfD.png);
 }
 
 /* Darker than Black: Kuro no Keiyakusha */
 [href*="animes/z2025-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/w95ApLZ.png);
+}
+[href*="animes/z2025-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XvtIKkF.png);
 }
 
 /* Jujutsu Kaisen */
@@ -79,7 +115,11 @@
 /* Mushishi */
 [href*="animes/457-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/83CTw12.png);
+  --custom-image: url(https://i.imgur.com/NC8FZ8m.png);
+}
+[href*="animes/457-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/H6LPkpA.png);
 }
 
 /* Otoko Ippiki Gaki Daishou */
@@ -119,11 +159,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/zPEi6DF.png);
 }
+[href*="animes/z5688-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5uKstp3.png);
+}
 
 /* FLCL */
 [href*="animes/227-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/lv21aEf.png);
+  --custom-image: url(https://i.imgur.com/GcKRmzC.png);
+}
+[href*="animes/227-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VdT4Oby.png);
 }
 
 /* Code Geass: Hangyaku no Lelouch R2 */
@@ -135,7 +183,7 @@
 /* Kyojin no Hoshi */
 [href*="animes/5834-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/PRkzQLT.png);
+  --custom-image: url(https://i.imgur.com/aM5zOmd.png);
 }
 
 /* Serial Experiments Lain */
@@ -143,11 +191,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/T1tKdBZ.png);
 }
+[href*="animes/339-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bQqR8h9.png);
+}
 
 /* Natsume Yuujinchou */
 [href*="animes/4081-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/j1HWylU.png);
+}
+[href*="animes/4081-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FrDmJGG.png);
 }
 
 /* Koukaku Kidoutai */
@@ -159,7 +215,11 @@
 /* Mononoke */
 [href*="animes/2246-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/ksq3IXb.png);
+  --custom-image: url(https://i.imgur.com/7HNCNUD.png);
+}
+[href*="animes/2246-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mB4XIzu.png);
 }
 
 /* Paprika */
@@ -170,6 +230,10 @@
 
 /* Perfect Blue */
 [href*="animes/437-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gbiqvBa.png);
+}
+[href*="animes/437-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/UZrXH0V.png);
 }
@@ -184,6 +248,10 @@
 [href*="animes/z13601-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ZZW96vo.png);
+}
+[href*="animes/z13601-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/THEyQvi.png);
 }
 
 /* Sakamoto Desu ga? */
@@ -207,13 +275,21 @@
 /* Yojouhan Shinwa Taikei */
 [href*="animes/7785-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/wm6WYj9.png);
+  --custom-image: url(https://i.imgur.com/IwHjZQW.png);
+}
+[href*="animes/7785-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XIlEyOh.png);
 }
 
 /* Baccano! */
 [href*="animes/z2251-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/cxgISlR.png);
+}
+[href*="animes/z2251-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SKow9tg.png);
 }
 
 /* Animentary: Ketsudan */
@@ -227,11 +303,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/i3gp409.png);
 }
+[href*="animes/6675-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ryBTYnk.png);
+}
 
 /* Ergo Proxy */
 [href*="animes/z790-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/xoScy8l.png);
+}
+[href*="animes/z790-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GHiZBCq.png);
 }
 
 /* Sonny Boy */
@@ -245,11 +329,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/qtkk7k1.png);
 }
+[href*="animes/z387-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/J6oMB4C.png);
+}
 
 /* Ginga Tetsudou 999 */
 [href*="animes/1491-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/wXnbpq1.png);
+}
+[href*="animes/1491-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/A8R0OPL.png);
 }
 
 /* Ace wo Nerae! */
