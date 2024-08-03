@@ -1,0 +1,33 @@
+/* GLOW */ 
+.glow {
+  animation: colorchange 30s infinite, shadowchange 30s infinite;
+}
+
+@keyframes colorchange {
+  0% {color: #D1006C;}
+  20% {color: #D100FC;}
+  40% {color: #7A00FC;}
+  60% {color: #4D0A94;}
+  80% {color: #7A00FC;}
+  100% {color: #D1006C;}
+}
+
+@keyframes shadowchange {
+  0% {text-shadow: 0 0 10px rgba(209, 0, 108, 0.8), 0 0 20px rgba(209, 0, 108, 0.8), 0 0 30px rgba(209, 0, 108, 0.8);}
+  20% {text-shadow: 0 0 10px rgba(209, 0, 252, 0.8), 0 0 20px rgba(209, 0, 252, 0.8), 0 0 30px rgba(209, 0, 252, 0.8);}
+  40% {text-shadow: 0 0 10px rgba(122, 0, 252, 0.8), 0 0 20px rgba(122, 0, 252, 0.8), 0 0 30px rgba(122, 0, 252, 0.8);}
+  60% {text-shadow: 0 0 10px rgba(77, 10, 148, 0.8), 0 0 20px rgba(77, 10, 148, 0.8), 0 0 30px rgba(77, 10, 148, 0.8);}
+  80% {text-shadow: 0 0 10px rgba(122, 0, 252, 0.8), 0 0 20px rgba(122, 0, 252, 0.8), 0 0 30px rgba(122, 0, 252, 0.8);}
+  100% {text-shadow: 0 0 10px rgba(209, 0, 108, 0.8), 0 0 20px rgba(209, 0, 108, 0.8), 0 0 30px rgba(209, 0, 108, 0.8);}
+}
+
+/*
+@keyframes shadowchange {
+  0% {text-shadow: 0 0 10px rgba(209, 0, 108, 0.8), 0 0 20px rgba(209, 0, 108, 0.8), 0 0 30px rgba(209, 0, 108, 0.8), 0 0 40px rgba(209, 0, 108, 0.8), 0 0 50px rgba(209, 0, 108, 0.8);}
+  20% {text-shadow: 0 0 10px rgba(209, 0, 252, 0.8), 0 0 20px rgba(209, 0, 252, 0.8), 0 0 30px rgba(209, 0, 252, 0.8), 0 0 40px rgba(209, 0, 252, 0.8), 0 0 50px rgba(209, 0, 252, 0.8);}
+  40% {text-shadow: 0 0 10px rgba(122, 0, 252, 0.8), 0 0 20px rgba(122, 0, 252, 0.8), 0 0 30px rgba(122, 0, 252, 0.8), 0 0 40px rgba(122, 0, 252, 0.8), 0 0 50px rgba(122, 0, 252, 0.8);}
+  60% {text-shadow: 0 0 10px rgba(77, 10, 148, 0.8), 0 0 20px rgba(77, 10, 148, 0.8), 0 0 30px rgba(77, 10, 148, 0.8), 0 0 40px rgba(77, 10, 148, 0.8), 0 0 50px rgba(77, 10, 148, 0.8);}
+  80% {text-shadow: 0 0 10px rgba(122, 0, 252, 0.8), 0 0 20px rgba(122, 0, 252, 0.8), 0 0 30px rgba(122, 0, 252, 0.8), 0 0 40px rgba(122, 0, 252, 0.8), 0 0 50px rgba(122, 0, 252, 0.8);}
+  100% {text-shadow: 0 0 10px rgba(209, 0, 108, 0.8), 0 0 20px rgba(209, 0, 108, 0.8), 0 0 30px rgba(209, 0, 108, 0.8), 0 0 40px rgba(209, 0, 108, 0.8), 0 0 50px rgba(209, 0, 108, 0.8);}
+}
+*/
