@@ -1,4 +1,8 @@
-/* Новеллы */
+/* MAIN */
+:root {
+  --ani-background-image: url("https://i.imgur.com/WGRuJbv.png");
+}
+
 .ani {
   position: relative;
   display: inline-block;
@@ -9,129 +13,304 @@
   border-radius: 0 0 0.25rem 0.25rem;
   box-shadow: 0 2px 6px 2px #00000080;
   border: 0.25rem solid;
-  border-color: #460a32 #450d33 #400e30;
+  border-color: #3e0a45 #3e0d45 #3a0e40;
   background:
-linear-gradient(#320a32, transparent),
-linear-gradient(90deg, #0e0412, transparent),
-linear-gradient(-90deg, #320a32, transparent); /* Цвет фона */
+    linear-gradient(rgba(46, 10, 51, 0.5), rgba(46, 10, 51, 0)),
+    linear-gradient(90deg, rgba(14, 4, 18, 0.5), rgba(14, 4, 18, 0)),
+    linear-gradient(-90deg, rgba(46, 10, 51, 0.5), rgba(46, 10, 51, 0)),
+    var(--ani-background-image);
 }
 
 .ani:hover {
-  background: #320a32;
+  background: #2e0a33;
   box-shadow: 0 -200px 100px -120px #240924 inset;
-  animation: background 5s infinite alternate;
-  border-color: #640a32;
+  animation: background-ani 5s infinite alternate;
+  border-color: #9256a0;
+  background-image: var(--ani-background-image);
 }
 
-@keyframes background {
+@keyframes background-ani {
   50% {
-    background: #1c081c;
-    box-shadow: 0 -200px 100px -100px #1a091a inset;
+    background: #1a081c;
+    box-shadow: 0 -200px 100px -100px #18091a inset;
+    background-image: var(--ani-background-image);
   }
 }
-   /*ТА САМАЯ ПАЛКА*/
+.ani-1 {
+  --ani-background-image: url("https://i.imgur.com/yoKPQXP.png");
+}
+
+.ani-2 {
+  --ani-background-image: url("https://i.imgur.com/9pxmW10.png");
+}
+
+.ani-3 {
+  --ani-background-image: url("https://i.imgur.com/6ynDrMV.png");
+}
+
+.ani-4 {
+  --ani-background-image: url("https://i.imgur.com/TrQFFef.png");
+}
+
+.ani-5 {
+  --ani-background-image: url("https://i.imgur.com/97bK62b.png");
+}
+
+.ani-6 {
+  --ani-background-image: url("https://i.imgur.com/WGRuJbv.png");
+}
+
+.ani-7 {
+  --ani-background-image: url("https://i.imgur.com/yb5FdgX.png");
+}
+
+.ani-8 {
+  --ani-background-image: url("https://i.imgur.com/DmCoEDu.png");
+}
+
+
+   /*BOX SETTINGS*/
 .ani_sid {
   display: block;
   float: left;
   height: 100%;
   padding: 0.75rem 1.75rem 0.75rem 0.1rem;
+  margin-top: -1.3rem;
   margin-right: 0.1rem;
   line-height: 3;
   padding-bottom: 1.5625rem;
 }
-.ani .b-image,
-.ani img.b-poster {
+
+.ani-1 .b-image,
+.ani-2 .b-image,
+.ani-3 .b-image,
+.ani-4 .b-image,
+.ani-5 .b-image,
+.ani-6 .b-image,
+.ani-7 .b-image,
+.ani-8 .b-image,
+.ani-1 img.b-poster,
+.ani-2 img.b-poster,
+.ani-3 img.b-poster,
+.ani-4 img.b-poster,
+.ani-5 img.b-poster,
+.ani-6 img.b-poster,
+.ani-7 img.b-poster,
+.ani-8 img.b-poster {
   vertical-align: text-top;
   border-radius: 0.25rem;
   border: 0.2rem solid !important;
-  border-color: #460a32 #450d33 #400e30 !important;
+  border-color: #3e0a45 #3e0d45 #3a0e40 !important;
   box-shadow: 0 2px 6px 2px #0000004d !important;
 }
-.ani .b-image img,
-.ani img.b-poster {
+
+.ani-1 .b-image img,
+.ani-2 .b-image img,
+.ani-3 .b-image img,
+.ani-4 .b-image img,
+.ani-5 .b-image img,
+.ani-6 .b-image img,
+.ani-7 .b-image img,
+.ani-8 .b-image img,
+.ani-1 img.b-poster,
+.ani-2 img.b-poster,
+.ani-3 img.b-poster,
+.ani-4 img.b-poster,
+.ani-5 img.b-poster,
+.ani-6 img.b-poster,
+.ani-7 img.b-poster,
+.ani-8 img.b-poster {
   object-fit: cover;
-  height: 270px !important;
-  min-width: 200px !important;
-  max-width: 200px !important;
+  height: 246px !important;
+  min-width: 171px !important;
+  max-width: 171px !important;
   transition: 0.35s all;
 }
-.ani:nth-child(1) .b-image img,
-.ani:nth-child(1) img.b-poster {
+
+.ani-1:nth-child(1) .b-image img,
+.ani-2:nth-child(1) .b-image img,
+.ani-3:nth-child(1) .b-image img,
+.ani-4:nth-child(1) .b-image img,
+.ani-5:nth-child(1) .b-image img,
+.ani-6:nth-child(1) .b-image img,
+.ani-7:nth-child(1) .b-image img,
+.ani-8:nth-child(1) .b-image img,
+.ani-1:nth-child(1) img.b-poster,
+.ani-2:nth-child(1) img.b-poster,
+.ani-3:nth-child(1) img.b-poster,
+.ani-4:nth-child(1) img.b-poster,
+.ani-5:nth-child(1) img.b-poster,
+.ani-6:nth-child(1) img.b-poster,
+.ani-7:nth-child(1) img.b-poster,
+.ani-8:nth-child(1) img.b-poster,
+.ani-1:nth-child(2) .b-image img,
+.ani-2:nth-child(2) .b-image img,
+.ani-3:nth-child(2) .b-image img,
+.ani-4:nth-child(2) .b-image img,
+.ani-5:nth-child(2) .b-image img,
+.ani-6:nth-child(2) .b-image img,
+.ani-7:nth-child(2) .b-image img,
+.ani-8:nth-child(2) .b-image img,
+.ani-1:nth-child(2) img.b-poster,
+.ani-2:nth-child(2) img.b-poster,
+.ani-3:nth-child(2) img.b-poster,
+.ani-4:nth-child(2) img.b-poster,
+.ani-5:nth-child(2) img.b-poster,
+.ani-6:nth-child(2) img.b-poster,
+.ani-7:nth-child(2) img.b-poster,
+.ani-8:nth-child(2) img.b-poster {
   object-position: center center;
 }
-.ani:nth-child(2) .b-image img,
-.ani:nth-child(2) img.b-poster {
-  object-position: center center;
-}
-.ani .b-image .normalized_width,
-.ani img.normalized_width {
+
+.ani-1 .b-image .normalized_width,
+.ani-2 .b-image .normalized_width,
+.ani-3 .b-image .normalized_width,
+.ani-4 .b-image .normalized_width,
+.ani-5 .b-image .normalized_width,
+.ani-6 .b-image .normalized_width,
+.ani-7 .b-image .normalized_width,
+.ani-8 .b-image .normalized_width,
+.ani-1 img.normalized_width,
+.ani-2 img.normalized_width,
+.ani-3 img.normalized_width,
+.ani-4 img.normalized_width,
+.ani-5 img.normalized_width,
+.ani-6 img.normalized_width,
+.ani-7 img.normalized_width,
+.ani-8 img.normalized_width {
   max-width: 100% !important;
 }
-.ani .b-image .normalized_height,
-.ani img.normalized_height {
-  max-height: 270px !important;
+
+.ani-1 .b-image .normalized_height,
+.ani-2 .b-image .normalized_height,
+.ani-3 .b-image .normalized_height,
+.ani-4 .b-image .normalized_height,
+.ani-5 .b-image .normalized_height,
+.ani-6 .b-image .normalized_height,
+.ani-7 .b-image .normalized_height,
+.ani-8 .b-image .normalized_height,
+.ani-1 img.normalized_height,
+.ani-2 img.normalized_height,
+.ani-3 img.normalized_height,
+.ani-4 img.normalized_height,
+.ani-5 img.normalized_height,
+.ani-6 img.normalized_height,
+.ani-7 img.normalized_height,
+.ani-8 img.normalized_height {
+  max-height: 246px !important;
 }
-.ani .b-image img:hover,
-.ani img.b-poster:hover {
+
+.ani-1 .b-image img:hover,
+.ani-2 .b-image img:hover,
+.ani-3 .b-image img:hover,
+.ani-4 .b-image img:hover,
+.ani-5 .b-image img:hover,
+.ani-6 .b-image img:hover,
+.ani-7 .b-image img:hover,
+.ani-8 .b-image img:hover,
+.ani-1 img.b-poster:hover,
+.ani-2 img.b-poster:hover,
+.ani-3 img.b-poster:hover,
+.ani-4 img.b-poster:hover,
+.ani-5 img.b-poster:hover,
+.ani-6 img.b-poster:hover,
+.ani-7 img.b-poster:hover,
+.ani-8 img.b-poster:hover {
   transform: scale(1.08);
-  filter: blur(3px);
+  filter: blur(1px);
 }
-.finom-1 {
-  display: flex;
-  justify-content: center;
-  font-size: 1.2rem;
-  color: #E6E6FA;
-}
+
 .finom-2 {
   display: grid;
   text-align: initial;
   position: relative;
   left: 1rem;
-  color: #DDA0DD;
+  color: #d7a0de;
   font-size: 0.9rem;
 }
-.finom-3 {
-  position: relative;
-  color: #DDA0DD;
-  font-size: 14px;
-  top: 1.45rem;
-  display: grid;
-  height: 42px;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-  text-shadow: 0 1px 2px #000000;
-}
+
 .finom-4 {
-  position: relative;
-  font-size: 13px;
-  display: grid;
-  text-align: center;
-  padding: 0.3125rem 0.3125rem 0.3125rem 0.75rem;
-  border-radius: 0.25rem;
-  top: 0.5rem;
-  height: 195px;
-  max-height: 195px;
-  overflow-x: hidden;
-  background: linear-gradient(to right, #460a32, #450d33, #400e30);
-  text-shadow: 0 1px 2px #00000080;
-  color: #E6E6FA;
-  box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.3);
+  display: block;
+  float: right;
+  height: 100%;
+  padding: 0.75rem 1rem 0.75rem 0.1rem;
+  margin-top: -12rem;
+  margin-right: -1rem;
+  line-height: 3;
+  padding-bottom: 1.5625rem;
 }
+.finom-4 .b-image,
+.finom-4 img.b-poster {
+  vertical-align: text-top;
+  border-radius: 0.25rem;
+  border: 0.2rem solid !important;
+  border-color: #3e0a45 #3e0d45 #3a0e40 !important;
+  box-shadow: 0 2px 6px 2px #0000004d !important;
+}
+.finom-4 .b-image img,
+.finom-4 img.b-poster {
+  object-fit: cover; 
+  max-height: 102px !important;
+  min-width: 330px !important;
+  max-width: 330px !important;
+}
+.finom-4 .b-image .normalized_width,
+.finom-4 img.normalized_width {
+  max-width: 100% !important;
+}
+.finom-4 .b-image .normalized_height,
+.finom-4 img.normalized_height {
+  max-height: 102px !important;
+}
+
+/* LOGOS */
+a[href$="4d9BNoX.png"] {
+  pointer-events: none;
+}
+
+a[href$="u106mV9.png"] {
+  pointer-events: none;
+}
+
+a[href$="4li4qvB.png"] {
+  pointer-events: none;
+}
+
+a[href$="4u9LN0I.png"] {
+  pointer-events: none;
+}
+
+a[href$="zkEpp22.png"] {
+  pointer-events: none;
+}
+
+a[href$="vxF1Jjm.png"] {
+  pointer-events: none;
+}
+
+a[href$="QzW2SUQ.png"] {
+  pointer-events: none;
+}
+
+a[href$="JhPTY2q.png"] {
+  pointer-events: none;
+}
+
 .finom-5 {
   position: relative;
   left: 1rem;
   top: 0.2rem;
-  margin: 2.5rem 0 0 1rem;
-  color: #DDA0DD;
+  margin: 1rem 0 0 1rem;
+  color: #d7a0de;
   text-align: initial;
   font-size: 0.9rem;
   text-shadow: 0 1px 2px #000000;
 }
+
 .finom-6 {
   position: relative;
   font-size: 0.8rem;
-  margin-top: 1rem;
+  margin-top: -1.2rem;
   text-align: center;
   justify-content: center;
   max-height: 9.375rem;
@@ -139,7 +318,7 @@ linear-gradient(-90deg, #320a32, transparent); /* Цвет фона */
   display: grid;
   padding: 0.3125rem 1.3125rem 0.3125rem 0.75rem;
   border-radius: 4px;
-  background: linear-gradient(to right, #460a32, #450d33, #400e30);
+  background: linear-gradient(to right, #3b0a45, #3c0d45, #370e40);
   text-shadow: 0 1px 2px #00000080;
   box-shadow: 0 2px 6px 2px #0000004d;
   color: #E6E6FA;
@@ -148,28 +327,11 @@ linear-gradient(-90deg, #320a32, transparent); /* Цвет фона */
   height: 52px;
   align-items: center;
 }
-.finom-7 {
-  position: relative;
-  left: 0.8rem;
-  font-size: 0.7rem;
-  display: flex;
-  width: 13.6%;
-  padding: 0.3125rem 0rem 0.3125rem 0.75rem;
-  border-radius: 4px;
-  border: 0.2rem solid;
-  background: linear-gradient(to right, #460a32, #450d33, #400e30);
-  border-color: #460a32 #450d33 #400e30;
-  box-shadow: 0 2px 6px 2px #00000026;
-  color: #E6E6FA;
-  float: right;
-  justify-content: center;
-  margin-top: 1.5rem;
-}
 .finom-8 {
   position: relative;
   overflow: hidden;
   float: right;
-  background: #320a32;
+  background: #2e0a33;
   height: 50px;
   width: 50px;
   border-radius: 100px;
@@ -179,14 +341,13 @@ linear-gradient(-90deg, #320a32, transparent); /* Цвет фона */
   justify-content: center;
   align-items: center;
   border: 0.2rem solid;
-  border-color: #460a32 #450d33 #400e30;
+  border-color: #3e0a45 #3e0d45 #3a0e40;
   box-shadow: 0 2px 4px 1px #00000033;
+  color: #ddafe8;
   text-shadow: 0 1px 2px #00000080;
-  margin-top: 1.5rem;
-  margin-right: -2rem;
+  margin-top: -0.6rem;
+  margin-right: 0.5rem;
 }
-
-
 .finom-8:after {
   content: "";
   display: block;
@@ -223,7 +384,6 @@ linear-gradient(-90deg, #320a32, transparent); /* Цвет фона */
   }
 }
 
-
 .ani_sid .b-image .marker {
   right: auto;
   left: 0.3125rem;
@@ -231,12 +391,12 @@ linear-gradient(-90deg, #320a32, transparent); /* Цвет фона */
 .ani_sid .b-image::after {
   position: absolute;
   display: block;
-  content: "vndb.org";
+  content: "GLITCHWAVE";
   top: 0rem;
   right: 0;
   left: 0;
   opacity: 0;
-  background: #460a32;
+  background: #3e0a45;
   color: #E6E6FA;
   padding: 0.74rem;
   box-shadow: 0 2px 4px 1px #0000004d;
@@ -251,7 +411,7 @@ linear-gradient(-90deg, #320a32, transparent); /* Цвет фона */
   .ani_sid {
     display: flex;
     float: none;
-    border-bottom: 3px solid #460a32;
+    border-bottom: 3px solid #3e0a45;
     border-right: none;
     padding: 0.8rem 1rem 1.5rem 1rem;
     justify-content: center;
@@ -272,88 +432,4 @@ linear-gradient(-90deg, #320a32, transparent); /* Цвет фона */
     width: 100%;
   }
 }
-/*Новеллы конец*/
-
-
-/*Новеллы-любимые начало*/
-.ani_sid-l {
-  display: block;
-  float: left;
-  height: 100%;
-  padding: 0.75rem 1.75rem 0.75rem 0.1rem;
-  margin-right: 0.1rem;
-  line-height: 3;
-  padding-bottom: 1.5625rem;
-}
-
-
-.ani_sid-l .b-image::before {
-  position: absolute;
-  display: block;
-  content: "⭐";
-  right: 0;
-  padding-bottom: 1.6875rem;
-  bottom: 0;
-  z-index: 1;
-  font-size: 30px;
-  width: 65px;
-  height: 55px;
-  line-height: 4;
-  text-align: right;
-  padding-right: 0.3125rem;
-  font-weight: bold;
-  pointer-events: none;
-  animation: animate_grow 2s infinite;
-}
-
-@keyframes animate_grow {
-	0% {
-		transform: scale3d(0.9, 0.9, 0.9);
-	}
-	50% {
-		transform: scale3d(1.05, 1.05, 1.05);
-	}
-	100% {
-		transform: scale3d(0.9, 0.9, 0.9);
-	}
-}
-
-
-.ani_sid-l .b-image .marker {
-  right: auto;
-  left: 0.3125rem;
-}
-
-.ani_sid-l .b-image::after {
-  position: absolute;
-  display: block;
-  content: "vndb.org";
-  top: 0rem;
-  right: 0;
-  left: 0;
-  opacity: 0;
-  background: #460a32;
-  color: #E6E6FA;
-  padding: 0.74rem;
-  box-shadow: 0 2px 4px 1px #0000004d;
-  pointer-events: none;
-  transition: opacity 0.35s ease;
-  -webkit-transition: opacity 0.35s ease;
-}
-
-.ani_sid-l .b-image:hover::after {
-  opacity: 1;
-}
-@media screen and (max-width: 767px) {
-  .ani_sid-l {
-    display: flex;
-    float: none;
-    border-bottom: 3px solid #460a32;
-    border-right: none;
-    padding: 0.8rem 1rem 1.5rem 1rem;
-    justify-content: center;
-    margin-right: 0;
-    margin-bottom: 0.9375rem;
-  }
-}
-/*Новеллы-любимые конец*/
+/*END*/
