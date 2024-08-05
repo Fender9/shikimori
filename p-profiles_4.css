@@ -410,6 +410,16 @@
   --custom-image: url(https://i.imgur.com/UHfv4DK.png);
 }
 
+/* Ace wo Nerae OVA */
+[href*="animes/314-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/q7PgmWV.png);
+}
+[href*="animes/314-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/y5DcCkp.png);
+}
+
 /* MANGA */
 
 /* Barakamon */
@@ -1820,6 +1830,25 @@
   --custom-image: url(https://i.imgur.com/zlXKCeg.gif);
 }
 
+/* Jin Munakata */
+[href*="characters/24404-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LokWXJg.png);
+}
+[href*="characters/24404-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/q20RDDU.gif);
+}
+
+/* Hiromi Oka */
+[href*="characters/10296-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4MlrlXT.png);
+}
+[href*="characters/10296-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/anIsAbh.png);
+}
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
