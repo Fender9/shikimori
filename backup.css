@@ -1,0 +1,598 @@
+/* ANIME*/
+/* Steins;Gate */
+.tira-page [href*="animes/z9253-"] {
+  position: relative;
+  border: 2px solid #77b739 !important;
+  outline: 2px solid #77b739;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/z9253-"]:hover {
+  position: relative;
+  border: 2px solid #77b739 !important;
+  outline: 2px solid #77b739;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="animes/z9253-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/Ar1hcM8.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Kimi no Na wa. */
+.tira-page [href*="animes/32281-"] {
+  position: relative;
+  border: 2px solid #1c99d5 !important;
+  outline: 2px solid #1c99d5;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/32281-"]:hover {
+  position: relative;
+  border: 2px solid #1c99d5 !important;
+  outline: 2px solid #1c99d5;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="animes/32281-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/p1R8Nb2.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Samurai Champloo */
+.tira-page [href*="animes/205-"] {
+  position: relative;
+  border: 2px solid #eb742a !important;
+  outline: 2px solid #eb742a;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/205-"]:hover {
+  position: relative;
+  border: 2px solid #eb742a !important;
+  outline: 2px solid #eb742a;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="animes/205-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/LycbIJJ.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Space☆Dandy 2nd Season */
+.tira-page [href*="animes/23327-"] {
+  position: relative;
+  border: 2px solid #fefd25 !important;
+  outline: 2px solid #fefd25;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/23327-"]:hover {
+  position: relative;
+  border: 2px solid #fefd25 !important;
+  outline: 2px solid #fefd25;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="animes/23327-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/v5xJTHY.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Shin Evangelion Movie: || */
+.tira-page [href*="animes/3786-"] {
+  position: relative;
+  border: 2px solid #d9302c !important;
+  outline: 2px solid #d9302c;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/3786-"]:hover {
+  position: relative;
+  border: 2px solid #d9302c !important;
+  outline: 2px solid #d9302c;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="animes/3786-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/poAKULk.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Sabu to Ichi Torimono Hikae */
+.tira-page [href*="animes/5997-"] {
+  position: relative;
+  border: 2px solid #816249 !important;
+  outline: 2px solid #816249;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/5997-"]:hover {
+  position: relative;
+  border: 2px solid #816249 !important;
+  outline: 2px solid #816249;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="animes/5997-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* MANGA*/
+/* Barakamon*/
+.tira-page [href*="mangas/17051-"] {
+  position: relative;
+  border: 2px solid #424eb5 !important;
+  outline: 2px solid #424eb5;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/17051-"]:hover {
+  position: relative;
+  border: 2px solid #424eb5 !important;
+  outline: 2px solid #424eb5;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="mangas/17051-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Mushishi */
+.tira-page [href*="mangas/418-"] {
+  position: relative;
+  border: 2px solid #fcf5e3 !important;
+  outline: 2px solid #fcf5e3;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/418-"]:hover {
+  position: relative;
+  border: 2px solid #fcf5e3 !important;
+  outline: 2px solid #fcf5e3;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="mangas/418-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/rCUfJnS.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* One Piece */
+.tira-page [href*="mangas/z13-"] {
+  position: relative;
+  border: 2px solid #ed9528 !important;
+  outline: 2px solid #ed9528;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/z13-"]:hover {
+  position: relative;
+  border: 2px solid #ed9528 !important;
+  outline: 2px solid #ed9528;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="mangas/z13-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/NecXeT4.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Oyasumi Punpun */
+.tira-page [href*="mangas/4632-"] {
+  position: relative;
+  border: 2px solid #ffe040 !important;
+  outline: 2px solid #ffe040;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/4632-"]:hover {
+  position: relative;
+  border: 2px solid #ffe040 !important;
+  outline: 2px solid #ffe040;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="mangas/4632-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/4woHSuA.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Dadadan*/
+.tira-page [href*="mangas/135496-"] {
+  position: relative;
+  border: 2px solid #e90035 !important;
+  outline: 2px solid #e90035;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/135496-"]:hover {
+  position: relative;
+  border: 2px solid #e90035 !important;
+  outline: 2px solid #e90035;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="mangas/135496-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* SKALO */
+.tira-page [href*="mangas/7375-"] {
+  position: relative;
+  border: 2px solid #5ad4ff !important;
+  outline: 2px solid #5ad4ff;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/7375-"]:hover {
+  position: relative;
+  border: 2px solid #5ad4ff !important;
+  outline: 2px solid #5ad4ff;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+[href*="mangas/7375-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* RANOBE*/
+/* Monogatari Series: Second Season */
+[href*="ranobe/z23751-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/Dy8bpwo.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* SP AND WLF */
+[href*="ranobe/9115-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* RAIDOU */
+[href*="ranobe/76973-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/D6aGt2a.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Mahoutsukai no Yoru */
+[href*="ranobe/26027-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/L65qj52.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* SEKAI */
+[href*="ranobe/21115-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* LOGH */
+[href*="ranobe/6978-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* GLOW */
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/main/glow.css);
+
+/* ОБЛОЖКИ */
+@import url(https://css-club.web.app/css/custom_posters.min.css);
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/p-profiles_4.css");
+
+/* ЗАПАДНЫЕ ТАЙТЛЫ */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/western.css");
+
+/* ABSOLUTE PEAK OVERLAY*/
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/main/abpeoverl.css);
+
+/* ИГРЫ ТОП 8*/
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/main/favgames.css);
+
+/* АНИМ. АКТИВНОСТЬ */
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/q05_animated_activity_graph.css");
+
+/* ПАНЕЛЬ СЛЕВА */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/pbd.css");
+
+/* МЕЙН СТИЛЬ */
+ @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_1.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_2.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_3.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_4mob.css");
+body:after {
+  background-image: url("https://i.imgur.com/0eiEDYy.gif");
+}
+
+.l-footer:after {
+  content: "*TiraRemy Purple*";
+  display: none !important;
+}
+
+@media screen and (min-width: 1px) {
+  .correct-mob-version {
+    color: normal;
+  }
+}
+
+.shikista {
+  color: white;
+}
+
+@media screen and (min-width: 1px) {
+  html:root {
+    --white-color: 250, 250, 250;
+    --light-color: 193, 193, 193;
+    --dark-color: 171, 171, 171;
+    --bright-color: 214, 0, 247;
+    --dull-color: 125, 125, 125;
+    --input-color: 184, 146, 196;
+    --hover-bottoms-1: 128, 48, 171;
+    --buttoms-color: 75, 40, 129;
+    --hover-buttoms-2: 128, 48, 171;
+    --very-high-rating: 209, 0, 108;
+    --high-rating: 209, 0, 252;
+    --average-rating: 122, 0, 252;
+    --small-rating: 77, 10, 148;
+    --time-filled: 119, 117, 199;
+    --time-empty: 67, 15, 63;
+    --anime-inprocess: 211, 124, 238;
+    --anime-complete: 221, 175, 235;
+    --manga-inprocess: 142, 37, 91;
+    --manga-complete: 187, 62, 127;
+    --hover-color: 221, 175, 235;
+    --shadows-color: 117, 122, 159;
+    --block-color: 68, 42, 76;
+    --menu-back: 0, 0, 0;
+    --popup-color: 124, 48, 217;
+    --hundred: 1;
+  }
+}
+
+/* НОРМАЛЬНЫЙ СПОЙЛЕР */
+.p-profiles .about.block .b-spoiler label {
+border: none;
+display: inline-block !important;
+font-weight: bold;
+color: #000;
+background: #ddafeb;
+height: 30px;
+width: 100%;
+font-size: 12pt;
+padding-top: 3px;
+text-align: center;
+margin-bottom: 5px;
+}
+
+.p-profiles .about.block .b-spoiler .after:before, .about.block .b-spoiler .before:before {
+content: '';
+}
+
+.p-profiles .about.block .b-spoiler .before {
+width: 100%;
+height: 50px;
+display: inline-block !important;
+margin-top: -50px;
+}
+
+/* СКРЫТЬ ДОСТИЖЕНИЯ */
+.p-profiles-show .achievements > .cc-2 {
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.5s;
+}
+.p-profiles-show .achievements:hover > div.cc-2 { max-height: 500px; }
