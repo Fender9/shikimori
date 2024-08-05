@@ -311,6 +311,7 @@ a[href$="JhPTY2q.png"] {
   position: relative;
   font-size: 0.8rem;
   margin-top: -1.2rem;
+  margin-left: 2.05rem;
   text-align: center;
   justify-content: center;
   max-height: 9.375rem;
@@ -323,10 +324,77 @@ a[href$="JhPTY2q.png"] {
   box-shadow: 0 2px 6px 2px #0000004d;
   color: #E6E6FA;
   float: left;
-  width: calc(100% - 18%);
+  width: calc(100% - 13%);
   height: 52px;
   align-items: center;
 }
+
+.finom-7 {
+  display: block;
+  float: right;
+  height: 100%;
+  padding: 0.75rem 1rem 0.75rem 0.1rem;
+  margin-top: -19.9rem;
+  margin-right: -0.6rem;
+  line-height: 3;
+  padding-bottom: 1.5625rem;
+}
+.finom-7 .b-image,
+.finom-7 img.b-poster {
+  vertical-align: text-top;
+  border-radius: 0.25rem;
+  border: 0.2rem solid !important;
+  border-color: #3e0a45 #3e0d45 #3a0e40 !important;
+  box-shadow: 0 2px 6px 2px #0000004d !important;
+}
+.finom-7 .b-image img,
+.finom-7 img.b-poster {
+  object-fit: cover; 
+  max-height: 40px !important;
+  min-width: 40px !important;
+  max-width: 40px !important;
+}
+.finom-7 .b-image .normalized_width,
+.finom-7 img.normalized_width {
+  max-width: 100% !important;
+}
+.finom-7 .b-image .normalized_height,
+.finom-7 img.normalized_height {
+  max-height: 40px !important;
+}
+/* ICONS */
+a[href$="3zUrgJi.png"] {
+  pointer-events: none;
+}
+
+a[href$="aIEemrs.png"] {
+  pointer-events: none;
+}
+
+a[href$="qBTNRfF.png"] {
+  pointer-events: none;
+}
+
+a[href$="cqhnNo0.png"] {
+  pointer-events: none;
+}
+
+a[href$="Wf7durV.png"] {
+  pointer-events: none;
+}
+
+a[href$="9yl65fA.png"] {
+  pointer-events: none;
+}
+
+a[href$="zSibwc6.png"] {
+  pointer-events: none;
+}
+
+a[href$="i6Oabrk.png"] {
+  pointer-events: none;
+}
+/*
 .finom-8 {
   position: relative;
   overflow: hidden;
@@ -382,7 +450,7 @@ a[href$="JhPTY2q.png"] {
     left: 110%;
     margin-left: 80px;
   }
-}
+}*/
 
 .ani_sid .b-image .marker {
   right: auto;
