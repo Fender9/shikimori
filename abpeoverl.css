@@ -1,3 +1,202 @@
+/* ANIME*/
+/* Steins;Gate */
+.tira-page [href*="animes/z9253-"] {
+  position: relative;
+  border: 2px solid #77b739 !important;
+  outline: 2px solid #77b739;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/z9253-"]:hover {
+  position: relative;
+  border: 2px solid #77b739 !important;
+  outline: 2px solid #77b739;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/z9253-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/Ar1hcM8.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Kimi no Na wa. */
+.tira-page [href*="animes/32281-"] {
+  position: relative;
+  border: 2px solid #1c99d5 !important;
+  outline: 2px solid #1c99d5;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/32281-"]:hover {
+  position: relative;
+  border: 2px solid #1c99d5 !important;
+  outline: 2px solid #1c99d5;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/32281-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/p1R8Nb2.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Space☆Dandy 2nd Season */
+.tira-page [href*="animes/23327-"] {
+  position: relative;
+  border: 2px solid #fefd25 !important;
+  outline: 2px solid #fefd25;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/23327-"]:hover {
+  position: relative;
+  border: 2px solid #fefd25 !important;
+  outline: 2px solid #fefd25;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/23327-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/URQzBU9.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Shin Evangelion Movie: || */
+.tira-page [href*="animes/3786-"] {
+  position: relative;
+  border: 2px solid #d9302c !important;
+  outline: 2px solid #d9302c;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/3786-"]:hover {
+  position: relative;
+  border: 2px solid #d9302c !important;
+  outline: 2px solid #d9302c;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/3786-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/poAKULk.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Sabu to Ichi Torimono Hikae */
+.tira-page [href*="animes/5997-"] {
+  position: relative;
+  border: 2px solid #816249 !important;
+  outline: 2px solid #816249;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/5997-"]:hover {
+  position: relative;
+  border: 2px solid #816249 !important;
+  outline: 2px solid #816249;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/5997-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Ace no Nerae OVA*/
+.tira-page [href*="animes/314-"] {
+  position: relative;
+  border: 2px solid #B6F142 !important;
+  outline: 2px solid #B6F142;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/314-"]:hover {
+  position: relative;
+  border: 2px solid #B6F142 !important;
+  outline: 2px solid #B6F142;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="animes/314-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/hj0cAsA.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
 /* БИБА */
 .tira-page [href*="animes/1-"] {
   position: relative;
@@ -30,26 +229,205 @@
   color: white;
   z-index: 1;
 }
-/*
-.tira-page [href*="animes/1-"]::after {
-  content: "☆";
-  position: absolute;
-  top: -0.5rem;
-  right: 0.2rem;
+
+/* MANGA*/
+/* Barakamon*/
+.tira-page [href*="mangas/17051-"] {
+  position: relative;
+  border: 2px solid #424eb5 !important;
+  outline: 2px solid #424eb5;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/17051-"]:hover {
+  position: relative;
+  border: 2px solid #424eb5 !important;
+  outline: 2px solid #424eb5;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/17051-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
   font-size: 35px;
   color: white;
   z-index: 1;
 }
 
-.tira-page [href*="animes/1-"]::before {
-  content: "★";
-  position: absolute;
-  top: -0.5rem;
-  right: 0.2rem;
+/* Mushishi */
+.tira-page [href*="mangas/418-"] {
+  position: relative;
+  border: 2px solid #fcf5e3 !important;
+  outline: 2px solid #fcf5e3;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/418-"]:hover {
+  position: relative;
+  border: 2px solid #fcf5e3 !important;
+  outline: 2px solid #fcf5e3;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/418-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/rCUfJnS.png');
+  background-size: cover;
   font-size: 35px;
-  color: goldenrod;
+  color: white;
   z-index: 1;
-}*/
+}
+
+/* One Piece */
+.tira-page [href*="mangas/z13-"] {
+  position: relative;
+  border: 2px solid #ed9528 !important;
+  outline: 2px solid #ed9528;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/z13-"]:hover {
+  position: relative;
+  border: 2px solid #ed9528 !important;
+  outline: 2px solid #ed9528;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/z13-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/NecXeT4.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Oyasumi Punpun */
+.tira-page [href*="mangas/4632-"] {
+  position: relative;
+  border: 2px solid #ffe040 !important;
+  outline: 2px solid #ffe040;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/4632-"]:hover {
+  position: relative;
+  border: 2px solid #ffe040 !important;
+  outline: 2px solid #ffe040;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+}
+
+.tira-page [href*="mangas/4632-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/4woHSuA.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+}
+
+/* Dadadan*/
+ .tira-page [href*="mangas/135496-"] {
+  position: relative;
+  border: 2px solid #e90035 !important;
+  outline: 2px solid #e90035;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+} 
+
+ .tira-page [href*="mangas/135496-"]:hover {
+  position: relative;
+  border: 2px solid #e90035 !important;
+  outline: 2px solid #e90035;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+} 
+
+ .tira-page [href*="mangas/135496-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+} 
+
+/* SKALO */
+ .tira-page [href*="mangas/7375-"] {
+  position: relative;
+  border: 2px solid #5ad4ff !important;
+  outline: 2px solid #5ad4ff;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+} */
+
+ .tira-page [href*="mangas/7375-"]:hover {
+  position: relative;
+  border: 2px solid #5ad4ff !important;
+  outline: 2px solid #5ad4ff;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 1px;
+} */
+
+ .tira-page [href*="mangas/7375-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+} 
 
 /* ЙОЦУБА */
 .tira-page [href*="mangas/104-"] {
@@ -84,47 +462,98 @@
   z-index: 1;
 }
 
-
-/*
-.tira-page [href*="mangas/104-"]::after {
-  content: "☆";
-  position: absolute;
-  top: -0.5rem;
-  right: 0.2rem;
+/* RANOBE*/
+/* Monogatari Series: Second Season */
+/* .tira-page [href*="ranobe/z23751-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/Dy8bpwo.png');
+  background-size: cover;
   font-size: 35px;
-  color: black;
+  color: white;
   z-index: 1;
-}
+} */
 
-.tira-page [href*="mangas/104-"]::before {
-  content: "★";
-  position: absolute;
-  top: -0.5rem;
-  right: 0.2rem;
+/* SP AND WLF */
+/* .tira-page [href*="ranobe/9115-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
   font-size: 35px;
-  color: goldenrod;
+  color: white;
   z-index: 1;
-}*/
+} */
+
+/* RAIDOU */
+/* .tira-page [href*="ranobe/76973-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/D6aGt2a.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+} */
+
+/* Mahoutsukai no Yoru */
+/* .tira-page [href*="ranobe/26027-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('https://i.imgur.com/L65qj52.png');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+} */
+
+/* SEKAI */
+/* .tira-page [href*="ranobe/21115-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+} */
+
+/* LOGH */
+/* .tira-page [href*="ranobe/6978-"]::after {
+  content: " ";
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.4rem;
+  height: 30px;
+  width: 30px;
+  background-image: url('');
+  background-size: cover;
+  font-size: 35px;
+  color: white;
+  z-index: 1;
+} */
 
 /* ЗАРЕГОТЫЧ */
-.tira-page [href*="ranobe/9726-"] {
-  position: relative;
-  border: 2px solid #11b03c !important;
-  outline: 2px solid #11b03c;
-  overflow: hidden;
-  box-sizing: border-box;
-  top: 1px;
-}
-
-.tira-page [href*="ranobe/9726-"]:hover {
-  position: relative;
-  border: 2px solid #11b03c !important;
-  outline: 2px solid #11b03c;
-  overflow: hidden;
-  box-sizing: border-box;
-  top: 1px;
-}
-
 [href*="ranobe/9726-"]::after {
   content: " ";
   position: absolute !important;
