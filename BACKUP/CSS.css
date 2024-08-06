@@ -1,0 +1,112 @@
+/* GLOW */
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/main/glow.css);
+
+/* ОБЛОЖКИ */
+@import url(https://css-club.web.app/css/custom_posters.min.css);
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/p-profiles_4.css");
+
+/* ЗАПАДНЫЕ ТАЙТЛЫ */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/western.css");
+
+/* ABSOLUTE PEAK OVERLAY*/
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/main/abpeoverl.css);
+
+/* ИГРЫ ТОП 8*/
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/main/favgames.css);
+
+/* ИГРОВЫЕ ПЕРСЫ ДАБЛ */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/g-profiles.css");
+
+/* АНИМ. АКТИВНОСТЬ */
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/q05_animated_activity_graph.css");
+
+/* ПАНЕЛЬ СЛЕВА */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/pbd.css");
+
+/* МЕЙН СТИЛЬ */
+ @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_1.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_2.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_3.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_4mob.css");
+body:after {
+  background-image: url("https://i.imgur.com/0eiEDYy.gif");
+}
+
+.l-footer:after {
+  content: "*TiraRemy Purple*";
+  display: none !important;
+}
+
+@media screen and (min-width: 1px) {
+  .correct-mob-version {
+    color: normal;
+  }
+}
+
+.shikista {
+  color: white;
+}
+
+@media screen and (min-width: 1px) {
+  html:root {
+    --white-color: 250, 250, 250;
+    --light-color: 193, 193, 193;
+    --dark-color: 171, 171, 171;
+    --bright-color: 214, 0, 247;
+    --dull-color: 125, 125, 125;
+    --input-color: 184, 146, 196;
+    --hover-bottoms-1: 128, 48, 171;
+    --buttoms-color: 75, 40, 129;
+    --hover-buttoms-2: 128, 48, 171;
+    --very-high-rating: 209, 0, 108;
+    --high-rating: 209, 0, 252;
+    --average-rating: 122, 0, 252;
+    --small-rating: 77, 10, 148;
+    --time-filled: 119, 117, 199;
+    --time-empty: 67, 15, 63;
+    --anime-inprocess: 211, 124, 238;
+    --anime-complete: 221, 175, 235;
+    --manga-inprocess: 142, 37, 91;
+    --manga-complete: 187, 62, 127;
+    --hover-color: 221, 175, 235;
+    --shadows-color: 117, 122, 159;
+    --block-color: 68, 42, 76;
+    --menu-back: 0, 0, 0;
+    --popup-color: 124, 48, 217;
+    --hundred: 1;
+  }
+}
+
+/* НОРМАЛЬНЫЙ СПОЙЛЕР */
+.p-profiles .about.block .b-spoiler label {
+border: none;
+display: inline-block !important;
+font-weight: bold;
+color: #000;
+background: #ddafeb;
+height: 30px;
+width: 100%;
+font-size: 12pt;
+padding-top: 3px;
+text-align: center;
+margin-bottom: 5px;
+}
+
+.p-profiles .about.block .b-spoiler .after:before, .about.block .b-spoiler .before:before {
+content: '';
+}
+
+.p-profiles .about.block .b-spoiler .before {
+width: 100%;
+height: 50px;
+display: inline-block !important;
+margin-top: -50px;
+}
+
+/* СКРЫТЬ ДОСТИЖЕНИЯ */
+.p-profiles-show .achievements > .cc-2 {
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.5s;
+}
+.p-profiles-show .achievements:hover > div.cc-2 { max-height: 500px; }
