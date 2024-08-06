@@ -1843,12 +1843,13 @@
 /* Hiromi Oka */
 [href*="characters/10296-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/4MlrlXT.png);
+  --custom-image: url(https://i.imgur.com/anIsAbh.png);
 }
 [href*="characters/10296-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/anIsAbh.png);
+  --custom-image: url(https://i.imgur.com/CSDRV5q.gif);
 }
+
 /* СЕЙЮ */
 
 /* Hiroshi Kamiya */
