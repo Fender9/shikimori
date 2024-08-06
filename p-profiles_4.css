@@ -3,11 +3,11 @@
 /* Steins;Gate */
 [href*="animes/z9253-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/gyqceIl.png);
+  --custom-image: url(https://i.imgur.com/42MmpxH.png);
 }
 [href*="animes/z9253-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/hPmzIbp.png);
+  --custom-image: url(https://i.imgur.com/gyqceIl.png);
 }
 
 /* Cowboy Bebop */
