@@ -396,39 +396,6 @@
   z-index: 1;
 } 
 
-/* SKALO */
-.tira-page [href*="mangas/7375-"] {
-  position: relative;
-  border: 2px solid #5ad4ff !important;
-  outline: 2px solid #5ad4ff;
-  overflow: hidden;
-  box-sizing: border-box;
-  top: 1px;
-} */
-
-.tira-page [href*="mangas/7375-"]:hover {
-  position: relative;
-  border: 2px solid #5ad4ff !important;
-  outline: 2px solid #5ad4ff;
-  overflow: hidden;
-  box-sizing: border-box;
-  top: 1px;
-} */
-
-.tira-page [href*="mangas/7375-"]::after {
-  content: " ";
-  position: absolute !important;
-  top: 0.5rem;
-  right: 0.4rem;
-  height: 30px;
-  width: 30px;
-  background-image: url('https://i.imgur.com/zzobw2t.png');
-  background-size: cover;
-  font-size: 35px;
-  color: white;
-  z-index: 1;
-}
-
 /* ЙОЦУБА */
 .tira-page [href*="mangas/104-"] {
   position: relative;
