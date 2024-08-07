@@ -157,7 +157,7 @@
   right: 0.4rem;
   height: 30px;
   width: 30px;
-  background-image: url('');
+  background-image: url('https://i.imgur.com/tf6PmKx.png');
   background-size: cover;
   font-size: 35px;
   color: white;
@@ -257,7 +257,7 @@
   right: 0.4rem;
   height: 30px;
   width: 30px;
-  background-image: url('');
+  background-image: url('https://i.imgur.com/gAioJhm.png');
   background-size: cover;
   font-size: 35px;
   color: white;
@@ -356,7 +356,7 @@
   right: 0.4rem;
   height: 30px;
   width: 30px;
-  background-image: url('https://i.imgur.com/4woHSuA.png');
+  background-image: url('https://i.imgur.com/qvabTq7.png');
   background-size: cover;
   font-size: 35px;
   color: white;
@@ -364,7 +364,7 @@
 }
 
 /* Dadadan*/
- .tira-page [href*="mangas/135496-"] {
+.tira-page [href*="mangas/135496-"] {
   position: relative;
   border: 2px solid #e90035 !important;
   outline: 2px solid #e90035;
@@ -373,7 +373,7 @@
   top: 1px;
 } 
 
- .tira-page [href*="mangas/135496-"]:hover {
+.tira-page [href*="mangas/135496-"]:hover {
   position: relative;
   border: 2px solid #e90035 !important;
   outline: 2px solid #e90035;
@@ -382,7 +382,7 @@
   top: 1px;
 } 
 
- .tira-page [href*="mangas/135496-"]::after {
+.tira-page [href*="mangas/135496-"]::after {
   content: " ";
   position: absolute !important;
   top: 0.5rem;
@@ -397,7 +397,7 @@
 } 
 
 /* SKALO */
- .tira-page [href*="mangas/7375-"] {
+.tira-page [href*="mangas/7375-"] {
   position: relative;
   border: 2px solid #5ad4ff !important;
   outline: 2px solid #5ad4ff;
@@ -406,7 +406,7 @@
   top: 1px;
 } */
 
- .tira-page [href*="mangas/7375-"]:hover {
+.tira-page [href*="mangas/7375-"]:hover {
   position: relative;
   border: 2px solid #5ad4ff !important;
   outline: 2px solid #5ad4ff;
@@ -415,14 +415,14 @@
   top: 1px;
 } */
 
- .tira-page [href*="mangas/7375-"]::after {
+.tira-page [href*="mangas/7375-"]::after {
   content: " ";
   position: absolute !important;
   top: 0.5rem;
   right: 0.4rem;
   height: 30px;
   width: 30px;
-  background-image: url('');
+  background-image: url('https://i.imgur.com/zzobw2t.png');
   background-size: cover;
   font-size: 35px;
   color: white;
