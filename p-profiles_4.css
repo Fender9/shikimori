@@ -1,5 +1,4 @@
 /* ANIME */
-
 /* Steins;Gate */
 [href*="animes/z9253-"] {
   --show-default: 0;
@@ -1860,8 +1859,17 @@
   --custom-image: url(https://i.imgur.com/CSDRV5q.gif);
 }
 
-/* СЕЙЮ */
+/* Hiromi Oka */
+[href*="characters/12343-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pIixdVI.png);
+}
+[href*="characters/12343-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ece4Oqq.png);
+}
 
+/* СЕЙЮ */
 /* Hiroshi Kamiya */
 [href*="people/118-hiroshi-kamiya"] {
   --show-default: 0;
