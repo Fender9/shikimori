@@ -171,13 +171,62 @@
 }
 
 /* РЕНЕЙМЫ */
+/* АНИМЕ */
 /* Сабу и Ичи */
 .cover[href*="animes/5997-"] .title span {
   display: none !important;
 }
 .cover[href*="animes/5997-"] .title::after {
   content: "Сабу и Ичи";
-  color: #d2ccdf;
+}
+
+/* Бей Эйс! OVA */
+.cover[href*="animes/314"] .title span {
+  display: none !important;
+}
+.cover[href*="animes/314"] .title::after {
+  content: "Бей эйс! OVA";
+}
+
+/* Врата Штейна */
+.cover[href*="animes/z9253-"] .title span {
+  display: none !important;
+}
+.cover[href*="animes/z9253-"] .title::after {
+  content: "Врата;Штейна";
+}
+
+/* Космический Денди 2 */
+.cover[href*="animes/23327-"] .title span {
+  display: none !important;
+}
+.cover[href*="animes/23327-"] .title::after {
+  content: "Космический☆Денди 2";
+}
+
+/* Твоё имя */
+.cover[href*="animes/32281-"] .title span {
+  display: none !important;
+}
+.cover[href*="animes/32281-"] .title::after {
+  content: "Твоё имя";
+}
+
+/* Евангелион 3.0+1.01: Как-то раз */
+.cover[href*="animes/3786-"] .title span {
+  display: none !important;
+}
+.cover[href*="animes/3786-"] .title::after {
+  content: "Евангелион: 3.0+1.01";
+}
+
+/* МАНГА */
+/* Ван-Пис */
+.cover[href*="mangas/z13-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/z13-"] .title::after {
+  content: "Ван-Пис";
 }
 
 /* Мастер Муши */
@@ -186,5 +235,85 @@
 }
 .cover[href*="mangas/418-"] .title::after {
   content: "Мастер муши";
-  color: #d0dfd1;
+}
+
+/* Спокойной ночи, Пунпун */
+.cover[href*="mangas/4632-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/4632-"] .title::after {
+  content: "Спокойной ночи, Пунпун";
+}
+
+/* Скалолаз */
+.cover[href*="mangas/7375-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/7375-"] .title::after {
+  content: "Скалолаз";
+}
+
+/* Баракамон */
+.cover[href*="mangas/17051-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/17051-"] .title::after {
+  content: "Баракамон";
+}
+
+/* Дандадан  */
+.cover[href*="mangas/135496-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/135496-"] .title::after {
+  content: "Дандадан";
+}
+
+/* РАНОБЕ */
+/* Легенда о героях Галактики  */
+.cover[href*="ranobe/6978-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/6978-"] .title::after {
+  content: "Легенда о Героях Галактики";
+}
+
+/* Наш разрушенный мир */
+.cover[href*="ranobe/21115-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/21115-"] .title::after {
+  content: "Наш разрушенный мир";
+}
+
+/* Волчица и пряности */
+.cover[href*="ranobe/9115-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/9115-"] .title::after {
+  content: "Волчица и пряности";
+}
+
+/* Райдо Кудзуноха против вестника смерти */
+.cover[href*="ranobe/76973-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/76973-"] .title::after {
+  content: "Райдо Кузуноха против Вестника Смерти";
+}
+
+/* Цикл историй: Второй сезон */
+.cover[href*="ranobe/z23751-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/z23751-"] .title::after {
+  content: "Цикл историй: Второй сезон";
+}
+
+/* Ночь Ведьм */
+.cover[href*="ranobe/26027-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/26027-"] .title::after {
+  content: "Ночь Ведьм";
 }
