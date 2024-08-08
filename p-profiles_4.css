@@ -420,6 +420,16 @@
   --custom-image: url(https://i.imgur.com/y5DcCkp.png);
 }
 
+/* Majokko Megu-chan */
+[href*="animes/3388-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/K2JEAt0.png);
+}
+[href*="animes/3388-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CMHBbtZ.png);
+}
+
 /* MANGA */
 
 /* Barakamon */
