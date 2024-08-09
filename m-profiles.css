@@ -127,3 +127,8 @@
 .b-image[data-attrs *= "https://i.imgur.com/8pshhhw.png" ] {
   --overlay-image: url("https://i.imgur.com/yQE5igg.png");
 }
+
+/* Perfume */
+.b-image[data-attrs *= "https://i.imgur.com/ma5Qf80.png" ] {
+  --overlay-image: url("https://i.imgur.com/R1pxinY.png");
+}
