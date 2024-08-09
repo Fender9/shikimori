@@ -200,8 +200,8 @@
 /* БИБА */
 .tira-page [href*="animes/1-"] {
   position: relative;
-  border: 2px solid #e32816 !important;
-  outline: 2px solid #e32816;
+  border: 3px solid #e32816 !important;
+  outline: 2px solid #fde68f;
   overflow: hidden;
   box-sizing: border-box;
   top: 1px;
@@ -209,7 +209,7 @@
 
 .tira-page [href*="animes/1-"]:hover {
   position: relative;
-  border: 2px solid #e32816 !important;
+  border: 3px solid #fde68f !important;
   outline: 2px solid #e32816;
   overflow: hidden;
   box-sizing: border-box;
@@ -432,8 +432,8 @@
 /* ЙОЦУБА */
 .tira-page [href*="mangas/104-"] {
   position: relative;
-  border: 2px solid #11b03c !important;
-  outline: 2px solid #11b03c;
+  border: 3px solid #11b03c !important;
+  outline: 2px solid #fde68f;
   overflow: hidden;
   box-sizing: border-box;
   top: 1px;
@@ -441,7 +441,7 @@
 
 .tira-page [href*="mangas/104-"]:hover {
   position: relative;
-  border: 2px solid #11b03c !important;
+  border: 3px solid #fde68f !important;
   outline: 2px solid #11b03c;
   overflow: hidden;
   box-sizing: border-box;
