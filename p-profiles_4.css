@@ -429,8 +429,17 @@
   --custom-image: url(https://i.imgur.com/CMHBbtZ.png);
 }
 
-/* MANGA */
+/* Kanashimi no Belladonna */
+[href*="animes/3220-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wv5GMrH.png);
+}
+[href*="animes/3220-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Bqhfsvg.png);
+}
 
+/* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
   --show-default: 0;
