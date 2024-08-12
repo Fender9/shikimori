@@ -132,7 +132,7 @@
     background: url("https://i.imgur.com/JgV3W2s.png") no-repeat 50% 50% / 100%;
 }
 .qa04 {
-    background: url("https://i.imgur.com/bOHkjwz.png") no-repeat 50% 50% / 100%;
+    background: url("https://i.imgur.com/ORz6n3o.png") no-repeat 50% 50% / 100%;
 }
 .qa05 {
     background: url("https://i.imgur.com/RWM0muS.png") no-repeat 50% 50% / 100%;
@@ -153,7 +153,7 @@
     content: "YOUTUBE";
 }
 .qa04:before {
-    content: "TRAKT";
+    content: "LETTERBOXD";
 }
 .qa05:before {
     content: "GLITCHWAVE";
