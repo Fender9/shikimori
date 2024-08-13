@@ -730,8 +730,17 @@
   --custom-image: url(https://i.imgur.com/z2QcQvQ.png);
 }
 
-/* RANOBE */
+/* Devilman */
+[href*="mangas/1474-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uIfv1PJ.png);
+}
+[href*="mangas/1474-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/41eaWkM.png);
+}
 
+/* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
   --show-default: 0;
