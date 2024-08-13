@@ -1877,7 +1877,7 @@
   --custom-image: url(https://i.imgur.com/CSDRV5q.gif);
 }
 
-/* Hiromi Oka */
+/* Non Go */
 [href*="characters/12343-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/pIixdVI.png);
@@ -1885,6 +1885,16 @@
 [href*="characters/12343-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Ece4Oqq.png);
+}
+
+/* Majo */
+[href*="characters/77665-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D6WHiHy.png);
+}
+[href*="characters/77665-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/47xtVrg.gif);
 }
 
 /* СЕЙЮ */
