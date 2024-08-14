@@ -439,6 +439,16 @@
   --custom-image: url(https://i.imgur.com/Bqhfsvg.png);
 }
 
+/* UFO Robo Grendizer */
+[href*="animes/1985-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3I26knF.png);
+}
+[href*="animes/1985-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9Nq2Qd5.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
