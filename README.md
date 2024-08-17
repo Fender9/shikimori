@@ -8,6 +8,7 @@ https://shikimori.one/tests/reset_styles_cache
 5. glow.css — ИЗБРАННОЕ DELUXE
 6. goldstar.css — ЗВЁЗДОЧКИ
 7. m-profiles.css — ХАВЕР МУЗ
-8. p-profiles_4.css — ВСЕ ПОСТЕРЫ
-9. pbd.css — ПАНЕЛЬ ССЫЛОК
-10. western.css — ЛОК ЗАПАДНОГО
+8. mov-profiles.css — ХАВЕР КИНЧ
+9. p-profiles_4.css — ВСЕ ПОСТЕРЫ
+10. pbd.css — ПАНЕЛЬ ССЫЛОК
+11. western.css — ЛОК ЗАПАДНОГО
