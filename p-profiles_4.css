@@ -459,6 +459,16 @@
   --custom-image: url(https://i.imgur.com/F7x5kCp.png);
 }
 
+/* Little Lulu to Chicchai Nakama */
+[href*="animes/3823-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xsXTyRT.png);
+}
+[href*="animes/3823-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GgAYjcY.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
