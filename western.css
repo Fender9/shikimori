@@ -1,136 +1,149 @@
-a[href$="e4KU3O2.png"] {
-  pointer-events: none;
+/* ARCANE */
+.b-image[data-attrs *= "https://i.imgur.com/k0YhNrn.png" ] {
+  --overlay-image: url("https://i.imgur.com/6q8hvX1.png");
 }
 
-a[href$="8GMmTWH.png"] {
-  pointer-events: none;
+/* DARIA */
+.b-image[data-attrs *= "https://i.imgur.com/HZF9jwb.png" ] {
+  --overlay-image: url("https://i.imgur.com/NkOOUCU.png");
 }
 
-a[href$="RW7KmI2.png"] {
-  pointer-events: none;
+/* AVATAR */
+.b-image[data-attrs *= "https://i.imgur.com/wbb0HFl.png" ] {
+  --overlay-image: url("https://i.imgur.com/wbmI5Ws.png");
 }
 
-a[href$="iFP428G.png"] {
-  pointer-events: none;
+/* SAMURAI JACK */
+.b-image[data-attrs *= "https://i.imgur.com/lpe7mRz.png" ] {
+  --overlay-image: url("https://i.imgur.com/xhR5pJY.png");
 }
 
-a[href$="VBE99G0.png"] {
-  pointer-events: none;
+/* KIM POSSIBLE */
+.b-image[data-attrs *= "https://i.imgur.com/OrCcra6.png" ] {
+  --overlay-image: url("https://i.imgur.com/jI2bVGn.png");
 }
 
-a[href$="VggeYfQ.png"] {
-  pointer-events: none;
+/* FUTURAMA */
+.b-image[data-attrs *= "https://i.imgur.com/BTQeNq0.png" ] {
+  --overlay-image: url("https://i.imgur.com/9ketEft.png");
 }
 
-a[href$="EgQ1ADI.png"] {
-  pointer-events: none;
+/* INVINCIBLE */
+.b-image[data-attrs *= "https://i.imgur.com/pFHVL1F.png" ] {
+  --overlay-image: url("https://i.imgur.com/GcUMTJH.png");
 }
 
-a[href$="qvGzNPT.png"] {
-  pointer-events: none;
+/* GRAVITY FALLS */
+.b-image[data-attrs *= "https://i.imgur.com/Ph1sKDu.png" ] {
+  --overlay-image: url("https://i.imgur.com/KcLMZKc.png");
 }
 
-a[href$="27O28iT.png"] {
-  pointer-events: none;
+/* HAZBIN HOTEL */
+.b-image[data-attrs *= "https://i.imgur.com/rGaDlRs.png" ] {
+  --overlay-image: url("https://i.imgur.com/FeKt9OG.png");
 }
 
-a[href$="rpVpNJL.png"] {
-  pointer-events: none;
+/* KORRA */
+.b-image[data-attrs *= "https://i.imgur.com/uTeAgRg.png" ] {
+  --overlay-image: url("https://i.imgur.com/P3x3W7V.png");
 }
 
-a[href$="BMAGWUW.png"] {
-  pointer-events: none;
+/* BOONDOCKS */
+.b-image[data-attrs *= "https://i.imgur.com/pQ1AI9t.png" ] {
+  --overlay-image: url("https://i.imgur.com/84kXbNW.png");
 }
 
-a[href$="BD9FTgD.png"] {
-  pointer-events: none;
+/* ADVENTURE TIME */
+.b-image[data-attrs *= "https://i.imgur.com/drXEPtj.png" ] {
+  --overlay-image: url("https://i.imgur.com/QKtFsSs.png");
 }
 
-a[href$="SwDJujQ.png"] {
-  pointer-events: none;
+/* JOHNNY BRAVO */
+.b-image[data-attrs *= "https://i.imgur.com/afKDjpK.png" ] {
+  --overlay-image: url("https://i.imgur.com/Ld95o4D.png");
 }
 
-a[href$="cvNj6Jl.png"] {
-  pointer-events: none;
+/* LADYBUG */
+.b-image[data-attrs *= "https://i.imgur.com/wFaySWh.png" ] {
+  --overlay-image: url("https://i.imgur.com/M90BZKn.png");
 }
 
-a[href$="EcPrtEt.png"] {
-  pointer-events: none;
+/* KICK BUTTOWSKI */
+.b-image[data-attrs *= "https://i.imgur.com/JeVrR80.png" ] {
+  --overlay-image: url("https://i.imgur.com/UJeL60w.png");
 }
 
-a[href$="HXizQJX.png"] {
-  pointer-events: none;
+/* WANDER OVER YONDER */
+.b-image[data-attrs *= "https://i.imgur.com/Ml7hkpP.png" ] {
+  --overlay-image: url("https://i.imgur.com/NmtKFRe.png");
 }
 
-a[href$="qc804x5.png"] {
-  pointer-events: none;
+/* PHINNEAS AND FERB */
+.b-image[data-attrs *= "https://i.imgur.com/nthWTsA.png" ] {
+  --overlay-image: url("https://i.imgur.com/TqGs37C.png");
 }
 
-a[href$="pIvWoTp.png"] {
-  pointer-events: none;
+/* HELLUVA BOSS */
+.b-image[data-attrs *= "https://i.imgur.com/8qR1f5L.png" ] {
+  --overlay-image: url("https://i.imgur.com/Oyg70dO.png");
 }
 
-a[href$="qZPb1aK.png"] {
-  pointer-events: none;
+/* COURAGE */
+.b-image[data-attrs *= "https://i.imgur.com/AsJJfzA.png" ] {
+  --overlay-image: url("https://i.imgur.com/ZlhCwT1.png");
 }
 
-a[href$="IlFS2sI.png"] {
-  pointer-events: none;
+/* KING OF THE HILL */
+.b-image[data-attrs *= "https://i.imgur.com/OArhMdi.png" ] {
+  --overlay-image: url("https://i.imgur.com/Nn2Ri5T.png");
 }
 
-a[href$="uYaci1S.png"] {
-  pointer-events: none;
+/* EMPEROR'S NEW SCHOOL */
+.b-image[data-attrs *= "https://i.imgur.com/YxEWE1x.png" ] {
+  --overlay-image: url("https://i.imgur.com/bnpzu2n.png");
 }
 
-a[href$="6FIKWYC.png"] {
-  pointer-events: none;
+/* SIMPSONS */
+.b-image[data-attrs *= "https://i.imgur.com/V7pNIDp.png" ] {
+  --overlay-image: url("https://i.imgur.com/xECejmU.png");
 }
 
-a[href$="VB1J8rc.png"] {
-  pointer-events: none;
+/* SOUTH PARK */
+.b-image[data-attrs *= "https://i.imgur.com/NJ9ca4e.png" ] {
+  --overlay-image: url("https://i.imgur.com/ZYBKsR2.png");
 }
 
-a[href$="kGS5fSs.png"] {
-  pointer-events: none;
+/* WITCH */
+.b-image[data-attrs *= "https://i.imgur.com/LQOqJHb.png" ] {
+  --overlay-image: url("https://i.imgur.com/i7yxKsU.png");
 }
 
-a[href$="Wi0qtOh.png"] {
-  pointer-events: none;
+/* JAKE LONG */
+.b-image[data-attrs *= "https://i.imgur.com/HtxMpWN.png" ] {
+  --overlay-image: url("https://i.imgur.com/u3AJw4b.png");
 }
 
-a[href$="nshDN2S.png"] {
-  pointer-events: none;
+/* JACKIE CHAN */
+.b-image[data-attrs *= "https://i.imgur.com/jUTsKhm.png" ] {
+  --overlay-image: url("https://i.imgur.com/Y2MSrOq.png");
 }
 
-a[href$="SwAvtO3.png"] {
-  pointer-events: none;
+/* WINX */
+.b-image[data-attrs *= "https://i.imgur.com/b1DyrYG.png" ] {
+  --overlay-image: url("https://i.imgur.com/SViWPwk.png");
 }
 
-a[href$="2PM7CQE.png"] {
-  pointer-events: none;
+/* FAMILY GUY */
+.b-image[data-attrs *= "https://i.imgur.com/FKrbEYE.png" ] {
+  --overlay-image: url("https://i.imgur.com/Kq390Wx.png");
 }
 
-a[href$="soSP0dD.png"] {
-  pointer-events: none;
+/* RICK AND MORTY */
+.b-image[data-attrs *= "https://i.imgur.com/nSQrcwf.png" ] {
+  --overlay-image: url("https://i.imgur.com/XQxctaa.png");
 }
 
-a[href$="PihTYmW.png"] {
-  pointer-events: none;
+/* BEAVIS AND BUTT-HEAD */
+.b-image[data-attrs *= "https://i.imgur.com/nNzL7Y5.png" ] {
+  --overlay-image: url("https://i.imgur.com/ZIxhCoZ.png");
 }
-
-a[href$="FcWwGap.png"] {
-  pointer-events: none;
-}
-
-a[href$="8recYMg.png"] {
-  pointer-events: none;
-}
-
-a[href$="xTM5blY.png"] {
-  pointer-events: none;
-}
-
-a[href$=""] {
-  pointer-events: none;
-}
-
