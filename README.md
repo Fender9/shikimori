@@ -11,4 +11,4 @@ https://shikimori.one/tests/reset_styles_cache
 8. mov-profiles.css — ХАВЕР КИНЧ
 9. p-profiles_4.css — ВСЕ ПОСТЕРЫ
 10. pbd.css — ПАНЕЛЬ ССЫЛОК
-11. western.css — ЛОК ЗАПАДНОГО
+11. western.css — ХАВЕР ЗАПАДНОЕ
