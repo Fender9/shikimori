@@ -147,3 +147,63 @@
 .b-image[data-attrs *= "https://i.imgur.com/nNzL7Y5.png" ] {
   --overlay-image: url("https://i.imgur.com/ZIxhCoZ.png");
 }
+
+/* HARLEY QUINN */
+.b-image[data-attrs *= "https://i.imgur.com/V2Ya3zQ.png" ] {
+  --overlay-image: url("https://i.imgur.com/QzL6Oel.png");
+}
+
+/* BATMAN AS */
+.b-image[data-attrs *= "https://i.imgur.com/XbloZ1K.png" ] {
+  --overlay-image: url("https://i.imgur.com/QYjSGP1.png");
+}
+
+/* STAR WARS REBELS */
+.b-image[data-attrs *= "https://i.imgur.com/W7AuWfu.png" ] {
+  --overlay-image: url("https://i.imgur.com/7HFRSjE.png");
+}
+
+/* TRON UPRISING */
+.b-image[data-attrs *= "https://i.imgur.com/gslq5tA.png" ] {
+  --overlay-image: url("https://i.imgur.com/1Tcgtl2.png");
+}
+
+/* CASTLEVANIA */
+.b-image[data-attrs *= "https://i.imgur.com/4ioIVHD.png" ] {
+  --overlay-image: url("https://i.imgur.com/eJpd8W3.png");
+}
+
+/* X-MEN EVO */
+.b-image[data-attrs *= "https://i.imgur.com/dgOOVjG.png" ] {
+  --overlay-image: url("https://i.imgur.com/kjRF8Uq.png");
+}
+
+/* LOVE DEATH AND ROBOTS */
+.b-image[data-attrs *= "https://i.imgur.com/pFekv1c.png" ] {
+  --overlay-image: url("https://i.imgur.com/mvlHnpJ.png");
+}
+
+/* ARCHER */
+.b-image[data-attrs *= "https://i.imgur.com/OxNcGRh.png" ] {
+  --overlay-image: url("https://i.imgur.com/O65mmtM.png");
+}
+
+/* BATMAN CC */
+.b-image[data-attrs *= "https://i.imgur.com/7ByS8ml.png" ] {
+  --overlay-image: url("https://i.imgur.com/SMz3WdQ.png");
+}
+
+/* BLUE EYED SAMURAI */
+.b-image[data-attrs *= "https://i.imgur.com/xY24mGZ.png" ] {
+  --overlay-image: url("https://i.imgur.com/hrKrDN2.png");
+}
+
+/* HUNTIK */
+.b-image[data-attrs *= "https://i.imgur.com/qSRKB91.png" ] {
+  --overlay-image: url("https://i.imgur.com/tx6Z8rs.png");
+}
+
+/* PRIMAL */
+.b-image[data-attrs *= "https://i.imgur.com/xt4GArV.png" ] {
+  --overlay-image: url("https://i.imgur.com/TjJSf69.png");
+}
