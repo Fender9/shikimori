@@ -469,6 +469,16 @@
   --custom-image: url(https://i.imgur.com/GgAYjcY.png);
 }
 
+/* Gasshin Sentai Mechander Robo */
+[href*="animes/3294-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ekmsLiJ.png);
+}
+[href*="animes/3294-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gYwmX6N.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
