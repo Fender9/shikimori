@@ -479,6 +479,16 @@
   --custom-image: url(https://i.imgur.com/gYwmX6N.png);
 }
 
+/* Time Bokan */
+[href*="animes/3915-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/s1ofIO9.png);
+}
+[href*="animes/3915-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/evrw5dc.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
