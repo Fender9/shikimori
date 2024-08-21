@@ -14,7 +14,7 @@
 }
 
 /* SAMURAI JACK */
-.b-image[data-attrs *= "https://i.imgur.com/lpe7mRz.png" ] {
+.b-image[data-attrs *= "https://i.imgur.com/HymdWTe.png" ] {
   --overlay-image: url("https://i.imgur.com/xhR5pJY.png");
 }
 
@@ -206,4 +206,69 @@
 /* PRIMAL */
 .b-image[data-attrs *= "https://i.imgur.com/xt4GArV.png" ] {
   --overlay-image: url("https://i.imgur.com/TjJSf69.png");
+}
+
+/* YOUNG JUSTICE */
+.b-image[data-attrs *= "https://i.imgur.com/r2IKM3f.png" ] {
+  --overlay-image: url("https://i.imgur.com/87tfWK6.png");
+}
+
+/* VENTURE BROS */
+.b-image[data-attrs *= "https://i.imgur.com/cUW8wKJ.png" ] {
+  --overlay-image: url("https://i.imgur.com/RPGX5ID.png");
+}
+
+/* TEEN TITANS */
+.b-image[data-attrs *= "https://i.imgur.com/lcI7egZ.png" ] {
+  --overlay-image: url("https://i.imgur.com/HdbUFsJ.png");
+}
+
+/* CLONE HIGH */
+.b-image[data-attrs *= "https://i.imgur.com/f2UTP6S.png" ] {
+  --overlay-image: url("https://i.imgur.com/4pRomt4.png");
+}
+
+/* HARVEY BIRDMAN */
+.b-image[data-attrs *= "https://i.imgur.com/BMuQPxt.png" ] {
+  --overlay-image: url("https://i.imgur.com/pfLljNs.png");
+}
+
+/* TOTALY SPIES */
+.b-image[data-attrs *= "https://i.imgur.com/XBiCxYE.png" ] {
+  --overlay-image: url("https://i.imgur.com/4sGv1Ex.png");
+}
+
+/* INVADER ZIM */
+.b-image[data-attrs *= "https://i.imgur.com/Y2PU9jH.png" ] {
+  --overlay-image: url("https://i.imgur.com/2ANbCPU.png");
+}
+
+/* PANTHEON */
+.b-image[data-attrs *= "https://i.imgur.com/ehywQhM.png" ] {
+  --overlay-image: url("https://i.imgur.com/fpHutBw.png");
+}
+
+/* WAKFU */
+.b-image[data-attrs *= "https://i.imgur.com/iSXfEgc.png" ] {
+  --overlay-image: url("https://i.imgur.com/otFkKpv.png");
+}
+
+/* HILDA */
+.b-image[data-attrs *= "https://i.imgur.com/0pz5kvu.png" ] {
+  --overlay-image: url("https://i.imgur.com/cdRyZaC.png");
+}
+
+/* VOX MACHINA */
+.b-image[data-attrs *= "https://i.imgur.com/dhP2IEf.png" ] {
+  --overlay-image: url("https://i.imgur.com/xEMsMjX.png");
+}
+
+/* DARK CRYSTAL */
+.b-image[data-attrs *= "https://i.imgur.com/KMeG6To.png" ] {
+  --overlay-image: url("https://i.imgur.com/pdcrOGn.png");
+}
+
+/* CARMEN SANDIEGO */
+.b-image[data-attrs *= "https://i.imgur.com/YN0GzjN.png" ] {
+  --overlay-image: url("https://i.imgur.com/q43Znj9.png");
 }
