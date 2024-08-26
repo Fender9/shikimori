@@ -529,6 +529,16 @@
   --custom-image: url(https://i.imgur.com/BJBZk5M.png);
 }
 
+/* Shin Kyojin no Hoshi II */
+[href*="animes/16486-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/92GasFt.png);
+}
+[href*="animes/16486-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XIdn1ae.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
