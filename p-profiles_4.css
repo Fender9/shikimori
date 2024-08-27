@@ -539,6 +539,16 @@
   --custom-image: url(https://i.imgur.com/XIdn1ae.png);
 }
 
+/* Uchuu Kaizoku Captain Herlock */
+[href*="animes/1000-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HU6L4r3.png);
+}
+[href*="animes/1000-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/iGUQQGG.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
@@ -1995,6 +2005,16 @@
 [href*="characters/77665-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/47xtVrg.gif);
+}
+
+/* Miime */
+[href*="characters/25028-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/eMaS4T3.png);
+}
+[href*="characters/25028-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FXggF1X.gif);
 }
 
 /* СЕЙЮ */
