@@ -2223,6 +2223,18 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/5MsL6Kd.png);
 }
+
+/* Mamoru Oshii */
+[href*="people/4097-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wUUkupk.png);
+}
+
+/* Taku Furukawa */
+[href*="people/30611-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/B0PevJ2.png);
+}
   
 /* МАНГАКИ */
 
@@ -2326,6 +2338,12 @@
 [href*="people/6987-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/RB1x0JB.png);
+}
+
+/* Tatsuo Yoshida */
+[href*="people/5241-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0Q95KFR.png);
 }
 
 /* ПРОЧИЕ ЛЮДИ */
@@ -2442,4 +2460,10 @@
 [href*="people/71642-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/k3NNafg.png);
+}
+
+/* GING NANG BOYZ */
+[href*="people/54127-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MSvQ4kc.png);
 }
