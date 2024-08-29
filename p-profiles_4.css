@@ -496,7 +496,7 @@
 }
 [href*="animes/2128-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/8I8CSXf.png);
+  --custom-image: url(https://i.imgur.com/M1txsSi.png);
 }
 
 /* Magnerobo Ga-Keen */
@@ -557,6 +557,16 @@
 [href*="animes/3335-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/pldtoEX.png);
+}
+
+/* Muteki Koujin Daitarn 3 */
+[href*="animes/3305-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Adl2k43.png);
+}
+[href*="animes/3305-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QqpR2qC.png);
 }
 
 /* MANGA */
