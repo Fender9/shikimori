@@ -522,11 +522,11 @@
 /* The Big O */
 [href*="animes/z567-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/OMGCN7Q.png);
+  --custom-image: url(https://i.imgur.com/0JspJfr.png);
 }
 [href*="animes/z567-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/BJBZk5M.png);
+  --custom-image: url(https://i.imgur.com/OMGCN7Q.png);
 }
 
 /* Shin Kyojin no Hoshi II */
