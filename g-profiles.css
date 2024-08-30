@@ -82,6 +82,11 @@
   --overlay-image: url("https://i.imgur.com/lSET8d8.png");
 }
 
+/* ELENA */
+.b-image[data-attrs *= "https://i.imgur.com/xn3s2z1.png" ] {
+  --overlay-image: url("https://i.imgur.com/0naLhcu.png");
+}
+
 /* ELLIE */
 .b-image[data-attrs *= "https://i.imgur.com/bXpvdPr.png" ] {
   --overlay-image: url("https://i.imgur.com/vqCQtOJ.gif");
