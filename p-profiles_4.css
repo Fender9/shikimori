@@ -2037,6 +2037,26 @@
   --custom-image: url(https://i.imgur.com/FXggF1X.gif);
 }
 
+/* Yuki Takamiya */
+[href*="characters/233587-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QerZoRR.png);
+}
+[href*="characters/233587-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QvU3WXd.gif);
+}
+
+/* Shu Amiguchi */
+[href*="characters/233586-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JST1em1.png);
+}
+[href*="characters/233586-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/P4LKzu3.gif);
+}
+
 /* СЕЙЮ */
 /* Hiroshi Kamiya */
 [href*="people/118-hiroshi-kamiya"] {
