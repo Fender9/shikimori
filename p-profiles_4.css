@@ -2283,6 +2283,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/4RXmCZA.png);
 }
+[href*="people/5254-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LDNdrbm.png);
+}
 
 /* Hirohiko Araki */
 [href*="people/2619-"] {
@@ -2293,7 +2297,11 @@
 /* huke */
 [href*="people/10145-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/iQQSdCp.png);
+  --custom-image: url(https://i.imgur.com/txx0GOa.png);
+}
+[href*="people/10145-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TtAsmaZ.png);
 }
 
 /* 5pb. */
@@ -2313,11 +2321,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/jlJAfeT.png);
 }
+[href*="people/6586-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1PBqlcC.png);
+}
 
 /* Yoshitaka Amano */
 [href*="people/2967-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Suj0vrN.png);
+}
+[href*="people/2967-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XMTLpT7.png);
 }
 
 /* Hideo Kojima */
@@ -2331,6 +2347,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/uGMul5Y.png);
 }
+[href*="people/33589-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KozFThG.png);
+}
 
 /* Shigenori Soejima */
 [href*="people/12279-"] {
@@ -2343,6 +2363,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/UN5MYGY.png);
 }
+[href*="people/4017-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IT274rv.png);
+}
 
 /* Shoutarou Ishinomori */
 [href*="people/2478-"] {
@@ -2350,8 +2374,24 @@
   --custom-image: url(https://i.imgur.com/pFCcTrk.png);
 }
 
+/* Nitroplus */
+[href*="people/4960-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tvwi6WP.png);
+}
+
+/* Akio Watanabe */
+[href*="people/5724-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KD8RKGN.png);
+}
+
 /* Take */
 [href*="people/10875-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2Uzwnt1.png);
+}
+[href*="people/10875-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/qheDqHY.png);
 }
@@ -2361,23 +2401,39 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/bCQvi0T.png);
 }
+[href*="people/1939-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6CNLNJg.png);
+}
 
 /* Yoshitoshi Abe */
 [href*="people/1991-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/WgsFJQ0.png);
 }
+[href*="people/1991-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/orFYy3G.png);
+}
 
 /* Range Murata */
 [href*="people/3445-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/VNNs3ru.png);
+  --custom-image: url(https://i.imgur.com/Ake9dJi.png);
+}
+[href*="people/3445-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/F8ngO4a.png);
 }
 
 /* Naoyuki Katou */
 [href*="people/6987-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/RB1x0JB.png);
+  --custom-image: url(https://i.imgur.com/SuVZRbH.png);
+}
+[href*="people/6987-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8ixVKG9.png);
 }
 
 /* Tatsuo Yoshida */
@@ -2495,21 +2551,11 @@
 /* Hiroki Haruse */
 [href*="people/7757-"] {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/7xRePXr.png);
 }
 [href*="people/7757-"]:hover {
   --show-default: 0;
-  --custom-image: url();
-}
-
-/* Koruse */
-[href*="people/53095-"] {
-  --show-default: 0;
-  --custom-image: url();
-}
-[href*="people/53095-"]:hover {
-  --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/4Pm0Qzy.png);
 }
 
 /* Leiji Matsumoto */
@@ -2523,7 +2569,6 @@
 }
 
 /* ПРОЧИЕ ЛЮДИ */
-
 /* Yoko Kanno */
 [href*="people/508-"] {
   --show-default: 0;
