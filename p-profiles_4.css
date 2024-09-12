@@ -2377,13 +2377,13 @@
 /* Nitroplus */
 [href*="people/4960-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/tvwi6WP.png);
+  --custom-image: url(https://i.imgur.com/KD8RKGN.png);
 }
 
 /* Akio Watanabe */
-[href*="people/5724-"]:hover {
+[href*="people/5724-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/KD8RKGN.png);
+  --custom-image: url(https://i.imgur.com/tvwi6WP.png);
 }
 
 /* Take */
