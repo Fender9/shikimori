@@ -2594,6 +2594,26 @@
   --custom-image: url(https://i.imgur.com/G6iRcrl.png);
 }
 
+/* Yukihiro Kajimoto */
+[href*="people/43854-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/neROj4V.png);
+}
+[href*="people/43854-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bCoXfDl.png);
+}
+
+/* Shirow Miwa */
+[href*="people/2974-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0vUXJcf.png);
+}
+[href*="people/2974-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/z5HxteW.png);
+}
+
 /* ПРОЧИЕ ЛЮДИ */
 /* Yoko Kanno */
 [href*="people/508-"] {
