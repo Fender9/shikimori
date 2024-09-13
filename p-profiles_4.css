@@ -2614,6 +2614,46 @@
   --custom-image: url(https://i.imgur.com/z5HxteW.png);
 }
 
+/* Namaniku ATK */
+[href*="people/30313-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/s9Mgfjm.png);
+}
+[href*="people/30313-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4BNsglW.png);
+}
+
+/* Moebius */
+[href*="people/8683-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4U2VJfO.png);
+}
+[href*="people/8683-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gQbVbS6.png);
+}
+
+/* Miki Sugina */
+[href*="people/30431-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hwCetWK.png);
+}
+[href*="people/30431-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OjiKHNc.png);
+}
+
+/* Ayami Kojima */
+[href*="people/7314-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/F28ZUJC.png);
+}
+[href*="people/7314-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JfXHLc2.png);
+}
+
 /* ПРОЧИЕ ЛЮДИ */
 /* Yoko Kanno */
 [href*="people/508-"] {
