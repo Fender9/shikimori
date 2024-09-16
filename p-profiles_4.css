@@ -880,6 +880,16 @@
   --custom-image: url(https://i.imgur.com/Pq7QFvs.png);
 }
 
+/* Medalist */
+[href*="mangas/129621-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dNYW4IQ.png);
+}
+[href*="mangas/129621-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ph7kfpD.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
