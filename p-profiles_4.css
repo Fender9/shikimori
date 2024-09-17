@@ -2097,6 +2097,16 @@
   --custom-image: url(https://i.imgur.com/CsfGDZP.gif);
 }
 
+/* Kyou Kasahara */
+[href*="characters/199813-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JQ8KAZX.png);
+}
+[href*="characters/199813-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DhB7bLY.png);
+}
+
 /* СЕЙЮ */
 /* Hiroshi Kamiya */
 [href*="people/118-hiroshi-kamiya"] {
