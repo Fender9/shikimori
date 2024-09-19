@@ -890,6 +890,16 @@
   --custom-image: url(https://i.imgur.com/ph7kfpD.png);
 }
 
+/* Blue Period */
+[href*="mangas/107931-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yw3dX7X.png);
+}
+[href*="mangas/107931-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9wtsrtv.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
@@ -2105,6 +2115,16 @@
 [href*="characters/199813-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/DhB7bLY.png);
+}
+
+/* Yakumo Murai */
+[href*="characters/202067-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AvHn7HC.png);
+}
+[href*="characters/202067-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oDWujME.png);
 }
 
 /* СЕЙЮ */
