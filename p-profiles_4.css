@@ -900,6 +900,16 @@
   --custom-image: url(https://i.imgur.com/9wtsrtv.png);
 }
 
+/* Ballroom e Youkoso */
+[href*="mangas/48347-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jWtcQxV.png);
+}
+[href*="mangas/48347-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VSXLNxB.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
@@ -2127,6 +2137,26 @@
   --custom-image: url(https://i.imgur.com/oDWujME.png);
 }
 
+/* Kaname Sengoku */
+[href*="characters/110435-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fTaP653.png);
+}
+[href*="characters/110435-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MF50r3I.gif);
+}
+
+/* Chinatsu Hiyama */
+[href*="characters/110443-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AcfbtZ8.png);
+}
+[href*="characters/110443-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HcKptWl.gif);
+}
+
 /* СЕЙЮ */
 /* Hiroshi Kamiya */
 [href*="people/118-hiroshi-kamiya"] {
@@ -2351,7 +2381,6 @@
 }
   
 /* МАНГАКИ */
-
 /* ISIN NISIO */
 [href*="people/5254-"] {
   --show-default: 0;
