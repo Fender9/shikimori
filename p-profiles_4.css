@@ -2734,6 +2734,16 @@
   --custom-image: url(https://i.imgur.com/JWp2LLm.png);
 }
 
+/* Yoshiyuki Sadamoto */
+[href*="people/3158-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PtchCZo.png);
+}
+[href*="people/3158-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/H6mcsEt.png);
+}
+
 /* ПРОЧИЕ ЛЮДИ */
 /* Yoko Kanno */
 [href*="people/508-"] {
