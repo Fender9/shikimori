@@ -2724,6 +2724,16 @@
   --custom-image: url(https://i.imgur.com/JfXHLc2.png);
 }
 
+/* Oh! Great */
+[href*="people/1932-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7HrA4Pv.png);
+}
+[href*="people/1932-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JWp2LLm.png);
+}
+
 /* ПРОЧИЕ ЛЮДИ */
 /* Yoko Kanno */
 [href*="people/508-"] {
@@ -2843,4 +2853,58 @@
 [href*="people/54127-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/MSvQ4kc.png);
+}
+[href*="people/54127-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MHru40E.png);
+}
+
+/* Ichirou Mizuki */
+[href*="people/6024-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/McUJIVc.png);
+}
+[href*="people/6024-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yKyx2ON.png);
+}
+
+/* Takeshi Nakatsuka */
+[href*="people/55462-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9BEuauF.png);
+}
+[href*="people/55462-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4It4SqK.png);
+}
+
+/* Tokyo Jihen */
+[href*="people/53853-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uJ7DZ9z.png);
+}
+[href*="people/53853-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5H9AMOs.png);
+}
+
+/* GING NANG BOYZ */
+[href*="people/54127-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/54127-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
+
+/* Daiki Tsuneta */
+[href*="people/61465-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Yg9vCaE.png);
+}
+[href*="people/61465-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/v5fNZ10.png);
 }
