@@ -920,6 +920,16 @@
   --custom-image: url(https://i.imgur.com/zWI72MR.png);
 }
 
+/* Hokuhokusei */
+[href*="mangas/97179-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FDnad94.png);
+}
+[href*="mangas/97179-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/y9zIEGE.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
@@ -2338,6 +2348,10 @@
 [href*="people/5089-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/WYeJ6WD.png);
+}
+[href*="people/5089-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SqlqXce.png);
 }
 
 /* Masaaki Yuasa */
