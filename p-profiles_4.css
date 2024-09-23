@@ -2301,11 +2301,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/e1HwRzQ.png);
 }
+[href*="people/36897-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8QOYRvZ.png);
+}
 
 /* Shinichiro Watanabe */
 [href*="people/2009-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/QFYhyaP.png);
+}
+[href*="people/2009-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7sO0kG6.png);
 }
 
 /* Makoto Shinkai */
@@ -2313,11 +2321,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ztTtlna.png);
 }
+[href*="people/1117-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uo2AX7M.png);
+}
 
 /* Takena Nagao */
 [href*="people/14009-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/07iF5wg.png);
+}
+[href*="people/14009-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JUYxlHw.png);
 }
 
 /* Satoshi Kon */
@@ -2325,11 +2341,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/7HDcoZL.png);
 }
+[href*="people/4580-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7GtWO1L.png);
+}
 
 /* Yoji Kuri */
 [href*="people/8545-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/wRkRZJH.png);
+}
+[href*="people/8545-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/liJlzw1.png);
 }
 
 /* Takashi Murakami */
@@ -2337,11 +2361,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ylF723L.png);
 }
+[href*="people/7963-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vXujwEh.png);
+}
 
 /* Keiichi Tanaami */
 [href*="people/28807-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/1i7WMk8.png);
+}
+[href*="people/28807-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bWggabQ.png);
 }
 
 /* Akiyuki Shinbou */
@@ -2359,6 +2391,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/appI236.png);
 }
+[href*="people/5068-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LJnZgQD.png);
+}
 
 /* Yasuomi Umetsu */
 [href*="people/6583-"] {
@@ -2367,13 +2403,17 @@
 }
 [href*="people/6583-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/5U6FLX2.png);
+  --custom-image: url(https://i.imgur.com/UU3Vsv6.png);
 }
 
 /* Tomoyuki Itamura */
 [href*="people/15639-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/44412Og.png);
+}
+[href*="people/15639-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZGFno2U.png);
 }
 
 /* Seiichi Hayashi */
@@ -2391,11 +2431,25 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/5MsL6Kd.png);
 }
+[href*="people/4346-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/232G5l2.png);
+}
 
 /* Mamoru Oshii */
 [href*="people/4097-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/wUUkupk.png);
+}
+[href*="people/4097-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8xYbclG.png);
+}
+
+/* Fumio Ooi */
+[href*="people/49848-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uyVl5Xw.png);
 }
 
 /* Taku Furukawa */
@@ -2403,7 +2457,17 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/B0PevJ2.png);
 }
-  
+[href*="people/30611-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/63ICMu9.png);
+}
+
+/* Shingo Natsume */
+[href*="people/28579-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jPzg6dM.png);
+}
+
 /* МАНГАКИ */
 /* ISIN NISIO */
 [href*="people/5254-"] {
@@ -2529,6 +2593,10 @@
 [href*="people/5724-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/tvwi6WP.png);
+}
+[href*="people/5724-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5gnBkgV.png);
 }
 
 /* Take */
@@ -2825,7 +2893,7 @@
 }
 [href*="people/6555-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/NQ2KLGq.png);
+  --custom-image: url(https://i.imgur.com/IWSYg6d.png);
 }
 
 /* Motoi Sakuraba */
