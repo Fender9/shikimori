@@ -569,6 +569,16 @@
   --custom-image: url(https://i.imgur.com/QqpR2qC.png);
 }
 
+/* Pluto */
+[href*="animes/35737-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RDCFbzq.png);
+}
+[href*="animes/35737-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CNXNM8Z.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
