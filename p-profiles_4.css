@@ -940,6 +940,16 @@
   --custom-image: url(https://i.imgur.com/y9zIEGE.png);
 }
 
+/* Billy Bat */
+[href*="mangas/11054-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QGFb0wz.png);
+}
+[href*="mangas/11054-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uzeWg0N.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
