@@ -950,6 +950,16 @@
   --custom-image: url(https://i.imgur.com/uzeWg0N.png);
 }
 
+/* Bokutachi ga Yarimashita */
+[href*="mangas/94919-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FSQwiCf.png);
+}
+[href*="mangas/94919-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wqp6OEh.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
