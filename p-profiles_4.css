@@ -957,9 +957,28 @@
 }
 [href*="mangas/94919-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/wqp6OEh.png);
+  --custom-image: url(https://i.imgur.com/JDudSEy.png);
 }
 
+/* Homunculus */
+[href*="mangas/936-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ohwNcYV.png);
+}
+[href*="mangas/936-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FLi4eIP.png);
+}
+
+/* Kozure Ookami */
+[href*="mangas/904-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UIVYYZx.png);
+}
+[href*="mangas/904-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/N6dQW4G.png);
+}
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
