@@ -579,6 +579,26 @@
   --custom-image: url(https://i.imgur.com/CNXNM8Z.png);
 }
 
+/* Azumanga */
+[href*="animes/66-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pJmRgO1.png);
+}
+[href*="animes/66-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OVdwQeJ.png);
+}
+
+/* The First Slam Dunk */
+[href*="animes/45649-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/O9Dq9la.png);
+}
+[href*="animes/45649-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CG0tpNV.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
@@ -979,6 +999,17 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/N6dQW4G.png);
 }
+
+/* The Fable */
+[href*="mangas/87844-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3UpG0Pi.png);
+}
+[href*="mangas/87844-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/V1JxWyX.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
@@ -2224,6 +2255,16 @@
 [href*="characters/110443-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/HcKptWl.gif);
+}
+
+/* Seijuurou Hiko */
+[href*="characters/2406-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mjn3i2D.png);
+}
+[href*="characters/2406-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/11Mqp0a.gif);
 }
 
 /* СЕЙЮ */
