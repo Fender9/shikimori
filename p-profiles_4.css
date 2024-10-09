@@ -1020,6 +1020,16 @@
   --custom-image: url(https://i.imgur.com/mDNUgad.png);
 }
 
+/* Sun-Ken Rock */
+[href*="mangas/8848-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tf1iwna.png);
+}
+[href*="mangas/8848-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/iWjTNo3.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
