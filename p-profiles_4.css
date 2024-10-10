@@ -1023,11 +1023,21 @@
 /* Sun-Ken Rock */
 [href*="mangas/8848-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/tf1iwna.png);
+  --custom-image: url(https://i.imgur.com/QY1ZQpV.png);
 }
 [href*="mangas/8848-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/iWjTNo3.png);
+  --custom-image: url(https://i.imgur.com/tf1iwna.png);
+}
+
+/* Raqiya */
+[href*="mangas/15764-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lFdsmYS.png);
+}
+[href*="mangas/15764-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mn9ONbv.png);
 }
 
 /* RANOBE */
