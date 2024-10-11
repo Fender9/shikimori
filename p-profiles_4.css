@@ -1040,6 +1040,16 @@
   --custom-image: url(https://i.imgur.com/mn9ONbv.png);
 }
 
+/* Origin */
+[href*="mangas/101119-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/38EZ8Oa.png);
+}
+[href*="mangas/101119-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OUnH9b2.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
