@@ -1033,7 +1033,7 @@
 /* Raqiya */
 [href*="mangas/15764-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/lFdsmYS.png);
+  --custom-image: url(https://i.ibb.co/VqTqZjM/raqiya-main.png);
 }
 [href*="mangas/15764-"]:hover {
   --show-default: 0;
@@ -1048,6 +1048,26 @@
 [href*="mangas/101119-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/OUnH9b2.png);
+}
+
+/* Bastard */
+[href*="mangas/111213-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lVQA1rY.png);
+}
+[href*="mangas/111213-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jNi2k2y.png);
+}
+
+/* Sanctuary */
+[href*="mangas/1461-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VqXUpOU.png);
+}
+[href*="mangas/1461-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gUtLoJX.png);
 }
 
 /* RANOBE */
