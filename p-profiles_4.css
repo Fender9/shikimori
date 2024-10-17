@@ -1070,6 +1070,26 @@
   --custom-image: url(https://i.imgur.com/gUtLoJX.png);
 }
 
+/* Sanctuary */
+[href*="mangas/124845-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kRq8sGp.png);
+}
+[href*="mangas/124845-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MLhqdFa.png);
+}
+
+/* Kono Oto Tomare! */
+[href*="mangas/45143-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HNqsAVe.png);
+}
+[href*="mangas/45143-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ut8vjNO.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
