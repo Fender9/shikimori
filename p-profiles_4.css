@@ -1980,11 +1980,11 @@
 /* Deathtopia Virtuoso Suicide-Master */
 [href*="characters/138576-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Rfvxs0E.png);
+  --custom-image: url(https://i.imgur.com/sNczfbZ.png);
 }
 [href*="characters/138576-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/nROEu8f.png);
+  --custom-image: url(https://i.imgur.com/7BUTIoX.gif);
 }
 
 /* Juuzou Inui */
@@ -2320,7 +2320,7 @@
 /* Kaname Sengoku */
 [href*="characters/110435-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/fTaP653.png);
+  --custom-image: url(https://i.imgur.com/2czHGpP.png);
 }
 [href*="characters/110435-"]:hover {
   --show-default: 0;
