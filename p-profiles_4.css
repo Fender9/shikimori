@@ -1090,6 +1090,16 @@
   --custom-image: url(https://i.imgur.com/ut8vjNO.png);
 }
 
+/* Innocent Rouge */
+[href*="mangas/93699-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aHOenwr.png);
+}
+[href*="mangas/93699-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PyngSfi.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
@@ -3035,6 +3045,16 @@
   --custom-image: url(https://i.imgur.com/H6mcsEt.png);
 }
 
+/* Shinichi Sakamoto */
+[href*="people/5215-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ay3fnLr.png);
+}
+[href*="people/5215-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/05LL5jt.png);
+}
+
 /* ПРОЧИЕ ЛЮДИ */
 /* Yoko Kanno */
 [href*="people/508-"] {
@@ -3270,4 +3290,14 @@
 [href*="people/77667-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/nUzL11y.png);
+}
+
+/* Yugo Kanno */
+[href*="people/14287-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/86VuwRl.png);
+}
+[href*="people/14287-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9XWVOfo.png);
 }
