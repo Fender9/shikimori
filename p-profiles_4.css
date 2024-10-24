@@ -1100,6 +1100,16 @@
   --custom-image: url(https://i.imgur.com/PyngSfi.png);
 }
 
+/* Villains Are Destined to Die */
+[href*="mangas/133641-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3l9voAD.png);
+}
+[href*="mangas/133641-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sVG0jLu.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
@@ -2357,6 +2367,16 @@
   --custom-image: url(https://i.imgur.com/11Mqp0a.gif);
 }
 
+/* Callisto Regulus */
+[href*="characters/192908-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IR5BP3p.png);
+}
+[href*="characters/192908-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/f5TJ7Vr.png);
+}
+
 /* СЕЙЮ */
 /* Hiroshi Kamiya */
 [href*="people/118-hiroshi-kamiya"] {
@@ -3053,6 +3073,16 @@
 [href*="people/5215-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/05LL5jt.png);
+}
+
+/* Takuma Yokota */
+[href*="people/3906-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rWZqBf1.png);
+}
+[href*="people/3906-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D4CSRai.png);
 }
 
 /* ПРОЧИЕ ЛЮДИ */
