@@ -1110,6 +1110,16 @@
   --custom-image: url(https://i.imgur.com/sVG0jLu.png);
 }
 
+/* SSS-Class Revival Hunter */
+[href*="mangas/146909-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/92UkZVa.png);
+}
+[href*="mangas/146909-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XOODuo1.png);
+}
+
 /* RANOBE */
 /* Monogatari Series: Second Season */
 [href*="ranobe/z23751-"] {
