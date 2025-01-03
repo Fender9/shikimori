@@ -2397,6 +2397,16 @@
   --custom-image: url(https://i.imgur.com/GvESG0n.png);
 }
 
+/* Jinx */
+[href*="characters/239799-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ftgQr5s.png);
+}
+[href*="characters/239799-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cfe1sod.gif);
+}
+
 /* СЕЙЮ */
 /* Hiroshi Kamiya */
 [href*="people/118-hiroshi-kamiya"] {
@@ -3325,11 +3335,11 @@
 /* Daiki Tsuneta */
 [href*="people/61465-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Yg9vCaE.png);
+  --custom-image: url(https://i.imgur.com/uysveR0.png);
 }
 [href*="people/61465-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/v5fNZ10.png);
+  --custom-image: url(https://i.imgur.com/Yg9vCaE.png);
 }
 
 /* Pink Floyd */
@@ -3356,4 +3366,74 @@
 [href*="people/34811-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/JSwGQNM.png);
+}
+
+/* Bôa Boa */
+[href*="people/29151-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/r2jtDcf.png);
+}
+[href*="people/29151-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2dFqGKQ.png);
+}
+
+/* HANABIE */
+[href*="people/75621-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vJTg86f.png);
+}
+[href*="people/75621-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jpWOXvK.png);
+}
+
+/* Duran Duran */
+[href*="people/9549-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/o1F6rg9.png);
+}
+[href*="people/9549-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/z2fNaT7.png);
+}
+
+/* Avril Lavigne */
+[href*="people/31607-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6n8NnEp.png);
+}
+[href*="people/31607-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ggzKQJR.png);
+}
+
+/* Gerard Way */
+[href*="people/7894-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9f7CXGL.png);
+}
+[href*="people/7894-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pYdN9IO.png);
+}
+
+/* Billie Eilish */
+[href*="people/64102-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mZ5nCee.png);
+}
+[href*="people/64102-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ht2pQMK.png);
+}
+
+/* GLIM SPANKY */
+[href*="people/40667-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4MzdGcC.png);
+}
+[href*="people/40667-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Yq1z37I.png);
 }
