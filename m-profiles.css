@@ -74,8 +74,8 @@
 }
 
 /* Daiki Tsuneta */
-.b-image[data-attrs *= "https://i.imgur.com/6fqYbsc.png" ] {
-  --overlay-image: url("https://i.imgur.com/0YwN9GX.png");
+.b-image[data-attrs *= "https://i.imgur.com/SQeUSAA.png" ] {
+  --overlay-image: url("https://i.imgur.com/6fqYbsc.png");
 }
 
 /* the pillows */
@@ -131,4 +131,9 @@
 /* Perfume */
 .b-image[data-attrs *= "https://i.imgur.com/ma5Qf80.png" ] {
   --overlay-image: url("https://i.imgur.com/R1pxinY.png");
+}
+
+/* Glim Spanky */
+.b-image[data-attrs *= "https://i.imgur.com/nfmNf1S.png" ] {
+  --overlay-image: url("https://i.imgur.com/nx8a6hV.png");
 }
