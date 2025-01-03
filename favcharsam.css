@@ -170,8 +170,8 @@
   top: 1px;
 }
 
-/* Shinji Ikari */
-.tira-page [href*="characters/89-"] {
+/* Jinx */
+.tira-page [href*="characters/239799-"] {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
@@ -180,7 +180,7 @@
   top: 1px;
 }
 
-.tira-page [href*="characters/89-"]:hover {
+.tira-page [href*="characters/239799-"]:hover {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
