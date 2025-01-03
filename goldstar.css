@@ -317,3 +317,11 @@
 .cover[href*="ranobe/26027-"] .title::after {
   content: "Ночь Ведьм";
 }
+
+/* Джерард Уэй */
+.cover[href*="people/7894"] .title span {
+  display: none !important;
+}
+.cover[href*="people/7894"] .title::after {
+  content: "My Chemical Romance";
+}
