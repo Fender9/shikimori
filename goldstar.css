@@ -325,3 +325,259 @@
 .cover[href*="people/7894"] .title::after {
   content: "My Chemical Romance";
 }
+
+/* Кэйичи Танаами */
+.cover[href*="people/28807"] .title span {
+  display: none !important;
+}
+.cover[href*="people/28807"] .title::after {
+  content: "Кэйичи Танаами";
+}
+
+/* Такаши Мураками */
+.cover[href*="people/7963"] .title span {
+  display: none !important;
+}
+.cover[href*="people/7963"] .title::after {
+  content: "Такаши Мураками";
+}
+
+/* Хироши Нагахама */
+.cover[href*="people/4346"] .title span {
+  display: none !important;
+}
+.cover[href*="people/4346"] .title::after {
+  content: "Хироши Нагахама";
+}
+
+/* Мамору Ошии */
+.cover[href*="people/4097"] .title span {
+  display: none !important;
+}
+.cover[href*="people/4097"] .title::after {
+  content: "Мамору Ошии";
+}
+
+/* Шинго Нацумэ */
+.cover[href*="people/28579"] .title span {
+  display: none !important;
+}
+.cover[href*="people/28579"] .title::after {
+  content: "Шинго Нацумэ";
+}
+
+/* Ами Кошимидзу */
+.cover[href*="people/70"] .title span {
+  display: none !important;
+}
+.cover[href*="people/70"] .title::after {
+  content: "Ами Кошимидзу";
+}
+
+/* Миюки Саваширо */
+.cover[href*="people/99"] .title span {
+  display: none !important;
+}
+.cover[href*="people/99"] .title::after {
+  content: "Миюки Саваширо";
+}
+
+/* Юичи Накамура */
+.cover[href*="people/513"] .title span {
+  display: none !important;
+}
+.cover[href*="people/513"] .title::after {
+  content: "Юичи Накамура";
+}
+
+/* Шиничиро Мики */
+.cover[href*="people/22"] .title span {
+  display: none !important;
+}
+.cover[href*="people/22"] .title::after {
+  content: "Шиничиро Мики";
+}
+
+/* Манкичи Тогава */
+.cover[href*="people/193546"] .title span {
+  display: none !important;
+}
+.cover[href*="people/193546"] .title::after {
+  content: "Манкичи Тогава";
+}
+
+/* Сатору Годжо */
+.cover[href*="people/164471"] .title span {
+  display: none !important;
+}
+.cover[href*="people/164471"] .title::after {
+  content: "Сатору Годжо";
+}
+
+/* Дейшу Кайки */
+.cover[href*="people/53641"] .title span {
+  display: none !important;
+}
+.cover[href*="people/53641"] .title::after {
+  content: "Дейшу Кайки";
+}
+
+/* Тоуко Кучики */
+.cover[href*="people/29926"] .title span {
+  display: none !important;
+}
+.cover[href*="people/29926"] .title::after {
+  content: "Тоуко Кучики";
+}
+
+/* Аясэ Кишимото */
+.cover[href*="people/16414"] .title span {
+  display: none !important;
+}
+.cover[href*="people/16414"] .title::after {
+  content: "Аясэ Кишимото";
+}
+
+/* Клэр Фаррон */
+.cover[href*="people/118835"] .title span {
+  display: none !important;
+}
+.cover[href*="people/118835"] .title::after {
+  content: "Клэр Фаррон";
+}
+
+/* Санпей Ширато */
+.cover[href*="people/6586"] .title span {
+  display: none !important;
+}
+.cover[href*="people/6586"] .title::after {
+  content: "Санпей Ширато";
+}
+
+/* Ёшитоши Абэ */
+.cover[href*="people/1991"] .title span {
+  display: none !important;
+}
+.cover[href*="people/1991"] .title::after {
+  content: "Ёшитоши Абэ";
+}
+
+/* Шотаро Ишиномори */
+.cover[href*="people/2478"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2478"] .title::after {
+  content: "Шотаро Ишиномори";
+}
+
+/* Шигенори Соеджима */
+.cover[href*="people/12279"] .title span {
+  display: none !important;
+}
+.cover[href*="people/12279"] .title::after {
+  content: "Шигенори Соеджима";
+}
+
+/* Ёшикадзу Ясухико */
+.cover[href*="people/2220"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2220"] .title::after {
+  content: "Ёшикадзу Ясухико";
+}
+
+/* Сэйичи Хаяши */
+.cover[href*="people/5926"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5926"] .title::after {
+  content: "Сэйичи Хаяши";
+}
+
+/* Ацуши Канеко */
+.cover[href*="people/3628"] .title span {
+  display: none !important;
+}
+.cover[href*="people/3628"] .title::after {
+  content: "Ацуши Канеко";
+}
+
+/* Ёшиюки Садамото */
+.cover[href*="people/3158"] .title span {
+  display: none !important;
+}
+.cover[href*="people/3158"] .title::after {
+  content: "Ёшиюки Садамото";
+}
+
+/* Шиничи Сакамото */
+.cover[href*="people/5215"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5215"] .title::after {
+  content: "Шиничи Сакамото";
+}
+
+/* Масамунэ Широ */
+.cover[href*="people/2609"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2609"] .title::after {
+  content: "Масамунэ Широ";
+}
+
+/* Кину Нишимура */
+.cover[href*="people/24539"] .title span {
+  display: none !important;
+}
+.cover[href*="people/24539"] .title::after {
+  content: "Кину Нишимура";
+}
+
+/* Широ Мива */
+.cover[href*="people/2974"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2974"] .title::after {
+  content: "Широ Мива";
+}
+
+/* Акихико Ёшида */
+.cover[href*="people/46007"] .title span {
+  display: none !important;
+}
+.cover[href*="people/46007"] .title::after {
+  content: "Акихико Ёшида";
+}
+
+/* Пабло Учида */
+.cover[href*="people/48931"] .title span {
+  display: none !important;
+}
+.cover[href*="people/48931"] .title::after {
+  content: "Пабло Учида";
+}
+
+/* Ичиро Мидзуки */
+.cover[href*="people/6024"] .title span {
+  display: none !important;
+}
+.cover[href*="people/6024"] .title::after {
+  content: "Ичиро Мидзуки";
+}
+
+/* Такеши Накацука */
+.cover[href*="people/55462"] .title span {
+  display: none !important;
+}
+.cover[href*="people/55462"] .title::after {
+  content: "Такеши Накацука";
+}
+
+/*  */
+.cover[href*="people/"] .title span {
+  display: none !important;
+}
+.cover[href*="people/"] .title::after {
+  content: "";
+}
