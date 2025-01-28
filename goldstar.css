@@ -3,7 +3,7 @@
   display: none !important;
 }
 .cover[href*="animes/1-"] .title::after {
-  content: "Ковбой Бибоп ✷";
+  content: "Ковбой Бибоп ✶";
   color: #e32816;
 }
 
@@ -12,7 +12,7 @@
   display: none !important;
 }
 .cover[href*="mangas/104-"] .title::after {
-  content: "Ёцуба! ✜";
+  content: "Ёцуба! ✤";
   color: #11b03c;
 }
 
