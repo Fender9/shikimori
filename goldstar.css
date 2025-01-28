@@ -170,6 +170,15 @@
   color: #fde68f;
 }
 
+/* Джун Айкава */
+.cover[href*="characters/29595"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/29595"] .title::after {
+  content: "Джун Айкава ★";
+  color: #fde68f;
+}
+
 /* РЕНЕЙМЫ */
 /* АНИМЕ */
 /* Сабу и Ичи */
