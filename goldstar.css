@@ -103,7 +103,7 @@
   display: none !important;
 }
 .cover[href*="people/2009-"] .title::after {
-  content: "Шиничиро Ватанабе 🎞";
+  content: "Шиничиро Ватанабэ 🎞";
   color: #fde68f;
 }
 
@@ -584,9 +584,17 @@
 }
 
 /* Нико Робин */
-.cover[href*="people/61"] .title span {
+.cover[href*="characters/61"] .title span {
   display: none !important;
 }
-.cover[href*="people/61"] .title::after {
+.cover[href*="characters/61"] .title::after {
   content: "Нико Робин";
+}
+
+/* Казума Канеко */
+.cover[href*="people/33589"] .title span {
+  display: none !important;
+}
+.cover[href*="people/33589"] .title::after {
+  content: "Кадзума Канеко";
 }
