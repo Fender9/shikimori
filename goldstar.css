@@ -30,7 +30,7 @@
   display: none !important;
 }
 .cover[href*="people/8213-"] .title::after {
-  content: "Шиина Ринго ★";
+  content: "Шиина Ринго ♪";
   color: #fde68f;
 }
 
@@ -39,7 +39,7 @@
   display: none !important;
 }
 .cover[href*="people/31631-"] .title::after {
-  content: "Марико Гото ★";
+  content: "Марико Гото ♪";
   color: #fde68f;
 }
 
@@ -49,7 +49,7 @@
 }
 
 .cover[href*="people/40186-"] .title::after {
-  content: "Boris ★";
+  content: "Boris ♪";
   color: #fde68f;
   font-size: 13px;
 }
@@ -62,7 +62,7 @@
   display: none !important;
 }
 .cover[href*="people/2967-"] .title::after {
-  content: "Ёшитака Амано ★";
+  content: "Ёшитака Амано 🖌";
   color: #fde68f;
 }
 
@@ -71,7 +71,7 @@
   display: none !important;
 }
 .cover[href*="people/5254-"] .title::after {
-  content: "NISIOISIN ★";
+  content: "NISIOISIN ✎";
   color: #fde68f;
 }
 
@@ -81,7 +81,7 @@
 }
 
 .cover[href*="people/10875-"] .title::after {
-  content: "Take ★";
+  content: "Take 🖌";
   color: #fde68f;
   font-size: 13px;
 }
@@ -94,7 +94,7 @@
   display: none !important;
 }
 .cover[href*="people/5089-"] .title::after {
-  content: "Акиюки Шимбо ★";
+  content: "Акиюки Шимбо 🎞";
   color: #fde68f;
 }
 
@@ -103,7 +103,7 @@
   display: none !important;
 }
 .cover[href*="people/2009-"] .title::after {
-  content: "Шиничиро Ватанабе ★";
+  content: "Шиничиро Ватанабе 🎞";
   color: #fde68f;
 }
 
@@ -112,7 +112,7 @@
   display: none !important;
 }
 .cover[href*="people/4580-"] .title::after {
-  content: "Сатоши Кон ★";
+  content: "Сатоши Кон 🎞";
   color: #fde68f;
 }
 
@@ -121,7 +121,7 @@
   display: none !important;
 }
 .cover[href*="people/90-"] .title::after {
-  content: "Маая Сакамото ★";
+  content: "Маая Сакамото 🎙";
   color: #fde68f;
 }
 
@@ -130,7 +130,7 @@
   display: none !important;
 }
 .cover[href*="people/118-"] .title::after {
-  content: "Хироши Камия ★";
+  content: "Хироши Камия 🎙";
   color: #fde68f;
 }
 
@@ -139,7 +139,7 @@
   display: none !important;
 }
 .cover[href*="people/11-"] .title::after {
-  content: "Коичи Ямадера ★";
+  content: "Коичи Ямадера 🎙";
   color: #fde68f;
 }
 
@@ -148,8 +148,8 @@
   display: none !important;
 }
 .cover[href*="characters/23602-"] .title::after {
-  content: "Шинобу Ошино ★";
-  color: #fde68f;
+  content: "Ошино Шинобу ⭗";
+  color: #fbec96;
 }
 
 /* Минато Кагеаки */
@@ -157,8 +157,8 @@
   display: none !important;
 }
 .cover[href*="characters/91703-"] .title::after {
-  content: "Минато Кагеаки ★";
-  color: #fde68f;
+  content: "Минато Кагеаки 🗣";
+  color: #fe522b;
 }
 
 /* Коичи Ямадера */
@@ -166,8 +166,8 @@
   display: none !important;
 }
 .cover[href*="characters/34470-"] .title::after {
-  content: "Курису Макисе ★";
-  color: #fde68f;
+  content: "Курису Макисе ⛭";
+  color: #E17951;
 }
 
 /* Джун Айкава */
@@ -175,8 +175,8 @@
   display: none !important;
 }
 .cover[href*="characters/29595"] .title::after {
-  content: "Джун Айкава ★";
-  color: #fde68f;
+  content: "Джун Айкава 🗲";
+  color: #FF0000;
 }
 
 /* РЕНЕЙМЫ */
@@ -428,7 +428,7 @@
   display: none !important;
 }
 .cover[href*="characters/53641"] .title::after {
-  content: "Дейшу Кайки";
+  content: "Кайки Дейшу";
 }
 
 /* Тоуко Кучики */
@@ -581,4 +581,12 @@
 }
 .cover[href*="people/55462"] .title::after {
   content: "Такеши Накацука";
+}
+
+/* Нико Робин */
+.cover[href*="people/61"] .title span {
+  display: none !important;
+}
+.cover[href*="people/61"] .title::after {
+  content: "Нико Робин";
 }
