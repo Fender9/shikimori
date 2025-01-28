@@ -1480,7 +1480,7 @@
 /* Kurisu Makise */
 [href*="characters/34470-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/DIKVQpJ.png);
+  --custom-image: url(https://randart.ru/art/TiraRemy/kurisu-makise/);
 }
 [href*="characters/34470-"]:hover {
   --show-default: 0;
@@ -1760,7 +1760,7 @@
 /* Shinobu Oshino */
 [href*="characters/23602-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/4ymNcqM.png);
+  --custom-image: url(https://randart.ru/art/TiraRemy/oshino-shinobu/);
 }
 [href*="characters/23602-"]:hover {
   --show-default: 0;
@@ -1810,7 +1810,7 @@
 /* Jun Aikawa */
 [href*="characters/29595-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/qENmCFo.png);
+  --custom-image: url(https://randart.ru/art/TiraRemy/aikawa-jun/);
 }
 [href*="characters/29595-"]:hover {
   --show-default: 0;
@@ -2814,6 +2814,10 @@
 }
 
 /* Nitroplus */
+[href*="people/4960-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XbuxcwT.png);
+}
 [href*="people/4960-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/KD8RKGN.png);
