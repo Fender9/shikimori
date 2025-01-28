@@ -151,8 +151,8 @@
   top: 1px;
 }
 
-/* Satoru Gojou */
-.tira-page [href*="characters/164471-"] {
+/* Jun Aikawa */
+.tira-page [href*="characters/29595-"] {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
@@ -161,7 +161,7 @@
   top: 1px;
 }
 
-.tira-page [href*="characters/164471-"]:hover {
+.tira-page [href*="characters/29595-"]:hover {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
