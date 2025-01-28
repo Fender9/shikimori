@@ -1,7 +1,7 @@
 # Мой шикимори хлам, всякие плашки и тд
 https://shikimori.one/tests/reset_styles_cache
 
-1. abpeoverl.css — РАМКИ + ИКОНКИ В ИD ИЗ МЕЙН ФАВОВ;
+1. abpeoverl.css — РАМКИ + ИКОНКИ В ИD ИЗ МЕЙН ФАВОВ + ИКОНКИ В МФ;
 2. bg-anim.css — АНИМИРОВАННЫЙ БЭК;
 3. favcharsam.css — ИD ПЕРСЫ ЗОЛОТЫЕ РАМКИ;
 4. favgames.css — ТОП 8 ИГР;
