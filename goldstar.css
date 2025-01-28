@@ -3,8 +3,8 @@
   display: none !important;
 }
 .cover[href*="animes/1-"] .title::after {
-  content: "Ковбой Бибоп ★";
-  color: #fde68f;
+  content: "Ковбой Бибоп ✷";
+  color: #e32816;
 }
 
 /* Йоцуба */
@@ -12,8 +12,8 @@
   display: none !important;
 }
 .cover[href*="mangas/104-"] .title::after {
-  content: "Ёцуба! ★";
-  color: #fde68f;
+  content: "Ёцуба! ✜";
+  color: #11b03c;
 }
 
 /* Зарегото */
@@ -21,8 +21,8 @@
   display: none !important;
 }
 .cover[href*="ranobe/9726-"] .title::after {
-  content: "Зарегото ★";
-  color: #fde68f;
+  content: "Зарегото ❂";
+  color: #e2732b;
 }
 
 /* Шиина Ринго */
