@@ -399,50 +399,50 @@
 }
 
 /* Манкичи Тогава */
-.cover[href*="people/193546"] .title span {
+.cover[href*="characters/193546"] .title span {
   display: none !important;
 }
-.cover[href*="people/193546"] .title::after {
+.cover[href*="characters/193546"] .title::after {
   content: "Манкичи Тогава";
 }
 
 /* Сатору Годжо */
-.cover[href*="people/164471"] .title span {
+.cover[href*="characters/164471"] .title span {
   display: none !important;
 }
-.cover[href*="people/164471"] .title::after {
+.cover[href*="characters/164471"] .title::after {
   content: "Сатору Годжо";
 }
 
 /* Дейшу Кайки */
-.cover[href*="people/53641"] .title span {
+.cover[href*="characters/53641"] .title span {
   display: none !important;
 }
-.cover[href*="people/53641"] .title::after {
+.cover[href*="characters/53641"] .title::after {
   content: "Дейшу Кайки";
 }
 
 /* Тоуко Кучики */
-.cover[href*="people/29926"] .title span {
+.cover[href*="characters/29926"] .title span {
   display: none !important;
 }
-.cover[href*="people/29926"] .title::after {
+.cover[href*="characters/29926"] .title::after {
   content: "Тоуко Кучики";
 }
 
 /* Аясэ Кишимото */
-.cover[href*="people/16414"] .title span {
+.cover[href*="characters/16414"] .title span {
   display: none !important;
 }
-.cover[href*="people/16414"] .title::after {
+.cover[href*="characters/16414"] .title::after {
   content: "Аясэ Кишимото";
 }
 
 /* Клэр Фаррон */
-.cover[href*="people/118835"] .title span {
+.cover[href*="characters/118835"] .title span {
   display: none !important;
 }
-.cover[href*="people/118835"] .title::after {
+.cover[href*="characters/118835"] .title::after {
   content: "Клэр Фаррон";
 }
 
@@ -572,12 +572,4 @@
 }
 .cover[href*="people/55462"] .title::after {
   content: "Такеши Накацука";
-}
-
-/*  */
-.cover[href*="people/"] .title span {
-  display: none !important;
-}
-.cover[href*="people/"] .title::after {
-  content: "";
 }
