@@ -599,6 +599,16 @@
   --custom-image: url(https://i.imgur.com/CG0tpNV.png);
 }
 
+/* Cyborg 009 (1979) */
+[href*="animes/4690-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yhQGDzS.png);
+}
+[href*="animes/4690-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6rhyg2B.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
@@ -2405,6 +2415,16 @@
 [href*="characters/239799-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/cfe1sod.gif);
+}
+
+/* Nasreddin Hodja */
+[href*="characters/264119-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3k8DNpN.png);
+}
+[href*="characters/264119-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/EJT5SBR.png);
 }
 
 /* СЕЙЮ */
