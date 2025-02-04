@@ -502,11 +502,11 @@
 /* Magnerobo Ga-Keen */
 [href*="animes/3932-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/fbdw3Bh.png);
+  --custom-image: url(https://i.imgur.com/U9TVjvo.png);
 }
 [href*="animes/3932-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/jmcjjC4.png);
+  --custom-image: url(https://i.imgur.com/BrQLh2F.png);
 }
 
 /* Muteki Choujin Zanbot 3 */
@@ -607,6 +607,346 @@
 [href*="animes/4690-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/6rhyg2B.png);
+}
+
+/* Shin Skyers 5 */
+[href*="animes/22997-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FWpJeLb.png);
+}
+[href*="animes/22997-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Iobw1so.png);
+}
+
+/* Seton Doubutsuki: Risu no Banner */
+[href*="animes/4515-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0OcSU5a.png);
+}
+[href*="animes/4515-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9LJ9fWf.png);
+}
+
+/* Entaku no Kishi Monogatari: Moero Arthur */
+[href*="animes/4199-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yOMwPo1.png);
+}
+[href*="animes/4199-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nlvVmk1.png);
+}
+
+/* Murder */
+[href*="animes/3743-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TUu63kR.png);
+}
+[href*="animes/3743-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8IVjUyh.png);
+}
+
+/* Attack No.1 */
+[href*="animes/1550-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UuPpmHF.png);
+}
+[href*="animes/1550-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3bMVmdm.png);
+}
+
+/* Ki Renka */
+[href*="animes/29679-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FOylGZf.png);
+}
+[href*="animes/29679-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/y56rArn.png);
+}
+
+/* Good-by Elvis and USA */
+[href*="animes/29617-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/YHf03jA.png);
+}
+[href*="animes/29617-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uF40Jbk.png);
+}
+
+/* Alps no Shoujo Heidi */
+[href*="animes/2225-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zGTeI2h.png);
+}
+[href*="animes/2225-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CPbmUdh.png);
+}
+
+/* Hoshi no Oujisama Petit Prince */
+[href*="animes/3811-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LCALdWF.png);
+}
+[href*="animes/3811-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sFdwISZ.png);
+}
+
+/* Lupin III: Cagliostro no Shiro */
+[href*="animes/1430-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xCvFYlj.png);
+}
+[href*="animes/1430-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BRDLoik.png);
+}
+
+/* Odd Taxi */
+[href*="animes/46102-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2RdpdHT.png);
+}
+[href*="animes/46102-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0blksbO.png);
+}
+
+/* Shiguang Dailiren */
+[href*="animes/44074-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rFw4FZ7.png);
+}
+[href*="animes/44074-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Lupv0Nz.png);
+}
+
+/* Sono Bisque Doll wa Koi wo Suru */
+[href*="animes/48736-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qje4O2i.png);
+}
+[href*="animes/48736-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pI3ZPAs.png);
+}
+
+/* Sousou no Frieren */
+[href*="animes/52991-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BN5Y7Eg.png);
+}
+[href*="animes/52991-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ar0Ejv2.png);
+}
+
+/* Kizumonogatari III: Reiketsu-hen */
+[href*="animes/z31758-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kb58Y69.png);
+}
+[href*="animes/z31758-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jtMJw5I.png);
+}
+
+/* Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go) */
+[href*="animes/5205-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4MrzYX0.png);
+}
+[href*="animes/5205-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/k154Suz.png);
+}
+
+/* Magic Kaito 1412 */
+[href*="animes/25517-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D6wE5IR.png);
+}
+[href*="animes/25517-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/I0Hq84B.png);
+}
+
+/* Texhnolyze */
+[href*="animes/z26-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tNs4KJI.png);
+}
+[href*="animes/z26-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/iqm1ey8.png);
+}
+
+/* Suzumiya Haruhi no Shoushitsu */
+[href*="animes/7311-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hi3UGci.png);
+}
+[href*="animes/7311-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HTEMAGw.png);
+}
+
+/* Shiki */
+[href*="animes/7724-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gr4tUiy.png);
+}
+[href*="animes/7724-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BuGiRP6.png);
+}
+
+/* Anohana */
+[href*="animes/9989-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lmCC54r.png);
+}
+[href*="animes/9989-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QWjTrzP.png);
+}
+
+/* Shigatsu wa Kimi no Uso */
+[href*="animes/z23273-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ydqeizs.png);
+}
+[href*="animes/z23273-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JUFto2R.png);
+}
+
+/* Sakurako-san */
+[href*="animes/z30187-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KmqRnkt.png);
+}
+[href*="animes/z30187-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oAqV6IW.png);
+}
+
+/* Erased */
+[href*="animes/z31043-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WSFoPup.png);
+}
+[href*="animes/z31043-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mnBBtKq.png);
+}
+
+/* Koe no Katachi */
+[href*="animes/y28851-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mCwbTX4.png);
+}
+[href*="animes/y28851-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TZbLIfg.png);
+}
+
+/* 3-gatsu no Lion */
+[href*="animes/31646-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/YI8q1MQ.png);
+}
+[href*="animes/31646-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0c1YIKl.png);
+}
+
+/* Ballroom e Youkoso */
+[href*="animes/34636-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/NwZia7w.png);
+}
+[href*="animes/34636-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uqqcgym.png);
+}
+
+/* Kaze no Tani no Nausicaa */
+[href*="animes/572-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IpGP5lf.png);
+}
+[href*="animes/572-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CMsi1xO.png);
+}
+
+/* Tenshi no Tamago */
+[href*="animes/885-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bNkB0WG.png);
+}
+[href*="animes/885-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/41Sh2Er.png);
+}
+
+/* Ginga Eiyuu Densetsu */
+[href*="animes/820-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ri1dxdf.png);
+}
+[href*="animes/820-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3SmBAM5.png);
+}
+
+/* Memories */
+[href*="animes/1462-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/e5jxTrp.png);
+}
+[href*="animes/1462-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Hx4rjkW.png);
+}
+
+/* Mononoke Hime */
+[href*="animes/164-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4oJoxSQ.png);
+}
+[href*="animes/164-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/q51gMYU.png);
+}
+
+/* A Kite */
+[href*="animes/320-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KfNR8em.png);
+}
+[href*="animes/320-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6pHB1ki.png);
+}
+
+/* Toushi Gordian */
+[href*="animes/5022-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4b0NsQD.png);
+}
+[href*="animes/5022-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8ajmbzd.png);
 }
 
 /* MANGA */
@@ -1483,6 +1823,16 @@
 [href*="characters/153048-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/OUMlYv5.png);
+}
+
+/* Joe Asakura */
+[href*="characters/17952-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TZyvZo2.png);
+}
+[href*="characters/17952-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ewwPNPl.png);
 }
 
 /* FEM CHARS */
@@ -2542,6 +2892,16 @@
 [href*="people/68045-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ZesrhK8.png);
+}
+
+/* Noriko Ohara */
+[href*="people/1151-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jAIeuTz.png);
+}
+[href*="people/1151-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/J7aePL7.png);
 }
 
 /* РЕЖИССЕРЫ */
