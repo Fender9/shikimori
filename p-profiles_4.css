@@ -2904,6 +2904,26 @@
   --custom-image: url(https://i.imgur.com/J7aePL7.png);
 }
 
+/* Willem Dafoe */
+[href*="people/5512-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bulbNRF.png);
+}
+[href*="people/5512-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PK1tZcS.png);
+}
+
+/* Cate Blanchett */
+[href*="people/8357-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/scQc3SY.png);
+}
+[href*="people/8357-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qfcZaFa.png);
+}
+
 /* РЕЖИССЕРЫ */
 
 /* Noburou Oofuji */
@@ -3497,6 +3517,16 @@
 [href*="people/3906-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/D4CSRai.png);
+}
+
+/* Wes Anderson */
+[href*="people/50054-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KeLYJLN.png);
+}
+[href*="people/50054-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jhuqsb2.png);
 }
 
 /* ПРОЧИЕ ЛЮДИ */
