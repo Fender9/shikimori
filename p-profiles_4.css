@@ -446,7 +446,7 @@
 }
 [href*="animes/1985-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/9Nq2Qd5.png);
+  --custom-image: url(https://i.imgur.com/4dEe1Du.png);
 }
 
 /* Hana no Kakarichou */
@@ -476,7 +476,7 @@
 }
 [href*="animes/3294-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/gYwmX6N.png);
+  --custom-image: url(https://i.imgur.com/iSu1nlc.png);
 }
 
 /* Time Bokan */
@@ -562,11 +562,11 @@
 /* Muteki Koujin Daitarn 3 */
 [href*="animes/3305-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Adl2k43.png);
+  --custom-image: url(https://i.imgur.com/Olv8oqP.png);
 }
 [href*="animes/3305-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/QqpR2qC.png);
+  --custom-image: url(https://i.imgur.com/R9M5KKD.png);
 }
 
 /* Pluto */
