@@ -2807,6 +2807,10 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/hbPY9cu.png);
 }
+[href*="characters/185-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sWZUbjy.png);
+}
 
 /* Maaya Sakamoto */
 [href*="people/90-"] {
@@ -2835,7 +2839,7 @@
 /* Shinichiro Miki */
 [href*="people/22-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/KHXJ0ve.png);
+  --custom-image: url(https://i.imgur.com/8CHfybt.png);
 }
 
 /* Takahiro Sakurai */
@@ -2863,13 +2867,17 @@
 /* Kei Tomiyama */
 [href*="people/870-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/MHki08t.png);
+  --custom-image: url(https://i.imgur.com/64KAw3K.png);
 }
 
 /* Miyuki Sawashiro */
 [href*="people/99-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/5Bkp7rY.png);
+}
+[href*="people/99-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SFIOtyr.png);
 }
 
 /* Ami Koshimizu */
@@ -2879,7 +2887,7 @@
 }
 [href*="people/70-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/o4Bbv7W.png);
+  --custom-image: url(https://i.imgur.com/hDOSKtz.png);
 }
 
 /* Kouichi Yamadera */
@@ -2897,11 +2905,11 @@
 /* Noriko Ohara */
 [href*="people/1151-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/jAIeuTz.png);
+  --custom-image: url(https://i.imgur.com/Cl8YvbH.png);
 }
 [href*="people/1151-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/J7aePL7.png);
+  --custom-image: url(https://i.imgur.com/3duKvyL.png);
 }
 
 /* Willem Dafoe */
@@ -3009,7 +3017,7 @@
 /* Akiyuki Shinbou */
 [href*="people/5089-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/WYeJ6WD.png);
+  --custom-image: url(https://i.imgur.com/H0N4Y9n.png);
 }
 [href*="people/5089-"]:hover {
   --show-default: 0;
@@ -3095,7 +3103,7 @@
 /* Shingo Natsume */
 [href*="people/28579-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/jPzg6dM.png);
+  --custom-image: url(https://i.imgur.com/szY5bXV.png);
 }
 
 /* МАНГАКИ */
@@ -3178,6 +3186,10 @@
 }
 
 /* Atsushi Kaneko */
+[href*="people/3628-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/eV4WCh4.png);
+}
 [href*="people/3628-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/LtH0f04.png);
@@ -3246,7 +3258,7 @@
 /* Kiyohiko Azuma */
 [href*="people/1939-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/bCQvi0T.png);
+  --custom-image: url(https://i.imgur.com/nVpIy3t.png);
 }
 [href*="people/1939-"]:hover {
   --show-default: 0;
@@ -3286,7 +3298,7 @@
 /* Tatsuo Yoshida */
 [href*="people/5241-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/0Q95KFR.png);
+  --custom-image: url(https://i.imgur.com/BVctlpa.png);
 }
 [href*="people/5241-"]:hover {
   --show-default: 0;
@@ -3773,7 +3785,7 @@
 }
 [href*="people/14287-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/9XWVOfo.png);
+  --custom-image: url(https://i.imgur.com/kNAJj1x.png);
 }
 
 /* Wagdug Futuristic Unity */
