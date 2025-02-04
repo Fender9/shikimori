@@ -3212,11 +3212,11 @@
 /* Ikki Kajiwara */
 [href*="people/4017-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/UN5MYGY.png);
+  --custom-image: url(https://i.imgur.com/IT274rv.png);
 }
 [href*="people/4017-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/IT274rv.png);
+  --custom-image: url(https://i.imgur.com/UN5MYGY.png);
 }
 
 /* Shoutarou Ishinomori */
