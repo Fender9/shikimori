@@ -2783,9 +2783,17 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/vllEZTR.png);
 }
+[href*="people/118-hiroshi-kamiya"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SexpYXZ.png);
+}
 
 /* Daisuke Ono */
 [href*="people/212-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AOV9nj2.png);
+}
+[href*="people/212-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/3o8RGOk.png);
 }
@@ -2815,7 +2823,11 @@
 /* Maaya Sakamoto */
 [href*="people/90-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/F9LO37R.png);
+  --custom-image: url(https://i.imgur.com/ii51lU2.png);
+}
+[href*="people/90-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0nrKIvN.png);
 }
 
 /* Yuuichi Nakamura */
@@ -2823,11 +2835,19 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/4RQVer9.png);
 }
+[href*="people/513-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ce8zeGi.png);
+}
 
 /* Tomokazu Sugita */
 [href*="people/2-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/dlRV6Xv.png);
+}
+[href*="people/2-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8E8AqNP.png);
 }
 
 /* Kenjirou Tsuda */
@@ -2835,17 +2855,29 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/cs0MhTx.png);
 }
+[href*="people/591-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sxopEKa.png);
+}
 
 /* Shinichiro Miki */
 [href*="people/22-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/8CHfybt.png);
+  --custom-image: url(https://i.imgur.com/77pTDoT.png);
+}
+[href*="people/22-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VNXGKAP.png);
 }
 
 /* Takahiro Sakurai */
 [href*="people/79-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/y8lXSdV.png);
+}
+[href*="people/79-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qMf5Cnc.png);
 }
 
 /* Connor Colquhoun */
@@ -2877,11 +2909,11 @@
 /* Miyuki Sawashiro */
 [href*="people/99-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/5Bkp7rY.png);
+  --custom-image: url(https://i.imgur.com/mZYRt44.png);
 }
 [href*="people/99-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/SFIOtyr.png);
+  --custom-image: url(https://i.imgur.com/5Bkp7rY.png);
 }
 
 /* Ami Koshimizu */
@@ -2898,6 +2930,10 @@
 [href*="people/11-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ZnUhcQk.png);
+}
+[href*="people/11-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dQ6kUf0.png);
 }
 
 /* Garnt Maneetapho */
