@@ -732,11 +732,11 @@
 /* Sono Bisque Doll wa Koi wo Suru */
 [href*="animes/48736-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/XgtEWFC.png);
+  --custom-image: url(https://i.imgur.com/yTJk9vo.png);
 }
 [href*="animes/48736-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/yTJk9vo.png);
+  --custom-image: url(https://i.imgur.com/XgtEWFC.png);
 }
 
 /* Sousou no Frieren */
@@ -1253,11 +1253,11 @@
 /* Sono Bisque Doll wa Koi wo Suru */
 [href*="mangas/112268-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Pq7QFvs.png);
+  --custom-image: url(https://i.imgur.com/G5l4vyg.png);
 }
 [href*="mangas/112268-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/G5l4vyg.png);
+  --custom-image: url(https://i.imgur.com/Pq7QFvs.png);
 }
 
 /* Medalist */
