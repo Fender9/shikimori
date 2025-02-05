@@ -852,7 +852,7 @@
 /* Koe no Katachi */
 [href*="animes/y28851-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/V7DO5Yd.png);
+  --custom-image: url(https://i.imgur.com/8WpjLe1.png);
 }
 [href*="animes/y28851-"]:hover {
   --show-default: 0;
@@ -1253,11 +1253,11 @@
 /* Sono Bisque Doll wa Koi wo Suru */
 [href*="mangas/112268-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/G5l4vyg.png);
+  --custom-image: url(https://i.imgur.com/Pq7QFvs.png);
 }
 [href*="mangas/112268-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Pq7QFvs.png);
+  --custom-image: url(https://i.imgur.com/G5l4vyg.png);
 }
 
 /* Medalist */
