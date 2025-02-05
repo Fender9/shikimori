@@ -3125,6 +3125,10 @@
 }
 
 /* Fumio Ooi */
+[href*="people/49848-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fqlT24j.png);
+}
 [href*="people/49848-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/uyVl5Xw.png);
