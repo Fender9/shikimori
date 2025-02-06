@@ -949,6 +949,16 @@
   --custom-image: url(https://i.imgur.com/8ajmbzd.png);
 }
 
+/* Kidou Senshi Gundam */
+[href*="animes/z80-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RWnCwqM.png);
+}
+[href*="animes/z80-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xseZpg1.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
