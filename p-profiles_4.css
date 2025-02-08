@@ -2909,11 +2909,11 @@
 /* Kei Tomiyama */
 [href*="people/870-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/uYC8mnx.png);
+  --custom-image: url(https://i.imgur.com/aKpQL9w.png);
 }
 [href*="people/870-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/WIKXsZG.png);
+  --custom-image: url(https://i.imgur.com/x9TyKxp.png);
 }
 
 /* Miyuki Sawashiro */
@@ -3107,7 +3107,7 @@
 /* Seiichi Hayashi */
 [href*="people/5926-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/OdtyQx3.png);
+  --custom-image: url(https://i.imgur.com/KqVbcPY.png);
 }
 [href*="people/5926-"]:hover {
   --show-default: 0;
@@ -3141,7 +3141,7 @@
 }
 [href*="people/49848-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/uyVl5Xw.png);
+  --custom-image: url(https://i.imgur.com/4puFyeZ.png);
 }
 
 /* Taku Furukawa */
@@ -3168,7 +3168,7 @@
 }
 [href*="people/5254-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/LDNdrbm.png);
+  --custom-image: url(https://i.imgur.com/9KYX4eo.png);
 }
 
 /* Hirohiko Araki */
@@ -3272,7 +3272,7 @@
 /* Shoutarou Ishinomori */
 [href*="people/2478-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/pFCcTrk.png);
+  --custom-image: url(https://i.imgur.com/Cv71i8X.png);
 }
 [href*="people/2478-"]:hover {
   --show-default: 0;
@@ -3843,6 +3843,10 @@
 }
 
 /* Wagdug Futuristic Unity */
+[href*="people/34811-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/alVrpJ9.png);
+}
 [href*="people/34811-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/JSwGQNM.png);
