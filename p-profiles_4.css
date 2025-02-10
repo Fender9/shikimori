@@ -979,6 +979,16 @@
   --custom-image: url(https://i.imgur.com/ocBzNrn.png);
 }
 
+/* Ninja Bugei-chou */
+[href*="animes/5232-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/H3HmCVo.png);
+}
+[href*="animes/5232-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nELwBis.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
