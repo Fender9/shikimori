@@ -969,6 +969,16 @@
   --custom-image: url(https://i.imgur.com/Jt6ZtqI.png);
 }
 
+/* Gamba no Bouken */
+[href*="animes/5267-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uTN6JVU.png);
+}
+[href*="animes/5267-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ocBzNrn.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
