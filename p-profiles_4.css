@@ -959,6 +959,16 @@
   --custom-image: url(https://i.imgur.com/xseZpg1.png);
 }
 
+/* Ougon Bat */
+[href*="animes/3900-ougon-bat"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oBupJlW.png);
+}
+[href*="animes/3900-ougon-bat"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Jt6ZtqI.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
