@@ -12,4 +12,5 @@ https://shikimori.one/tests/reset_styles_cache
 9. mov-profiles.css — ХАВЕР КИНЧ ПЕРСЫ;
 10. p-profiles_4.css — ВСЕ ШИКИ ПОСТЕРЫ;
 11. pbd.css — ПАНЕЛЬ ССЫЛОК СЛЕВА;
-12. western.css — ХАВЕР ЗАПАДНОЕ.
+12. submenu.css — АНИМ ОТКРЫТИЯ САБМЕНЮ;
+13. western.css — ХАВЕР ЗАПАДНОЕ.
