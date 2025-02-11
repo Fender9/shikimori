@@ -1,0 +1,88 @@
+:root {
+  --user-nickname: "𝕋𝕚𝕣𝕒ℝ𝕖𝕞𝕪";
+}
+
+#profiles_show .profile-head .c-brief header h1 {
+  --margin: 5px;
+  position: relative;
+  color: var(--color-nickname-text, var(--headline-color));
+  padding: 0 var(--margin);
+  margin-left: calc(var(--margin) * -1);
+  overflow: hidden;
+  vertical-align: top;
+}
+
+#profiles_show .profile-head .c-brief header h1::before,
+#profiles_show .profile-head .c-brief header h1::after {
+  content: var(--user-nickname, "𝕋𝕚𝕣𝕒ℝ𝕖𝕞𝕪") !important;
+  position: absolute !important;
+  inset: 0 !important;
+  display: block !important;
+  width: auto !important;
+  padding: inherit !important;
+  margin: 0 !important;
+  background: var(--color-nickname-background, transparent) !important;
+  color: inherit !important;
+  font: inherit !important;
+  line-height: inherit !important;
+  overflow: hidden !important;
+}
+
+#profiles_show .profile-head .c-brief header h1::before {
+  left: 3px !important;
+  text-shadow: -2px 0 #D1006C !important;
+  animation: glitch--1 2s linear reverse infinite !important;
+}
+#profiles_show .profile-head .c-brief header h1::after {
+  left: -3px !important;
+  text-shadow: -2px 0 #7A00FC !important;
+  animation: glitch--2 2s linear reverse infinite !important;
+}
+
+@keyframes glitch--1 {
+  0% { clip: rect(102px, auto, 101px, var(--margin)); }
+  5% { clip: rect(-13px, auto, 94px, var(--margin)); }
+  10% { clip: rect(10px, auto, 66px, var(--margin)); }
+  15% { clip: rect(57px, auto, 82px, var(--margin)); }
+  20% { clip: rect(107px, auto, 61px, var(--margin)); }
+  25% { clip: rect(4px, auto, 14px, var(--margin)); }
+  30% { clip: rect(103px, auto, 74px, var(--margin)); }
+  35% { clip: rect(36px, auto, 107px, var(--margin)); }
+  40% { clip: rect(29px, auto, 130px, var(--margin)); }
+  45% { clip: rect(-1px, auto, 84px, var(--margin)); }
+  50% { clip: rect(-8px, auto, 67px, var(--margin)); }
+  55% { clip: rect(37px, auto, 62px, var(--margin)); }
+  60% { clip: rect(-20px, auto, 105px, var(--margin)); }
+  65% { clip: rect(48px, auto, 115px, var(--margin)); }
+  70% { clip: rect(75px, auto, 13px, var(--margin)); }
+  75% { clip: rect(-15px, auto, 75px, var(--margin)); }
+  80% { clip: rect(36px, auto, 39px, var(--margin)); }
+  85% { clip: rect(103px, auto, 73px, var(--margin)); }
+  90% { clip: rect(6px, auto, 128px, var(--margin)); }
+  95% { clip: rect(38px, auto, 103px, var(--margin)); }
+  100% { clip: rect(-16px, auto, 100px, var(--margin)); }
+}
+
+@keyframes glitch--2 {
+  0% { clip: rect(99px, auto, 36px, var(--margin)); }
+  5% { clip: rect(6px, auto, 4px, var(--margin)); }
+  10% { clip: rect(55px, auto, 66px, var(--margin)); }
+  15% { clip: rect(61px, auto, 91px, var(--margin)); }
+  20% { clip: rect(118px, auto, 138px, var(--margin)); }
+  25% { clip: rect(8px, auto, 122px, var(--margin)); }
+  30% { clip: rect(39px, auto, 54px, var(--margin)); }
+  35% { clip: rect(68px, auto, 71px, var(--margin)); }
+  40% { clip: rect(116px, auto, 34px, var(--margin)); }
+  45% { clip: rect(104px, auto, 43px, var(--margin)); }
+  50% { clip: rect(72px, auto, 80px, var(--margin)); }
+  55% { clip: rect(89px, auto, 44px, var(--margin)); }
+  60% { clip: rect(76px, auto, 99px, var(--margin)); }
+  65% { clip: rect(111px, auto, 74px, var(--margin)); }
+  70% { clip: rect(-10px, auto, 78px, var(--margin)); }
+  75% { clip: rect(103px, auto, 79px, var(--margin)); }
+  80% { clip: rect(48px, auto, 52px, var(--margin)); }
+  85% { clip: rect(5px, auto, 39px, var(--margin)); }
+  90% { clip: rect(37px, auto, 70px, var(--margin)); }
+  95% { clip: rect(41px, auto, 103px, var(--margin)); }
+  100% { clip: rect(53px, auto, 40px, var(--margin)); }
+}
