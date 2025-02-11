@@ -1,0 +1,29 @@
+/* Анимация submenu (можно менять длительность (0.7s))*/
+.l-top_menu-v2 .menu-dropdown.active .submenu, .l-top_menu-v2 .global-search .search-results {
+  animation: 0.8s submenu linear;
+}
+/*Убираю образовавшийся скроллбар*/
+@media screen and (min-height: 720px) {
+  .menu-dropdown.main .submenu::-webkit-scrollbar {
+    display: none;
+  }
+}
+@media screen and (min-height: 460px) {
+  .menu-dropdown.profile .submenu::-webkit-scrollbar {
+    display: none;
+  }
+}
+@media screen and (min-height: 240px) {
+  .l-top_menu-v2 .global-search .search-results::-webkit-scrollbar {
+    display: none;
+  }
+}
+/* Анимация submenu */
+@keyframes submenu {
+  from {
+    max-height: 0px;
+  }
+  to {
+    max-height: 100vh;
+  }
+}
