@@ -989,6 +989,16 @@
   --custom-image: url(https://i.imgur.com/nELwBis.png);
 }
 
+/* Tondemo Senshi Muteking */
+[href*="animes/5833-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qkFMdKL.png);
+}
+[href*="animes/5833-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GTsvQT4.png);
+}
+
 /* MANGA */
 /* Barakamon */
 [href*="mangas/17051-"] {
@@ -3623,6 +3633,16 @@
 [href*="people/50054-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/jhuqsb2.png);
+}
+
+/* VOFAN */
+[href*="people/8594-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LevRwq5.png);
+}
+[href*="people/8594-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IOolZgK.png);
 }
 
 /* ПРОЧИЕ ЛЮДИ */
