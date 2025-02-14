@@ -3022,6 +3022,16 @@
   --custom-image: url(https://i.imgur.com/qfcZaFa.png);
 }
 
+/* Masakane Yonekura */
+[href*="people/40449-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ju6ioyu.png);
+}
+[href*="people/40449-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yPbPa1r.png);
+}
+
 /* РЕЖИССЕРЫ */
 
 /* Noburou Oofuji */
@@ -3198,6 +3208,26 @@
 [href*="people/28579-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/szY5bXV.png);
+}
+
+/* Tadanori Yokoo */
+[href*="people/36846-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tAMkpSh.png);
+}
+[href*="people/36846-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3opaZp8.png);
+}
+
+/* Hajime Sorayama */
+[href*="people/66223-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jvFgXeJ.png);
+}
+[href*="people/66223-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nNLHdji.png);
 }
 
 /* МАНГАКИ */
@@ -3665,6 +3695,16 @@
   --custom-image: url(https://i.imgur.com/XgG68iB.png);
 }
 
+/* Takato Yamamoto */
+[href*="people/8669-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cZuhf6k.png);
+}
+[href*="people/8669-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SE0YBtU.png);
+}
+
 /* ПРОЧИЕ ЛЮДИ */
 /* Yoko Kanno */
 [href*="people/508-"] {
@@ -3990,4 +4030,14 @@
 [href*="people/40667-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Yq1z37I.png);
+}
+
+/* Noriyoshi Ohrai */
+[href*="people/66224-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SuKLa50.png);
+}
+[href*="people/66224-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oJZiqWd.png);
 }
