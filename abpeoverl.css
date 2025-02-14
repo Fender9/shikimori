@@ -216,7 +216,7 @@
   top: 1px;
 }
 
-[href*="animes/1-"]::after {
+.cover[href*="animes/1-"]::after {
   content: " ";
   position: absolute !important;
   top: 0.5rem;
@@ -448,7 +448,7 @@
   top: 1px;
 }
 
-[href*="mangas/104-"]::after {
+.cover[href*="mangas/104-"]::after {
   content: " ";
   position: absolute !important;
   top: 0.5rem;
@@ -554,7 +554,7 @@
 } */
 
 /* ЗАРЕГОТЫЧ */
-[href*="ranobe/9726-"]::after {
+.cover[href*="ranobe/9726-"]::after {
   content: " ";
   position: absolute !important;
   top: 0.5rem;
