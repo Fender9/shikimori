@@ -3430,15 +3430,19 @@
 }
 
 /* Yoshikazu Yasuhiko */
+[href*="people/2220-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zQii9U2.png);
+}
 [href*="people/2220-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/r2Mu9wF.png);
+  --custom-image: url(https://i.imgur.com/q9FaWtb.png);
 }
 
 /* Katsumi Enami */
 [href*="people/2949-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/q9FaWtb.png);
+  --custom-image: url(https://i.imgur.com/r2Mu9wF.png);
 }
 [href*="people/2949-"]:hover {
   --show-default: 0;
