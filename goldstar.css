@@ -583,6 +583,30 @@
   content: "Такеши Накацука";
 }
 
+/* Шинтаро Каго */
+.cover[href*="people/5547"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5547"] .title::after {
+  content: "Шинтаро Каго";
+}
+
+/* Ясуси Исии */
+.cover[href*="people/5346"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5346"] .title::after {
+  content: "Ясуши Ишии";
+}
+
+/* Тацуо Ёшида */
+.cover[href*="people/5241"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5241"] .title::after {
+  content: "Тацуо Ёшида";
+}
+
 /* Нико Робин */
 .cover[href*="characters/61"] .title span {
   display: none !important;
