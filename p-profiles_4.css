@@ -202,7 +202,7 @@
 /* Kyojin no Hoshi */
 [href*="animes/5834-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/QdqudR0.png);
+  --custom-image: url(https://i.imgur.com/srkCf9h.png);
 }
 [href*="animes/5834-"]:hover {
   --show-default: 0;
@@ -3362,11 +3362,11 @@
 /* Akio Watanabe */
 [href*="people/5724-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/tvwi6WP.png);
+  --custom-image: url(https://i.imgur.com/5gnBkgV.png);
 }
 [href*="people/5724-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/5gnBkgV.png);
+  --custom-image: url(https://i.imgur.com/LraEvgu.png);
 }
 
 /* Take */
@@ -3432,13 +3432,13 @@
 /* Yoshikazu Yasuhiko */
 [href*="people/2220-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/V8DZ5Nd.png);
+  --custom-image: url(https://i.imgur.com/r2Mu9wF.png);
 }
 
 /* Katsumi Enami */
 [href*="people/2949-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/r2Mu9wF.png);
+  --custom-image: url(https://i.imgur.com/q9FaWtb.png);
 }
 [href*="people/2949-"]:hover {
   --show-default: 0;
@@ -4040,4 +4040,80 @@
 [href*="people/66224-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/oJZiqWd.png);
+}
+
+/* Yasushi Ishii */
+[href*="people/5346-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Pr7o09x.png);
+}
+
+/* Atsushi Sakurai */
+[href*="people/6672-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3U5VT9r.png);
+}
+[href*="people/6672-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Tzsc5Gw.png);
+}
+
+/* Toe */
+[href*="people/65268-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sRnUyx2.png);
+}
+[href*="people/65268-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XrfdjYB.png);
+}
+
+/* tricot */
+[href*="people/78325-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OixbkMU.png);
+}
+[href*="people/78325-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HWf6t0a.png);
+}
+
+/* Perfume */
+[href*="people/31707-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ii98rMf.png);
+}
+[href*="people/31707-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Eoh38SM.png);
+}
+
+/* Otoboke Beaver */
+[href*="people/46396-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4K7eCTJ.png);
+}
+[href*="people/46396-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UmDp3DB.png);
+}
+
+/* Keigo Oyamada */
+[href*="people/36613-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DiATEs8.png);
+}
+[href*="people/36613-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lS0iLRF.png);
+}
+
+/* Fishmans */
+[href*="people/72664-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4DwRIy8.png);
+}
+[href*="people/72664-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/F56C14y.png);
 }
