@@ -1,0 +1,77 @@
+/* НАСТРОЙКА СПИСКА */
+.p-profiles-favorites .cc-favourites:last-child {
+  display: flex;
+  flex-wrap: wrap;
+}
+.p-profiles-favorites .cc-favourites:last-child::before {
+  content: "ХУДОЖНИКИ";
+  order: 1;
+  flex: 1 0 100%;
+  box-sizing: border-box;
+  /* оформление */
+    border: none;
+    border-radius: 13px;
+    box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2);
+    background: rgba(var(--block-color), 0.6);
+    transition: 0.3s ease, -webkit-0 .3s ease, width 0s, margin 0s, padding 0s, font-size 0s, height 0s, top 0s, left 0s, line-height 0s, min-height 0s;
+    font-size: 14px;
+    color: rgba(var(--dark-color), 1);
+    height: 28px;
+    padding: 0 14px 0;
+    display: flex;
+    line-height: 1.5;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+    position: relative;
+    overflow: visible;
+    font-family: "Comfortaa";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Comfortaa Bold"), local("Comfortaa-Bold"),
+    url(https://fonts.gstatic.com/s/comfortaa/v10/fND5XPYKrF2tQDwwfWZJI5X5f-9o1vgP2EXwfjgl7AY.woff2) format("woff2");
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* СПИСОК ЛЮДЕЙ */
+.p-profiles-favorites .c-person.entry-2967, /* AMANO */
+.p-profiles-favorites .c-person.entry-33589, /* KANEKO */
+.p-profiles-favorites .c-person.entry-46007, /* AKIHIKO YOSHIDA */
+.p-profiles-favorites .c-person.entry-10875, /* TAKE */
+.p-profiles-favorites .c-person.entry-48931, /* PABLO UCHIDA */
+.p-profiles-favorites .c-person.entry-6987, /* NAOYUKI KATO */
+.p-profiles-favorites .c-person.entry-2220, /* YOSHIKAZU YASUHIKO */
+.p-profiles-favorites .c-person.entry-12279, /* SOEJIMA */
+.p-profiles-favorites .c-person.entry-6450, /* HIROKAZU */
+.p-profiles-favorites .c-person.entry-8108, /* YOJI SHINKAWA */
+.p-profiles-favorites .c-person.entry-7314, /* AYAMI KOJIMA */
+.p-profiles-favorites .c-person.entry-66224, /* NORIYOSHI ORAI */
+.p-profiles-favorites .c-person.entry-3158, /* YOSHIYUKI SADAMOTO */
+.p-profiles-favorites .c-person.entry-3445, /* RANGE MURATA */
+.p-profiles-favorites .c-person.entry-8594, /* VOFAN */
+.p-profiles-favorites .c-person.entry-10145, /* HUKE */
+.p-profiles-favorites .c-person.entry-30431, /* MIKI SUGINA */
+.p-profiles-favorites .c-person.entry-12833, /* KIMIHIKO FUJISAKA */
+.p-profiles-favorites .c-person.entry-2832, /* YUSUKE KOZAKI */
+.p-profiles-favorites .c-person.entry-1932, /* ITO OGURE */
+.p-profiles-favorites .c-person.entry-66223, /* HAJIME SARAYAMA */
+.p-profiles-favorites .c-person.entry-8430, /* MITSUMI INOMATA */
+.p-profiles-favorites .c-person.entry-24539, /* KINU NISHIMURA */
+.p-profiles-favorites .c-person.entry-5215, /* SHINICHI SAKAMOTO */
+.p-profiles-favorites .c-person.entry-2609, /* MASAMUNE SHIROW */
+.p-profiles-favorites .c-person.entry-40449, /* MASAKANE YONKURA */
+.p-profiles-favorites .c-person.entry-8683, /* MOEBIUS */
+.p-profiles-favorites .c-person.entry-3906, /* TAKUMA YOKOTA */
+.p-profiles-favorites .c-person.entry-61271, /* TAKOLEGS */
+.p-profiles-favorites .c-person.entry-2949, /* KATSUMI ENAMI */
+.p-profiles-favorites .c-person.entry-4472, /* NAO EMOTO */
+.p-profiles-favorites .c-person.entry-4435, /* KATSUYA TERADA */
+.p-profiles-favorites .c-person.entry-14881, /* HIDARI */
+.p-profiles-favorites .c-person.entry-36846, /* TADANORI YOKOO */
+.p-profiles-favorites .c-person.entry-27517, /* KINAKO */
+.p-profiles-favorites .c-person.entry-30313, /* NAMANIKU ATK */
+.p-profiles-favorites .c-person.entry-7757, /* HIROKI HARUSE */
+.p-profiles-favorites .c-person.entry-5547, /* SHINTARO KAGO */
+.p-profiles-favorites .c-person.entry-2974, /* SHIROW MIWA */
+.p-profiles-favorites .c-person.entry-43854 /* YUKIHIRO KAJIMOTO */ {
+  order: 1;
+}
