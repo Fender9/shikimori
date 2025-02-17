@@ -162,3 +162,171 @@
 .cover[href*="people/12833-"] .title::after {
   content: "Кимихико Фуджисака";
 }
+
+/* ЁДЖИ ШИНКАВА */
+/* ФИКС ПОДСКАЗКИ */
+.p-profiles .tooltip-details:has(.name[href*="people/5731-"]) .inner .name-ru {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="people/5731-"]) .inner .name-en {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="people/5731-"]) .inner .name-ru::before {
+  content: "Ёджи Шинкава";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="people/5731-"]) .inner .name-en::before {
+  content: "Yoji Shinkawa";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="people/5731-"]) .inner .text .line-container:nth-child(1) .line .value {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="people/5731-"]) .inner .text .line-container:nth-child(1) .line .value::before  {
+  content: "新川 洋司";
+  font-size: 12px;
+}
+.p-profiles .tooltip-details:has(.name[href*="people/5731-"]) .inner .text .line-container:nth-child(2) .line .value {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="people/5731-"]) .inner .text .line-container:nth-child(2) .line .value::before  {
+  content: "25 декабря 1971";
+  font-size: 12px;
+}
+
+/* ТАЙТЛЫ */
+/* MGS 2 */
+[href*="mangas/22602-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yv9aVJe.png);
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/22602-"]) .b-user_rate {
+  display: none;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/22602-"]) .inner .name-ru {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/22602-"]) .inner .name-en {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/22602-"]) .inner .name-ru::before {
+  content: "Metal Gear Solid 2: Sons of Liberty";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/22602-"]) .inner .name-en::before {
+  content: "Metal Gear Solid 2: Sons of Liberty";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/22602-"]) .inner .b-text_with_paragraphs {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/22602-"]) .inner .b-text_with_paragraphs::before {
+  content: "В 2007 году, через два года после инцидента на Шэдоу-Мозес, Солид Снэйк расследует информацию о новом проекте Metal Gear в Нью-Йорке. Через два года новичок-агент FOXHOUND Райден, на своей первой миссии проникает на морское очистное сооружение Big Shell в ответ на террористический захват группой под названием Сыны Свободы.";
+  font-size: 12px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/22602-"]) .inner .rating {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/22602-"]) .inner .rating::before {
+  content: "8.84";
+  font-size: 22px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/22602-"]) .inner .line-container {
+  display: none;
+}
+/* Anubis: Zone of the Enders */
+[href*="mangas/8609-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QZFSQYj.png);
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/8609-"]) .b-user_rate {
+  display: none;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/8609-"]) .inner .name-ru {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/8609-"]) .inner .name-en {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/8609-"]) .inner .name-ru::before {
+  content: "Anubis: Zone of the Enders";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/8609-"]) .inner .name-en::before {
+  content: "Anubis: Zone of the Enders";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/8609-"]) .inner .b-text_with_paragraphs {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/8609-"]) .inner .b-text_with_paragraphs::before {
+  content: "Два года спустя после событий Zone of the Enders, шахтер Динго Эгрет случайно находит орбитальный фрейм Jehuty на луне Юпитера, Каллисто. Войдя в него, чтобы спастись от нападающих солдат BAHRAM, он вновь оказывается втянутым в конфликт между BAHRAM и Космическими Силами.";
+  font-size: 12px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/8609-"]) .inner .rating {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/8609-"]) .inner .rating::before {
+  content: "7.26";
+  font-size: 22px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/8609-"]) .inner .line-container {
+  display: none;
+}
+/* Death Stranding */
+[href*="mangas/24223-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tmOLFAO.png);
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/24223-"]) .b-user_rate {
+  display: none;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/24223-"]) .inner .name-ru {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/24223-"]) .inner .name-en {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/24223-"]) .inner .name-ru::before {
+  content: "Death Stranding";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/24223-"]) .inner .name-en::before {
+  content: "Death Stranding";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/24223-"]) .inner .b-text_with_paragraphs {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/24223-"]) .inner .b-text_with_paragraphs::before {
+  content: "Сэм Бриджес — курьер, задача которого восстановить связи между изолированными регионами разрушенной Америки. В процессе своего путешествия Сэм открывает тайны своего прошлого и пытается предотвратить полное вымирание человечества.";
+  font-size: 12px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/24223-"]) .inner .rating {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/24223-"]) .inner .rating::before {
+  content: "7.72";
+  font-size: 22px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/24223-"]) .inner .line-container {
+  display: none;
+}
+
+/* ПОСТЕР */
+[href*="people/5731-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qw4roHg.png);
+}
+[href*="people/5731-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tD4QQKZ.png);
+}
+
+/* ИМЯ СТРАНИЦА */
+.cover[href*="people/5731-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5731-"] .title::after {
+  content: "Ёджи Шинкава";
+}
