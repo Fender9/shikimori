@@ -171,12 +171,66 @@
 }
 
 /* Джун Айкава */
-.cover[href*="characters/29595"] .title span {
+.cover[href*="characters/29595-"] .title span {
   display: none !important;
 }
-.cover[href*="characters/29595"] .title::after {
+.cover[href*="characters/29595-"] .title::after {
   content: "Джун Айкава 🗲";
   color: #FF0000;
+}
+
+/* Каим */
+.cover[href*="characters/109471-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/109471-"] .title::after {
+  content: "Каим ";
+  color: #FF0000;
+}
+
+/* Соджиро Шизуки */
+.cover[href*="characters/61129-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/61129-"] .title::after {
+  content: "Соджиро Шизуки ";
+  color: #FF0000;
+}
+
+/* Хитошики Зэрозаки */
+.cover[href*="characters/34293-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/34293-"] .title::after {
+  content: "Хитошики Зэрозаки 🗡";
+  color: #DDE5E7;
+}
+
+/* Мая Амано */
+.cover[href*="characters/126857-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/126857-"] .title::after {
+  content: "Мая Амано ♥";
+  color: #EBD7DD;
+}
+
+/* Лэйдзи Мацумото */
+.cover[href*="people/2597-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2597-"] .title::after {
+  content: "Лэйдзи Мацумото ✎";
+  color: #fde68f;
+}
+
+/* Киёхико Адзума */
+.cover[href*="people/1939-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/1939-"] .title::after {
+  content: "Киёхико Адзума ✎";
+  color: #fde68f;
 }
 
 /* РЕНЕЙМЫ */
@@ -190,10 +244,10 @@
 }
 
 /* Бей Эйс! OVA */
-.cover[href*="animes/314"] .title span {
+.cover[href*="animes/314-"] .title span {
   display: none !important;
 }
-.cover[href*="animes/314"] .title::after {
+.cover[href*="animes/314-"] .title::after {
   content: "Бей эйс! OVA";
 }
 
@@ -328,297 +382,313 @@
 }
 
 /* Джерард Уэй */
-.cover[href*="people/7894"] .title span {
+.cover[href*="people/7894-"] .title span {
   display: none !important;
 }
-.cover[href*="people/7894"] .title::after {
+.cover[href*="people/7894-"] .title::after {
   content: "My Chemical Romance";
 }
 
 /* Кэйичи Танаами */
-.cover[href*="people/28807"] .title span {
+.cover[href*="people/28807-"] .title span {
   display: none !important;
 }
-.cover[href*="people/28807"] .title::after {
+.cover[href*="people/28807-"] .title::after {
   content: "Кэйичи Танаами";
 }
 
 /* Такаши Мураками */
-.cover[href*="people/7963"] .title span {
+.cover[href*="people/7963-"] .title span {
   display: none !important;
 }
-.cover[href*="people/7963"] .title::after {
+.cover[href*="people/7963-"] .title::after {
   content: "Такаши Мураками";
 }
 
 /* Хироши Нагахама */
-.cover[href*="people/4346"] .title span {
+.cover[href*="people/4346-"] .title span {
   display: none !important;
 }
-.cover[href*="people/4346"] .title::after {
+.cover[href*="people/4346-"] .title::after {
   content: "Хироши Нагахама";
 }
 
 /* Мамору Ошии */
-.cover[href*="people/4097"] .title span {
+.cover[href*="people/4097-"] .title span {
   display: none !important;
 }
-.cover[href*="people/4097"] .title::after {
+.cover[href*="people/4097-"] .title::after {
   content: "Мамору Ошии";
 }
 
 /* Шинго Нацумэ */
-.cover[href*="people/28579"] .title span {
+.cover[href*="people/28579-"] .title span {
   display: none !important;
 }
-.cover[href*="people/28579"] .title::after {
+.cover[href*="people/28579-"] .title::after {
   content: "Шинго Нацумэ";
 }
 
 /* Ами Кошимидзу */
-.cover[href*="people/70"] .title span {
+.cover[href*="people/70-"] .title span {
   display: none !important;
 }
-.cover[href*="people/70"] .title::after {
+.cover[href*="people/70-"] .title::after {
   content: "Ами Кошимидзу";
 }
 
 /* Миюки Саваширо */
-.cover[href*="people/99"] .title span {
+.cover[href*="people/99-"] .title span {
   display: none !important;
 }
-.cover[href*="people/99"] .title::after {
+.cover[href*="people/99-"] .title::after {
   content: "Миюки Саваширо";
 }
 
 /* Юичи Накамура */
-.cover[href*="people/513"] .title span {
+.cover[href*="people/513-"] .title span {
   display: none !important;
 }
-.cover[href*="people/513"] .title::after {
+.cover[href*="people/513-"] .title::after {
   content: "Юичи Накамура";
 }
 
 /* Шиничиро Мики */
-.cover[href*="people/22"] .title span {
+.cover[href*="people/22-"] .title span {
   display: none !important;
 }
-.cover[href*="people/22"] .title::after {
+.cover[href*="people/22-"] .title::after {
   content: "Шиничиро Мики";
 }
 
 /* Манкичи Тогава */
-.cover[href*="characters/193546"] .title span {
+.cover[href*="characters/193546-"] .title span {
   display: none !important;
 }
-.cover[href*="characters/193546"] .title::after {
+.cover[href*="characters/193546-"] .title::after {
   content: "Манкичи Тогава";
 }
 
 /* Сатору Годжо */
-.cover[href*="characters/164471"] .title span {
+.cover[href*="characters/164471-"] .title span {
   display: none !important;
 }
-.cover[href*="characters/164471"] .title::after {
+.cover[href*="characters/164471-"] .title::after {
   content: "Сатору Годжо";
 }
 
 /* Дейшу Кайки */
-.cover[href*="characters/53641"] .title span {
+.cover[href*="characters/53641-"] .title span {
   display: none !important;
 }
-.cover[href*="characters/53641"] .title::after {
+.cover[href*="characters/53641-"] .title::after {
   content: "Кайки Дейшу";
 }
 
 /* Тоуко Кучики */
-.cover[href*="characters/29926"] .title span {
+.cover[href*="characters/29926-"] .title span {
   display: none !important;
 }
-.cover[href*="characters/29926"] .title::after {
+.cover[href*="characters/29926-"] .title::after {
   content: "Тоуко Кучики";
 }
 
 /* Аясэ Кишимото */
-.cover[href*="characters/16414"] .title span {
+.cover[href*="characters/16414-"] .title span {
   display: none !important;
 }
-.cover[href*="characters/16414"] .title::after {
+.cover[href*="characters/16414-"] .title::after {
   content: "Аясэ Кишимото";
 }
 
 /* Клэр Фаррон */
-.cover[href*="characters/118835"] .title span {
+.cover[href*="characters/118835-"] .title span {
   display: none !important;
 }
-.cover[href*="characters/118835"] .title::after {
+.cover[href*="characters/118835-"] .title::after {
   content: "Клэр Фаррон";
 }
 
 /* Санпей Ширато */
-.cover[href*="people/6586"] .title span {
+.cover[href*="people/6586-"] .title span {
   display: none !important;
 }
-.cover[href*="people/6586"] .title::after {
+.cover[href*="people/6586-"] .title::after {
   content: "Санпей Ширато";
 }
 
 /* Ёшитоши Абэ */
-.cover[href*="people/1991"] .title span {
+.cover[href*="people/1991-"] .title span {
   display: none !important;
 }
-.cover[href*="people/1991"] .title::after {
+.cover[href*="people/1991-"] .title::after {
   content: "Ёшитоши Абэ";
 }
 
 /* Шотаро Ишиномори */
-.cover[href*="people/2478"] .title span {
+.cover[href*="people/2478-"] .title span {
   display: none !important;
 }
-.cover[href*="people/2478"] .title::after {
+.cover[href*="people/2478-"] .title::after {
   content: "Шотаро Ишиномори";
 }
 
 /* Шигенори Соеджима */
-.cover[href*="people/12279"] .title span {
+.cover[href*="people/12279-"] .title span {
   display: none !important;
 }
-.cover[href*="people/12279"] .title::after {
+.cover[href*="people/12279-"] .title::after {
   content: "Шигенори Соеджима";
 }
 
 /* Ёшикадзу Ясухико */
-.cover[href*="people/2220"] .title span {
+.cover[href*="people/2220-"] .title span {
   display: none !important;
 }
-.cover[href*="people/2220"] .title::after {
+.cover[href*="people/2220-"] .title::after {
   content: "Ёшикадзу Ясухико";
 }
 
 /* Сэйичи Хаяши */
-.cover[href*="people/5926"] .title span {
+.cover[href*="people/5926-"] .title span {
   display: none !important;
 }
-.cover[href*="people/5926"] .title::after {
+.cover[href*="people/5926-"] .title::after {
   content: "Сэйичи Хаяши";
 }
 
 /* Ацуши Канеко */
-.cover[href*="people/3628"] .title span {
+.cover[href*="people/3628-"] .title span {
   display: none !important;
 }
-.cover[href*="people/3628"] .title::after {
+.cover[href*="people/3628-"] .title::after {
   content: "Ацуши Канеко";
 }
 
 /* Ёшиюки Садамото */
-.cover[href*="people/3158"] .title span {
+.cover[href*="people/3158-"] .title span {
   display: none !important;
 }
-.cover[href*="people/3158"] .title::after {
+.cover[href*="people/3158-"] .title::after {
   content: "Ёшиюки Садамото";
 }
 
 /* Шиничи Сакамото */
-.cover[href*="people/5215"] .title span {
+.cover[href*="people/5215-"] .title span {
   display: none !important;
 }
-.cover[href*="people/5215"] .title::after {
+.cover[href*="people/5215-"] .title::after {
   content: "Шиничи Сакамото";
 }
 
 /* Масамунэ Широ */
-.cover[href*="people/2609"] .title span {
+.cover[href*="people/2609-"] .title span {
   display: none !important;
 }
-.cover[href*="people/2609"] .title::after {
+.cover[href*="people/2609-"] .title::after {
   content: "Масамунэ Широ";
 }
 
 /* Кину Нишимура */
-.cover[href*="people/24539"] .title span {
+.cover[href*="people/24539-"] .title span {
   display: none !important;
 }
-.cover[href*="people/24539"] .title::after {
+.cover[href*="people/24539-"] .title::after {
   content: "Кину Нишимура";
 }
 
 /* Широ Мива */
-.cover[href*="people/2974"] .title span {
+.cover[href*="people/2974-"] .title span {
   display: none !important;
 }
-.cover[href*="people/2974"] .title::after {
+.cover[href*="people/2974-"] .title::after {
   content: "Широ Мива";
 }
 
 /* Акихико Ёшида */
-.cover[href*="people/46007"] .title span {
+.cover[href*="people/46007-"] .title span {
   display: none !important;
 }
-.cover[href*="people/46007"] .title::after {
+.cover[href*="people/46007-"] .title::after {
   content: "Акихико Ёшида";
 }
 
 /* Пабло Учида */
-.cover[href*="people/48931"] .title span {
+.cover[href*="people/48931-"] .title span {
   display: none !important;
 }
-.cover[href*="people/48931"] .title::after {
+.cover[href*="people/48931-"] .title::after {
   content: "Пабло Учида";
 }
 
 /* Ичиро Мидзуки */
-.cover[href*="people/6024"] .title span {
+.cover[href*="people/6024-"] .title span {
   display: none !important;
 }
-.cover[href*="people/6024"] .title::after {
+.cover[href*="people/6024-"] .title::after {
   content: "Ичиро Мидзуки";
 }
 
 /* Такеши Накацука */
-.cover[href*="people/55462"] .title span {
+.cover[href*="people/55462-"] .title span {
   display: none !important;
 }
-.cover[href*="people/55462"] .title::after {
+.cover[href*="people/55462-"] .title::after {
   content: "Такеши Накацука";
 }
 
 /* Шинтаро Каго */
-.cover[href*="people/5547"] .title span {
+.cover[href*="people/5547-"] .title span {
   display: none !important;
 }
-.cover[href*="people/5547"] .title::after {
+.cover[href*="people/5547-"] .title::after {
   content: "Шинтаро Каго";
 }
 
 /* Ясуси Исии */
-.cover[href*="people/5346"] .title span {
+.cover[href*="people/5346-"] .title span {
   display: none !important;
 }
-.cover[href*="people/5346"] .title::after {
+.cover[href*="people/5346-"] .title::after {
   content: "Ясуши Ишии";
 }
 
 /* Тацуо Ёшида */
-.cover[href*="people/5241"] .title span {
+.cover[href*="people/5241-"] .title span {
   display: none !important;
 }
-.cover[href*="people/5241"] .title::after {
+.cover[href*="people/5241-"] .title::after {
   content: "Тацуо Ёшида";
 }
 
 /* Нико Робин */
-.cover[href*="characters/61"] .title span {
+.cover[href*="characters/61-"] .title span {
   display: none !important;
 }
-.cover[href*="characters/61"] .title::after {
+.cover[href*="characters/61-"] .title::after {
   content: "Нико Робин";
 }
 
 /* Казума Канеко */
-.cover[href*="people/33589"] .title span {
+.cover[href*="people/33589-"] .title span {
   display: none !important;
 }
-.cover[href*="people/33589"] .title::after {
+.cover[href*="people/33589-"] .title::after {
   content: "Кадзума Канеко";
+}
+
+/* Ичи */
+.cover[href*="characters/80839-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/80839-"] .title::after {
+  content: "Ичи";
+}
+
+/* Тошидзо Хидзиката */
+.cover[href*="characters/138492-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/138492-"] .title::after {
+  content: "Тошидзо Хидзиката";
 }
