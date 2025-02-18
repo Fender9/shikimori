@@ -328,5 +328,6 @@
   display: none !important;
 }
 .cover[href*="people/5731-"] .title::after {
-  content: "Ёджи Шинкава";
+  content: "Ёджи Шинкава 🖌";
+  color: #fde68f;
 }
