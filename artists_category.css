@@ -1,3 +1,22 @@
+/* МУЗЫКАНТЫ ПЕРЕИМЕНОВАНИЕ */
+.p-profiles-favorites .subheadline:nth-child(23) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:nth-child(23)::after {
+  content: "МУЗЫКАНТЫ";
+  vertical-align: top;
+  font-size: 15px;
+}
+/*
+ANIME BAR - (2)
+MANGA BAR - (5)
+RANOBE BAR - (8)
+MALE CHARS BAR - (11)
+VA BAR - (14)
+DIRECTOR BAR - (17)
+MANGAKA BAR - (20)
+MUSICIAN BAR - (23)
+*/
 /* НАСТРОЙКА СПИСКА */
 .p-profiles-favorites .cc-favourites:last-child {
   display: flex;
