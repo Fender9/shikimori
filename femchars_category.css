@@ -1,0 +1,63 @@
+/* FEM CHARS PANEL */
+.p-profiles-favorites .cc-favourites:has(>.c-character) {
+  display: flex;
+  flex-wrap: wrap;
+}
+.p-profiles-favorites .c-character.entry-23602, /* SHINOBU */
+.p-profiles-favorites .c-character.entry-11298, /* AOKO AOZAKI */
+.p-profiles-favorites .c-character.entry-118835, /* CLAIRE */
+.p-profiles-favorites .c-character.entry-34470, /* KURISU */
+.p-profiles-favorites .c-character.entry-10296, /* HIROMI OKA */
+.p-profiles-favorites .c-character.entry-196898, /* MOMO AYASE */
+.p-profiles-favorites .c-character.entry-16414, /* AYASE KISHIMOTO */
+.p-profiles-favorites .c-character.entry-6321, /* MAETEL */
+.p-profiles-favorites .c-character.entry-212605, /* REI REIHO */
+.p-profiles-favorites .c-character.entry-29595, /* JUN AIKAWA */
+.p-profiles-favorites .c-character.entry-29926, /* TOUKO KUCHIKI */
+.p-profiles-favorites .c-character.entry-61, /* NICO ROBIN */
+.p-profiles-favorites .c-character.entry-239799, /* JINX */
+.p-profiles-favorites .c-character.entry-1795, /* MOTOKO KUSANAGI */
+.p-profiles-favorites .c-character.entry-12343, /* NON GO */
+.p-profiles-favorites .c-character.entry-166439, /* MARIN KITAGAWA */
+.p-profiles-favorites .c-character.entry-126857, /* MAYA AMANO */
+.p-profiles-favorites .c-character.entry-13886 /* REIKO NATSUME */{
+  order: 1;
+}
+.p-profiles-favorites .cc-favourites:has(>.c-character)::before {
+  content: "ЖЕНСКИЕ ПЕРСОНАЖИ";
+  order: 1;
+  flex: 1 0 100%;
+  box-sizing: border-box;
+  margin-bottom: 10.5px;
+  /* оформление */
+    border: none;
+    border-radius: 13px;
+    box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2);
+    background: rgba(var(--block-color), 0.6);
+    transition: 0.3s ease, -webkit-0 .3s ease, width 0s, margin 0s, padding 0s, font-size 0s, height 0s, top 0s, left 0s, line-height 0s, min-height 0s;
+    font-size: 14px;
+    color: rgba(var(--dark-color), 1);
+    height: 28px;
+    padding: 0 14px 0;
+    display: flex;
+    line-height: 1.5;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+    position: relative;
+    overflow: visible;
+    font-family: "Comfortaa";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Comfortaa Bold"), local("Comfortaa-Bold"),
+    url(https://fonts.gstatic.com/s/comfortaa/v10/fND5XPYKrF2tQDwwfWZJI5X5f-9o1vgP2EXwfjgl7AY.woff2) format("woff2");
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-character) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-character)::after {
+  content: "Мужские персонажи";
+  vertical-align: top;
+  font-size: 14px;
+}
