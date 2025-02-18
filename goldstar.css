@@ -695,3 +695,11 @@
 .cover[href*="characters/138492-"] .title::after {
   content: "Тошидзо Хидзиката";
 }
+
+/* Ацуши Сакураи */
+.cover[href*="people/6672-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/6672-"] .title::after {
+  content: "Ацуши Сакураи";
+}
