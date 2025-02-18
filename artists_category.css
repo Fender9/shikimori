@@ -8,6 +8,7 @@
   order: 1;
   flex: 1 0 100%;
   box-sizing: border-box;
+  margin-bottom: 10.5px;
   /* оформление */
     border: none;
     border-radius: 13px;
