@@ -21,7 +21,7 @@
   display: none !important;
 }
 .cover[href*="ranobe/9726-"] .title::after {
-  content: "Зарегото ❂";
+  content: "Зарегото ⭗";
   color: #e2732b;
 }
 
@@ -148,7 +148,7 @@
   display: none !important;
 }
 .cover[href*="characters/23602-"] .title::after {
-  content: "Ошино Шинобу ⭗";
+  content: "Ошино Шинобу ❂";
   color: #fbec96;
 }
 
