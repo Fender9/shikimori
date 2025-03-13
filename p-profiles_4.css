@@ -2847,6 +2847,16 @@
   --custom-image: url(https://i.imgur.com/miYOZmX.gif);
 }
 
+/* Godot */
+[href*="characters/17464-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XNv61bY.png);
+}
+[href*="characters/17464-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9US3Oem.gif);
+}
+
 /* СЕЙЮ */
 /* Hiroshi Kamiya */
 [href*="people/118-hiroshi-kamiya"] {
