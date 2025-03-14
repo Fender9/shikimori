@@ -645,8 +645,8 @@
   top: 1px;
 }
 
-/* Shinji Ikari */
-.tira-page [href*="characters/89-"] {
+/* Godot */
+.tira-page [href*="characters/17464-"] {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
@@ -655,7 +655,7 @@
   top: 1px;
 }
 
-.tira-page [href*="characters/89-"]:hover {
+.tira-page [href*="characters/17464-"]:hover {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
