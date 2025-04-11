@@ -7,7 +7,7 @@ https://shikimori.one/tests/reset_styles_cache
 4. custom-person.css — КАСТОМНЫЙ ЧЕЛОВЕК В ИЗБРАННОМ;
 5. favcharsam.css — ИD ПЕРСЫ ЗОЛОТЫЕ РАМКИ;
 6. favgames.css — ТОП 8 ИГР;
-7. femcharcs_category.css — КАТЕГОРИЯ ФЕМЧАРОВ В ИЗБРАННОМ;
+7. femchars_category.css — КАТЕГОРИЯ ФЕМЧАРОВ В ИЗБРАННОМ;
 8. g-profiles.css — ХАВЕР ИГРОПЕРСЫ;
 9. glow.css — ИЗБРАННОЕ DELUXE;
 10. goldstar.css — ЗВЁЗДОЧКИ + ПЕРЕИМЕНОВАНИЯ;
