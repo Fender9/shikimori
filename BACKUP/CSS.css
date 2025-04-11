@@ -1,21 +1,55 @@
+/* E-DESIGN BRIGHTNESS FIX */
+img {
+    -webkit-filter: brightness(1);
+}
+
+.b-image img {
+  -webkit-filter: brightness(1);
+          filter: brightness(1);
+}
+
+/* FEM CHARS CATEGORY */
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/femchars_category.css);
+  
+/* ARTISTS CATEGORY */
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/artists_category.css);
+
+/* CUSTOM PAGES */
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/custom-person.css);
+
+/* NICKNAME ANIM */
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/nickname_anim.css);
+
 /* GLOW */
 @import url(https://raw.githubusercontent.com/Fender9/shikimori/main/glow.css);
 
 /* ОБЛОЖКИ */
 @import url(https://css-club.web.app/css/custom_posters.min.css);
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/p-profiles_4.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/p-profiles_4.css");
 
 /* ЗАПАДНЫЕ ТАЙТЛЫ */
 @import url("https://raw.githubusercontent.com/Fender9/shikimori/main/western.css");
 
 /* ABSOLUTE PEAK OVERLAY*/
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/main/abpeoverl.css);
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/abpeoverl.css);
+
+/* GOLD CHARS AM*/
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/favcharsam.css);
+
+/* GOLD ★*/
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/goldstar.css);
 
 /* ИГРЫ ТОП 8*/
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/main/favgames.css);
+@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/favgames.css);
 
 /* ИГРОВЫЕ ПЕРСЫ ДАБЛ */
 @import url("https://raw.githubusercontent.com/Fender9/shikimori/main/g-profiles.css");
+
+/* МУЗЫКА ДАБЛ */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/m-profiles.css");
+
+/* КИНЧ ДАБЛ */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/mov-profiles.css");
 
 /* АНИМ. АКТИВНОСТЬ */
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/q05_animated_activity_graph.css");
@@ -24,13 +58,11 @@
 @import url("https://raw.githubusercontent.com/Fender9/shikimori/main/pbd.css");
 
 /* МЕЙН СТИЛЬ */
- @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_1.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_1.css");
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_2.css");
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_3.css");
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_4mob.css");
-body:after {
-  background-image: url("https://i.imgur.com/0eiEDYy.gif");
-}
+https://i.imgur.com/0eiEDYy.gif
 
 .l-footer:after {
   content: "*TiraRemy Purple*";
@@ -78,30 +110,7 @@ body:after {
 }
 
 /* НОРМАЛЬНЫЙ СПОЙЛЕР */
-.p-profiles .about.block .b-spoiler label {
-border: none;
-display: inline-block !important;
-font-weight: bold;
-color: #000;
-background: #ddafeb;
-height: 30px;
-width: 100%;
-font-size: 12pt;
-padding-top: 3px;
-text-align: center;
-margin-bottom: 5px;
-}
-
-.p-profiles .about.block .b-spoiler .after:before, .about.block .b-spoiler .before:before {
-content: '';
-}
-
-.p-profiles .about.block .b-spoiler .before {
-width: 100%;
-height: 50px;
-display: inline-block !important;
-margin-top: -50px;
-}
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/spoiler.css");
 
 /* СКРЫТЬ ДОСТИЖЕНИЯ */
 .p-profiles-show .achievements > .cc-2 {
@@ -109,4 +118,11 @@ margin-top: -50px;
     overflow: hidden;
     transition: 0.5s;
 }
-.p-profiles-show .achievements:hover > div.cc-2 { max-height: 500px; }
+/*.p-profiles-show .achievements:hover > div.cc-2 { max-height: 500px; }*/
+
+/* АЛЬТ МЕНЮ САЙТА */
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/q08_alter_sitemenu.css");
+
+/* АНИМАЦИЯ ОТКРЫТИЯ SUBMENU */
+@import url("https://raw.githubusercontent.com/ALTaww/Shikimori-submenu/main/code.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/submenu.css");
