@@ -105,7 +105,7 @@
 
 /* Kazunobu Mineta */
 .b-image[data-attrs *= "https://i.imgur.com/dsRZJsD.png" ] {
-  --overlay-image: url("https://i.imgur.com/r5k5yu2.png");
+  --overlay-image: url("https://i.imgur.com/Otva9ry.png");
 }
 
 /* Kinoko Teikoku */
@@ -146,4 +146,14 @@
 /* 0.8Syooogeki */
 .b-image[data-attrs *= "https://i.imgur.com/BegVjdE.png" ] {
   --overlay-image: url("https://i.imgur.com/wGCSOOW.png");
+}
+
+/* WAKUSEI ABNORMAL */
+.b-image[data-attrs *= "https://i.imgur.com/DKALwfy.png" ] {
+  --overlay-image: url("https://i.imgur.com/S4xEcQe.png");
+}
+
+/* CQ */
+.b-image[data-attrs *= "https://i.imgur.com/Pe9lFKV.png" ] {
+  --overlay-image: url("https://i.imgur.com/jfcrx2b.png");
 }
