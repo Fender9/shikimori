@@ -4181,3 +4181,13 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/aGaO9lm.png);
 }
+
+/* Yoko Taro */
+[href*="people/29087-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ac2lDpH.png);
+}
+[href*="people/29087-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fWqHng8.gif);
+}
