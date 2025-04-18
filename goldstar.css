@@ -703,3 +703,43 @@
 .cover[href*="people/6672-"] .title::after {
   content: "Ацуши Сакураи";
 }
+
+/* Йоко Таро */
+.cover[href*="people/29087-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/29087-"] .title::after {
+  content: "Йоко Таро";
+}
+
+/* Нориёши Орай */
+.cover[href*="people/66224-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/66224-"] .title::after {
+  content: "Нориёши Орай";
+}
+
+/* Ясуши Нирасава */
+.cover[href*="people/61040-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/61040-"] .title::after {
+  content: "Ясуши Нирасава";
+}
+
+/* Шоу Тадзима */
+.cover[href*="people/2580-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2580-"] .title::after {
+  content: "Шоу Тадзима";
+}
+
+/* Шиничи Хиромото */
+.cover[href*="people/2486-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2486-"] .title::after {
+  content: "Шиничи Хиромото";
+}
