@@ -4191,3 +4191,43 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/fWqHng8.gif);
 }
+
+/* Shinichi Hiromoto */
+[href*="people/2486-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lOsr5el.png);
+}
+[href*="people/2486-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2NiyPN0.png);
+}
+
+/* Shouu Tajima */
+[href*="people/2580-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sIbcV9O.png);
+}
+[href*="people/2580-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/V4phxrB.png);
+}
+
+/* Yasushi Nirasawa */
+[href*="people/61040-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZmTGyaK.png);
+}
+[href*="people/61040-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cXMZVIu.png);
+}
+
+/* Hiroaki Samura */
+[href*="people/2843-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/N6AXrzz.png);
+}
+[href*="people/2843-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1Qj7pDO.png);
+}
