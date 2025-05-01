@@ -4241,3 +4241,93 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/1wz6GSo.png);
 }
+
+/* Mutsumi Sasaki */
+[href*="people/12278-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/EGeuLMY.png);
+}
+[href*="people/12278-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6jejhSD.png);
+}
+
+/* pako */
+[href*="people/5510-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WDIjA34.png);
+}
+[href*="people/5510-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bvuClSM.png);
+}
+
+/* Mai Yoneyama */
+[href*="people/39271-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ghdNR7k.png);
+}
+[href*="people/39271-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DDyffiJ.png);
+}
+
+/* Kususaga Rin */
+[href*="people/41591-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jtiudPx.png);
+}
+[href*="people/41591-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oj4BLvo.png);
+}
+
+/* redjuice */
+[href*="people/12587-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dPkCVCO.png);
+}
+[href*="people/12587-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fP9VF58.png);
+}
+
+/* Ryota-H */
+[href*="people/24369-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MtS5Mdl.png);
+}
+[href*="people/24369-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KqY2L6N.png);
+}
+
+/* Hiroaki Hashimoto */
+[href*="people/78784-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zldI4PL.png);
+}
+[href*="people/78784-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WkSAfyy.png);
+}
+
+/* Kim Hyung-tae */
+[href*="people/25277-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GtDYg0D.png);
+}
+[href*="people/25277-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rJKea4E.png);
+}
+
+/* Jun Suemi */
+[href*="people/40293-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/euNMrom.png);
+}
+[href*="people/40293-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BqlDsK2.png);
+}
