@@ -4331,3 +4331,13 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/BqlDsK2.png);
 }
+
+/* Melt-Banana */
+[href*="people/51252-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sRS4qtA.png);
+}
+[href*="people/51252-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nAHaDxn.png);
+}
