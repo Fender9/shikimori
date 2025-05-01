@@ -743,3 +743,19 @@
 .cover[href*="people/2486-"] .title::after {
   content: "Шиничи Хиромото";
 }
+
+/* Джун Суэми */
+.cover[href*="people/40293-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/40293-"] .title::after {
+  content: "Джун Суэми";
+}
+
+/* Хироаки Хашимото  */
+.cover[href*="people/78784-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/78784-"] .title::after {
+  content: "Хироаки Хашимото";
+}
