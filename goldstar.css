@@ -752,10 +752,58 @@
   content: "Джун Суэми";
 }
 
-/* Хироаки Хашимото  */
+/* Хироаки Хашимото */
 .cover[href*="people/78784-"] .title span {
   display: none !important;
 }
 .cover[href*="people/78784-"] .title::after {
   content: "Хироаки Хашимото";
+}
+
+/*  */
+.cover[href*="people/-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/-"] .title::after {
+  content: "";
+}
+
+/* Торес Шибамото */
+.cover[href*="people/6328-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/6328-"] .title::after {
+  content: "Торес Шибамото";
+}
+
+/* Хитоши Ашинано */
+.cover[href*="people/1869-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/1869-"] .title::after {
+  content: "Хитоши Ашинано";
+}
+
+/* Чики Оя  */
+.cover[href*="people/23871-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/23871-"] .title::after {
+  content: "Чики Оя";
+}
+
+/* Хидэки Таниучи */
+.cover[href*="people/6009-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/6009-"] .title::after {
+  content: "Хидэки Таниучи";
+}
+
+/* Томоми Кобаяши */
+.cover[href*="people/8705-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/8705-"] .title::after {
+  content: "Томоми Кобаяши";
 }
