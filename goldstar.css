@@ -648,7 +648,7 @@
   content: "Шинтаро Каго";
 }
 
-/* Ясуси Исии */
+/* Ясуши Ишии */
 .cover[href*="people/5346-"] .title span {
   display: none !important;
 }
@@ -769,11 +769,16 @@
 }
 
 /* Торес Шибамото */
-.cover[href*="people/6328-"] .title span {
-  display: none !important;
+.cover[href*="people/6328-"] .title {
+  font-size: 0 !important;
 }
+
 .cover[href*="people/6328-"] .title::after {
   content: "Торес Шибамото";
+  font-size: 13px;
+}
+.cover[href*="people/6328-"] .title.two_lined::after {
+  font-size: 11.5px;
 }
 
 /* Хитоши Ашинано */
