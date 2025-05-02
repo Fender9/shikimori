@@ -768,13 +768,13 @@
   content: "";
 }
 
-/* Торес Шибамото */
+/* Торэс Шибамото */
 .cover[href*="people/6328-"] .title {
   font-size: 0 !important;
 }
 
 .cover[href*="people/6328-"] .title::after {
-  content: "Торес Шибамото";
+  content: "Торэс Шибамото";
   font-size: 13px;
 }
 .cover[href*="people/6328-"] .title.two_lined::after {
