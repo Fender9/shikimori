@@ -298,32 +298,32 @@
 }
 
 /* One Piece */
-.tira-page [href*="mangas/z13-"] {
+.tira-page [href*="mangas/132678-"] {
   position: relative;
-  border: 2px solid #ed9528 !important;
-  outline: 2px solid #ed9528;
+  border: 2px solid #fbf66b !important;
+  outline: 2px solid #fbf66b;
   overflow: hidden;
   box-sizing: border-box;
   top: 1px;
 }
 
-.tira-page [href*="mangas/z13-"]:hover {
+.tira-page [href*="mangas/132678-"]:hover {
   position: relative;
-  border: 2px solid #ed9528 !important;
-  outline: 2px solid #ed9528;
+  border: 2px solid #fbf66b !important;
+  outline: 2px solid #fbf66b;
   overflow: hidden;
   box-sizing: border-box;
   top: 1px;
 }
 
-.tira-page [href*="mangas/z13-"]::after {
+.tira-page [href*="mangas/132678-"]::after {
   content: " ";
   position: absolute !important;
   top: 0.5rem;
   right: 0.4rem;
   height: 30px;
   width: 30px;
-  background-image: url('https://i.imgur.com/NecXeT4.png');
+  background-image: url('');
   background-size: cover;
   font-size: 35px;
   color: white;
