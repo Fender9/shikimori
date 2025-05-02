@@ -4235,7 +4235,7 @@
 /* Suzuhito Yasuda */
 [href*="people/3249-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/IqYNGGt.png);
+  --custom-image: url(https://i.ibb.co/7dtPWSvz/Suzuhito-Yasuda.png);
 }
 [href*="people/3249-"]:hover {
   --show-default: 0;
@@ -4340,4 +4340,84 @@
 [href*="people/51252-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/nAHaDxn.png);
+}
+
+/* Hitoshi Ashinano */
+[href*="people/1869-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3zFT02x.png);
+}
+[href*="people/1869-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/v9QuJq1.png);
+}
+
+/* Kazuo Umezu */
+[href*="people/2777-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ACZ2G2z.png);
+}
+[href*="people/2777-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/r10enQO.png);
+}
+
+/* Innocent Grey */
+[href*="people/35663-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ROPqwjM.png);
+}
+[href*="people/35663-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SdGF4Os.png);
+}
+
+/* Tomomi Kobayashi */
+[href*="people/8705-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8wo4iVa.png);
+}
+[href*="people/8705-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/k9mWqHd.png);
+}
+
+/* Hideki Taniuchi */
+[href*="people/6009-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CkKN1SL.png);
+}
+[href*="people/6009-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XrkVf7L.png);
+}
+
+/* Chiki Ooya */
+[href*="people/23871-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WoNGiUp.png);
+}
+[href*="people/23871-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tzVfOx5.png);
+}
+
+/* Thores Shibamoto */
+[href*="people/6328-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CppGUve.png);
+}
+[href*="people/6328-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qXwo62e.png);
+}
+
+/* Technoboys Pulcraft Green-Fund */
+[href*="people/34829-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9Y0vKTd.png);
+}
+[href*="people/34829-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ovBBwRt.png);
 }
