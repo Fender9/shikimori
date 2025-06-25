@@ -1,0 +1,99 @@
+/* FF1 */
+.b-image[data-attrs *= "https://i.imgur.com/n8N3bSs.png" ] {
+  --overlay-image: url("https://i.imgur.com/7xbzbgp.png");
+}
+
+/* FF2 */
+.b-image[data-attrs *= "https://i.imgur.com/ldujDg3.png" ] {
+  --overlay-image: url("https://i.imgur.com/1tbpWcL.png");
+}
+
+/* FF3 */
+.b-image[data-attrs *= "https://i.imgur.com/2tBjsL3.png" ] {
+  --overlay-image: url("https://i.imgur.com/kOacYW5.png");
+}
+
+/* FF4 */
+.b-image[data-attrs *= "https://i.imgur.com/n0KF6LB.png" ] {
+  --overlay-image: url("https://i.imgur.com/VACjRR4.png");
+}
+
+/* FF5 */
+.b-image[data-attrs *= "https://i.imgur.com/eMCIMrA.png" ] {
+  --overlay-image: url("https://i.imgur.com/H2IhJsO.png");
+}
+
+/* FF6 */
+.b-image[data-attrs *= "https://i.imgur.com/wjLovbP.png" ] {
+  --overlay-image: url("https://i.imgur.com/LRTy6N8.png");
+}
+
+/* FF7 */
+.b-image[data-attrs *= "https://i.imgur.com/bqHbo8j.png" ] {
+  --overlay-image: url("https://i.imgur.com/J83Ks3B.png");
+}
+
+/* FF8 */
+.b-image[data-attrs *= "https://i.imgur.com/MQDYfwL.png" ] {
+  --overlay-image: url("https://i.imgur.com/YKwMgZk.png");
+}
+
+/* FF9 */
+.b-image[data-attrs *= "https://i.imgur.com/CqdyPou.png" ] {
+  --overlay-image: url("https://i.imgur.com/WVH9QFq.png");
+}
+
+/* FF10 */
+.b-image[data-attrs *= "https://i.imgur.com/1G52w28.png" ] {
+  --overlay-image: url("https://i.imgur.com/TAEpTgb.png");
+}
+
+/* FF10-2 */
+.b-image[data-attrs *= "https://i.imgur.com/kYdNRYx.png" ] {
+  --overlay-image: url("https://i.imgur.com/ZmTyLtj.png");
+}
+
+/* FF11 */
+.b-image[data-attrs *= "https://i.imgur.com/Bgdpiti.png" ] {
+  --overlay-image: url("https://i.imgur.com/OShfQnb.png");
+}
+
+/* FF12 */
+.b-image[data-attrs *= "https://i.imgur.com/nTLqeKr.png" ] {
+  --overlay-image: url("https://i.imgur.com/HSHKPIl.png");
+}
+
+/* FF13 */
+.b-image[data-attrs *= "https://i.imgur.com/5Vz16v2.png" ] {
+  --overlay-image: url("https://i.imgur.com/7bIXJyc.png");
+}
+
+/* FF13-2 */
+.b-image[data-attrs *= "https://i.imgur.com/ERErhL5.png" ] {
+  --overlay-image: url("https://i.imgur.com/KeOE14V.png");
+}
+
+/* FF13-3 */
+.b-image[data-attrs *= "https://i.imgur.com/17YJU02.png" ] {
+  --overlay-image: url("https://i.imgur.com/5tfXCLR.png");
+}
+
+/* FF14 */
+.b-image[data-attrs *= "https://i.imgur.com/ZBs27qI.png" ] {
+  --overlay-image: url("https://i.imgur.com/lWIyoRn.png");
+}
+
+/* FF15 */
+.b-image[data-attrs *= "https://i.imgur.com/csC3Ako.png" ] {
+  --overlay-image: url("https://i.imgur.com/kbxWqBk.png");
+}
+
+/* FF16 */
+.b-image[data-attrs *= "https://i.imgur.com/jiY000p.png" ] {
+  --overlay-image: url("https://i.imgur.com/25IGo3W.png");
+}
+
+/* FFT0 */
+.b-image[data-attrs *= "https://i.imgur.com/CNLeMPV.png" ] {
+  --overlay-image: url("https://i.imgur.com/FuXBdpM.png");
+}
