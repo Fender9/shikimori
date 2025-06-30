@@ -32,33 +32,33 @@
   z-index: 1;
 }
 
-/* Kimi no Na wa. */
-.tira-page [href*="animes/32281-"] {
+/* Pluto */
+.tira-page [href*="animes/35737-"] {
   position: relative;
-  border: 2px solid #1c99d5 !important;
-  outline: 2px solid #1c99d5;
+  border: 2px solid #fe8731 !important;
+  outline: 2px solid #fe8731;
   overflow: hidden;
   box-sizing: border-box;
   top: 1px;
 }
 
-.tira-page [href*="animes/32281-"]:hover {
+.tira-page [href*="animes/35737-"]:hover {
   position: relative;
-  border: 2px solid #1c99d5 !important;
-  outline: 2px solid #1c99d5;
+  border: 2px solid #fe8731 !important;
+  outline: 2px solid #fe8731;
   overflow: hidden;
   box-sizing: border-box;
   top: 1px;
 }
 
-.tira-page [href*="animes/32281-"]::after {
+.tira-page [href*="animes/35737-"]::after {
   content: " ";
   position: absolute !important;
   top: 0.5rem;
   right: 0.4rem;
   height: 30px;
   width: 30px;
-  background-image: url('https://i.imgur.com/LNYOjYP.png');
+  background-image: url('');
   background-size: cover;
   font-size: 35px;
   color: white;
