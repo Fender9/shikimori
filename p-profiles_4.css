@@ -4421,3 +4421,43 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ovBBwRt.png);
 }
+
+/* Синтаро Сакамото */
+[href*="people/63138-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WhcEjJw.png);
+}
+[href*="people/63138-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cBzxvzS.png);
+}
+
+/* Coaltar of the Deepers */
+[href*="people/12689-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/udbW2CB.png);
+}
+[href*="people/12689-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hBEweN4.png);
+}
+
+/* ano */
+[href*="people/64264-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CXkzYsy.png);
+}
+[href*="people/64264-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vvshCA3.png);
+}
+
+/* The Birthday */
+[href*="people/11187-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ayCmDpR.png);
+}
+[href*="people/11187-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wvriz7D.png);
+}
