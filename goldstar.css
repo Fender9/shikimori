@@ -812,3 +812,11 @@
 .cover[href*="people/8705-"] .title::after {
   content: "Томоми Кобаяши";
 }
+
+/* Синтаро Сакамото */
+.cover[href*="people/63138-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/63138-"] .title::after {
+  content: "Yura Yura Teikoku";
+}
