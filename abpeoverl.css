@@ -330,20 +330,20 @@
   z-index: 1;
 }
 
-/* Oyasumi Punpun */
-.tira-page [href*="mangas/4632-"] {
+/* Gundam Origin */
+.tira-page [href*="mangas/214-"] {
   position: relative;
-  border: 2px solid #ffe040 !important;
-  outline: 2px solid #ffe040;
+  border: 2px solid #f14227 !important;
+  outline: 2px solid #f14227;
   overflow: hidden;
   box-sizing: border-box;
   top: 1px;
 }
 
-.tira-page [href*="mangas/4632-"]:hover {
+.tira-page [href*="mangas/214-"]:hover {
   position: relative;
-  border: 2px solid #ffe040 !important;
-  outline: 2px solid #ffe040;
+  border: 2px solid #f14227 !important;
+  outline: 2px solid #f14227;
   overflow: hidden;
   box-sizing: border-box;
   top: 1px;
