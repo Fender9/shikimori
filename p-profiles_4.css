@@ -4481,3 +4481,53 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/9Q7CyHc.png);
 }
+
+/* Char Aznable */
+[href*="characters/1336-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ku8jfYO.png);
+}
+[href*="characters/1336-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qEJ5PF0.gif);
+}
+
+/* Sayla Mass */
+[href*="characters/1338-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Juh75s3.png);
+}
+[href*="characters/1338-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nolZnj7.gif);
+}
+
+/* Chara Soon */
+[href*="characters/14320-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AuEvEHm.png);
+}
+[href*="characters/14320-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1oKe4Lt.gif);
+}
+
+/* Hiling */
+[href*="characters/200578-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kZgDjBp.png);
+}
+[href*="characters/200578-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KZtdsCI.gif);
+}
+
+/* Emi Sawatari */
+[href*="characters/184214-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FfspLLH.png);
+}
+[href*="characters/184214-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HR5vlx2.gif);
+}
