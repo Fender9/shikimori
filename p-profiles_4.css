@@ -4531,3 +4531,13 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/HR5vlx2.gif);
 }
+
+/* You Inoue */
+[href*="people/1066-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/u0FtT9M.png);
+}
+[href*="people/1066-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ovPazDR.png);
+}
