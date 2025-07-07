@@ -4541,3 +4541,33 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ovPazDR.png);
 }
+
+/* Ousama Ranking */
+[href*="animes/40834-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/P9VfzYQ.png);
+}
+[href*="animes/40834-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/y273PM4.png);
+}
+
+/* Koukaku Kidoutai: Stand Alone Complex 2nd GIG */
+[href*="animes/801-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/98Pl4OK.png);
+}
+[href*="animes/801-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FXa0XGD.png);
+}
+
+/* Kidou Butouden G Gundam */
+[href*="animes/96-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/H3foYYG.png);
+}
+[href*="animes/96-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UFvOdQ8.png);
+}
