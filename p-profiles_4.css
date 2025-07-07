@@ -4555,11 +4555,11 @@
 /* Koukaku Kidoutai: Stand Alone Complex 2nd GIG */
 [href*="animes/801-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/98Pl4OK.png);
+  --custom-image: url(https://i.imgur.com/FXa0XGD.png);
 }
 [href*="animes/801-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/FXa0XGD.png);
+  --custom-image: url(https://i.imgur.com/98Pl4OK.png);
 }
 
 /* Kidou Butouden G Gundam */
