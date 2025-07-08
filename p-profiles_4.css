@@ -4581,3 +4581,13 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ggexztQ.png);
 }
+
+/* Allenby Beardsley */
+[href*="characters/11756-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WNXCvo0.png);
+}
+[href*="characters/11756-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IOCFeXE.gif);
+}
