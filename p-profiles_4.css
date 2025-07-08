@@ -4422,12 +4422,12 @@
   --custom-image: url(https://i.imgur.com/ovBBwRt.png);
 }
 
-/* Синтаро Сакамото */
-[href*="people/63138-"] {
+/* Yura Yura Teikoku */
+[href*="people/86696-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/WhcEjJw.png);
 }
-[href*="people/63138-"]:hover {
+[href*="people/86696-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/cBzxvzS.png);
 }
@@ -4570,4 +4570,14 @@
 [href*="animes/96-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/UFvOdQ8.png);
+}
+
+/* The Mad Capsule Markets */
+[href*="people/86695-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Q8Mjlg0.png);
+}
+[href*="people/86695-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ggexztQ.png);
 }
