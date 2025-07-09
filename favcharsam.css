@@ -132,8 +132,8 @@
   top: 1px;
 }
 
-/* Robin Nico */
-.tira-page [href*="characters/61-"] {
+/* Allenby Beardsley */
+.tira-page [href*="characters/11756-"] {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
@@ -142,7 +142,7 @@
   top: 1px;
 }
 
-.tira-page [href*="characters/61-"]:hover {
+.tira-page [href*="characters/11756-"]:hover {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
