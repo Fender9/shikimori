@@ -1,0 +1,70 @@
+/* RANOBE */
+/* Monogatari Series: Second Season */
+[href*="ranobe/z23751-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1Mif0xo.png);
+}
+[href*="ranobe/z23751-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D6GaknC.png);
+}
+
+/* Zaregoto Series */
+[href*="ranobe/9726-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VdCmTmT.png);
+}
+[href*="ranobe/9726-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ob13sHL.png);
+}
+
+/* Ookami to Koushinryou */
+[href*="ranobe/9115-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UYOr1eV.png);
+}
+[href*="ranobe/9115-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D3TOpEx.png);
+}
+
+/* Devil Summoner: Kuzunoha Raidou vs Shibito Ekishi */
+[href*="ranobe/76973-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tFPkQrQ.png);
+}
+[href*="ranobe/76973-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5bDWMuo.png);
+}
+
+/* Mahoutsukai no Yoru */
+[href*="ranobe/26027-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zp7SQW5.png);
+}
+[href*="ranobe/26027-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WPwHyJx.png);
+}
+
+/* Sekai Series */
+[href*="ranobe/21115-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7RKT9M2.png);
+}
+[href*="ranobe/21115-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/boLR8HG.png);
+}
+
+/* Ginga Eiyuu Densetsu */
+[href*="ranobe/6978-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KmoYcvl.png);
+}
+[href*="ranobe/6978-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/X7yGuBn.png);
+}
