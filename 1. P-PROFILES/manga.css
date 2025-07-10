@@ -1,1 +1,530 @@
+/* MANGA */
+/* Barakamon */
+[href*="mangas/17051-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FyrLZ9r.png);
+}
+[href*="mangas/17051-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D5HUXCm.png);
+}
 
+/* JoJo no Kimyou na Bouken Part 6: Stone Ocean */
+[href*="mangas/3009-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cSdxNet.png);
+}
+[href*="mangas/3009-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/M90OSaS.png);
+}
+
+/* Mushishi */
+[href*="mangas/418-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0QchX9e.png);
+}
+[href*="mangas/418-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HTVNsw4.png);
+}
+
+/* One Piece */
+[href*="mangas/z13-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LPckT3y.png);
+}
+[href*="mangas/z13-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZG9iRJF.png);
+}
+
+/* Oyasumi Punpun */
+[href*="mangas/4632-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7oeb6Wz.png);
+}
+[href*="mangas/4632-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lz9Co11.png);
+}
+
+/* Dandadan */
+[href*="mangas/135496-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kB54QXN.png);
+}
+[href*="mangas/135496-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dxTV5Fu.png);
+}
+
+/* Berserk */
+[href*="mangas/2-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sQzhfei.png);
+}
+[href*="mangas/2-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4r5SOlE.png);
+}
+
+/* Koukaku Kidoutai: Arise - Sleepless Eye */
+[href*="mangas/48321-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kw2PvIH.png);
+}
+[href*="mangas/48321-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6AZhsoY.png);
+}
+
+/* Omoide Emanon */
+[href*="mangas/17465-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VmXluvi.png);
+}
+[href*="mangas/17465-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1t331qL.png);
+}
+
+/* Chainsaw Man */
+[href*="mangas/116778-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZCRmLvk.png);
+}
+[href*="mangas/116778-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UbwDSZA.png);
+}
+
+/* Spy x Family */
+[href*="mangas/119161-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xx6dD3Y.png);
+}
+[href*="mangas/119161-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4BFNV22.png);
+}
+
+/* Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de. */
+[href*="mangas/100448-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bzzHYiw.png);
+}
+[href*="mangas/100448-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KfCf0WM.png);
+}
+
+/* Gangsta. */
+[href*="mangas/24903-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aKnxIAw.png);
+}
+[href*="mangas/24903-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yXsa5dp.png);
+}
+
+/* Opus */
+[href*="mangas/23736-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LM65zSh.png);
+}
+[href*="mangas/23736-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jBPiOzh.png);
+}
+
+/* Yokohama */
+[href*="mangas/4-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SzzGUjs.png);
+}
+[href*="mangas/4-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/n2WD0pM.png);
+}
+
+/* The Climber */
+[href*="mangas/7375-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GpHAdEb.png);
+}
+[href*="mangas/7375-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4nkzRQF.png);
+}
+
+/* Yofukashi no Uta */
+[href*="mangas/121480-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Npaags7.png);
+}
+[href*="mangas/121480-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IellgY7.png);
+}
+
+/* Yotsuba to! */
+[href*="mangas/104-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lxT2nQl.png);
+}
+[href*="mangas/104-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pUDna0Z.png);
+}
+
+/* Wet Moon */
+[href*="mangas/47921-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Y9eNKwm.png);
+}
+[href*="mangas/47921-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2Z1TmZp.png);
+}
+
+/* Bambi */
+[href*="mangas/5710-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CGeLwH4.png);
+}
+[href*="mangas/5710-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WqbP2N1.png);
+}
+
+/* Onanie Master Kurosawa */
+[href*="mangas/8967-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZAJiiRS.png);
+}
+[href*="mangas/8967-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wZ7oCht.png);
+}
+
+/* Sayonara Zetsubou Sensei */
+[href*="mangas/661-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rNLx9au.png);
+}
+[href*="mangas/661-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/i5E10xa.png);
+}
+
+/* Look Back */
+[href*="mangas/138673-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vp34MOH.png);
+}
+[href*="mangas/138673-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MiDpCm2.png);
+}
+
+/* Golden Kamuy */
+[href*="mangas/85968-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/28JWHvK.png);
+}
+[href*="mangas/85968-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VAd13lR.png);
+}
+
+/* Shurayuki-hime */
+[href*="mangas/1672-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D4tYR4v.png);
+}
+[href*="mangas/1672-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ENw2Jm9.png);
+}
+
+/* Sabu to Ichi Torimono Hikae */
+[href*="mangas/12427-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/C3R5GoE.png);
+}
+[href*="mangas/12427-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/N1uOluv.png);
+}
+
+/* Kouya no Shounen Isamu */
+[href*="mangas/58449-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0MT5fYs.png);
+}
+[href*="mangas/58449-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WI0dDcU.png);
+}
+
+/* Adolf ni Tsugu */
+[href*="mangas/1695-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Zo4mqXT.png);
+}
+[href*="mangas/1695-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Cpsyaz3.gif);
+}
+
+/* Aku no Hana */
+[href*="mangas/z24705-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CnQpsy0.png);
+}
+[href*="mangas/z24705-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/z2QcQvQ.png);
+}
+
+/* Devilman */
+[href*="mangas/1474-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uIfv1PJ.png);
+}
+[href*="mangas/1474-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/41eaWkM.png);
+}
+
+/* Sono Bisque Doll wa Koi wo Suru */
+[href*="mangas/112268-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/G5l4vyg.png);
+}
+[href*="mangas/112268-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Pq7QFvs.png);
+}
+
+/* Medalist */
+[href*="mangas/129621-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dNYW4IQ.png);
+}
+[href*="mangas/129621-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ph7kfpD.png);
+}
+
+/* Blue Period */
+[href*="mangas/107931-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yw3dX7X.png);
+}
+[href*="mangas/107931-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9wtsrtv.png);
+}
+
+/* Ballroom e Youkoso */
+[href*="mangas/48347-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jWtcQxV.png);
+}
+[href*="mangas/48347-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VSXLNxB.png);
+}
+
+/* Veil */
+[href*="mangas/132678-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/d6WBmr9.png);
+}
+[href*="mangas/132678-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zWI72MR.png);
+}
+
+/* Hokuhokusei */
+[href*="mangas/97179-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FDnad94.png);
+}
+[href*="mangas/97179-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/y9zIEGE.png);
+}
+
+/* Billy Bat */
+[href*="mangas/11054-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/n3DYdYD.png);
+}
+[href*="mangas/11054-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uzeWg0N.png);
+}
+
+/* Bokutachi ga Yarimashita */
+[href*="mangas/94919-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FSQwiCf.png);
+}
+[href*="mangas/94919-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JDudSEy.png);
+}
+
+/* Homunculus */
+[href*="mangas/936-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ohwNcYV.png);
+}
+[href*="mangas/936-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FLi4eIP.png);
+}
+
+/* Kozure Ookami */
+[href*="mangas/904-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UIVYYZx.png);
+}
+[href*="mangas/904-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/N6dQW4G.png);
+}
+
+/* The Fable */
+[href*="mangas/87844-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3UpG0Pi.png);
+}
+[href*="mangas/87844-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/V1JxWyX.png);
+}
+
+/* Holyland */
+[href*="mangas/3285-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9AlSsKX.png);
+}
+[href*="mangas/3285-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mDNUgad.png);
+}
+
+/* Sun-Ken Rock */
+[href*="mangas/8848-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QY1ZQpV.png);
+}
+[href*="mangas/8848-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tf1iwna.png);
+}
+
+/* Raqiya */
+[href*="mangas/15764-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.ibb.co/VqTqZjM/raqiya-main.png);
+}
+[href*="mangas/15764-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mn9ONbv.png);
+}
+
+/* Origin */
+[href*="mangas/101119-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/38EZ8Oa.png);
+}
+[href*="mangas/101119-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OUnH9b2.png);
+}
+
+/* Bastard */
+[href*="mangas/111213-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lVQA1rY.png);
+}
+[href*="mangas/111213-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jNi2k2y.png);
+}
+
+/* Sanctuary */
+[href*="mangas/1461-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VqXUpOU.png);
+}
+[href*="mangas/1461-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gUtLoJX.png);
+}
+
+/* Sanctuary */
+[href*="mangas/124845-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kRq8sGp.png);
+}
+[href*="mangas/124845-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MLhqdFa.png);
+}
+
+/* Kono Oto Tomare! */
+[href*="mangas/45143-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TJ9qaUn.png);
+}
+[href*="mangas/45143-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ut8vjNO.png);
+}
+
+/* Innocent Rouge */
+[href*="mangas/93699-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aHOenwr.png);
+}
+[href*="mangas/93699-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PyngSfi.png);
+}
+
+/* Villains Are Destined to Die */
+[href*="mangas/133641-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3l9voAD.png);
+}
+[href*="mangas/133641-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sVG0jLu.png);
+}
+
+/* SSS-Class Revival Hunter */
+[href*="mangas/146909-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/92UkZVa.png);
+}
+[href*="mangas/146909-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XOODuo1.png);
+}
+
+/* Kidou Senshi Gundam: The Origin */
+[href*="mangas/214-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LoI6Ti2.png);
+}
+[href*="mangas/214-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9Q7CyHc.png);
+}
