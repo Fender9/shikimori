@@ -18,4 +18,5 @@ https://shikimori.one/tests/reset_styles_cache
 15. pbd.css — ПАНЕЛЬ ССЫЛОК СЛЕВА;
 16. spoiler.css — КАСТОМНЫЙ СПОЙЛЕР;
 17. submenu.css — АНИМ ОТКРЫТИЯ САБМЕНЮ;
-18. western.css — ХАВЕР ЗАПАДНОЕ.
+18. vg-hover.css — ХАВЕР ИГРЫ;
+19. western.css — ХАВЕР ЗАПАДНОЕ.
