@@ -4591,3 +4591,23 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/IOCFeXE.gif);
 }
+
+/*  */
+[href*="characters/7211-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7latvjs.png);
+}
+[href*="characters/7211-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7latvjs.png);
+}
+
+/*  */
+[href*="animes/92-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kZzlXWo.png);
+}
+[href*="animes/92-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VySmbCD.png);
+}
