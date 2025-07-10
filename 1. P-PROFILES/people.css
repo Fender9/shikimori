@@ -1,1 +1,1634 @@
+/* СЕЙЮ */
+/* Hiroshi Kamiya */
+[href*="people/118-hiroshi-kamiya"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vllEZTR.png);
+}
+[href*="people/118-hiroshi-kamiya"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SexpYXZ.png);
+}
 
+/* Daisuke Ono */
+[href*="people/212-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AOV9nj2.png);
+}
+[href*="people/212-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3o8RGOk.png);
+}
+
+/* Mamoru Miyano */
+[href*="people/65-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yxzTZGM.png);
+}
+
+/* Daisuke Namikawa */
+[href*="people/87-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZZGErup.png);
+}
+
+/* Kana Hanazawa */
+[href*="people/185-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hbPY9cu.png);
+}
+[href*="people/185-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sWZUbjy.png);
+}
+
+/* Maaya Sakamoto */
+[href*="people/90-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ii51lU2.png);
+}
+[href*="people/90-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0nrKIvN.png);
+}
+
+/* Yuuichi Nakamura */
+[href*="people/513-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4RQVer9.png);
+}
+[href*="people/513-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ce8zeGi.png);
+}
+
+/* Tomokazu Sugita */
+[href*="people/2-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/j7epPDB.png);
+}
+[href*="people/2-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8E8AqNP.png);
+}
+/*https://i.imgur.com/dlRV6Xv.png*/
+/* Kenjirou Tsuda */
+[href*="people/591-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cs0MhTx.png);
+}
+[href*="people/591-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sxopEKa.png);
+}
+
+/* Shinichiro Miki */
+[href*="people/22-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/77pTDoT.png);
+}
+[href*="people/22-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VNXGKAP.png);
+}
+
+/* Takahiro Sakurai */
+[href*="people/79-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/y8lXSdV.png);
+}
+[href*="people/79-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qMf5Cnc.png);
+}
+
+/* Connor Colquhoun */
+[href*="people/56246-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pdb1nV3.png);
+}
+[href*="people/56246-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HsATG1r.png);
+}
+
+/* Ikuru Kamijou */
+[href*="people/48127-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/v319JBd.png);
+}
+
+/* Kei Tomiyama */
+[href*="people/870-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aKpQL9w.png);
+}
+[href*="people/870-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/x9TyKxp.png);
+}
+
+/* Miyuki Sawashiro */
+[href*="people/99-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mZYRt44.png);
+}
+[href*="people/99-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5Bkp7rY.png);
+}
+
+/* Ami Koshimizu */
+[href*="people/70-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/klwbnsc.png);
+}
+[href*="people/70-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vUfQsIE.png);
+}
+
+/* Kouichi Yamadera */
+[href*="people/11-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZnUhcQk.png);
+}
+[href*="people/11-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dQ6kUf0.png);
+}
+
+/* Garnt Maneetapho */
+[href*="people/68045-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZesrhK8.png);
+}
+
+/* Noriko Ohara */
+[href*="people/1151-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dQNInl2.png);
+}
+[href*="people/1151-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/iSZpIIx.png);
+}
+
+/* Willem Dafoe */
+[href*="people/5512-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bulbNRF.png);
+}
+[href*="people/5512-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PK1tZcS.png);
+}
+
+/* Cate Blanchett */
+[href*="people/8357-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/scQc3SY.png);
+}
+[href*="people/8357-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qfcZaFa.png);
+}
+
+/* Masakane Yonekura */
+[href*="people/40449-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ju6ioyu.png);
+}
+[href*="people/40449-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yPbPa1r.png);
+}
+
+/* Masatou Ibu */
+[href*="people/6202-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/U4JVUBa.png);
+}
+[href*="people/6202-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vKEZoXb.png);
+}
+
+/* РЕЖИССЕРЫ */
+
+/* Noburou Oofuji */
+[href*="people/36897-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/e1HwRzQ.png);
+}
+[href*="people/36897-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8QOYRvZ.png);
+}
+
+/* Shinichiro Watanabe */
+[href*="people/2009-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9CbGoVt.png);
+}
+[href*="people/2009-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QFYhyaP.png);
+}
+
+/* Makoto Shinkai */
+[href*="people/1117-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ztTtlna.png);
+}
+[href*="people/1117-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uo2AX7M.png);
+}
+
+/* Takena Nagao */
+[href*="people/14009-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/07iF5wg.png);
+}
+[href*="people/14009-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JUYxlHw.png);
+}
+
+/* Satoshi Kon */
+[href*="people/4580-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7HDcoZL.png);
+}
+[href*="people/4580-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7GtWO1L.png);
+}
+
+/* Yoji Kuri */
+[href*="people/8545-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cTXsO28.png);
+}
+[href*="people/8545-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/liJlzw1.png);
+}
+
+/* Takashi Murakami */
+[href*="people/7963-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ylF723L.png);
+}
+[href*="people/7963-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vXujwEh.png);
+}
+
+/* Keiichi Tanaami */
+[href*="people/28807-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/g2RgSBO.png);
+}
+[href*="people/28807-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bWggabQ.png);
+}
+
+/* Akiyuki Shinbou */
+[href*="people/5089-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/H0N4Y9n.png);
+}
+[href*="people/5089-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SqlqXce.png);
+}
+
+/* Masaaki Yuasa */
+[href*="people/5068-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/appI236.png);
+}
+[href*="people/5068-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LJnZgQD.png);
+}
+
+/* Yasuomi Umetsu */
+[href*="people/6583-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/eDC4Ist.png);
+}
+[href*="people/6583-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UU3Vsv6.png);
+}
+
+/* Tomoyuki Itamura */
+[href*="people/15639-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/44412Og.png);
+}
+[href*="people/15639-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZGFno2U.png);
+}
+
+/* Seiichi Hayashi */
+[href*="people/5926-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KqVbcPY.png);
+}
+[href*="people/5926-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6uBaKWj.png);
+}
+
+  /* Hiroshi Nagahama */
+[href*="people/4346-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5MsL6Kd.png);
+}
+[href*="people/4346-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/232G5l2.png);
+}
+
+/* Mamoru Oshii */
+[href*="people/4097-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wUUkupk.png);
+}
+[href*="people/4097-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8xYbclG.png);
+}
+
+/* Fumio Ooi */
+[href*="people/49848-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fqlT24j.png);
+}
+[href*="people/49848-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4puFyeZ.png);
+}
+
+/* Taku Furukawa */
+[href*="people/30611-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/B0PevJ2.png);
+}
+[href*="people/30611-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/63ICMu9.png);
+}
+
+/* Shingo Natsume */
+[href*="people/28579-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/szY5bXV.png);
+}
+
+/* Tadanori Yokoo */
+[href*="people/36846-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tAMkpSh.png);
+}
+[href*="people/36846-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3opaZp8.png);
+}
+
+/* Hajime Sorayama */
+[href*="people/66223-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jvFgXeJ.png);
+}
+[href*="people/66223-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nNLHdji.png);
+}
+
+/* МАНГАКИ */
+/* ISIN NISIO */
+[href*="people/5254-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4RXmCZA.png);
+}
+[href*="people/5254-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9KYX4eo.png);
+}
+
+/* Hirohiko Araki */
+[href*="people/2619-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FKQNIK9.png);
+}
+
+/* huke */
+[href*="people/10145-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/txx0GOa.png);
+}
+[href*="people/10145-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0LZ7CAh.png);
+}
+
+/* 5pb. */
+[href*="people/14749-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9hRFwPc.png);
+}
+
+/* Osamu Tezuka */
+[href*="people/1938-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IV0fV0A.png);
+}
+
+/* Sanpei Shirato */
+[href*="people/6586-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jlJAfeT.png);
+}
+[href*="people/6586-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1PBqlcC.png);
+}
+
+/* Yoshitaka Amano */
+[href*="people/2967-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Suj0vrN.png);
+}
+[href*="people/2967-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XMTLpT7.png);
+}
+
+/* Hideo Kojima */
+[href*="people/5732-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3sfxDMp.png);
+}
+[href*="people/5732-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kzAtdGv.png);
+}
+
+/* Kazuma Kaneko */
+[href*="people/33589-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uGMul5Y.png);
+}
+[href*="people/33589-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KozFThG.png);
+}
+
+/* Atsushi Kaneko */
+[href*="people/3628-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/eV4WCh4.png);
+}
+[href*="people/3628-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LtH0f04.png);
+}
+
+/* Shigenori Soejima */
+[href*="people/12279-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/C6B0Hzz.png);
+}
+[href*="people/12279-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Vp7s5Ac.png);
+}
+
+/* Ikki Kajiwara */
+[href*="people/4017-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IT274rv.png);
+}
+[href*="people/4017-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UN5MYGY.png);
+}
+
+/* Shoutarou Ishinomori */
+[href*="people/2478-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Cv71i8X.png);
+}
+[href*="people/2478-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0vy7lXa.png);
+}
+
+/* Nitroplus */
+[href*="people/4960-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XbuxcwT.png);
+}
+[href*="people/4960-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KD8RKGN.png);
+}
+
+/* Akio Watanabe */
+[href*="people/5724-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5gnBkgV.png);
+}
+[href*="people/5724-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LraEvgu.png);
+}
+
+/* Take */
+[href*="people/10875-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2Uzwnt1.png);
+}
+[href*="people/10875-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qheDqHY.png);
+}
+
+/* Kiyohiko Azuma */
+[href*="people/1939-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rw2ZvSV.png);
+}
+[href*="people/1939-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6CNLNJg.png);
+}
+
+/* Yoshitoshi Abe */
+[href*="people/1991-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WgsFJQ0.png);
+}
+[href*="people/1991-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/orFYy3G.png);
+}
+
+/* Range Murata */
+[href*="people/3445-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ake9dJi.png);
+}
+[href*="people/3445-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/F8ngO4a.png);
+}
+
+/* Naoyuki Katou */
+[href*="people/6987-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SuVZRbH.png);
+}
+[href*="people/6987-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8ixVKG9.png);
+}
+
+/* Tatsuo Yoshida */
+[href*="people/5241-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BVctlpa.png);
+}
+[href*="people/5241-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zVtSMcH.png);
+}
+
+/* Yoshikazu Yasuhiko */
+[href*="people/2220-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zQii9U2.png);
+}
+[href*="people/2220-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/q9FaWtb.png);
+}
+
+/* Katsumi Enami */
+[href*="people/2949-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/r2Mu9wF.png);
+}
+[href*="people/2949-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/j4ohYm6.png);
+}
+
+/* Hidari */
+[href*="people/14881-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/65svmm0.png);
+}
+[href*="people/14881-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/J8v2TMx.png);
+}
+
+/* Hirokazu Koyama */
+[href*="people/6450-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/E2hnXRY.png);
+}
+[href*="people/6450-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FolfZs5.png);
+}
+
+/* Masamune Shirow */
+[href*="people/2609-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/O2uv30K.png);
+}
+[href*="people/2609-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5wWFEvL.png);
+}
+
+/* Mutsumi Inomata */
+[href*="people/8430-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aqa3rt4.png);
+}
+[href*="people/8430-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HcILuyF.png);
+}
+
+/* Yuusuke Kozaki */
+[href*="people/2832-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D6axLLg.png);
+}
+[href*="people/2832-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/H0Bb50q.png);
+}
+
+/* TAKOLEGS */
+[href*="people/61271-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/obWNtRb.png);
+}
+[href*="people/61271-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UE5zkTC.png);
+}
+
+/* Kinu Nishimura */
+[href*="people/24539-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0dfpAKx.png);
+}
+[href*="people/24539-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9Y8713r.png);
+}
+
+/* Nao Emoto */
+[href*="people/4472-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TTIwv5m.png);
+}
+[href*="people/4472-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Slp0DLS.png);
+}
+
+/* Kinako */
+[href*="people/27517-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UnvVBvQ.png);
+}
+[href*="people/27517-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LTrDX7u.png);
+}
+
+/* Hiroki Haruse */
+[href*="people/7757-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7xRePXr.png);
+}
+[href*="people/7757-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4Pm0Qzy.png);
+}
+
+/* Leiji Matsumoto */
+[href*="people/2597-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BH6bGku.png);
+}
+[href*="people/2597-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/G6iRcrl.png);
+}
+
+/* Yukihiro Kajimoto */
+[href*="people/43854-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/neROj4V.png);
+}
+[href*="people/43854-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bCoXfDl.png);
+}
+
+/* Shirow Miwa */
+[href*="people/2974-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0vUXJcf.png);
+}
+[href*="people/2974-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/z5HxteW.png);
+}
+
+/* Namaniku ATK */
+[href*="people/30313-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/s9Mgfjm.png);
+}
+[href*="people/30313-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4BNsglW.png);
+}
+
+/* Moebius */
+[href*="people/8683-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4U2VJfO.png);
+}
+[href*="people/8683-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gQbVbS6.png);
+}
+
+/* Miki Sugina */
+[href*="people/30431-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hwCetWK.png);
+}
+[href*="people/30431-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OjiKHNc.png);
+}
+
+/* Ayami Kojima */
+[href*="people/7314-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/F28ZUJC.png);
+}
+[href*="people/7314-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JfXHLc2.png);
+}
+
+/* Oh! Great */
+[href*="people/1932-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7HrA4Pv.png);
+}
+[href*="people/1932-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JWp2LLm.png);
+}
+
+/* Yoshiyuki Sadamoto */
+[href*="people/3158-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PtchCZo.png);
+}
+[href*="people/3158-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/H6mcsEt.png);
+}
+
+/* Shinichi Sakamoto */
+[href*="people/5215-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ay3fnLr.png);
+}
+[href*="people/5215-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/05LL5jt.png);
+}
+
+/* Takuma Yokota */
+[href*="people/3906-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rWZqBf1.png);
+}
+[href*="people/3906-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D4CSRai.png);
+}
+
+/* Wes Anderson */
+[href*="people/50054-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KeLYJLN.png);
+}
+[href*="people/50054-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jhuqsb2.png);
+}
+
+/* VOFAN */
+[href*="people/8594-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LevRwq5.png);
+}
+[href*="people/8594-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IOolZgK.png);
+}
+
+/* Katsuya Terada */
+[href*="people/4435-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xFQGnK2.png);
+}
+[href*="people/4435-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hxnmK2o.png);
+}
+
+/* Shintarou Kago */
+[href*="people/5547-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/v1G0ATi.png);
+}
+[href*="people/5547-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XgG68iB.png);
+}
+
+/* Takato Yamamoto */
+[href*="people/8669-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cZuhf6k.png);
+}
+[href*="people/8669-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SE0YBtU.png);
+}
+
+/* ПРОЧИЕ ЛЮДИ */
+/* Yoko Kanno */
+[href*="people/508-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kJr4nz0.png);
+}
+[href*="people/508-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Hz501Tk.png);
+}
+
+/* Miyavi */
+[href*="people/47711-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Tji0dNa.png);
+}
+[href*="people/47711-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ugPKNZX.png);
+}
+
+/* Satoru Kousaki */
+[href*="people/6555-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ITuEPLr.png);
+}
+[href*="people/6555-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IWSYg6d.png);
+}
+
+/* Motoi Sakuraba */
+[href*="people/5191-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kV515dL.png);
+}
+[href*="people/5191-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/j6sZkdl.png);
+}
+
+/* Daoko */
+[href*="people/37098-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xbiXUSm.png);
+}
+[href*="people/37098-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pT4sapG.png);
+}
+
+/* Yasuyuki Okamura */
+[href*="people/25727-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dh59qDF.png);
+}
+[href*="people/25727-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qFb6YmS.png);
+}
+
+/* Kanye West */
+[href*="people/21059-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oC2gk0p.png);
+}
+[href*="people/21059-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/74qapGr.png);
+}
+
+/* Akihiko Yoshida */
+[href*="people/46007-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5uHyZ20.png);
+}
+[href*="people/46007-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/T1Z9Lp6.png);
+}
+
+/* NORSTEIN */
+[href*="people/29569-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Tj4hbJr.png);
+}
+
+/* pablo uchida */
+[href*="people/48931-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aaWrYSQ.png);
+}
+[href*="people/48931-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XM1mRUq.png);
+}
+
+/* Hideki Naganuma */
+[href*="people/8582-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2LZGhNj.png);
+}
+[href*="people/8582-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/krsQ2FA.png);
+}
+
+/* Boom Boom Satellites */
+[href*="people/8901-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yVOCFou.png);
+}
+[href*="people/8901-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DKx68mB.png);
+}
+
+/* Mariko Gotou */
+[href*="people/31631-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0bSBJyp.png);
+}
+[href*="people/31631-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RE59vhA.png);
+}
+
+/* Ringo Shiina */
+[href*="people/8213-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mLHhYul.png);
+}
+[href*="people/8213-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TaCpS3c.png);
+}
+
+/* Boris */
+[href*="people/40186-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nY7jBEp.png);
+}
+[href*="people/40186-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UACa8xZ.png);
+}
+
+/* John Lennon */
+[href*="people/37595-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tzpYhs9.png);
+}
+[href*="people/37595-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mdGB0BJ.png);
+}
+
+/* Achille-Claude Debussy */
+[href*="people/21437-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D3oEfkE.png);
+}
+[href*="people/21437-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bRFjJ63.png);
+}
+
+/* Atarashii Gakkou no Leaders */
+[href*="people/71642-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/k3NNafg.png);
+}
+[href*="people/71642-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/y2tCqaR.png);
+}
+
+/* GING NANG BOYZ */
+[href*="people/54127-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MSvQ4kc.png);
+}
+[href*="people/54127-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/plnPTCf.png);
+}
+
+/* Ichirou Mizuki */
+[href*="people/6024-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/McUJIVc.png);
+}
+[href*="people/6024-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yKyx2ON.png);
+}
+
+/* Takeshi Nakatsuka */
+[href*="people/55462-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9BEuauF.png);
+}
+[href*="people/55462-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4It4SqK.png);
+}
+
+/* Tokyo Jihen */
+[href*="people/53853-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uJ7DZ9z.png);
+}
+[href*="people/53853-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5H9AMOs.png);
+}
+
+/* Daiki Tsuneta */
+[href*="people/61465-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uysveR0.png);
+}
+[href*="people/61465-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Yg9vCaE.png);
+}
+
+/* Pink Floyd */
+[href*="people/77667-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D9rAHKw.png);
+}
+[href*="people/77667-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nUzL11y.png);
+}
+
+/* Yugo Kanno */
+[href*="people/14287-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/86VuwRl.png);
+}
+[href*="people/14287-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kNAJj1x.png);
+}
+
+/* Wagdug Futuristic Unity */
+[href*="people/34811-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/alVrpJ9.png);
+}
+[href*="people/34811-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JSwGQNM.png);
+}
+
+/* Bôa Boa */
+[href*="people/29151-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/r2jtDcf.png);
+}
+[href*="people/29151-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2dFqGKQ.png);
+}
+
+/* HANABIE */
+[href*="people/75621-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vJTg86f.png);
+}
+[href*="people/75621-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jpWOXvK.png);
+}
+
+/* Duran Duran */
+[href*="people/9549-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/o1F6rg9.png);
+}
+[href*="people/9549-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/z2fNaT7.png);
+}
+
+/* Avril Lavigne */
+[href*="people/31607-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6n8NnEp.png);
+}
+[href*="people/31607-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ggzKQJR.png);
+}
+
+/* Gerard Way */
+[href*="people/7894-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9f7CXGL.png);
+}
+[href*="people/7894-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pYdN9IO.png);
+}
+
+/* Billie Eilish */
+[href*="people/64102-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mZ5nCee.png);
+}
+[href*="people/64102-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ht2pQMK.png);
+}
+
+/* GLIM SPANKY */
+[href*="people/40667-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4MzdGcC.png);
+}
+[href*="people/40667-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Yq1z37I.png);
+}
+
+/* Noriyoshi Ohrai */
+[href*="people/66224-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SuKLa50.png);
+}
+[href*="people/66224-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oJZiqWd.png);
+}
+
+/* Yasushi Ishii */
+[href*="people/5346-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Pr7o09x.png);
+}
+
+/* Atsushi Sakurai */
+[href*="people/6672-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Qhc2LtS.png);
+}
+[href*="people/6672-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Tzsc5Gw.png);
+}
+
+/* Toe */
+[href*="people/65268-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sRnUyx2.png);
+}
+[href*="people/65268-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XrfdjYB.png);
+}
+
+/* tricot */
+[href*="people/78325-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OixbkMU.png);
+}
+[href*="people/78325-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HWf6t0a.png);
+}
+
+/* Perfume */
+[href*="people/31707-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ii98rMf.png);
+}
+[href*="people/31707-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Eoh38SM.png);
+}
+
+/* Otoboke Beaver */
+[href*="people/46396-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4K7eCTJ.png);
+}
+[href*="people/46396-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UmDp3DB.png);
+}
+
+/* Keigo Oyamada */
+[href*="people/36613-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DiATEs8.png);
+}
+[href*="people/36613-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lS0iLRF.png);
+}
+
+/* Fishmans */
+[href*="people/72664-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4DwRIy8.png);
+}
+[href*="people/72664-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/F56C14y.png);
+}
+
+/* Origa */
+[href*="people/6326-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9KZASnu.png);
+}
+[href*="people/6326-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mkPN4zG.png);
+}
+
+/* Keita Amemiya */
+[href*="people/6953-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/i0S4dIc.png);
+}
+[href*="people/6953-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aGaO9lm.png);
+}
+
+/* Yoko Taro */
+[href*="people/29087-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Ac2lDpH.png);
+}
+[href*="people/29087-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fWqHng8.gif);
+}
+
+/* Shinichi Hiromoto */
+[href*="people/2486-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lOsr5el.png);
+}
+[href*="people/2486-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2NiyPN0.png);
+}
+
+/* Shouu Tajima */
+[href*="people/2580-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sIbcV9O.png);
+}
+[href*="people/2580-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/V4phxrB.png);
+}
+
+/* Yasushi Nirasawa */
+[href*="people/61040-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZmTGyaK.png);
+}
+[href*="people/61040-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cXMZVIu.png);
+}
+
+/* Hiroaki Samura */
+[href*="people/2843-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/N6AXrzz.png);
+}
+[href*="people/2843-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1Qj7pDO.png);
+}
+
+/* Suzuhito Yasuda */
+[href*="people/3249-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.ibb.co/7dtPWSvz/Suzuhito-Yasuda.png);
+}
+[href*="people/3249-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1wz6GSo.png);
+}
+
+/* Mutsumi Sasaki */
+[href*="people/12278-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/EGeuLMY.png);
+}
+[href*="people/12278-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6jejhSD.png);
+}
+
+/* pako */
+[href*="people/5510-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WDIjA34.png);
+}
+[href*="people/5510-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bvuClSM.png);
+}
+
+/* Mai Yoneyama */
+[href*="people/39271-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ghdNR7k.png);
+}
+[href*="people/39271-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DDyffiJ.png);
+}
+
+/* Kususaga Rin */
+[href*="people/41591-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jtiudPx.png);
+}
+[href*="people/41591-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oj4BLvo.png);
+}
+
+/* redjuice */
+[href*="people/12587-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dPkCVCO.png);
+}
+[href*="people/12587-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fP9VF58.png);
+}
+
+/* Ryota-H */
+[href*="people/24369-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MtS5Mdl.png);
+}
+[href*="people/24369-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KqY2L6N.png);
+}
+
+/* Hiroaki Hashimoto */
+[href*="people/78784-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zldI4PL.png);
+}
+[href*="people/78784-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WkSAfyy.png);
+}
+
+/* Kim Hyung-tae */
+[href*="people/25277-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GtDYg0D.png);
+}
+[href*="people/25277-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rJKea4E.png);
+}
+
+/* Jun Suemi */
+[href*="people/40293-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/euNMrom.png);
+}
+[href*="people/40293-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BqlDsK2.png);
+}
+
+/* Melt-Banana */
+[href*="people/51252-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sRS4qtA.png);
+}
+[href*="people/51252-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nAHaDxn.png);
+}
+
+/* Hitoshi Ashinano */
+[href*="people/1869-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3zFT02x.png);
+}
+[href*="people/1869-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/v9QuJq1.png);
+}
+
+/* Kazuo Umezu */
+[href*="people/2777-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ACZ2G2z.png);
+}
+[href*="people/2777-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/r10enQO.png);
+}
+
+/* Innocent Grey */
+[href*="people/35663-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ROPqwjM.png);
+}
+[href*="people/35663-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SdGF4Os.png);
+}
+
+/* Tomomi Kobayashi */
+[href*="people/8705-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8wo4iVa.png);
+}
+[href*="people/8705-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/k9mWqHd.png);
+}
+
+/* Hideki Taniuchi */
+[href*="people/6009-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CkKN1SL.png);
+}
+[href*="people/6009-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XrkVf7L.png);
+}
+
+/* Chiki Ooya */
+[href*="people/23871-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WoNGiUp.png);
+}
+[href*="people/23871-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tzVfOx5.png);
+}
+
+/* Thores Shibamoto */
+[href*="people/6328-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CppGUve.png);
+}
+[href*="people/6328-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qXwo62e.png);
+}
+
+/* Technoboys Pulcraft Green-Fund */
+[href*="people/34829-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9Y0vKTd.png);
+}
+[href*="people/34829-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ovBBwRt.png);
+}
+
+/* Yura Yura Teikoku */
+[href*="people/86696-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WhcEjJw.png);
+}
+[href*="people/86696-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cBzxvzS.png);
+}
+
+/* Coaltar of the Deepers */
+[href*="people/12689-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/udbW2CB.png);
+}
+[href*="people/12689-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hBEweN4.png);
+}
+
+/* ano */
+[href*="people/64264-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CXkzYsy.png);
+}
+[href*="people/64264-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vvshCA3.png);
+}
+
+/* The Birthday */
+[href*="people/11187-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ayCmDpR.png);
+}
+[href*="people/11187-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wvriz7D.png);
+}
+
+/* Yoshiyuki Tomino */
+[href*="people/2337-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/b18Auhv.png);
+}
+[href*="people/2337-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PU0dZJJ.png);
+}
+
+/* You Inoue */
+[href*="people/1066-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/u0FtT9M.png);
+}
+[href*="people/1066-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ovPazDR.png);
+}
+
+/* The Mad Capsule Markets */
+[href*="people/86695-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Q8Mjlg0.png);
+}
+[href*="people/86695-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ggexztQ.png);
+}
