@@ -4605,9 +4605,9 @@
 /* Kidou Shinseiki Gundam X */
 [href*="animes/92-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/kZzlXWo.png);
+  --custom-image: url(https://i.imgur.com/VySmbCD.png);
 }
 [href*="animes/92-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/VySmbCD.png);
+  --custom-image: url(https://i.imgur.com/kZzlXWo.png);
 }
