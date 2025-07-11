@@ -554,7 +554,7 @@
 }
 
 /* 13 SENTINELS */
-.b-image[data-attrs *= "https://i.imgur.com/OOxRqjR.png" ] {
+.b-image[data-attrs *= "https://i.imgur.com/utg5iq3.png" ] {
   --overlay-image: url("https://i.imgur.com/N8EbrAy.png");
 }
 
@@ -717,3 +717,244 @@
 .b-image[data-attrs *= "https://i.imgur.com/jctgfZL.png" ] {
   --overlay-image: url("");
 }
+
+/* SMT */
+.b-image[data-attrs *= "https://i.imgur.com/s9JKNaG.png" ] {
+  --overlay-image: url("https://i.imgur.com/Xuh49FP.png");
+}
+
+/* SMT2 */
+.b-image[data-attrs *= "https://i.imgur.com/WbBMMxo.png" ] {
+  --overlay-image: url("https://i.imgur.com/6xnX4kP.png");
+}
+
+/* SMT3 */
+.b-image[data-attrs *= "https://i.imgur.com/PrAgFSY.png" ] {
+  --overlay-image: url("https://i.imgur.com/kLTlETU.png");
+}
+
+/* SMT4 */
+.b-image[data-attrs *= "https://i.imgur.com/698BhGQ.png" ] {
+  --overlay-image: url("https://i.imgur.com/s11rpwx.png");
+}
+
+/* SMT4A */
+.b-image[data-attrs *= "https://i.imgur.com/C8VKkKe.png" ] {
+  --overlay-image: url("https://i.imgur.com/Lj0qvK5.png");
+}
+
+/* SMT5 */
+.b-image[data-attrs *= "https://i.imgur.com/HxQSUKt.png" ] {
+  --overlay-image: url("https://i.imgur.com/yd7weX2.png");
+}
+
+/* SMTSJ */
+.b-image[data-attrs *= "https://i.imgur.com/khIix68.png" ] {
+  --overlay-image: url("https://i.imgur.com/VAFvIN5.png");
+}
+
+/* SMT NINE */
+.b-image[data-attrs *= "https://i.imgur.com/MJiHIlV.png" ] {
+  --overlay-image: url("https://i.imgur.com/K33dVi1.png");
+}
+
+/* SMT IMAGINE */
+.b-image[data-attrs *= "https://i.imgur.com/2pfa4tZ.png" ] {
+  --overlay-image: url("https://i.imgur.com/S1i5xff.png");
+}
+
+/* SMT DX2 */
+.b-image[data-attrs *= "https://i.imgur.com/PkwtIJ5.png" ] {
+  --overlay-image: url("https://i.imgur.com/SWqYu79.png");
+}
+
+/* SMT IF */
+.b-image[data-attrs *= "https://i.imgur.com/dK4EfMN.png" ] {
+  --overlay-image: url("https://i.imgur.com/LteZRWn.png");
+}
+
+/* PERSONA */
+.b-image[data-attrs *= "https://i.imgur.com/sOboajA.png" ] {
+  --overlay-image: url("https://i.imgur.com/Vqvi8nY.png");
+}
+
+/* PERSONA 2 IS */
+.b-image[data-attrs *= "https://i.imgur.com/tWlOklt.png" ] {
+  --overlay-image: url("https://i.imgur.com/UW8B74H.png");
+}
+
+/* PERSONA 2 EP */
+.b-image[data-attrs *= "https://i.imgur.com/kYrtItT.png" ] {
+  --overlay-image: url("https://i.imgur.com/xPDFztv.png");
+}
+
+/* PERSONA 3 */
+.b-image[data-attrs *= "https://i.imgur.com/vcVa3YK.png" ] {
+  --overlay-image: url("https://i.imgur.com/SZ5l2wp.png");
+}
+
+/* PERSONA 3 PORTABLE */
+.b-image[data-attrs *= "https://i.imgur.com/4u4mLcv.png" ] {
+  --overlay-image: url("https://i.imgur.com/TpWU99i.png");
+}
+
+/* PERSONA 3 D */
+.b-image[data-attrs *= "https://i.imgur.com/HIYPIM8.png" ] {
+  --overlay-image: url("https://i.imgur.com/oX5KPNT.png");
+}
+
+/* PERSONA 3 R */
+.b-image[data-attrs *= "https://i.imgur.com/Y7m1LvJ.png" ] {
+  --overlay-image: url("https://i.imgur.com/IYUOaoK.png");
+}
+
+/* PERSONA 4 */
+.b-image[data-attrs *= "https://i.imgur.com/S1uqoYu.png" ] {
+  --overlay-image: url("https://i.imgur.com/jxCPXtH.png");
+}
+
+/* PERSONA 4 D */
+.b-image[data-attrs *= "https://i.imgur.com/2Ix24Le.png" ] {
+  --overlay-image: url("https://i.imgur.com/HuDpoCX.png");
+}
+
+/* PERSONA 4 ARENA */
+.b-image[data-attrs *= "https://i.imgur.com/1UYl78T.png" ] {
+  --overlay-image: url("https://i.imgur.com/eREtC7S.png");
+}
+
+/* PERSONA 5 */
+.b-image[data-attrs *= "https://i.imgur.com/BZAAvKO.png" ] {
+  --overlay-image: url("https://i.imgur.com/NY0yIHP.png");
+}
+
+/* PERSONA 5 D */
+.b-image[data-attrs *= "https://i.imgur.com/LFxXfl9.png" ] {
+  --overlay-image: url("https://i.imgur.com/7asgWQW.png");
+}
+
+/* PERSONA 5 STRIKERS */
+.b-image[data-attrs *= "https://i.imgur.com/P27JMw9.png" ] {
+  --overlay-image: url("https://i.imgur.com/MP1W7Vw.png");
+}
+
+/* PERSONA 5 TACTICA */
+.b-image[data-attrs *= "https://i.imgur.com/rT2rR79.png" ] {
+  --overlay-image: url("https://i.imgur.com/uuGja2u.png");
+}
+
+/* PERSONA 5 X */
+.b-image[data-attrs *= "https://i.imgur.com/ucZ9dzR.png" ] {
+  --overlay-image: url("https://i.imgur.com/D9JFAyf.png");
+}
+
+/* PERSONA Q */
+.b-image[data-attrs *= "https://i.imgur.com/ZAKp1TD.png" ] {
+  --overlay-image: url("https://i.imgur.com/E99METU.png");
+}
+
+/* PERSONA Q2 */
+.b-image[data-attrs *= "https://i.imgur.com/3Lq9qDX.png" ] {
+  --overlay-image: url("https://i.imgur.com/Jlqaxmr.png");
+}
+
+/* DEVSUM */
+.b-image[data-attrs *= "https://i.imgur.com/en5sd8Q.png" ] {
+  --overlay-image: url("https://i.imgur.com/x4ssALo.png");
+}
+
+/* DEVSUM SH */
+.b-image[data-attrs *= "https://i.imgur.com/xfJj6Ku.png" ] {
+  --overlay-image: url("https://i.imgur.com/mbN6rPn.png");
+}
+
+/* DEVSUM SH2 */
+.b-image[data-attrs *= "https://i.imgur.com/i5hY0HB.png" ] {
+  --overlay-image: url("https://i.imgur.com/TxjG82P.png");
+}
+
+/* RAIDOU 1 */
+.b-image[data-attrs *= "https://i.imgur.com/yQdE9vF.png" ] {
+  --overlay-image: url("https://i.imgur.com/gEJ7Why.png");
+}
+
+/* RAIDOU 2 */
+.b-image[data-attrs *= "https://i.imgur.com/vyWBF1i.png" ] {
+  --overlay-image: url("");
+}
+
+/* RAIDOU R */
+.b-image[data-attrs *= "https://i.imgur.com/kGSSOyM.png" ] {
+  --overlay-image: url("https://i.imgur.com/8PYtFMK.png");
+}
+
+/* DDS1 */
+.b-image[data-attrs *= "https://i.imgur.com/AUBwiFD.png" ] {
+  --overlay-image: url("https://i.imgur.com/JoWc8El.png");
+}
+
+/* DDS2 */
+.b-image[data-attrs *= "https://i.imgur.com/TGXMlCk.png" ] {
+  --overlay-image: url("https://i.imgur.com/fbKNX2F.png");
+}
+
+/* DESU */
+.b-image[data-attrs *= "https://i.imgur.com/FLNf0vE.png" ] {
+  --overlay-image: url("https://i.imgur.com/s47wY7w.png");
+}
+
+/* DESU2 */
+.b-image[data-attrs *= "https://i.imgur.com/yMI1DsJ.png" ] {
+  --overlay-image: url("https://i.imgur.com/HNvRIrN.png");
+}
+
+/* DDS MT */
+.b-image[data-attrs *= "https://i.imgur.com/hn2hFGM.png" ] {
+  --overlay-image: url("https://i.imgur.com/vFkq3xs.png");
+}
+
+/* DDS MT 2 */
+.b-image[data-attrs *= "https://i.imgur.com/v9YjtIx.png" ] {
+  --overlay-image: url("https://i.imgur.com/C8pZrus.png");
+}
+
+/* MAJIN 1 */
+.b-image[data-attrs *= "https://i.imgur.com/TOMvJsR.png" ] {
+  --overlay-image: url("https://i.imgur.com/A4hxHrT.png");
+}
+
+/* MAJIN 2 */
+.b-image[data-attrs *= "https://i.imgur.com/Xd9KXDp.png" ] {
+  --overlay-image: url("https://i.imgur.com/QWujfQB.png");
+}
+
+/* RONDE */
+.b-image[data-attrs *= "https://i.imgur.com/vIwmSd4.png" ] {
+  --overlay-image: url("https://i.imgur.com/3CbfsrR.png");
+}
+
+/* JACK BROS. */
+.b-image[data-attrs *= "https://i.imgur.com/RbTzjGr.png" ] {
+  --overlay-image: url("");
+}
+
+/* MAKEN */
+.b-image[data-attrs *= "https://i.imgur.com/nOwNxVU.png" ] {
+  --overlay-image: url("https://i.imgur.com/BDdBQbG.png");
+}
+
+/* CATHERINE */
+.b-image[data-attrs *= "https://i.imgur.com/K1Hs4dZ.png" ] {
+  --overlay-image: url("https://i.imgur.com/dWkjbJS.png");
+}
+
+/* METAPHOR */
+.b-image[data-attrs *= "https://i.imgur.com/6NXPIDl.png" ] {
+  --overlay-image: url("https://i.imgur.com/LzTlmEY.png");
+}
+
+/* TSUKUYOMI */
+.b-image[data-attrs *= "https://i.imgur.com/lkRBiYz.png" ] {
+  --overlay-image: url("https://i.imgur.com/1m4KH5e.png");
+}
+
