@@ -99,11 +99,621 @@
 }
 
 /* Legend of Mana */
-.b-image[data-attrs *= "https://i.imgur.com/LwpFSJP.png" ] {
-  --overlay-image: url("https://i.imgur.com/l3BjNiH.png");
+.b-image[data-attrs *= "https://i.imgur.com/l3BjNiH.png" ] {
+  --overlay-image: url("https://i.imgur.com/LwpFSJP.png");
 }
 
 /* King's Field IV */
 .b-image[data-attrs *= "https://i.imgur.com/V2PPRd2.png" ] {
   --overlay-image: url("https://i.imgur.com/GBBHOo4.png");
+}
+
+/* MGS3 */
+.b-image[data-attrs *= "https://i.imgur.com/KnkDpxy.png" ] {
+  --overlay-image: url("https://i.imgur.com/ljcncRE.png");
+}
+
+/* MGS PEACE WALKER */
+.b-image[data-attrs *= "https://i.imgur.com/hUZxXs1.png" ] {
+  --overlay-image: url("https://i.imgur.com/RCS5C8a.png");
+}
+
+/* MGS V */
+.b-image[data-attrs *= "https://i.imgur.com/NUdAWCJ.png" ] {
+  --overlay-image: url("https://i.imgur.com/U9bVAoi.png");
+}
+
+/* METAL GEAR */
+.b-image[data-attrs *= "https://i.imgur.com/qlfzlS4.png" ] {
+  --overlay-image: url("https://i.imgur.com/PmcYeEL.png");
+}
+
+/* METAL GEAR 2 */
+.b-image[data-attrs *= "https://i.imgur.com/hJnq6lt.png" ] {
+  --overlay-image: url("https://i.imgur.com/968B6Gq.png");
+}
+
+/* MGS */
+.b-image[data-attrs *= "https://i.imgur.com/qnwPhKa.png" ] {
+  --overlay-image: url("https://i.imgur.com/LBIsyiU.png");
+}
+
+/* MGSTTS */
+.b-image[data-attrs *= "https://i.imgur.com/8lORtGL.png" ] {
+  --overlay-image: url("https://i.imgur.com/rxWtbOL.png");
+}
+
+/* MGS2 */
+.b-image[data-attrs *= "https://i.imgur.com/nDQCdfo.png" ] {
+  --overlay-image: url("https://i.imgur.com/HC9IKBo.png");
+}
+
+/* MGS4 */
+.b-image[data-attrs *= "https://i.imgur.com/ZzyAa2a.png" ] {
+  --overlay-image: url("https://i.imgur.com/N6Ypog3.png");
+}
+
+/* MGR */
+.b-image[data-attrs *= "https://i.imgur.com/kq510eW.png" ] {
+  --overlay-image: url("https://i.imgur.com/pPrSFMp.png");
+}
+
+/* MGA */
+.b-image[data-attrs *= "https://i.imgur.com/vrUeqZY.png" ] {
+  --overlay-image: url("https://i.imgur.com/P20226P.png");
+}
+
+/* MGA2 */
+.b-image[data-attrs *= "https://i.imgur.com/SE9TW0w.png" ] {
+  --overlay-image: url("https://i.imgur.com/i8nzzSy.png");
+}
+
+/* AC1 */
+.b-image[data-attrs *= "https://i.imgur.com/OfwMVGs.png" ] {
+  --overlay-image: url("https://i.imgur.com/dpwFVsY.png");
+}
+
+/* ACPP */
+.b-image[data-attrs *= "https://i.imgur.com/7u4WqqA.png" ] {
+  --overlay-image: url("https://i.imgur.com/AUvm4QB.png");
+}
+
+/* ACMOA */
+.b-image[data-attrs *= "https://i.imgur.com/E86WdGq.png" ] {
+  --overlay-image: url("https://i.imgur.com/zjxKmVc.png");
+}
+
+/* AC2 */
+.b-image[data-attrs *= "https://i.imgur.com/zlGXqbA.png" ] {
+  --overlay-image: url("https://i.imgur.com/5i7iIhR.png");
+}
+
+/* AC2AA */
+.b-image[data-attrs *= "https://i.imgur.com/LD6BO3x.png" ] {
+  --overlay-image: url("https://i.imgur.com/Tg7MdkN.png");
+}
+
+/* AC3 */
+.b-image[data-attrs *= "https://i.imgur.com/syJgxIv.png" ] {
+  --overlay-image: url("https://i.imgur.com/XbnrGeZ.png");
+}
+
+/* ACSL */
+.b-image[data-attrs *= "https://i.imgur.com/Uco6fuz.png" ] {
+  --overlay-image: url("https://i.imgur.com/IBkvG89.png");
+}
+
+/* ACN */
+.b-image[data-attrs *= "https://i.imgur.com/aEsZG2P.png" ] {
+  --overlay-image: url("https://i.imgur.com/J1mulGi.png");
+}
+
+/* ACFF */
+.b-image[data-attrs *= "https://i.imgur.com/ggpL1pQ.png" ] {
+  --overlay-image: url("https://i.imgur.com/0f7zIs6.png");
+}
+
+/* ACNB */
+.b-image[data-attrs *= "https://i.imgur.com/0vZc7Tk.png" ] {
+  --overlay-image: url("https://i.imgur.com/ZFTC5ev.png");
+}
+
+/* ACLR */
+.b-image[data-attrs *= "https://i.imgur.com/PVOhiys.png" ] {
+  --overlay-image: url("https://i.imgur.com/G1az6xh.png");
+}
+
+/* AC4 */
+.b-image[data-attrs *= "https://i.imgur.com/RR2wa6s.png" ] {
+  --overlay-image: url("https://i.imgur.com/Ozerj92.png");
+}
+
+/* AC4A */
+.b-image[data-attrs *= "https://i.imgur.com/RO0rbyr.png" ] {
+  --overlay-image: url("https://i.imgur.com/IvMR3I2.png");
+}
+
+/* ACV */
+.b-image[data-attrs *= "https://i.imgur.com/MVtE5Zo.png" ] {
+  --overlay-image: url("https://i.imgur.com/wPzu94M.png");
+}
+
+/* ACVD */
+.b-image[data-attrs *= "https://i.imgur.com/KJ9J1w3.png" ] {
+  --overlay-image: url("https://i.imgur.com/sRKGCST.png");
+}
+
+/* ACVI */
+.b-image[data-attrs *= "https://i.imgur.com/uQHuCva.png" ] {
+  --overlay-image: url("https://i.imgur.com/mhInZsy.png");
+}
+
+/* TEKKEN 1 */
+.b-image[data-attrs *= "https://i.imgur.com/UxoPRQS.png" ] {
+  --overlay-image: url("");
+}
+
+/* TEKKEN 2 */
+.b-image[data-attrs *= "https://i.imgur.com/krFqzd4.png" ] {
+  --overlay-image: url("");
+}
+
+/* TEKKEN 3 */
+.b-image[data-attrs *= "https://i.imgur.com/GkjEfrP.png" ] {
+  --overlay-image: url("");
+}
+
+/* TEKKEN 4 */
+.b-image[data-attrs *= "https://i.imgur.com/PcwMgDg.png" ] {
+  --overlay-image: url("");
+}
+
+/* TEKKEN 5 */
+.b-image[data-attrs *= "https://i.imgur.com/9cV1gQe.png" ] {
+  --overlay-image: url("");
+}
+
+/* TEKKEN 5 DR */
+.b-image[data-attrs *= "https://i.imgur.com/bMxFQYJ.png" ] {
+  --overlay-image: url("https://i.imgur.com/C0faOq5.png");
+}
+
+/* TEKKEN 6 */
+.b-image[data-attrs *= "https://i.imgur.com/6wTKDAT.png" ] {
+  --overlay-image: url("");
+}
+
+/* TEKKEN 7 */
+.b-image[data-attrs *= "https://i.imgur.com/gE4JQuQ.png" ] {
+  --overlay-image: url("");
+}
+
+/* TEKKEN 8 */
+.b-image[data-attrs *= "https://i.imgur.com/hHBKcGf.png" ] {
+  --overlay-image: url("");
+}
+
+/* TEKKEN TTT */
+.b-image[data-attrs *= "https://i.imgur.com/05N72Ob.png" ] {
+  --overlay-image: url("");
+}
+
+/* TEKKEN TTT2 */
+.b-image[data-attrs *= "https://i.imgur.com/HPV7g5m.png" ] {
+  --overlay-image: url("");
+}
+
+/* GOW */
+.b-image[data-attrs *= "https://i.imgur.com/ONXLqbg.png" ] {
+  --overlay-image: url("https://i.imgur.com/lbAINxs.png");
+}
+
+/* GOW2 */
+.b-image[data-attrs *= "https://i.imgur.com/0KqHiG2.png" ] {
+  --overlay-image: url("https://i.imgur.com/4o3U2ts.png");
+}
+
+/* GOW3 */
+.b-image[data-attrs *= "https://i.imgur.com/APk7vMM.png" ] {
+  --overlay-image: url("https://i.imgur.com/7NUKH76.png");
+}
+
+/* GOWA */
+.b-image[data-attrs *= "https://i.imgur.com/GfO96U4.png" ] {
+  --overlay-image: url("https://i.imgur.com/LKslbJF.png");
+}
+
+/* GOWCOA */
+.b-image[data-attrs *= "https://i.imgur.com/34welir.png" ] {
+  --overlay-image: url("https://i.imgur.com/uLUUG0G.png");
+}
+
+/* GOWGOS */
+.b-image[data-attrs *= "https://i.imgur.com/uSVBI20.png" ] {
+  --overlay-image: url("https://i.imgur.com/cYnOKpW.png");
+}
+
+/* GOW2018 */
+.b-image[data-attrs *= "https://i.imgur.com/VE5HVpz.png" ] {
+  --overlay-image: url("https://i.imgur.com/c1Y9PtO.png");
+}
+
+/* GOW RAGNAROK */
+.b-image[data-attrs *= "https://i.imgur.com/lPPr4TU.png" ] {
+  --overlay-image: url("https://i.imgur.com/Z601feN.png");
+}
+
+/* SYSTEM SHOCK */
+.b-image[data-attrs *= "https://i.imgur.com/pqwPQTb.png" ] {
+  --overlay-image: url("");
+}
+
+/* SYSTEM SHOCK 2 */
+.b-image[data-attrs *= "https://i.imgur.com/4Hlvaih.png" ] {
+  --overlay-image: url("https://i.imgur.com/W3PM8ds.png");
+}
+
+/* SYSTEM SHOCK REMAKE */
+.b-image[data-attrs *= "https://i.imgur.com/rAxkUED.png" ] {
+  --overlay-image: url("");
+}
+
+/* BIOSHOCK */
+.b-image[data-attrs *= "https://i.imgur.com/FZs3O62.png" ] {
+  --overlay-image: url("");
+}
+
+/* BIOSHOCK 2 */
+.b-image[data-attrs *= "https://i.imgur.com/IgdZaio.png" ] {
+  --overlay-image: url("");
+}
+
+/* BIOSHOCK INFINITE */
+.b-image[data-attrs *= "https://i.imgur.com/JcBs6lQ.png" ] {
+  --overlay-image: url("https://i.imgur.com/lwgI2Ho.png");
+}
+
+/* PREY NEUROSHOCK */
+.b-image[data-attrs *= "https://i.imgur.com/wdrBWN0.png" ] {
+  --overlay-image: url("");
+}
+
+/* CARTAGRA */
+.b-image[data-attrs *= "https://i.imgur.com/luFvI7H.png" ] {
+  --overlay-image: url("https://i.imgur.com/g5ZWzb9.png");
+}
+
+/* SHELL GIRL */
+.b-image[data-attrs *= "https://i.imgur.com/5haaLP6.png" ] {
+  --overlay-image: url("https://i.imgur.com/Ale2wny.png");
+}
+
+/* FALSE GIRL */
+.b-image[data-attrs *= "https://i.imgur.com/KRC3TzN.png" ] {
+  --overlay-image: url("https://i.imgur.com/hxJBf6w.png");
+}
+
+/* HEAVENLY GIRL */
+.b-image[data-attrs *= "https://i.imgur.com/cj7CaNh.png" ] {
+  --overlay-image: url("https://i.imgur.com/G5jU5n9.png");
+}
+
+/* DRAGON AGE ORIGINS */
+.b-image[data-attrs *= "https://i.imgur.com/REE7zkd.png" ] {
+  --overlay-image: url("https://i.imgur.com/tdYHVJi.png");
+}
+
+/* DRAGON AGE 2 */
+.b-image[data-attrs *= "https://i.imgur.com/7hP6Wkd.png" ] {
+  --overlay-image: url("");
+}
+
+/* DRAGON AGE INQUISITION */
+.b-image[data-attrs *= "https://i.imgur.com/YvHJKgE.png" ] {
+  --overlay-image: url("");
+}
+
+/* DRAGON AGE THE VEILGUARD */
+.b-image[data-attrs *= "https://i.imgur.com/o88Eurx.png" ] {
+  --overlay-image: url("");
+}
+
+/* DRAKENGARD */
+.b-image[data-attrs *= "https://i.imgur.com/AjJcIk0.png" ] {
+  --overlay-image: url("");
+}
+
+/* DRAKENGARD 2 */
+.b-image[data-attrs *= "https://i.imgur.com/bzvn0l4.png" ] {
+  --overlay-image: url("");
+}
+
+/* DRAKENGARD 3 */
+.b-image[data-attrs *= "https://i.imgur.com/xRMzLi0.png" ] {
+  --overlay-image: url("");
+}
+
+/* NIER REPLICANT */
+.b-image[data-attrs *= "https://i.imgur.com/gcCT7GT.png" ] {
+  --overlay-image: url("");
+}
+
+/* NIER AUTOMATA */
+.b-image[data-attrs *= "https://i.imgur.com/5yN6mz0.png" ] {
+  --overlay-image: url("");
+}
+
+/* NIER REINCARNATION */
+.b-image[data-attrs *= "https://i.imgur.com/R3ZhIKb.png" ] {
+  --overlay-image: url("");
+}
+
+/* DEMON'S SOULS */
+.b-image[data-attrs *= "https://i.imgur.com/TIqxi5g.png" ] {
+  --overlay-image: url("");
+}
+
+/* DARK SOULS */
+.b-image[data-attrs *= "https://i.imgur.com/BBGvsCe.png" ] {
+  --overlay-image: url("");
+}
+
+/* DARK SOULS 2 */
+.b-image[data-attrs *= "https://i.imgur.com/VO9wuh0.png" ] {
+  --overlay-image: url("");
+}
+
+/* DARK SOULS 3 */
+.b-image[data-attrs *= "https://i.imgur.com/9dhSZou.png" ] {
+  --overlay-image: url("");
+}
+
+/* BLOODBORNE */
+.b-image[data-attrs *= "https://i.imgur.com/AknsMIf.png" ] {
+  --overlay-image: url("");
+}
+
+/* SEKIRO */
+.b-image[data-attrs *= "https://i.imgur.com/QbthIQi.png" ] {
+  --overlay-image: url("https://i.imgur.com/77n8J5Y.png");
+}
+
+/* ELDEN RING */
+.b-image[data-attrs *= "https://i.imgur.com/Z95ZZI6.png" ] {
+  --overlay-image: url("https://i.imgur.com/eA1zJGA.png");
+}
+
+/* ELDEN RING NIGHTREIGN */
+.b-image[data-attrs *= "https://i.imgur.com/gIaL3vN.png" ] {
+  --overlay-image: url("");
+}
+
+/* THE DUSKBLOODS */
+.b-image[data-attrs *= "https://i.imgur.com/BtUXBAe.png" ] {
+  --overlay-image: url("");
+}
+
+/* CHAOS HEAD */
+.b-image[data-attrs *= "https://i.imgur.com/OZpCHUV.png" ] {
+  --overlay-image: url("");
+}
+
+/* CHAOS HEAD LOVE CHU CHU */
+.b-image[data-attrs *= "https://i.imgur.com/8sesfNi.png" ] {
+  --overlay-image: url("");
+}
+
+/* CHAOS CHILD */
+.b-image[data-attrs *= "https://i.imgur.com/EWuNXXd.png" ] {
+  --overlay-image: url("");
+}
+
+/* CHAOS CHILD LOVE CHU CHU */
+.b-image[data-attrs *= "https://i.imgur.com/kBNUYyG.png" ] {
+  --overlay-image: url("");
+}
+
+/* STEINS GATE */
+.b-image[data-attrs *= "https://i.imgur.com/6Gg1Li2.png" ] {
+  --overlay-image: url("");
+}
+
+/* STEINS GATE 0 */
+.b-image[data-attrs *= "https://i.imgur.com/6xzlpun.png" ] {
+  --overlay-image: url("");
+}
+
+/* STEINS GATE LBP */
+.b-image[data-attrs *= "https://i.imgur.com/ihKTQqm.png" ] {
+  --overlay-image: url("");
+}
+
+/* STEINS GATE DARLING */
+.b-image[data-attrs *= "https://i.imgur.com/oMAv0jH.png" ] {
+  --overlay-image: url("");
+}
+
+/* ROBOTIC NOTES */
+.b-image[data-attrs *= "https://i.imgur.com/gMZEHGj.png" ] {
+  --overlay-image: url("");
+}
+
+/* ROBOTIC NOTES DASH */
+.b-image[data-attrs *= "https://i.imgur.com/g6HkYo7.png" ] {
+  --overlay-image: url("");
+}
+
+/* OCCULTIC NINE */
+.b-image[data-attrs *= "https://i.imgur.com/2uKi83C.png" ] {
+  --overlay-image: url("");
+}
+
+/* ANONYMOUS CODE */
+.b-image[data-attrs *= "https://i.imgur.com/NT19VZN.png" ] {
+  --overlay-image: url("");
+}
+
+/* 13 SENTINELS */
+.b-image[data-attrs *= "https://i.imgur.com/OOxRqjR.png" ] {
+  --overlay-image: url("https://i.imgur.com/N8EbrAy.png");
+}
+
+/* ANIMAL CROSSING NEW HORIZONS */
+.b-image[data-attrs *= "https://i.imgur.com/XRFl4rb.png" ] {
+  --overlay-image: url("https://i.imgur.com/sxghVO6.png");
+}
+
+/* AC BROTHERHOOD */
+.b-image[data-attrs *= "https://i.imgur.com/QCjyAVb.png" ] {
+  --overlay-image: url("https://i.imgur.com/ucd8Ibj.png");
+}
+
+/* BAD COMPANY */
+.b-image[data-attrs *= "https://i.imgur.com/XhPpWdd.png" ] {
+  --overlay-image: url("https://i.imgur.com/loa5sdV.png");
+}
+
+/* CRASH OF THE TITANS */
+.b-image[data-attrs *= "https://i.imgur.com/ARKkDXL.png" ] {
+  --overlay-image: url("");
+}
+
+/* DARKEST DUNGEON */
+.b-image[data-attrs *= "https://i.imgur.com/KUfle3W.png" ] {
+  --overlay-image: url("");
+}
+
+/* DEUS EX */
+.b-image[data-attrs *= "https://i.imgur.com/2qMxTCV.png" ] {
+  --overlay-image: url("https://i.imgur.com/BeH8Qtr.png");
+}
+
+/* DIABLO 2 */
+.b-image[data-attrs *= "https://i.imgur.com/z8OixTI.png" ] {
+  --overlay-image: url("https://i.imgur.com/TxbgKXp.png");
+}
+
+/* FALLOUT 2 */
+.b-image[data-attrs *= "https://i.imgur.com/Ti7fkp0.png" ] {
+  --overlay-image: url("");
+}
+
+/* GOTHIC 2 */
+.b-image[data-attrs *= "https://i.imgur.com/c4nckln.png" ] {
+  --overlay-image: url("https://i.imgur.com/7Ju6ROw.png");
+}
+
+/* GTA VICE CITY */
+.b-image[data-attrs *= "https://i.imgur.com/oTl5R77.png" ] {
+  --overlay-image: url("");
+}
+
+/* GTA ONLINE */
+.b-image[data-attrs *= "https://i.imgur.com/B1pE5RM.png" ] {
+  --overlay-image: url("");
+}
+
+/* GRAVITY RUSH 2 */
+.b-image[data-attrs *= "https://i.imgur.com/FSY4YCl.png" ] {
+  --overlay-image: url("");
+}
+
+/* HEROES 3 */
+.b-image[data-attrs *= "https://i.imgur.com/doW9HlQ.png" ] {
+  --overlay-image: url("https://i.imgur.com/wJGGhM7.png");
+}
+
+/* HOLLOW KNIGHT */
+.b-image[data-attrs *= "https://i.imgur.com/uThHzUS.png" ] {
+  --overlay-image: url("https://i.imgur.com/lTpPsCr.png");
+}
+
+/* LIFE IS STRANGE */
+.b-image[data-attrs *= "https://i.imgur.com/60eyuST.png" ] {
+  --overlay-image: url("https://i.imgur.com/JqZRmTq.png");
+}
+
+/* MASS EFFECT 3 */
+.b-image[data-attrs *= "https://i.imgur.com/HTUEl7A.png" ] {
+  --overlay-image: url("https://i.imgur.com/2siGsmq.png");
+}
+
+/* MAX PAYNE */
+.b-image[data-attrs *= "https://i.imgur.com/bZKhmqv.png" ] {
+  --overlay-image: url("");
+}
+
+/* NIOH */
+.b-image[data-attrs *= "https://i.imgur.com/yFdGwp7.png" ] {
+  --overlay-image: url("https://i.imgur.com/6gJh8UH.png");
+}
+
+/* OUTER WILDS */
+.b-image[data-attrs *= "https://i.imgur.com/vxNsg0d.png" ] {
+  --overlay-image: url("https://i.imgur.com/EBL0YNG.png");
+}
+
+/* OVERWATCH */
+.b-image[data-attrs *= "https://i.imgur.com/17aqw6W.png" ] {
+  --overlay-image: url("");
+}
+
+/* PATAPON 3 */
+.b-image[data-attrs *= "https://i.imgur.com/iS0qALD.png" ] {
+  --overlay-image: url("https://i.imgur.com/Wr48baj.png");
+}
+
+/* PHOENIX WRIGHT TAT */
+.b-image[data-attrs *= "https://i.imgur.com/Trirs7e.png" ] {
+  --overlay-image: url("https://i.imgur.com/UtF0V2f.png");
+}
+
+/* TERRARIA */
+.b-image[data-attrs *= "https://i.imgur.com/h7Xl84o.png" ] {
+  --overlay-image: url("https://i.imgur.com/9zc5VHB.png");
+}
+
+/* OBLIVION */
+.b-image[data-attrs *= "https://i.imgur.com/9OejVgz.png" ] {
+  --overlay-image: url("https://i.imgur.com/mgfmrFD.png");
+}
+
+/* TLOU */
+.b-image[data-attrs *= "https://i.imgur.com/Q4XS1xB.png" ] {
+  --overlay-image: url("https://i.imgur.com/8Xz0lW7.png");
+}
+
+/* ZELDA MAJORA'S MASK */
+.b-image[data-attrs *= "https://i.imgur.com/v6IFzDC.png" ] {
+  --overlay-image: url("https://i.imgur.com/2mDSSpc.png");
+}
+
+/* THE LONGEST JOURNEY */
+.b-image[data-attrs *= "https://i.imgur.com/WwA55KB.png" ] {
+  --overlay-image: url("");
+}
+
+/* WITCHER 3 */
+.b-image[data-attrs *= "https://i.imgur.com/EzLxgTt.png" ] {
+  --overlay-image: url("https://i.imgur.com/YqnfEMp.png");
+}
+
+/* WOLF AMONG US */
+.b-image[data-attrs *= "https://i.imgur.com/M3pH32m.png" ] {
+  --overlay-image: url("");
+}
+
+/* UNCHARTED 4 */
+.b-image[data-attrs *= "https://i.imgur.com/62QMm1R.png" ] {
+  --overlay-image: url("");
+}
+
+/* WOLFENSTEIN */
+.b-image[data-attrs *= "https://i.imgur.com/Vu43fLq.png" ] {
+  --overlay-image: url("https://i.imgur.com/1V4Q5dt.png");
+}
+
+/* WORLD OF WARCRAFT */
+.b-image[data-attrs *= "https://i.imgur.com/jctgfZL.png" ] {
+  --overlay-image: url("");
 }
