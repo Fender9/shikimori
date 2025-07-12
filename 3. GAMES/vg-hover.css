@@ -560,12 +560,12 @@
 
 /* CRASH OF THE TITANS */
 .b-image[data-attrs *= "https://i.imgur.com/ARKkDXL.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/tp8FKh8.png");
 }
 
 /* DARKEST DUNGEON */
-.b-image[data-attrs *= "https://i.imgur.com/KUfle3W.png" ] {
-  --overlay-image: url("");
+.b-image[data-attrs *= "https://i.imgur.com/RNHZ0hp.png" ] {
+  --overlay-image: url("https://i.imgur.com/u5c1Puc.png");
 }
 
 /* DEUS EX */
@@ -580,7 +580,7 @@
 
 /* FALLOUT 2 */
 .b-image[data-attrs *= "https://i.imgur.com/Ti7fkp0.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/kfmQJjY.png");
 }
 
 /* GOTHIC 2 */
@@ -590,17 +590,17 @@
 
 /* GTA VICE CITY */
 .b-image[data-attrs *= "https://i.imgur.com/oTl5R77.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/iMMHDKC.png");
 }
 
 /* GTA ONLINE */
 .b-image[data-attrs *= "https://i.imgur.com/B1pE5RM.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/HNkDKpX.png");
 }
 
 /* GRAVITY RUSH 2 */
 .b-image[data-attrs *= "https://i.imgur.com/FSY4YCl.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/Wm3yaYC.png");
 }
 
 /* HEROES 3 */
@@ -625,7 +625,7 @@
 
 /* MAX PAYNE */
 .b-image[data-attrs *= "https://i.imgur.com/bZKhmqv.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/wvo83ZX.png");
 }
 
 /* NIOH */
@@ -639,8 +639,8 @@
 }
 
 /* OVERWATCH */
-.b-image[data-attrs *= "https://i.imgur.com/17aqw6W.png" ] {
-  --overlay-image: url("");
+.b-image[data-attrs *= "https://i.imgur.com/6eB7ypd.png" ] {
+  --overlay-image: url("https://i.imgur.com/JOjCGJQ.png");
 }
 
 /* PATAPON 3 */
@@ -648,9 +648,9 @@
   --overlay-image: url("https://i.imgur.com/Wr48baj.png");
 }
 
-/* PHOENIX WRIGHT TAT */
+/* PHOENIX WRIGHT ACE ATTORNEY TAT */
 .b-image[data-attrs *= "https://i.imgur.com/Trirs7e.png" ] {
-  --overlay-image: url("https://i.imgur.com/UtF0V2f.png");
+  --overlay-image: url("https://i.imgur.com/zTGyGpj.png");
 }
 
 /* TERRARIA */
@@ -675,7 +675,7 @@
 
 /* THE LONGEST JOURNEY */
 .b-image[data-attrs *= "https://i.imgur.com/WwA55KB.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/SvQ2Idd.png");
 }
 
 /* WITCHER 3 */
@@ -684,13 +684,13 @@
 }
 
 /* WOLF AMONG US */
-.b-image[data-attrs *= "https://i.imgur.com/M3pH32m.png" ] {
-  --overlay-image: url("");
+.b-image[data-attrs *= "https://i.imgur.com/PdWXUOb.png" ] {
+  --overlay-image: url("https://i.imgur.com/R8AjppW.png");
 }
 
 /* UNCHARTED 4 */
 .b-image[data-attrs *= "https://i.imgur.com/62QMm1R.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/3uXtOdK.png");
 }
 
 /* WOLFENSTEIN */
@@ -700,7 +700,7 @@
 
 /* WORLD OF WARCRAFT */
 .b-image[data-attrs *= "https://i.imgur.com/jctgfZL.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/tIMt2Z7.png");
 }
 
 /* SMT */
