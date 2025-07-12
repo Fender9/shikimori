@@ -169,83 +169,83 @@
 }
 
 /* AC1 */
-.b-image[data-attrs *= "https://i.imgur.com/OfwMVGs.png" ] {
-  --overlay-image: url("https://i.imgur.com/dpwFVsY.png");
+.b-image[data-attrs *= "https://i.imgur.com/dpwFVsY.png" ] {
+  --overlay-image: url("https://i.imgur.com/OfwMVGs.png");
 }
 
 /* ACPP */
-.b-image[data-attrs *= "https://i.imgur.com/7u4WqqA.png" ] {
-  --overlay-image: url("https://i.imgur.com/AUvm4QB.png");
+.b-image[data-attrs *= "https://i.imgur.com/AUvm4QB.png" ] {
+  --overlay-image: url("https://i.imgur.com/7u4WqqA.png");
 }
 
 /* ACMOA */
-.b-image[data-attrs *= "https://i.imgur.com/E86WdGq.png" ] {
-  --overlay-image: url("https://i.imgur.com/zjxKmVc.png");
+.b-image[data-attrs *= "https://i.imgur.com/zjxKmVc.png" ] {
+  --overlay-image: url("https://i.imgur.com/E86WdGq.png");
 }
 
 /* AC2 */
-.b-image[data-attrs *= "https://i.imgur.com/zlGXqbA.png" ] {
-  --overlay-image: url("https://i.imgur.com/5i7iIhR.png");
+.b-image[data-attrs *= "https://i.imgur.com/5i7iIhR.png" ] {
+  --overlay-image: url("https://i.imgur.com/zlGXqbA.png");
 }
 
 /* AC2AA */
-.b-image[data-attrs *= "https://i.imgur.com/LD6BO3x.png" ] {
-  --overlay-image: url("https://i.imgur.com/Tg7MdkN.png");
+.b-image[data-attrs *= "https://i.imgur.com/Tg7MdkN.png" ] {
+  --overlay-image: url("https://i.imgur.com/LD6BO3x.png");
 }
 
 /* AC3 */
-.b-image[data-attrs *= "https://i.imgur.com/syJgxIv.png" ] {
-  --overlay-image: url("https://i.imgur.com/XbnrGeZ.png");
+.b-image[data-attrs *= "https://i.imgur.com/XbnrGeZ.png" ] {
+  --overlay-image: url("https://i.imgur.com/syJgxIv.png");
 }
 
 /* ACSL */
-.b-image[data-attrs *= "https://i.imgur.com/Uco6fuz.png" ] {
-  --overlay-image: url("https://i.imgur.com/IBkvG89.png");
+.b-image[data-attrs *= "https://i.imgur.com/IBkvG89.png" ] {
+  --overlay-image: url("https://i.imgur.com/Uco6fuz.png");
 }
 
 /* ACN */
-.b-image[data-attrs *= "https://i.imgur.com/aEsZG2P.png" ] {
-  --overlay-image: url("https://i.imgur.com/J1mulGi.png");
+.b-image[data-attrs *= "https://i.imgur.com/J1mulGi.png" ] {
+  --overlay-image: url("https://i.imgur.com/aEsZG2P.png");
 }
 
 /* ACFF */
-.b-image[data-attrs *= "https://i.imgur.com/ggpL1pQ.png" ] {
-  --overlay-image: url("https://i.imgur.com/0f7zIs6.png");
+.b-image[data-attrs *= "https://i.imgur.com/0f7zIs6.png" ] {
+  --overlay-image: url("https://i.imgur.com/ggpL1pQ.png");
 }
 
 /* ACNB */
-.b-image[data-attrs *= "https://i.imgur.com/0vZc7Tk.png" ] {
-  --overlay-image: url("https://i.imgur.com/ZFTC5ev.png");
+.b-image[data-attrs *= "https://i.imgur.com/ZFTC5ev.png" ] {
+  --overlay-image: url("https://i.imgur.com/0vZc7Tk.png");
 }
 
 /* ACLR */
-.b-image[data-attrs *= "https://i.imgur.com/PVOhiys.png" ] {
-  --overlay-image: url("https://i.imgur.com/G1az6xh.png");
+.b-image[data-attrs *= "https://i.imgur.com/G1az6xh.png" ] {
+  --overlay-image: url("https://i.imgur.com/PVOhiys.png");
 }
 
 /* AC4 */
-.b-image[data-attrs *= "https://i.imgur.com/RR2wa6s.png" ] {
-  --overlay-image: url("https://i.imgur.com/Ozerj92.png");
+.b-image[data-attrs *= "https://i.imgur.com/Ozerj92.png" ] {
+  --overlay-image: url("https://i.imgur.com/RR2wa6s.png");
 }
 
 /* AC4A */
-.b-image[data-attrs *= "https://i.imgur.com/RO0rbyr.png" ] {
-  --overlay-image: url("https://i.imgur.com/IvMR3I2.png");
+.b-image[data-attrs *= "https://i.imgur.com/IvMR3I2.png" ] {
+  --overlay-image: url("https://i.imgur.com/RO0rbyr.png");
 }
 
 /* ACV */
-.b-image[data-attrs *= "https://i.imgur.com/MVtE5Zo.png" ] {
-  --overlay-image: url("https://i.imgur.com/wPzu94M.png");
+.b-image[data-attrs *= "https://i.imgur.com/wPzu94M.png" ] {
+  --overlay-image: url("https://i.imgur.com/MVtE5Zo.png");
 }
 
 /* ACVD */
-.b-image[data-attrs *= "https://i.imgur.com/KJ9J1w3.png" ] {
-  --overlay-image: url("https://i.imgur.com/sRKGCST.png");
+.b-image[data-attrs *= "https://i.imgur.com/sRKGCST.png" ] {
+  --overlay-image: url("https://i.imgur.com/KJ9J1w3.png");
 }
 
 /* ACVI */
-.b-image[data-attrs *= "https://i.imgur.com/uQHuCva.png" ] {
-  --overlay-image: url("https://i.imgur.com/mhInZsy.png");
+.b-image[data-attrs *= "https://i.imgur.com/mFxWz5w.png" ] {
+  --overlay-image: url("https://i.imgur.com/uQHuCva.png");
 }
 
 /* TEKKEN 1 */
@@ -394,7 +394,7 @@
 }
 
 /* HEAVENLY GIRL */
-.b-image[data-attrs *= "https://i.imgur.com/cj7CaNh.png" ] {
+.b-image[data-attrs *= "https://i.imgur.com/a4ypOUI.png" ] {
   --overlay-image: url("https://i.imgur.com/G5jU5n9.png");
 }
 
@@ -403,39 +403,24 @@
   --overlay-image: url("https://i.imgur.com/tdYHVJi.png");
 }
 
-/* DRAGON AGE 2 */
-.b-image[data-attrs *= "https://i.imgur.com/7hP6Wkd.png" ] {
-  --overlay-image: url("");
-}
-
-/* DRAGON AGE INQUISITION */
-.b-image[data-attrs *= "https://i.imgur.com/YvHJKgE.png" ] {
-  --overlay-image: url("");
-}
-
-/* DRAGON AGE THE VEILGUARD */
-.b-image[data-attrs *= "https://i.imgur.com/o88Eurx.png" ] {
-  --overlay-image: url("");
-}
-
 /* DRAKENGARD */
 .b-image[data-attrs *= "https://i.imgur.com/AjJcIk0.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/NzRwpTY.png");
 }
 
 /* DRAKENGARD 2 */
 .b-image[data-attrs *= "https://i.imgur.com/bzvn0l4.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/1wGLYt3.png");
 }
 
 /* DRAKENGARD 3 */
 .b-image[data-attrs *= "https://i.imgur.com/xRMzLi0.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/HcTBuXB.png");
 }
 
 /* NIER REPLICANT */
 .b-image[data-attrs *= "https://i.imgur.com/gcCT7GT.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/MUiHBkx.png");
 }
 
 /* NIER AUTOMATA */
@@ -445,32 +430,32 @@
 
 /* NIER REINCARNATION */
 .b-image[data-attrs *= "https://i.imgur.com/R3ZhIKb.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/GJBjtGj.png");
 }
 
 /* DEMON'S SOULS */
 .b-image[data-attrs *= "https://i.imgur.com/TIqxi5g.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/2mrizdv.png");
 }
 
 /* DARK SOULS */
-.b-image[data-attrs *= "https://i.imgur.com/BBGvsCe.png" ] {
-  --overlay-image: url("");
+.b-image[data-attrs *= "https://i.imgur.com/4pb37CY.png" ] {
+  --overlay-image: url("https://i.imgur.com/BBGvsCe.png");
 }
 
 /* DARK SOULS 2 */
 .b-image[data-attrs *= "https://i.imgur.com/VO9wuh0.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/wEL9Cg5.png");
 }
 
 /* DARK SOULS 3 */
 .b-image[data-attrs *= "https://i.imgur.com/9dhSZou.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/JTDmG0Q.png");
 }
 
 /* BLOODBORNE */
 .b-image[data-attrs *= "https://i.imgur.com/AknsMIf.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/xTIvTkd.png");
 }
 
 /* SEKIRO */
@@ -479,63 +464,63 @@
 }
 
 /* ELDEN RING */
-.b-image[data-attrs *= "https://i.imgur.com/Z95ZZI6.png" ] {
-  --overlay-image: url("https://i.imgur.com/eA1zJGA.png");
+.b-image[data-attrs *= "https://i.imgur.com/eA1zJGA.png" ] {
+  --overlay-image: url("https://i.imgur.com/WM8ueSN.png");
 }
 
 /* ELDEN RING NIGHTREIGN */
 .b-image[data-attrs *= "https://i.imgur.com/gIaL3vN.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/cRjL2mG.png");
 }
 
 /* THE DUSKBLOODS */
 .b-image[data-attrs *= "https://i.imgur.com/BtUXBAe.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/jgrDu6h.png");
 }
 
 /* CHAOS HEAD */
 .b-image[data-attrs *= "https://i.imgur.com/OZpCHUV.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/veCWL59.png");
 }
 
 /* CHAOS HEAD LOVE CHU CHU */
 .b-image[data-attrs *= "https://i.imgur.com/8sesfNi.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/4tF4t8S.png");
 }
 
 /* CHAOS CHILD */
 .b-image[data-attrs *= "https://i.imgur.com/EWuNXXd.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/QGEv2pc.png");
 }
 
 /* CHAOS CHILD LOVE CHU CHU */
 .b-image[data-attrs *= "https://i.imgur.com/kBNUYyG.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/DOyQA8i.png");
 }
 
 /* STEINS GATE */
 .b-image[data-attrs *= "https://i.imgur.com/6Gg1Li2.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/G1jdc8a.png");
 }
 
 /* STEINS GATE 0 */
 .b-image[data-attrs *= "https://i.imgur.com/6xzlpun.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/Qgy3Lwb.png");
 }
 
 /* STEINS GATE LBP */
 .b-image[data-attrs *= "https://i.imgur.com/ihKTQqm.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/7rZCWWy.png");
 }
 
 /* STEINS GATE DARLING */
 .b-image[data-attrs *= "https://i.imgur.com/oMAv0jH.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/XBAcV0T.png");
 }
 
 /* ROBOTIC NOTES */
 .b-image[data-attrs *= "https://i.imgur.com/gMZEHGj.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/xh22Ud4.png");
 }
 
 /* ROBOTIC NOTES DASH */
@@ -545,12 +530,12 @@
 
 /* OCCULTIC NINE */
 .b-image[data-attrs *= "https://i.imgur.com/2uKi83C.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/fVbiiIm.png");
 }
 
 /* ANONYMOUS CODE */
 .b-image[data-attrs *= "https://i.imgur.com/NT19VZN.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/u5sGpq5.png");
 }
 
 /* 13 SENTINELS */
@@ -840,7 +825,7 @@
 
 /* PERSONA 5 TACTICA */
 .b-image[data-attrs *= "https://i.imgur.com/rT2rR79.png" ] {
-  --overlay-image: url("https://i.imgur.com/uuGja2u.png");
+  --overlay-image: url("https://i.imgur.com/icmMIii.png");
 }
 
 /* PERSONA 5 X */
@@ -854,7 +839,7 @@
 }
 
 /* PERSONA Q2 */
-.b-image[data-attrs *= "https://i.imgur.com/3Lq9qDX.png" ] {
+.b-image[data-attrs *= "https://i.imgur.com/WGQzRo6.png" ] {
   --overlay-image: url("https://i.imgur.com/Jlqaxmr.png");
 }
 
@@ -880,7 +865,7 @@
 
 /* RAIDOU 2 */
 .b-image[data-attrs *= "https://i.imgur.com/vyWBF1i.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/lZ8niyy.png");
 }
 
 /* RAIDOU R */
@@ -935,7 +920,7 @@
 
 /* JACK BROS. */
 .b-image[data-attrs *= "https://i.imgur.com/RbTzjGr.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/1yd8wku.png");
 }
 
 /* MAKEN */
