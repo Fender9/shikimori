@@ -109,8 +109,8 @@
 }
 
 /* MGS3 */
-.b-image[data-attrs *= "https://i.imgur.com/KnkDpxy.png" ] {
-  --overlay-image: url("https://i.imgur.com/ljcncRE.png");
+.b-image[data-attrs *= "https://i.imgur.com/ljcncRE.png" ] {
+  --overlay-image: url("https://i.imgur.com/KnkDpxy.png");
 }
 
 /* MGS PEACE WALKER */
@@ -134,7 +134,7 @@
 }
 
 /* MGS */
-.b-image[data-attrs *= "https://i.imgur.com/qnwPhKa.png" ] {
+.b-image[data-attrs *= "https://i.imgur.com/cn7guLH.png" ] {
   --overlay-image: url("https://i.imgur.com/LBIsyiU.png");
 }
 
@@ -154,8 +154,8 @@
 }
 
 /* MGR */
-.b-image[data-attrs *= "https://i.imgur.com/kq510eW.png" ] {
-  --overlay-image: url("https://i.imgur.com/pPrSFMp.png");
+.b-image[data-attrs *= "https://i.imgur.com/pPrSFMp.png" ] {
+  --overlay-image: url("https://i.imgur.com/kq510eW.png");
 }
 
 /* MGA */
@@ -164,8 +164,8 @@
 }
 
 /* MGA2 */
-.b-image[data-attrs *= "https://i.imgur.com/SE9TW0w.png" ] {
-  --overlay-image: url("https://i.imgur.com/i8nzzSy.png");
+.b-image[data-attrs *= "https://i.imgur.com/i8nzzSy.png" ] {
+  --overlay-image: url("https://i.imgur.com/SE9TW0w.png");
 }
 
 /* AC1 */
@@ -410,7 +410,7 @@
 
 /* DRAKENGARD 2 */
 .b-image[data-attrs *= "https://i.imgur.com/bzvn0l4.png" ] {
-  --overlay-image: url("https://i.imgur.com/1wGLYt3.png");
+  --overlay-image: url("https://i.imgur.com/a6XhwHx.png");
 }
 
 /* DRAKENGARD 3 */
@@ -485,7 +485,7 @@
 
 /* CHAOS HEAD LOVE CHU CHU */
 .b-image[data-attrs *= "https://i.imgur.com/8sesfNi.png" ] {
-  --overlay-image: url("https://i.imgur.com/SgvEEJI.png");
+  --overlay-image: url("https://i.imgur.com/i70SGjz.png");
 }
 
 /* CHAOS CHILD */
