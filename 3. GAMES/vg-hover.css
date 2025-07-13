@@ -244,33 +244,33 @@
 }
 
 /* ACVI */
-.b-image[data-attrs *= "https://i.imgur.com/rZCSUUP.png" ] {
+.b-image[data-attrs *= "https://i.imgur.com/dopbwDS.png" ] {
   --overlay-image: url("https://i.imgur.com/uQHuCva.png");
 }
 
 /* TEKKEN 1 */
 .b-image[data-attrs *= "https://i.imgur.com/UxoPRQS.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/9dM0ISp.png");
 }
 
 /* TEKKEN 2 */
 .b-image[data-attrs *= "https://i.imgur.com/krFqzd4.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/cVuFTnp.png");
 }
 
 /* TEKKEN 3 */
 .b-image[data-attrs *= "https://i.imgur.com/GkjEfrP.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/rkrR1G0.png");
 }
 
 /* TEKKEN 4 */
 .b-image[data-attrs *= "https://i.imgur.com/PcwMgDg.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/DX4gZE5.png");
 }
 
 /* TEKKEN 5 */
 .b-image[data-attrs *= "https://i.imgur.com/9cV1gQe.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/O1AAAlT.png");
 }
 
 /* TEKKEN 5 DR */
@@ -280,27 +280,27 @@
 
 /* TEKKEN 6 */
 .b-image[data-attrs *= "https://i.imgur.com/6wTKDAT.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/rITLRbD.png");
 }
 
 /* TEKKEN 7 */
 .b-image[data-attrs *= "https://i.imgur.com/gE4JQuQ.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/4JdDm7Z.png");
 }
 
 /* TEKKEN 8 */
 .b-image[data-attrs *= "https://i.imgur.com/hHBKcGf.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/J4LE7I2.png");
 }
 
 /* TEKKEN TTT */
 .b-image[data-attrs *= "https://i.imgur.com/05N72Ob.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/7X0Etef.png");
 }
 
 /* TEKKEN TTT2 */
 .b-image[data-attrs *= "https://i.imgur.com/HPV7g5m.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/b3jvnJb.png");
 }
 
 /* GOW */
@@ -345,7 +345,7 @@
 
 /* SYSTEM SHOCK */
 .b-image[data-attrs *= "https://i.imgur.com/pqwPQTb.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/7UqwpUk.png");
 }
 
 /* SYSTEM SHOCK 2 */
@@ -355,17 +355,17 @@
 
 /* SYSTEM SHOCK REMAKE */
 .b-image[data-attrs *= "https://i.imgur.com/rAxkUED.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/9LOOyyH.png");
 }
 
 /* BIOSHOCK */
 .b-image[data-attrs *= "https://i.imgur.com/FZs3O62.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/sqjBf9z.png");
 }
 
 /* BIOSHOCK 2 */
 .b-image[data-attrs *= "https://i.imgur.com/IgdZaio.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/QzUWgnU.png");
 }
 
 /* BIOSHOCK INFINITE */
@@ -375,7 +375,7 @@
 
 /* PREY NEUROSHOCK */
 .b-image[data-attrs *= "https://i.imgur.com/wdrBWN0.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/xaK29kW.png");
 }
 
 /* CARTAGRA */
@@ -425,7 +425,7 @@
 
 /* NIER AUTOMATA */
 .b-image[data-attrs *= "https://i.imgur.com/5yN6mz0.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/RigBDGA.png");
 }
 
 /* NIER REINCARNATION */
@@ -525,7 +525,7 @@
 
 /* ROBOTIC NOTES DASH */
 .b-image[data-attrs *= "https://i.imgur.com/g6HkYo7.png" ] {
-  --overlay-image: url("");
+  --overlay-image: url("https://i.imgur.com/CdXuelY.png");
 }
 
 /* OCCULTIC NINE */
