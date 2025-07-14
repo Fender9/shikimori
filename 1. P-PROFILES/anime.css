@@ -1038,3 +1038,13 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/kZzlXWo.png);
 }
+
+/* Turn A Gundam */
+[href*="animes/95-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ChtHQmT.png);
+}
+[href*="animes/95-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Lbbl5d9.png);
+}
