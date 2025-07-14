@@ -303,6 +303,14 @@
   content: "Мастер муши";
 }
 
+/* Мобильный воин Гандам: Происхождение */
+.cover[href*="mangas/214-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/214-"] .title::after {
+  content: "Мобильный воин Гандам: Происхождение";
+}
+
 /* Спокойной ночи, Пунпун */
 .cover[href*="mangas/4632-"] .title span {
   display: none !important;
@@ -325,6 +333,14 @@
 }
 .cover[href*="mangas/17051-"] .title::after {
   content: "Баракамон";
+}
+
+/* Вуаль */
+.cover[href*="mangas/132678-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/132678-"] .title::after {
+  content: "Вуаль";
 }
 
 /* Дандадан  */
