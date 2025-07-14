@@ -1022,11 +1022,11 @@
 /* Kidou Butouden G Gundam */
 [href*="animes/96-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/H3foYYG.png);
+  --custom-image: url(https://i.imgur.com/UFvOdQ8.png);
 }
 [href*="animes/96-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/UFvOdQ8.png);
+  --custom-image: url(https://i.imgur.com/H3foYYG.png);
 }
 
 /* Kidou Shinseiki Gundam X */
