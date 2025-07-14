@@ -1632,3 +1632,23 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/ggexztQ.png);
 }
+
+/* Syd Mead */
+[href*="people/8331-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3Irc54f.png);
+}
+[href*="people/8331-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZdQZcQF.png);
+}
+
+/* Akira Yasuda */
+[href*="people/10512-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Xbuel3l.png);
+}
+[href*="people/10512-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Sgeqeps.png);
+}
