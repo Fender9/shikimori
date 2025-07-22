@@ -1048,3 +1048,13 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Lbbl5d9.png);
 }
+
+/* Gundam Build Fighters */
+[href*="animes/19319-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dnH9QgD.png);
+}
+[href*="animes/19319-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8MXqP5R.png);
+}
