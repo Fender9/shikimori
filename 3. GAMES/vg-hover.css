@@ -439,7 +439,7 @@
 }
 
 /* DARK SOULS */
-.b-image[data-attrs *= "https://cdn.imgchest.com/files/yrgcnaa3ve4.png" ] {
+.b-image[data-attrs *= "https://i.imgur.com/qKQhtgL.png" ] {
   --overlay-image: url("https://i.imgur.com/BBGvsCe.png");
 }
 
@@ -699,7 +699,7 @@
 }
 
 /* WORLD OF WARCRAFT */
-.b-image[data-attrs *= "https://cdn.imgchest.com/files/4jdcv338m54.png" ] {
+.b-image[data-attrs *= "https://i.imgur.com/a88zmhD.png" ] {
   --overlay-image: url("https://i.imgur.com/tIMt2Z7.png");
 }
 
