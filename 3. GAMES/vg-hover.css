@@ -439,7 +439,7 @@
 }
 
 /* DARK SOULS */
-.b-image[data-attrs *= "https://i.imgur.com/4pb37CY.png" ] {
+.b-image[data-attrs *= "https://cdn.imgchest.com/files/yrgcnaa3ve4.png" ] {
   --overlay-image: url("https://i.imgur.com/BBGvsCe.png");
 }
 
@@ -575,7 +575,7 @@
 
 /* DIABLO 2 */
 .b-image[data-attrs *= "https://i.imgur.com/z8OixTI.png" ] {
-  --overlay-image: url("https://i.imgur.com/TxbgKXp.png");
+  --overlay-image: url("https://cdn.imgchest.com/files/7lxcprrlzv7.png");
 }
 
 /* FALLOUT 2 */
@@ -699,7 +699,7 @@
 }
 
 /* WORLD OF WARCRAFT */
-.b-image[data-attrs *= "https://i.imgur.com/jctgfZL.png" ] {
+.b-image[data-attrs *= "https://cdn.imgchest.com/files/4jdcv338m54.png" ] {
   --overlay-image: url("https://i.imgur.com/tIMt2Z7.png");
 }
 
