@@ -649,8 +649,8 @@
 }
 
 /* PHOENIX WRIGHT ACE ATTORNEY TAT */
-.b-image[data-attrs *= "https://i.imgur.com/Trirs7e.png" ] {
-  --overlay-image: url("https://i.imgur.com/zTGyGpj.png");
+.b-image[data-attrs *= "https://i.imgur.com/zTGyGpj.png" ] {
+  --overlay-image: url("https://i.imgur.com/Trirs7e.png");
 }
 
 /* TERRARIA */
