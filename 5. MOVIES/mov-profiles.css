@@ -245,3 +245,38 @@
 .b-image[data-attrs *= "https://i.imgur.com/A34iQlO.png" ] {
   --overlay-image: url("https://i.imgur.com/yaCUBtN.gif");
 }
+
+/* The Ghoul */
+.b-image[data-attrs *= "https://i.imgur.com/ul9i3EC.png" ] {
+  --overlay-image: url("https://i.imgur.com/YLSikCi.gif");
+}
+
+/* Dean Winchester */
+.b-image[data-attrs *= "https://i.imgur.com/X7mGYD2.png" ] {
+  --overlay-image: url("https://i.imgur.com/LklNOuE.gif");
+}
+
+/* Number Five */
+.b-image[data-attrs *= "https://i.imgur.com/mxEG2kb.png" ] {
+  --overlay-image: url("https://i.imgur.com/YVmWZ4i.gif");
+}
+
+/* Leon */
+.b-image[data-attrs *= "https://i.imgur.com/d9D5f3E.png" ] {
+  --overlay-image: url("https://i.imgur.com/nqEN5fu.gif");
+}
+
+/* Luthen Rael */
+.b-image[data-attrs *= "https://i.imgur.com/TaL69tR.png" ] {
+  --overlay-image: url("https://i.imgur.com/AjtRkYd.gif");
+}
+
+/* Omar Devon Little */
+.b-image[data-attrs *= "https://i.imgur.com/uA1dAsv.png" ] {
+  --overlay-image: url("https://i.imgur.com/2m0iOc7.gif");
+}
+
+/* Debra Morgan */
+.b-image[data-attrs *= "https://i.imgur.com/jJI8qcB.png" ] {
+  --overlay-image: url("https://i.imgur.com/bwISNPB.gif");
+}
