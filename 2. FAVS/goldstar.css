@@ -836,3 +836,11 @@
 .cover[href*="people/37119-"] .title::after {
   content: "Шиничи Осава";
 }
+
+/* Ёшиюки Томино */
+.cover[href*="people/2337-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2337-"] .title::after {
+  content: "Ёшиюки Томино";
+}
