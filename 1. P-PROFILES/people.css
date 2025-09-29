@@ -954,7 +954,7 @@
 /* Kanye West */
 [href*="people/21059-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/oC2gk0p.png);
+  --custom-image: url(https://i.imgur.com/FeVUbN3.png);
 }
 [href*="people/21059-"]:hover {
   --show-default: 0;
@@ -1651,4 +1651,34 @@
 [href*="people/10512-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Sgeqeps.png);
+}
+
+/* Deftones */
+[href*="people/48241-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/iV9XMb6.png);
+}
+[href*="people/48241-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pqaFh3J.png);
+}
+
+/* Shinichi Osawa */
+[href*="people/37119-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/F617LWR.png);
+}
+[href*="people/37119-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZzQZFtA.png);
+}
+
+/* TeddyLoid */
+[href*="people/30805-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/V4oQblS.png);
+}
+[href*="people/30805-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4uebD1q.png);
 }
