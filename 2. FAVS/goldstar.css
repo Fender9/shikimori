@@ -844,3 +844,19 @@
 .cover[href*="people/2337-"] .title::after {
   content: "Ёшиюки Томино";
 }
+
+/* Чиаки Сато */
+.cover[href*="people/74301-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/74301-"] .title::after {
+  content: "Чиаки Сато";
+}
+
+/* Ёшимаса Тэруи */
+.cover[href*="people/45106-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/45106-"] .title::after {
+  content: "Ёшимаса Тэруи";
+}
