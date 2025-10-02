@@ -1682,3 +1682,53 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/4uebD1q.png);
 }
+
+/* Yoshimasa Terui */
+[href*="people/45106-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/r62KUb0.png);
+}
+[href*="people/45106-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/iGPbae0.png);
+}
+
+/* Meg */
+[href*="people/12489-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JxUNAJk.png);
+}
+[href*="people/12489-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pIrJFJu.png);
+}
+
+/* LITE */
+[href*="people/46402-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cdQ6ZQ7.png);
+}
+[href*="people/46402-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/d0GTVuH.png);
+}
+
+/* VELTPUNCH */
+[href*="people/47846-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/z3ybwVZ.png);
+}
+[href*="people/47846-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/e4OW2ku.png);
+}
+
+/* Chiaki Sato */
+[href*="people/74301-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QVCXFZD.png);
+}
+[href*="people/74301-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Z3YLFl5.png);
+}
