@@ -954,7 +954,7 @@
 /* Kanye West */
 [href*="people/21059-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/FeVUbN3.png);
+  --custom-image: url(https://i.imgur.com/9zZ3tPJ.png);
 }
 [href*="people/21059-"]:hover {
   --show-default: 0;
@@ -1620,7 +1620,7 @@
 }
 [href*="people/1066-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/ovPazDR.png);
+  --custom-image: url(https://i.imgur.com/pUJdllE.png);
 }
 
 /* The Mad Capsule Markets */
@@ -1731,4 +1731,24 @@
 [href*="people/74301-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Z3YLFl5.png);
+}
+
+/* downy*/
+[href*="people/90193-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bwkqUgC.png);
+}
+[href*="people/90193-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mLzTnk4.png);
+}
+
+/* haisuinonasa */
+[href*="people/90194-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3xN7a7R.png);
+}
+[href*="people/90194-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WDu4F85.png);
 }
