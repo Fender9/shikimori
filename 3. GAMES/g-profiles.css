@@ -42,6 +42,11 @@
   --overlay-image: url("https://i.imgur.com/d0Be9H2.gif");
 }
 
+/* JAVIER GARCIA */
+.b-image[data-attrs *= "https://i.imgur.com/3Ajqyia.png" ] {
+  --overlay-image: url("https://i.imgur.com/EZFOMr4.png");
+}
+
 /* JC DENTON */
 .b-image[data-attrs *= "https://i.imgur.com/5gbtu1I.png" ] {
   --overlay-image: url("https://i.imgur.com/BoL0Ll0.gif");
