@@ -943,3 +943,7 @@
   --overlay-image: url("https://i.imgur.com/1m4KH5e.png");
 }
 
+/* THE WALKING DEAD THE FINAL SEASON */
+.b-image[data-attrs *= "https://i.imgur.com/iXgFz2q.png" ] {
+  --overlay-image: url("https://i.imgur.com/XA9jDDS.png");
+}
