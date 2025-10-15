@@ -82,6 +82,11 @@
   --overlay-image: url("https://i.imgur.com/tmueDdb.gif");
 }
 
+/* CLEMENTINE */
+.b-image[data-attrs *= "https://i.imgur.com/khtm72q.png" ] {
+  --overlay-image: url("https://i.imgur.com/6nixNOq.gif");
+}
+
 /* EIKO */
 .b-image[data-attrs *= "https://i.imgur.com/xPZt8Qb.png" ] {
   --overlay-image: url("https://i.imgur.com/lSET8d8.png");
