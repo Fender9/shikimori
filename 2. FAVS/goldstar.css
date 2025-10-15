@@ -776,14 +776,6 @@
   content: "Хироаки Хашимото";
 }
 
-/*  */
-.cover[href*="people/-"] .title span {
-  display: none !important;
-}
-.cover[href*="people/-"] .title::after {
-  content: "";
-}
-
 /* Торэс Шибамото */
 .cover[href*="people/6328-"] .title {
   font-size: 0 !important;
@@ -859,4 +851,28 @@
 }
 .cover[href*="people/45106-"] .title::after {
   content: "Ёшимаса Тэруи";
+}
+
+/* MEG */
+.cover[href*="people/12489-"] .title {
+  font-size: 0 !important;
+}
+.cover[href*="people/12489-"] .title::after {
+  content: "MEG";
+  font-size: 13px;
+}
+.cover[href*="people/12489-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+}/* SOIL&"PIMP"SESSIONS */
+.cover[href*="people/51398-"] .title {
+  font-size: 0 !important;
+}
+.cover[href*="people/51398-"] .title::after {
+  content: "SOIL & "PIMP" SESSIONS";
+  font-size: 13px;
+}
+.cover[href*="people/51398-"] .title.two_lined::after {
+  font-size: 11.5px;
 }
