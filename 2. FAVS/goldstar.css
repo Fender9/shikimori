@@ -865,12 +865,12 @@
   font-size: 11.5px;
 }
 
-}/* SOIL&"PIMP"SESSIONS */
+/* SOIL&"PIMP"SESSIONS */
 .cover[href*="people/51398-"] .title {
   font-size: 0 !important;
 }
 .cover[href*="people/51398-"] .title::after {
-  content: "SOIL & "PIMP" SESSIONS";
+  content: "SOIL & ''PIMP'' SESSIONS";
   font-size: 13px;
 }
 .cover[href*="people/51398-"] .title.two_lined::after {
