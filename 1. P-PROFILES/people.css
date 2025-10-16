@@ -1752,3 +1752,23 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/WDu4F85.png);
 }
+
+/* betcover!! */
+[href*="people/79785-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sjAILf9.png);
+}
+[href*="people/79785-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AMaqzAT.png);
+}
+
+/* SOIL&"PIMP"SESSIONS */
+[href*="people/51398-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/m3hG6Zl.png);
+}
+[href*="people/51398-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RFfAdsl.png);
+}
