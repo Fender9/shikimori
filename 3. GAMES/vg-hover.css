@@ -99,12 +99,12 @@
 }
 
 /* Legend of Mana */
-.b-image[data-attrs *= "https://i.imgur.com/l3BjNiH.png" ] {
-  --overlay-image: url("https://i.imgur.com/LwpFSJP.png");
+.b-image[data-attrs *= "https://i.imgur.com/oMhcZhR.png" ] {
+  --overlay-image: url("https://i.imgur.com/noFzufm.png");
 }
 
 /* King's Field IV */
-.b-image[data-attrs *= "https://i.imgur.com/V2PPRd2.png" ] {
+.b-image[data-attrs *= "https://i.imgur.com/c2Ii64G.png" ] {
   --overlay-image: url("https://i.imgur.com/GBBHOo4.png");
 }
 
