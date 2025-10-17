@@ -1772,3 +1772,23 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/RFfAdsl.png);
 }
+
+/* Nitro Microphone Underground */
+[href*="people/90598-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gc8sfUy.png);
+}
+[href*="people/90598-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IJRjrIE.png);
+}
+
+/* Maki Asakawa */
+[href*="people/90596-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dWamopI.png);
+}
+[href*="people/90596-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AKQpAQa.png);
+}
