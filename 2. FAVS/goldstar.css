@@ -286,6 +286,14 @@
   content: "Евангелион: 3.0+1.01";
 }
 
+/* Плутон */
+.cover[href*="animes/35737-"] .title span {
+  display: none !important;
+}
+.cover[href*="animes/35737-"] .title::after {
+  content: "Плутон";
+}
+
 /* МАНГА */
 /* Ван-Пис */
 .cover[href*="mangas/z13-"] .title span {
