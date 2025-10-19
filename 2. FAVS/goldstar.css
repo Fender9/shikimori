@@ -876,3 +876,20 @@
 .cover[href*="people/51398-"] .title.two_lined::after {
   font-size: 11.5px;
 }
+
+/* Кимихико Фуджисака */
+.cover[href*="people/90599-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/90599-"] .title::after {
+  content: "Кимихико Фуджисака";
+}
+
+/* Ёджи Шинкава */
+.cover[href*="people/90613-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/90613-"] .title::after {
+  content: "Ёджи Шинкава 🖌";
+  color: #fde68f;
+}
