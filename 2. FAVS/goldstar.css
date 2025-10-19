@@ -901,3 +901,11 @@
   content: "Ёджи Шинкава 🖌";
   color: #fde68f;
 }
+
+/* Кадзуя Такахаши */
+.cover[href*="people/72580-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/72580-"] .title::after {
+  content: "Кадзуя Такахаши";
+}
