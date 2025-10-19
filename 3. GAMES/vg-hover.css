@@ -943,7 +943,52 @@
   --overlay-image: url("https://i.imgur.com/1m4KH5e.png");
 }
 
-/* THE WALKING DEAD THE FINAL SEASON */
-.b-image[data-attrs *= "https://i.imgur.com/iXgFz2q.png" ] {
-  --overlay-image: url("https://i.imgur.com/XA9jDDS.png");
+/* THE WALKING DEAD TTDE */
+.b-image[data-attrs *= "https://i.imgur.com/Qgdtm15.png" ] {
+  --overlay-image: url("https://i.imgur.com/iXgFz2q.png");
+}
+
+/* BEYOND GOOD & EVIL */
+.b-image[data-attrs *= "https://i.imgur.com/OCwEQHv.png" ] {
+  --overlay-image: url("https://i.imgur.com/vH9Tfdh.png");
+}
+
+/* BOKU NO NATSUYASUMI 2 */
+.b-image[data-attrs *= "https://i.imgur.com/Jlcizqs.png" ] {
+  --overlay-image: url("https://i.imgur.com/8zAHUy6.png");
+}
+
+/* FRONT MISSION GUN HAZARD */
+.b-image[data-attrs *= "https://i.imgur.com/pOu87X8.png" ] {
+  --overlay-image: url("https://i.imgur.com/nL74J5e.png");
+}
+
+/* ICO */
+.b-image[data-attrs *= "https://i.imgur.com/H3bkW7C.png" ] {
+  --overlay-image: url("https://i.imgur.com/t5WMKZR.png");
+}
+
+/* OFF */
+.b-image[data-attrs *= "https://i.imgur.com/gpAdS3V.png" ] {
+  --overlay-image: url("https://i.imgur.com/PYeu3OI.png");
+}
+
+/* RESIDENT EVIL 4 */
+.b-image[data-attrs *= "https://i.imgur.com/sVcYvvd.png" ] {
+  --overlay-image: url("https://i.imgur.com/jDHjprw.png");
+}
+
+/* SILENT HILL 3 */
+.b-image[data-attrs *= "https://i.imgur.com/sOipLfp.png" ] {
+  --overlay-image: url("https://i.imgur.com/n7Reb4w.png");
+}
+
+/* XENOGEARS */
+.b-image[data-attrs *= "https://i.imgur.com/0QzdMcg.png" ] {
+  --overlay-image: url("https://i.imgur.com/qljOFxu.png");
+}
+
+/* XENOSAGA E3 */
+.b-image[data-attrs *= "https://i.imgur.com/riSxUy8.png" ] {
+  --overlay-image: url("https://i.imgur.com/lM0kIfe.png");
 }
