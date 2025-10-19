@@ -893,12 +893,12 @@
   content: "Кимихико Фуджисака";
 }
 
-/* Ёджи Шинкава */
+/* Ёдзи Шинкава */
 .cover[href*="people/90613-"] .title span {
   display: none !important;
 }
 .cover[href*="people/90613-"] .title::after {
-  content: "Ёджи Шинкава 🖌";
+  content: "Ёдзи Шинкава 🖌";
   color: #fde68f;
 }
 
