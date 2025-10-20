@@ -909,3 +909,11 @@
 .cover[href*="people/72580-"] .title::after {
   content: "Кадзуя Такахаши";
 }
+
+/* Мари Шимадзаки */
+.cover[href*="people/39633-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/39633-"] .title::after {
+  content: "Мари Шимадзаки";
+}
