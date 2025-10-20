@@ -1812,3 +1812,33 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/tD4QQKZ.png);
 }
+
+/* Kazuya Takahashi */
+[href*="people/72580-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4eW5dSR.png);
+}
+[href*="people/72580-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gzB03C7.png);
+}
+
+/* Arco Wada */
+[href*="people/7056-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MAW8eaj.png);
+}
+[href*="people/7056-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tfPQocy.png);
+}
+
+/* Mari Shimazaki */
+[href*="people/39633-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vbUFI1B.png);
+}
+[href*="people/39633-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/D4qGU8z.png);
+}
