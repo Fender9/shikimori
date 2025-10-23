@@ -992,3 +992,38 @@
 .b-image[data-attrs *= "https://i.imgur.com/riSxUy8.png" ] {
   --overlay-image: url("https://i.imgur.com/lM0kIfe.png");
 }
+
+/* ALICE MADNESS RETURNS */
+.b-image[data-attrs *= "https://i.imgur.com/f60AMrI.png" ] {
+  --overlay-image: url("https://i.imgur.com/npuAALj.png");
+}
+
+/* APE ESCAPE 3 */
+.b-image[data-attrs *= "https://i.imgur.com/1CiIMPN.png" ] {
+  --overlay-image: url("https://i.imgur.com/x3r0vKt.png");
+}
+
+/* ARIA OF SORROW */
+.b-image[data-attrs *= "https://i.imgur.com/evBb59m.png" ] {
+  --overlay-image: url("https://i.imgur.com/0eU41yq.png");
+}
+
+/* DYNASTY WARRIORS 5 */
+.b-image[data-attrs *= "https://i.imgur.com/uop2oH5.png" ] {
+  --overlay-image: url("https://i.imgur.com/vAUtXW2.png");
+}
+
+/* PARASITE EVE 2 */
+.b-image[data-attrs *= "https://i.imgur.com/9gfTEzM.png" ] {
+  --overlay-image: url("https://i.imgur.com/uKjpfSE.png");
+}
+
+/* VAMP THE MASQ BLOODLINES */
+.b-image[data-attrs *= "https://i.imgur.com/NVHQQzj.png" ] {
+  --overlay-image: url("https://i.imgur.com/Ynj9sjp.png");
+}
+
+/* WORMS OPEN WARFARE 2 */
+.b-image[data-attrs *= "https://i.imgur.com/XVGm052.png" ] {
+  --overlay-image: url("https://i.imgur.com/HrmKCxu.png");
+}
