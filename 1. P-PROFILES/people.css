@@ -1842,3 +1842,23 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/llRPnCX.png);
 }
+
+/* Ikumi Fukuda */
+[href*="people/25229-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JaFaGpC.png);
+}
+[href*="people/25229-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7XDMzFm.png);
+}
+
+/* jizue */
+[href*="people/49757-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lNYeEWm.png);
+}
+[href*="people/49757-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/pZw5dEi.png);
+}
