@@ -304,43 +304,43 @@
 }
 
 /* GOW */
-.b-image[data-attrs *= "https://i.imgur.com/ONXLqbg.png" ] {
-  --overlay-image: url("https://i.imgur.com/lbAINxs.png");
+.b-image[data-attrs *= "https://i.imgur.com/7ctzBKZ.png" ] {
+  --overlay-image: url("https://i.imgur.com/ONXLqbg.png");
 }
 
 /* GOW2 */
-.b-image[data-attrs *= "https://i.imgur.com/0KqHiG2.png" ] {
-  --overlay-image: url("https://i.imgur.com/4o3U2ts.png");
+.b-image[data-attrs *= "https://i.imgur.com/j73KYQF.png" ] {
+  --overlay-image: url("https://i.imgur.com/0KqHiG2.png");
 }
 
 /* GOW3 */
 .b-image[data-attrs *= "https://i.imgur.com/APk7vMM.png" ] {
-  --overlay-image: url("https://i.imgur.com/7NUKH76.png");
+  --overlay-image: url("https://i.imgur.com/k49Sl7g.png");
 }
 
 /* GOWA */
 .b-image[data-attrs *= "https://i.imgur.com/GfO96U4.png" ] {
-  --overlay-image: url("https://i.imgur.com/LKslbJF.png");
+  --overlay-image: url("https://i.imgur.com/jqqi1XU.png");
 }
 
 /* GOWCOA */
-.b-image[data-attrs *= "https://i.imgur.com/34welir.png" ] {
-  --overlay-image: url("https://i.imgur.com/uLUUG0G.png");
+.b-image[data-attrs *= "https://i.imgur.com/5nxOJBs.png" ] {
+  --overlay-image: url("https://i.imgur.com/34welir.png");
 }
 
 /* GOWGOS */
-.b-image[data-attrs *= "https://i.imgur.com/uSVBI20.png" ] {
-  --overlay-image: url("https://i.imgur.com/cYnOKpW.png");
+.b-image[data-attrs *= "https://i.imgur.com/5IwYjDK.png" ] {
+  --overlay-image: url("https://i.imgur.com/uSVBI20.png");
 }
 
 /* GOW2018 */
-.b-image[data-attrs *= "https://i.imgur.com/VE5HVpz.png" ] {
-  --overlay-image: url("https://i.imgur.com/c1Y9PtO.png");
+.b-image[data-attrs *= "https://i.imgur.com/lu8lD8B.png" ] {
+  --overlay-image: url("https://i.imgur.com/VE5HVpz.png");
 }
 
 /* GOW RAGNAROK */
-.b-image[data-attrs *= "https://i.imgur.com/lPPr4TU.png" ] {
-  --overlay-image: url("https://i.imgur.com/Z601feN.png");
+.b-image[data-attrs *= "https://i.imgur.com/IzIzLQV.png" ] {
+  --overlay-image: url("https://i.imgur.com/lPPr4TU.png");
 }
 
 /* SYSTEM SHOCK */
