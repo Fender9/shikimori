@@ -108,11 +108,6 @@
   --overlay-image: url("https://i.imgur.com/Otva9ry.png");
 }
 
-/* Kinoko Teikoku */
-.b-image[data-attrs *= "https://i.imgur.com/0OcxI8s.png" ] {
-  --overlay-image: url("https://i.imgur.com/vuyiIz8.png");
-}
-
 /* Otoboke Beaver */
 .b-image[data-attrs *= "https://i.imgur.com/5byHrCG.png" ] {
   --overlay-image: url("https://i.imgur.com/nYwDWAH.png");
@@ -140,7 +135,7 @@
 
 /* downy */
 .b-image[data-attrs *= "https://i.imgur.com/r5DePpB.png" ] {
-  --overlay-image: url("https://i.imgur.com/3Nml1vS.png");
+  --overlay-image: url("https://i.imgur.com/ykm1TiL.png");
 }
 
 /* 0.8Syooogeki */
@@ -156,4 +151,109 @@
 /* CQ */
 .b-image[data-attrs *= "https://i.imgur.com/Pe9lFKV.png" ] {
   --overlay-image: url("https://i.imgur.com/jfcrx2b.png");
+}
+
+/* ano */
+.b-image[data-attrs *= "https://i.imgur.com/IA17lur.png" ] {
+  --overlay-image: url("https://i.imgur.com/zNJrwHw.png");
+}
+
+/* betcover!! */
+.b-image[data-attrs *= "https://i.imgur.com/3xByN08.png" ] {
+  --overlay-image: url("https://i.imgur.com/WNofVOw.png");
+}
+
+/* Chiaki Sato */
+.b-image[data-attrs *= "https://i.imgur.com/MK46nmN.png" ] {
+  --overlay-image: url("https://i.imgur.com/0OcxI8s.png");
+}
+
+/* Coaltar of the Deepers */
+.b-image[data-attrs *= "https://i.imgur.com/qpRBBGb.png" ] {
+  --overlay-image: url("https://i.imgur.com/QoqWPTH.png");
+}
+
+/* exist trace */
+.b-image[data-attrs *= "https://i.imgur.com/098gcLS.png" ] {
+  --overlay-image: url("https://i.imgur.com/NyyLhfF.png");
+}
+
+/* haisuinonasa */
+.b-image[data-attrs *= "https://i.imgur.com/wHmjwwW.png" ] {
+  --overlay-image: url("https://i.imgur.com/wk7TNGd.png");
+}
+
+/* Hanabie. */
+.b-image[data-attrs *= "https://i.imgur.com/m9ITb8N.png" ] {
+  --overlay-image: url("https://i.imgur.com/lBVrprf.png");
+}
+
+/* jizue */
+.b-image[data-attrs *= "https://i.imgur.com/CsNMrBv.png" ] {
+  --overlay-image: url("https://i.imgur.com/CAuOhaY.png");
+}
+
+/* LITE */
+.b-image[data-attrs *= "https://i.imgur.com/nA5PcwM.png" ] {
+  --overlay-image: url("https://i.imgur.com/RBjuZ6R.png");
+}
+
+/* Maki Asakawa */
+.b-image[data-attrs *= "https://i.imgur.com/O3GM0xb.png" ] {
+  --overlay-image: url("https://i.imgur.com/quLFeNo.png");
+}
+
+/* MEG */
+.b-image[data-attrs *= "https://i.imgur.com/YwlEmEa.png" ] {
+  --overlay-image: url("https://i.imgur.com/CJL146b.png");
+}
+
+/* Melt-Banana */
+.b-image[data-attrs *= "https://i.imgur.com/YUNlyT1.png" ] {
+  --overlay-image: url("https://i.imgur.com/qwTEgFi.png");
+}
+
+/* NITRO MICROPHONE UNDERGROUND */
+.b-image[data-attrs *= "https://i.imgur.com/RDQQCp2.png" ] {
+  --overlay-image: url("https://i.imgur.com/xmYdk4f.png");
+}
+
+/* Shinichi Osawa */
+.b-image[data-attrs *= "https://i.imgur.com/9HGm6us.png" ] {
+  --overlay-image: url("https://i.imgur.com/8j0D8nG.png");
+}
+
+/* SOIL&"PIMP"SESSIONS */
+.b-image[data-attrs *= "https://i.imgur.com/hU0zCuv.png" ] {
+  --overlay-image: url("https://i.imgur.com/o2YCDyw.png");
+}
+
+/* Yusuke Chiba */
+.b-image[data-attrs *= "https://i.imgur.com/901EPXn.png" ] {
+  --overlay-image: url("https://i.imgur.com/B2kVCe7.png");
+}
+
+/* TECHNOBOYS PULCRAFT GREEN-FUND */
+.b-image[data-attrs *= "https://i.imgur.com/bxdwq7L.png" ] {
+  --overlay-image: url("https://i.imgur.com/TUSVsKO.png");
+}
+
+/* TeddyLoid */
+.b-image[data-attrs *= "https://i.imgur.com/jDUVDGu.png" ] {
+  --overlay-image: url("https://i.imgur.com/zDEdgLt.png");
+}
+
+/* VELTPUNCH */
+.b-image[data-attrs *= "https://i.imgur.com/dvTINWU.png" ] {
+  --overlay-image: url("https://i.imgur.com/lICNjNf.png");
+}
+
+/* Kyono */
+.b-image[data-attrs *= "https://i.imgur.com/xdVpUfu.png" ] {
+  --overlay-image: url("https://i.imgur.com/1Bp6Yta.png");
+}
+
+/* Yura Yura Teikoku */
+.b-image[data-attrs *= "https://i.imgur.com/fc4BcS4.png" ] {
+  --overlay-image: url("https://i.imgur.com/J1owD3W.png");
 }
