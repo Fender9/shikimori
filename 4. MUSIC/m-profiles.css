@@ -272,3 +272,8 @@
 .b-image[data-attrs *= "https://i.imgur.com/zUmLtCh.png" ] {
   --overlay-image: url("https://i.imgur.com/tup6C2f.png");
 }
+
+/* World's End Girlfriend */
+.b-image[data-attrs *= "https://i.imgur.com/dGjfDK8.png" ] {
+  --overlay-image: url("https://i.imgur.com/iLWj9A9.png");
+}
