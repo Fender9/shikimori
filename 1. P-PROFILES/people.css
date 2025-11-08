@@ -1862,3 +1862,23 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/pZw5dEi.png);
 }
+
+/* Kazutaka Miyatake */
+[href*="people/5987-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/EAMXs6u.png);
+}
+[href*="people/5987-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vgsUjKL.png);
+}
+
+/* Sawaki Takeyasu */
+[href*="people/43883-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/EOQwm3n.png);
+}
+[href*="people/43883-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qLtE9KJ.png);
+}
