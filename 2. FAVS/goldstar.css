@@ -861,18 +861,6 @@
   content: "Ёшимаса Тэруи";
 }
 
-/* MEG */
-.cover[href*="people/12489-"] .title {
-  font-size: 0 !important;
-}
-.cover[href*="people/12489-"] .title::after {
-  content: "MEG";
-  font-size: 13px;
-}
-.cover[href*="people/12489-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
-
 /* SOIL&"PIMP"SESSIONS */
 .cover[href*="people/51398-"] .title {
   font-size: 0 !important;
