@@ -277,3 +277,18 @@
 .b-image[data-attrs *= "https://i.imgur.com/dGjfDK8.png" ] {
   --overlay-image: url("https://i.imgur.com/iLWj9A9.png");
 }
+
+/* Missile Girl Scoot */
+.b-image[data-attrs *= "https://i.imgur.com/DmOSlU5.png" ] {
+  --overlay-image: url("https://i.imgur.com/txYaGt0.png");
+}
+
+/* akaikurage */
+.b-image[data-attrs *= "https://i.imgur.com/8vX0i9a.png" ] {
+  --overlay-image: url("https://i.imgur.com/f6QWLwS.png");
+}
+
+/* doddodo */
+.b-image[data-attrs *= "https://i.imgur.com/SldKHTX.png" ] {
+  --overlay-image: url("https://i.imgur.com/q6WBhIO.png");
+}
