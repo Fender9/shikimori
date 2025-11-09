@@ -905,3 +905,19 @@
 .cover[href*="people/39633-"] .title::after {
   content: "Мари Шимадзаки";
 }
+
+/* Ютака Идзубучи */
+.cover[href*="people/4075-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/4075-"] .title::after {
+  content: "Ютака Идзубучи";
+}
+
+/* Хисаши Эгучи */
+.cover[href*="people/18237-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/18237-"] .title::after {
+  content: "Хисаши Эгучи";
+}
