@@ -1882,3 +1882,83 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/qLtE9KJ.png);
 }
+
+/* Yutaka Izubuchi */
+[href*="people/4075-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sPBb086.png);
+}
+[href*="people/4075-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Glsii5o.png);
+}
+
+/* Nobuteru Yuuki */
+[href*="people/2010-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jcIxWoQ.png);
+}
+[href*="people/2010-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rbMNyCg.png);
+}
+
+/* Akihiro Yamada */
+[href*="people/7449-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/styLJY8.png);
+}
+[href*="people/7449-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2N5w931.png);
+}
+
+/* Mamoru Nagano */
+[href*="people/3132-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GnaV2Fh.png);
+}
+[href*="people/3132-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/o0AQICF.png);
+}
+
+/* Kunio Ookawara */
+[href*="people/6417-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gAq21nw.png);
+}
+[href*="people/6417-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ljoMkCT.png);
+}
+
+/* Suehiro Maruo */
+[href*="people/2764-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nTMJY6e.png);
+}
+[href*="people/2764-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Q9TZd2F.png);
+}
+
+/* Taiyou Matsumoto */
+[href*="people/2409-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/M6q8YD5.png);
+}
+[href*="people/2409-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/K4ysCpE.png);
+}
+
+/* Hisashi Eguchi */
+[href*="people/18237-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PmMTmEm.png);
+}
+[href*="people/18237-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QOkZjE7.png);
+}
