@@ -1794,11 +1794,11 @@
 }
 
 /* Kimihiko Fujisaka */
-[href*="people/90599-"] {
+[href*="people/90996-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/n6b7Liv.png);
 }
-[href*="people/90599-"]:hover {
+[href*="people/90996-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/b6mIaGz.png);
 }
