@@ -1962,3 +1962,43 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/QOkZjE7.png);
 }
+
+/* Bikyouran */
+[href*="people/91006-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/O1qiZob.png);
+}
+[href*="people/91006-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UEqZY8Y.png);
+}
+
+/* Taketo Sanada */
+[href*="people/21877-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZQXK1QF.png);
+}
+[href*="people/21877-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sWd9hTT.png);
+}
+
+/* Shizuki Morii */
+[href*="people/14963-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QUsPCRQ.png);
+}
+[href*="people/14963-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GxKWTIO.png);
+}
+
+/* Hideo Minaba */
+[href*="people/62810-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RmdZcyn.png);
+}
+[href*="people/62810-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PbQ7yHs.png);
+}
