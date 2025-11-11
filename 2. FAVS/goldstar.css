@@ -874,10 +874,10 @@
 }
 
 /* Кимихико Фуджисака */
-.cover[href*="people/90599-"] .title span {
+.cover[href*="people/90996-"] .title span {
   display: none !important;
 }
-.cover[href*="people/90599-"] .title::after {
+.cover[href*="people/90996-"] .title::after {
   content: "Кимихико Фуджисака";
 }
 
