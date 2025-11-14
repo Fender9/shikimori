@@ -2002,3 +2002,13 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/PbQ7yHs.png);
 }
+
+/* tommy heavenly6 */
+[href*="people/6485-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/eMoIDr1.png);
+}
+[href*="people/6485-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1Pp1V9d.png);
+}
