@@ -2012,3 +2012,13 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/1Pp1V9d.png);
 }
+
+/* Keith David */
+[href*="people/1417-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dA3hrUe.png);
+}
+[href*="people/1417-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1NMFUKu.png);
+}
