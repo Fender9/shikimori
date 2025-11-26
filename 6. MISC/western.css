@@ -39,8 +39,8 @@
 }
 
 /* HAZBIN HOTEL */
-.b-image[data-attrs *= "https://i.imgur.com/rGaDlRs.png" ] {
-  --overlay-image: url("https://i.imgur.com/FeKt9OG.png");
+.b-image[data-attrs *= "https://i.imgur.com/KyImKdf.png" ] {
+  --overlay-image: url("https://i.imgur.com/Vazwa26.png");
 }
 
 /* KORRA */
@@ -84,8 +84,8 @@
 }
 
 /* HELLUVA BOSS */
-.b-image[data-attrs *= "https://i.imgur.com/8qR1f5L.png" ] {
-  --overlay-image: url("https://i.imgur.com/Oyg70dO.png");
+.b-image[data-attrs *= "https://i.imgur.com/JOsCbkd.png" ] {
+  --overlay-image: url("https://i.imgur.com/nDRzTBb.png");
 }
 
 /* COURAGE */
