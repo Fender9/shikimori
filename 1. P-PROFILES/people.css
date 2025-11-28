@@ -2022,3 +2022,13 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/1NMFUKu.png);
 }
+
+/* Yasutaka Nakata */
+[href*="people/7415-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SWBIoic.png);
+}
+[href*="people/7415-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/c2cdZ4G.png);
+}
