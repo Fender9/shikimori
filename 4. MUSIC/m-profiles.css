@@ -292,3 +292,13 @@
 .b-image[data-attrs *= "https://i.imgur.com/SldKHTX.png" ] {
   --overlay-image: url("https://i.imgur.com/q6WBhIO.png");
 }
+
+/* CITROBAL */
+.b-image[data-attrs *= "https://i.imgur.com/6xgZQbT.png" ] {
+  --overlay-image: url("https://i.imgur.com/AZRnqnu.png");
+}
+
+/* Gateballers */
+.b-image[data-attrs *= "https://i.imgur.com/SZx0QDz.png" ] {
+  --overlay-image: url("https://i.imgur.com/DJdO2mk.png");
+}
