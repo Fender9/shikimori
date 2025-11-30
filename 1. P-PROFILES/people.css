@@ -2032,3 +2032,53 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/c2cdZ4G.png);
 }
+
+/* saucelot */
+[href*="people/72619-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VQhMSXK.png);
+}
+[href*="people/72619-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/1418077a0013.gif);
+}
+
+/* Vercreek */
+[href*="people/62724-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jmRjW8H.png);
+}
+[href*="people/62724-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/79731bb21f10.gif);
+}
+
+/* Touya Ooshima */
+[href*="people/71916-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UehWMN3.png);
+}
+[href*="people/71916-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/427e716488c2.gif);
+}
+
+/* Rui */
+[href*="people/73113-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8b3srko.png);
+}
+[href*="people/73113-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sANKNqp.gif);
+}
+
+/*  */
+[href*="people/-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
