@@ -2073,6 +2073,36 @@
   --custom-image: url(https://i.imgur.com/sANKNqp.gif);
 }
 
+/* Vincent Chansard */
+[href*="people/61798-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XpCeQMu.png);
+}
+[href*="people/61798-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/190e839e0b12.gif);
+}
+
+/* Nakaya Onsen */
+[href*="people/50212-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MNjzMNj.png);
+}
+[href*="people/50212-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/1315057a0bd4.gif);
+}
+
+/* Ichirou Itano */
+[href*="people/8268-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8Yo1o4f.png);
+}
+[href*="people/8268-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/060ee385dae1.gif);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
