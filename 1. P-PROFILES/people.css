@@ -2103,6 +2103,36 @@
   --custom-image: url(https://cdn.imgchest.com/files/060ee385dae1.gif);
 }
 
+/* toi8 */
+[href*="people/17641-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Phq6DJr.png);
+}
+[href*="people/17641-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/H55JnzB.png);
+}
+
+/* Sui Ishida */
+[href*="people/15753-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5cxdClw.png);
+}
+[href*="people/15753-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Giumbvx.png);
+}
+
+/* Kouhei Horikoshi */
+[href*="people/9834-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5f4lJuQ.png);
+}
+[href*="people/9834-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/P2bpIPF.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
