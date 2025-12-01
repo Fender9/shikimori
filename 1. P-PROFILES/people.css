@@ -2133,6 +2133,46 @@
   --custom-image: url(https://i.imgur.com/P2bpIPF.png);
 }
 
+/* Gousei Oda */
+[href*="people/55644-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/NhtiwCx.png);
+}
+[href*="people/55644-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/685a8dbc8659.gif);
+}
+
+/* Weilin Zhang */
+[href*="people/49166-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FRbjd2w.png);
+}
+[href*="people/49166-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/946ee38bfe03.gif);
+}
+
+/* Harumi Yamazaki */
+[href*="people/69825-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5OkbRKq.png);
+}
+[href*="people/69825-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/0d911e8a6f82.gif);
+}
+
+/* Keiichirou Watanabe */
+[href*="people/57035-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AVQ042h.png);
+}
+[href*="people/57035-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/10eda60bc84b.gif);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
