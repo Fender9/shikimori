@@ -921,3 +921,67 @@
 .cover[href*="people/18237-"] .title::after {
   content: "Хисаши Эгучи";
 }
+
+/* Кохэй Хорикоси */
+.cover[href*="people/9834-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/9834-"] .title::after {
+  content: "Кохэй Хорикоши";
+}
+
+/* Суи Исида */
+.cover[href*="people/15753-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/15753-"] .title::after {
+  content: "Суи Ишида";
+}
+
+/* Итиро Итано */
+.cover[href*="people/8268-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/8268-"] .title::after {
+  content: "Ичиро Итано";
+}
+
+/* Тоя Осима */
+.cover[href*="people/71916-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/71916-"] .title::after {
+  content: "Тоя Ошима";
+}
+
+/* Акира Хамагути */
+.cover[href*="people/28583-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/28583-"] .title::after {
+  content: "Акира Хамагучи";
+}
+
+/* Кэйитиро Ватанабэ */
+.cover[href*="people/57035-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/57035-"] .title::after {
+  content: "Кэйичиро Ватанабэ";
+}
+
+/* Синъя Охира */
+.cover[href*="people/8893-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/8893-"] .title::after {
+  content: "Шинъя Охира";
+}
+
+/* Сёта Госёдзоно */
+.cover[href*="people/61234-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/61234-"] .title::after {
+  content: "Шота Гошодзоно";
+}
