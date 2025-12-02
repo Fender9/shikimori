@@ -2173,6 +2173,26 @@
   --custom-image: url(https://cdn.imgchest.com/files/10eda60bc84b.gif);
 }
 
+/* Kikuo */
+[href*="people/42128-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7a54GGS.png);
+}
+[href*="people/42128-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8QTqaMP.png);
+}
+
+/* Hanatan */
+[href*="people/61441-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gsZheFs.png);
+}
+[href*="people/61441-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Gvy9kco.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
