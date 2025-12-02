@@ -302,3 +302,8 @@
 .b-image[data-attrs *= "https://i.imgur.com/SZx0QDz.png" ] {
   --overlay-image: url("https://i.imgur.com/DJdO2mk.png");
 }
+
+/* fra-foa */
+.b-image[data-attrs *= "https://i.imgur.com/nSu32bJ.png" ] {
+  --overlay-image: url("https://i.imgur.com/0bEDotc.png");
+}
