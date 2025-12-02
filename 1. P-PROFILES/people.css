@@ -2233,6 +2233,36 @@
   --custom-image: url(https://i.imgur.com/uq5iG1n.png);
 }
 
+/* Benjamin Faure */
+[href*="people/67113-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Iq5hlbP.png);
+}
+[href*="people/67113-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/af342a1f2a44.gif);
+}
+
+/* Dorian Coulon */
+[href*="people/69102-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xaQD0XJ.png);
+}
+[href*="people/69102-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/a31043d098a5.gif);
+}
+
+/* Hironori Tanaka */
+[href*="people/8979-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wJJUPUL.png);
+}
+[href*="people/8979-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wJJUPUL.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
