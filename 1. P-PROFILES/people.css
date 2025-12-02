@@ -2193,6 +2193,46 @@
   --custom-image: url(https://i.imgur.com/Gvy9kco.png);
 }
 
+/* Arifumi Imai */
+[href*="people/36709-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/L11HNqA.png);
+}
+[href*="people/36709-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/8b9817168fcc.gif);
+}
+
+/* Shinya Ohira */
+[href*="people/8893-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gtDnSzZ.png);
+}
+[href*="people/8893-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gtDnSzZ.png);
+}
+
+/* Yutaka Nakamura */
+[href*="people/6801-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Li5K4LL.png);
+}
+[href*="people/6801-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/181440fb362c.gif);
+}
+
+/* Shouta Goshozono */
+[href*="people/61234-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uq5iG1n.png);
+}
+[href*="people/61234-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uq5iG1n.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
