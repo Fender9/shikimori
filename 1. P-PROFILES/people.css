@@ -2230,7 +2230,7 @@
 }
 [href*="people/61234-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/uq5iG1n.png);
+  --custom-image: url(https://cdn.imgchest.com/files/2d70adcc2f85.gif);
 }
 
 /* Benjamin Faure */
@@ -2261,6 +2261,146 @@
 [href*="people/8979-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/wJJUPUL.png);
+}
+
+/* You Yoshinari */
+[href*="people/7998-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/7998-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
+
+/* Nozomu Abe */
+[href*="people/21271-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/21271-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/eab3873e38ab.gif);
+}
+
+/* Takeshi Honda */
+[href*="people/8303-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/8303-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
+
+/* Sushio */
+[href*="people/8619-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/8619-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/e2935f95dab1.gif);
+}
+
+/* Genichirou Abe */
+[href*="people/33723-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/33723-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/e83bddaf17bd.gif);
+}
+
+/* Takafumi Hori */
+[href*="people/28225-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/28225-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/e0009ed19028.gif);
+}
+
+/* Ryou Imamura */
+[href*="people/40002-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/40002-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/970b03b4f730.gif);
+}
+
+/* Takeshi Koike */
+[href*="people/10231-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/10231-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/04774eb4130e.gif);
+}
+
+/* Naoki Kobayashi */
+[href*="people/40127-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/40127-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
+
+/* Isao Hayashi */
+[href*="people/70490-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/70490-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/11ac65577809.gif);
+}
+
+/* Shukou Murase */
+[href*="people/5793-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/5793-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/d13e4d9792c8.gif);
+}
+
+/* Nobuaki Nagano */
+[href*="people/11285-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/11285-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
+
+/* Yuuya Geshi */
+[href*="people/40111-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/40111-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/660874b03466.gif);
+}
+
+/* Yutaka Minowa */
+[href*="people/46210-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/46210-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://cdn.imgchest.com/files/9b00654b4b98.gif);
 }
 
 /*  */
