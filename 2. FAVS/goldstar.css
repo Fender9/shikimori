@@ -985,3 +985,75 @@
 .cover[href*="people/61234-"] .title::after {
   content: "Шота Гошодзоно";
 }
+
+/* Ё Ёсинари */
+.cover[href*="people/7998-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/7998-"] .title::after {
+  content: "Ё Ёшинари";
+}
+
+/* Такэси Хонда */
+.cover[href*="people/8303-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/8303-"] .title::after {
+  content: "Такэши Хонда";
+}
+
+/* Гэнъитиро Абэ  */
+.cover[href*="people/33723-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/33723-"] .title::after {
+  content: "Гэничиро Абэ";
+}
+
+/* Такэси Коикэ */
+.cover[href*="people/10231-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/10231-"] .title::after {
+  content: "Такэши Коикэ";
+}
+
+/* Наоки Кобаяси */
+.cover[href*="people/40127-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/40127-"] .title::after {
+  content: "Наоки Кобаяши";
+}
+
+/* Исао Хаяси */
+.cover[href*="people/70490-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/70490-"] .title::after {
+  content: "Исао Хаяши";
+}
+
+/* Сюко Мурасэ */
+.cover[href*="people/5793-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5793-"] .title::after {
+  content: "Шюко Мурасэ";
+}
+
+/* Юя Гэси */
+.cover[href*="people/40111-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/40111-"] .title::after {
+  content: "Юя Гэши";
+}
+
+/*  */
+.cover[href*="people/-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/-"] .title::after {
+  content: "";
+}
