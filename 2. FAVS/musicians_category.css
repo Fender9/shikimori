@@ -1,8 +1,8 @@
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) {
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) {
   display: flex;
   flex-wrap: wrap;
 }
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213)::before {
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213)::before {
   content: "МУЗЫКАНТЫ / ПРОДЮСЕРЫ / ЗВУКОРЕЖИССЁРЫ";
   order: 1;
   flex: 1 0 100%;
@@ -33,71 +33,71 @@
     unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* PEOPLE */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-8213, /* SHEENA RINGO */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-47711, /* MIYAVI */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6555, /* SATORU KOSAKI */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-40186, /* BORIS */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-5191, /* MOTOI SAKURABA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-37098, /* DAOKO */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-25727, /* YASUYUKI OKAMURA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-31631, /* MARIKO GOTO */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-37595, /* JOHN LENNON */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-14287, /* YUGO KANNO */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-5346, /* YASUSHI ISHII */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6009, /* HIDEKI TANIUCHI */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-55462, /* TAKESHI NAKATSUKA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-77667, /* PINK FLOYD */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-21437, /* DEBUSSY */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-8901, /* BOOM BOOM SATELLITES */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-71642, /* ATARASHII GAKKOU */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-54127, /* GING NANG BOYZ */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6024, /* ICHIRO MIZUKI */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-53853, /* TOKYO JIHEN */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-34811, /* WAGDUG FUTURISTIC UNITY */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-8582, /* HIDEKI NAGANUMA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-21059, /* KANYE WEST */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6672, /* ATSUSHI SAKURAI */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-31607, /* AVRIL LAVIGNE */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-7894, /* MY CHEMICAL ROMANCE */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-64102, /* BILLIE EILISH */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-72664, /* FISHMANS */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-65268, /* TOE */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-78325, /* TRICOT */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-46396, /* OTOBOKE BEAVER */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-61465, /* DAIKI TSUNETA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-75621, /* HANABIE */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-51252, /* MELT-BANANA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-40667, /* GLIM SPANKY */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-36613, /* KEIGO OYAMADA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-9549, /* DURAN DURAN */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-31707, /* PERFUME */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-34829, /* TPGF */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6326, /* ORIGA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-48241, /* DEFTONES */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-12689, /* COALTAR OF THE DEEPERS */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-11187, /* THE BIRTHDAY */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-86696, /* YURA YURA TEIKOKU */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-64264, /* ANO */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-86695, /* THE MAD CAPSULE MARKETS */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-37119, /* SHINICHI OSAWA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-30805, /* TEDDYLOID */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-47846, /* VELTPUNCH */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-46402, /* LITE */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-74301, /* CHIAKI SATO */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-12489, /* MEG */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-90193, /* DOWNY */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-90194, /* HAISUINONASA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-90596, /* MAKI ASAKAWA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-79785, /* BETCOVER!! */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-51398, /* SOIL AND PIMP SESSIONS */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-90598, /* NITRO MICROPHONE UNDERGROUND */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-91006, /* BIKYOURAN */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-49757, /* JIZUE */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6485, /* TOMMY H-F */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-7415, /* YASUTAKA NAKATA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-42128, /* KIKUO */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-61441, /* HANATAN */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-16053, /* YASUMASA KOYAMA */
-.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-508 /* YOKO KANNO */ {
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-8213, /* SHEENA RINGO */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-47711, /* MIYAVI */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6555, /* SATORU KOSAKI */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-40186, /* BORIS */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-5191, /* MOTOI SAKURABA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-37098, /* DAOKO */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-25727, /* YASUYUKI OKAMURA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-31631, /* MARIKO GOTO */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-37595, /* JOHN LENNON */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-14287, /* YUGO KANNO */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-5346, /* YASUSHI ISHII */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6009, /* HIDEKI TANIUCHI */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-55462, /* TAKESHI NAKATSUKA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-77667, /* PINK FLOYD */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-21437, /* DEBUSSY */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-8901, /* BOOM BOOM SATELLITES */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-71642, /* ATARASHII GAKKOU */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-54127, /* GING NANG BOYZ */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6024, /* ICHIRO MIZUKI */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-53853, /* TOKYO JIHEN */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-34811, /* WAGDUG FUTURISTIC UNITY */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-8582, /* HIDEKI NAGANUMA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-21059, /* KANYE WEST */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6672, /* ATSUSHI SAKURAI */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-31607, /* AVRIL LAVIGNE */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-7894, /* MY CHEMICAL ROMANCE */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-64102, /* BILLIE EILISH */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-72664, /* FISHMANS */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-65268, /* TOE */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-78325, /* TRICOT */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-46396, /* OTOBOKE BEAVER */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-61465, /* DAIKI TSUNETA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-75621, /* HANABIE */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-51252, /* MELT-BANANA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-40667, /* GLIM SPANKY */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-36613, /* KEIGO OYAMADA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-9549, /* DURAN DURAN */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-31707, /* PERFUME */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-34829, /* TPGF */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6326, /* ORIGA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-48241, /* DEFTONES */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-12689, /* COALTAR OF THE DEEPERS */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-11187, /* THE BIRTHDAY */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-86696, /* YURA YURA TEIKOKU */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-64264, /* ANO */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-86695, /* THE MAD CAPSULE MARKETS */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-37119, /* SHINICHI OSAWA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-30805, /* TEDDYLOID */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-47846, /* VELTPUNCH */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-46402, /* LITE */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-74301, /* CHIAKI SATO */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-12489, /* MEG */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-90193, /* DOWNY */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-90194, /* HAISUINONASA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-90596, /* MAKI ASAKAWA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-79785, /* BETCOVER!! */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-51398, /* SOIL AND PIMP SESSIONS */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-90598, /* NITRO MICROPHONE UNDERGROUND */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-91006, /* BIKYOURAN */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-49757, /* JIZUE */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-6485, /* TOMMY H-F */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-7415, /* YASUTAKA NAKATA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-42128, /* KIKUO */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-61441, /* HANATAN */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-16053, /* YASUMASA KOYAMA */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-508 /* YOKO KANNO */ {
   order: 2;
 }
