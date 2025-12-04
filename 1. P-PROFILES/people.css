@@ -2403,6 +2403,16 @@
   --custom-image: url(https://cdn.imgchest.com/files/9b00654b4b98.gif);
 }
 
+/* Yasumasa Koyama */
+[href*="people/16053-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ApzvNrk.png);
+}
+[href*="people/16053-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AL4OnnQ.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
