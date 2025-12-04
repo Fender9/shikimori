@@ -1,0 +1,69 @@
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) {
+  display: flex;
+  flex-wrap: wrap;
+}
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089)::before {
+  content: "АНИМАТОРЫ";
+  order: 1;
+  flex: 1 0 100%;
+  box-sizing: border-box;
+  margin-bottom: 10.5px;
+  /* оформление */
+    border: none;
+    border-radius: 13px;
+    box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2);
+    background: rgba(var(--block-color), 0.6);
+    transition: 0.3s ease, -webkit-0 .3s ease, width 0s, margin 0s, padding 0s, font-size 0s, height 0s, top 0s, left 0s, line-height 0s, min-height 0s;
+    font-size: 14px;
+    color: rgba(var(--dark-color), 1);
+    height: 28px;
+    padding: 0 14px 0;
+    display: flex;
+    line-height: 1.5;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+    position: relative;
+    overflow: visible;
+    font-family: "Comfortaa";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Comfortaa Bold"), local("Comfortaa-Bold"),
+    url(https://fonts.gstatic.com/s/comfortaa/v10/fND5XPYKrF2tQDwwfWZJI5X5f-9o1vgP2EXwfjgl7AY.woff2) format("woff2");
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* PEOPLE */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-49166, /* WEILIN ZHANG */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-6801, /* YUTAKA NAKAMURA */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-61798, /* VINCENT CHANSARD */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-55644, /* GOUSEI ODA */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-69825, /* HARUMI YAMAZAKI */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-8268, /* ICHIRO ITANO */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-57035, /* KEICHIRO WATANABE */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-73113, /* RUI */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-8893, /* SHINYA OHIRA */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-50212, /* NAKAYA ONSEN */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-72619, /* SAUCELOT */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-61234, /* SHOUTA GOSHOZONO */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-36709, /* ARIFUMI IMAI */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-8979, /* HIRONORI TANAKA */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-71916, /* TOUYA OOSHIMA */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-62724, /* VERCREEK */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-69102, /* DORIAN COULON */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-40111, /* YUUYA GESHI */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-33723, /* GENICHIROU ABE */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-40127, /* NAOKI KOBAYASHI */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-21271, /* NOZOMU ABE */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-5793, /* SHUKOU MURASE */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-8619, /* SUSHIO */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-28225, /* TAKAFUMI HORI */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-10231, /* TAKESHI KOIKE */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-70490, /* ISAO HAYASHI */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-11285, /* NABUAKI NAGANO */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-46210, /* YUTAKA MINOWA */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-8303, /* TAKESHI HONDA */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-7998, /* YOU YOSHINARI */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-40002, /* RYOU IMAMURA */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-5089) .c-person.entry-67113 /* BENJAMIN FAURE */ {
+  order: 2;
+}
