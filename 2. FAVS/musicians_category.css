@@ -3,7 +3,7 @@
   flex-wrap: wrap;
 }
 .p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213)::before {
-  content: "МУЗЫКАНТЫ";
+  content: "МУЗЫКАНТЫ / ПРОДЮСЕРЫ / ЗВУКОРЕЖИССЁРЫ";
   order: 1;
   flex: 1 0 100%;
   box-sizing: border-box;
@@ -97,6 +97,7 @@
 .p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-7415, /* YASUTAKA NAKATA */
 .p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-42128, /* KIKUO */
 .p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-61441, /* HANATAN */
+.p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-16053, /* YASUMASA KOYAMA */
 .p-profiles-favorites .block.is-own-profile > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-508 /* YOKO KANNO */ {
   order: 2;
 }
