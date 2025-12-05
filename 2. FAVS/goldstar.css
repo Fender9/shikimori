@@ -397,7 +397,8 @@
   display: none !important;
 }
 .cover[href*="ranobe/z23751-"] .title::after {
-  content: "Цикл историй: Второй сезон";
+  content: "Цикл историй:\AВторой сезон";
+  white-space: pre-line;
 }
 
 /* Ночь Ведьм */
