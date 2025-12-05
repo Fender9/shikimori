@@ -1,0 +1,86 @@
+/* ЦЕНТРИРОВАНИЯ И ПОТЕНЦИАЛЬНЫЕ ПЕРЕИМЕНОВАНИЯ */
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-anime) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-anime)::after {
+  content: "АНИМЕ";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
+}
+
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-104) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-104)::after {
+  content: "МАНГА";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
+}
+
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-9726) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-9726)::after {
+  content: "РАНОБЭ";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
+}
+
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-118) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-118)::after {
+  content: "СЭЙЮ";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
+}
+
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2009) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2009)::after {
+  content: "РЕЖИССЁРЫ";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
+}
+
+/* МАНГАКИ ПЕРЕИМЕНОВАНИЕ */
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-8213) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-8213)::after {
+  content: "АВТОРЫ";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
+}
+
+/* ПРОЧИЕ ЛЮДИ ПЕРЕИМЕНОВАНИЕ */
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2967) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2967)::after {
+  content: "ХУДОЖНИКИ / ИЛЛЮСТРАТОРЫ";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
+}
