@@ -2413,6 +2413,16 @@
   --custom-image: url(https://i.imgur.com/AL4OnnQ.png);
 }
 
+/* Shigenori Kageyama */
+[href*="people/14935-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZvTEtNk.png);
+}
+[href*="people/14935-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WNbhxB6.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
