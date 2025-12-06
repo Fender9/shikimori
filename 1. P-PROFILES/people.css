@@ -2423,6 +2423,26 @@
   --custom-image: url(https://i.imgur.com/WNbhxB6.png);
 }
 
+/* Fujio (A) Fujiko */
+[href*="people/13941-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lojrFoZ.png);
+}
+[href*="people/13941-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BFsqRBH.png);
+}
+
+/* Fujiko F. Fujio */
+[href*="people/2610-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tl75lAF.png);
+}
+[href*="people/2610-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tAgVFAk.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
