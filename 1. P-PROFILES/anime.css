@@ -1058,3 +1058,23 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/8MXqP5R.png);
 }
+
+/* Uchuu Senshi Baldios */
+[href*="animes/1737-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CBNX9KR.png);
+}
+[href*="animes/1737-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GfU1agf.png);
+}
+
+/*  */
+[href*="animes/-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="animes/-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
