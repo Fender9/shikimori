@@ -1051,6 +1051,14 @@
   content: "Юя Гэши";
 }
 
+/* Сигэнори Кагэяма */
+.cover[href*="people/14935-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/14935-"] .title::after {
+  content: "Шигэнори Кагэяма";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
