@@ -222,7 +222,7 @@
   display: none !important;
 }
 .cover[href*="people/2597-"] .title::after {
-  content: "Лэйдзи Мацумото ✎";
+  content: "Лэйджи Мацумото ✎";
   color: #fde68f;
   font-size: 11.072px;
 }
@@ -389,7 +389,7 @@
   display: none !important;
 }
 .cover[href*="ranobe/76973-"] .title::after {
-  content: "Райдо Кузуноха против Вестника Смерти";
+  content: "Райдо Кудзуноха против Вестника Смерти";
 }
 
 /* Цикл историй: Второй сезон */
@@ -542,7 +542,7 @@
   display: none !important;
 }
 .cover[href*="people/6586-"] .title::after {
-  content: "Санпей Ширато";
+  content: "Санпэй Ширато";
 }
 
 /* Ёшитоши Абэ */
@@ -561,12 +561,12 @@
   content: "Шотаро Ишиномори";
 }
 
-/* Шигенори Соеджима */
+/* Сигэнори Соэдзима */
 .cover[href*="people/12279-"] .title span {
   display: none !important;
 }
 .cover[href*="people/12279-"] .title::after {
-  content: "Шигенори Соеджима";
+  content: "Шигэнори Соэджима";
 }
 
 /* Ёшикадзу Ясухико */
@@ -590,7 +590,7 @@
   display: none !important;
 }
 .cover[href*="people/3628-"] .title::after {
-  content: "Ацуши Канеко";
+  content: "Ацуши Канэко";
 }
 
 /* Ёшиюки Садамото */
@@ -662,7 +662,7 @@
   display: none !important;
 }
 .cover[href*="people/55462-"] .title::after {
-  content: "Такеши Накацука";
+  content: "Такэши Накацука";
 }
 
 /* Шинтаро Каго */
@@ -702,7 +702,7 @@
   display: none !important;
 }
 .cover[href*="people/33589-"] .title::after {
-  content: "Кадзума Канеко";
+  content: "Кадзума Канэко";
 }
 
 /* Ичи */
@@ -718,7 +718,7 @@
   display: none !important;
 }
 .cover[href*="characters/138492-"] .title::after {
-  content: "Тошидзо Хидзиката";
+  content: "Тошидзо Хиджиката";
 }
 
 /* Ацуши Сакураи */
@@ -887,7 +887,7 @@
   display: none !important;
 }
 .cover[href*="people/90613-"] .title::after {
-  content: "Ёдзи Шинкава 🖌";
+  content: "Ёджи Шинкава 🖌";
   color: #fde68f;
 }
 
