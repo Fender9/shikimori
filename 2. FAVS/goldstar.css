@@ -1059,6 +1059,22 @@
   content: "Шигэнори Кагэяма";
 }
 
+/* Фудзико Ф. Фудзио */
+.cover[href*="people/2610-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2610-"] .title::after {
+  content: "Фуджико Ф. Фуджио";
+}
+
+/* Фудзио А. Фудзико */
+.cover[href*="people/13941-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/13941-"] .title::after {
+  content: "Фуджио А. Фуджико";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
