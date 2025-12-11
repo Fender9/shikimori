@@ -1075,6 +1075,22 @@
   content: "Фуджио А. Фуджико";
 }
 
+/* Ёсико Ота */
+.cover[href*="people/14175-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/14175-"] .title::after {
+  content: "Ёшико Ота";
+}
+
+/* Хироси Сасагава */
+.cover[href*="people/8573-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/8573-"] .title::after {
+  content: "Хироши Сасагава";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
