@@ -2443,6 +2443,26 @@
   --custom-image: url(https://i.imgur.com/tAgVFAk.png);
 }
 
+/* Electric Light Orchestra */
+[href*="people/9631-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7f3hc4f.png);
+}
+[href*="people/9631-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mt9iBUx.png);
+}
+
+/* Hiroshi Sasagawa */
+[href*="people/8573-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qYkvDRO.png);
+}
+[href*="people/8573-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XGy1BOR.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
