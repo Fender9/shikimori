@@ -1069,6 +1069,16 @@
   --custom-image: url(https://i.imgur.com/IaPz0SU.png);
 }
 
+/* Ganbare Genki */
+[href*="animes/3213-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AaXgeaX.png);
+}
+[href*="animes/3213-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DW9UvPu.png);
+}
+
 /*  */
 [href*="animes/-"] {
   --show-default: 0;
