@@ -1,84 +1,129 @@
+/* FLAG COUNTER IMG BLOCK */
+img[src*="flags_0"] {
+  pointer-events: none;
+  user-select: none;
+}
+
+/* ЦЕНТРИРОВАТЬ НАЗВАНИЯ */
+.p-profiles-favorites .b-catalog_entry .cover .title {
+  text-align: center;
+}
+
+/* СТАТУС */
+.p-profiles header.head .misc {
+  font-size: 0;
+  visibility: hidden;
+  position: relative;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+.p-profiles header.head .misc::after {
+  content: "椎名林檎 — 弁解ドビュッシー";
+  font-size: 11px;
+  line-height: 12px;
+  visibility: visible;
+  position: relative;
+  left: 1%;
+  top: -14px;
+  white-space: nowrap;
+}
+
+/* УБРАТЬ БАНЫ */
+.p-profiles .profile-head .c-brief .avatar .profile-actions .ban {
+  display: none;
+  transition: 0.5s;
+}
+
 /* E-DESIGN BRIGHTNESS FIX */
 img {
     -webkit-filter: brightness(1);
 }
-
 .b-image img {
   -webkit-filter: brightness(1);
           filter: brightness(1);
 }
 
 /* FEM CHARS CATEGORY */
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/femchars_category.css);
-  
-/* ARTISTS CATEGORY */
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/artists_category.css);
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/2.%20FAVS/femchars_category.css");
 
-/* CUSTOM PAGES */
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/custom-person.css);
+/* ANIMATORS CATEGORY */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/2.%20FAVS/animators_category.css");
+
+/* MUSICIANS CATEGORY */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/2.%20FAVS/musicians_category.css");
+
+/* ЦЕНТРИРОВАНИЕ И ПЕРЕИМЕНОВАНИЕ САБХЕДЛАЙНОВ */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/2.%20FAVS/subheadline-renames.css");
 
 /* NICKNAME ANIM */
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/nickname_anim.css);
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/6.%20MISC/nickname_anim.css");
 
 /* GLOW */
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/main/glow.css);
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/6.%20MISC/glow.css");
 
 /* ОБЛОЖКИ */
-@import url(https://css-club.web.app/css/custom_posters.min.css);
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/p-profiles_4.css");
+@import url("https://css-club.web.app/css/custom_posters.min.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/1.%20P-PROFILES/anime.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/1.%20P-PROFILES/manga.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/1.%20P-PROFILES/ranobe.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/1.%20P-PROFILES/people.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/1.%20P-PROFILES/fem_chars.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/1.%20P-PROFILES/male_chars.css");
 
 /* ЗАПАДНЫЕ ТАЙТЛЫ */
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/western.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/6.%20MISC/western.css");
 
 /* ABSOLUTE PEAK OVERLAY*/
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/abpeoverl.css);
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/2.%20FAVS/abpeoverl.css");
 
 /* GOLD CHARS AM*/
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/favcharsam.css);
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/2.%20FAVS/favcharsam.css");
 
 /* GOLD ★*/
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/goldstar.css);
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/2.%20FAVS/goldstar.css");
 
 /* ИГРЫ ТОП 8*/
-@import url(https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/favgames.css);
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/3.%20GAMES/favgames.css");
 
 /* ИГРОВЫЕ ПЕРСЫ ДАБЛ */
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/g-profiles.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/3.%20GAMES/g-profiles.css");
 
 /* МУЗЫКА ДАБЛ */
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/m-profiles.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/4.%20MUSIC/m-profiles.css");
+
+/* ИГРЫ ДАБЛ */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/3.%20GAMES/vg-hover.css");
 
 /* КИНЧ ДАБЛ */
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/mov-profiles.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/5.%20MOVIES/mov-profiles.css");
 
 /* АНИМ. АКТИВНОСТЬ */
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/q05_animated_activity_graph.css");
 
 /* ПАНЕЛЬ СЛЕВА */
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/main/pbd.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/6.%20MISC/pbd.css");
 
 /* МЕЙН СТИЛЬ */
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_1.css");
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_2.css");
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_3.css");
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_4mob.css");
-https://i.imgur.com/0eiEDYy.gif
-
 .l-footer:after {
   content: "*TiraRemy Purple*";
   display: none !important;
 }
-
 @media screen and (min-width: 1px) {
   .correct-mob-version {
     color: normal;
   }
 }
-
 .shikista {
   color: white;
 }
-
 @media screen and (min-width: 1px) {
   html:root {
     --white-color: 250, 250, 250;
@@ -110,7 +155,7 @@ https://i.imgur.com/0eiEDYy.gif
 }
 
 /* НОРМАЛЬНЫЙ СПОЙЛЕР */
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/spoiler.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/6.%20MISC/spoiler.css");
 
 /* СКРЫТЬ ДОСТИЖЕНИЯ */
 .p-profiles-show .achievements > .cc-2 {
@@ -124,5 +169,5 @@ https://i.imgur.com/0eiEDYy.gif
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/q08_alter_sitemenu.css");
 
 /* АНИМАЦИЯ ОТКРЫТИЯ SUBMENU */
-@import url("https://raw.githubusercontent.com/ALTaww/Shikimori-submenu/main/code.css");
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/submenu.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/BACKUP/shikimori-submenu-code.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/6.%20MISC/submenu.css");
