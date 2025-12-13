@@ -1079,6 +1079,16 @@
   --custom-image: url(https://i.imgur.com/DW9UvPu.png);
 }
 
+/* Ougon Senshi Gold Lightan */
+[href*="animes/7106-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ZPLeMKP.png);
+}
+[href*="animes/7106-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nV7cwCj.png);
+}
+
 /*  */
 [href*="animes/-"] {
   --show-default: 0;
@@ -1088,3 +1098,4 @@
   --show-default: 0;
   --custom-image: url();
 }
+
