@@ -1,0 +1,428 @@
+/*Анимация открытия submenu*/
+/*Убираю образовавшийся скроллбар*/
+@media screen and (min-height: 720px) {
+  .menu-dropdown.main .submenu::-webkit-scrollbar {
+    display: none;
+  }
+}
+@media screen and (min-height: 460px) {
+  .menu-dropdown.profile .submenu::-webkit-scrollbar {
+    display: none;
+  }
+}                
+
+/*Левое submenu*/
+.l-top_menu-v2 .menu-dropdown.main .submenu a {
+    opacity: 0;
+    -webkit-transform: rotateY(90deg);
+    transform: rotateY(90deg);
+    -webkit-transition: opacity .4s, -webkit-transform .5s;
+    transition: opacity .4s, -webkit-transform .5s;
+    transition: opacity .4s, transform .5s;
+    transition: opacity .4s, transform .5s, -webkit-transform .5s;
+  }
+
+  .menu-dropdown.main .submenu {
+    -webkit-perspective: 400px;
+    -ms-perspective: 400px;
+    -o-perspective: 400px;
+    perspective: 400px;
+  }
+
+  .l-top_menu-v2 .menu-dropdown.main:hover .submenu a, .l-top_menu-v2.active .submenu a, .l-top_menu-v2 .menu-dropdown.main:focus .submenu a {
+    opacity: 1;
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(1) {
+    -webkit-transition-delay: 0ms;
+    transition-delay: 0ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(2) {
+    -webkit-transition-delay: 50ms;
+    transition-delay: 50ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(3) {
+    -webkit-transition-delay: 100ms;
+    transition-delay: 100ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(4) {
+    -webkit-transition-delay: 150ms;
+    transition-delay: 150ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(5) {
+    -webkit-transition-delay: 200ms;
+    transition-delay: 200ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(6) {
+    -webkit-transition-delay: 250ms;
+    transition-delay: 250ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(7) {
+    -webkit-transition-delay: 300ms;
+    transition-delay: 300ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(8) {
+    -webkit-transition-delay: 350ms;
+    transition-delay: 350ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(9) {
+    -webkit-transition-delay: 400ms;
+    transition-delay: 400ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(10) {
+    -webkit-transition-delay: 450ms;
+    transition-delay: 450ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(11) {
+    -webkit-transition-delay: 500ms;
+    transition-delay: 500ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(12) {
+    -webkit-transition-delay: 550ms;
+    transition-delay: 550ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(13) {
+    -webkit-transition-delay: 600ms;
+    transition-delay: 600ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(14) {
+    -webkit-transition-delay: 650ms;
+    transition-delay: 650ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(15) {
+    -webkit-transition-delay: 700ms;
+    transition-delay: 700ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(16) {
+    -webkit-transition-delay: 750ms;
+    transition-delay: 750ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(17) {
+    -webkit-transition-delay: 800ms;
+    transition-delay: 800ms;
+  }
+
+  .menu-dropdown.main:hover .submenu a:nth-child(18) {
+    -webkit-transition-delay: 850ms;
+    transition-delay: 850ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(1) {
+    -webkit-transition-delay: 850ms;
+    transition-delay: 850ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(2) {
+    -webkit-transition-delay: 800ms;
+    transition-delay: 800ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(3) {
+    -webkit-transition-delay: 750ms;
+    transition-delay: 750ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(4) {
+    -webkit-transition-delay: 700ms;
+    transition-delay: 700ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(5) {
+    -webkit-transition-delay: 650ms;
+    transition-delay: 650ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(6) {
+    -webkit-transition-delay: 600ms;
+    transition-delay: 600ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(7) {
+    -webkit-transition-delay: 550ms;
+    transition-delay: 550ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(8) {
+    -webkit-transition-delay: 500ms;
+    transition-delay: 500ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(9) {
+    -webkit-transition-delay: 450ms;
+    transition-delay: 450ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(10) {
+    -webkit-transition-delay: 400ms;
+    transition-delay: 400ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(11) {
+    -webkit-transition-delay: 350ms;
+    transition-delay: 350ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(12) {
+    -webkit-transition-delay: 300ms;
+    transition-delay: 300ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(13) {
+    -webkit-transition-delay: 250ms;
+    transition-delay: 250ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(14) {
+    -webkit-transition-delay: 200ms;
+    transition-delay: 200ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(15) {
+    -webkit-transition-delay: 150ms;
+    transition-delay: 150ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(16) {
+    -webkit-transition-delay: 100ms;
+    transition-delay: 100ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(17) {
+    -webkit-transition-delay: 50ms;
+    transition-delay: 50ms;
+  }
+
+  .menu-dropdown.main .submenu a:nth-child(18) {
+    -webkit-transition-delay: 0ms;
+    transition-delay: 0ms;
+  }
+
+  .menu-dropdown.profile .submenu a, .menu-dropdown.main .submenu a {
+    -webkit-transition: opacity .4s, -webkit-transform .5s;
+    transition: opacity .4s, -webkit-transform .5s;
+    transition: opacity .4s, transform .5s;
+    transition: opacity .4s, transform .5s, -webkit-transform .5s;
+  }
+
+/*Под аватаркой*/
+.menu-dropdown.profile .submenu a, .menu-dropdown.main .submenu a {
+    opacity: 0;
+    -webkit-transform: rotateY(90deg);
+    transform: rotateY(90deg);
+    -webkit-transition: opacity .4s, -webkit-transform .5s;
+    transition: opacity .4s, -webkit-transform .5s;
+    transition: opacity .4s, transform .5s;
+    transition: opacity .4s, transform .5s, -webkit-transform .5s;
+  }
+
+  .menu-dropdown.profile .submenu {
+    -webkit-perspective: 400px;
+    -ms-perspective: 400px;
+    -o-perspective: 400px;
+    perspective: 400px;
+  }
+
+  .menu-dropdown.profile:hover .submenu a, .menu-dropdown.profile.active .submenu a, .menu-dropdown.profile:focus .submenu a {
+    opacity: 1;
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(1) {
+    -webkit-transition-delay: 0ms;
+    transition-delay: 0ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(2) {
+    -webkit-transition-delay: 50ms;
+    transition-delay: 50ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(3) {
+    -webkit-transition-delay: 100ms;
+    transition-delay: 100ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(4) {
+    -webkit-transition-delay: 150ms;
+    transition-delay: 150ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(5) {
+    -webkit-transition-delay: 200ms;
+    transition-delay: 200ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(6) {
+    -webkit-transition-delay: 250ms;
+    transition-delay: 250ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(7) {
+    -webkit-transition-delay: 300ms;
+    transition-delay: 300ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(8) {
+    -webkit-transition-delay: 350ms;
+    transition-delay: 350ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(9) {
+    -webkit-transition-delay: 400ms;
+    transition-delay: 400ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(10) {
+    -webkit-transition-delay: 450ms;
+    transition-delay: 450ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(11) {
+    -webkit-transition-delay: 500ms;
+    transition-delay: 500ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(12) {
+    -webkit-transition-delay: 550ms;
+    transition-delay: 550ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(13) {
+    -webkit-transition-delay: 600ms;
+    transition-delay: 600ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(14) {
+    -webkit-transition-delay: 650ms;
+    transition-delay: 650ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(15) {
+    -webkit-transition-delay: 700ms;
+    transition-delay: 700ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(16) {
+    -webkit-transition-delay: 750ms;
+    transition-delay: 750ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(17) {
+    -webkit-transition-delay: 800ms;
+    transition-delay: 800ms;
+  }
+
+  .menu-dropdown.profile:hover .submenu a:nth-child(18) {
+    -webkit-transition-delay: 0ms;
+    transition-delay: 0ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(1) {
+    -webkit-transition-delay: 850ms;
+    transition-delay: 850ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(2) {
+    -webkit-transition-delay: 800ms;
+    transition-delay: 800ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(3) {
+    -webkit-transition-delay: 750ms;
+    transition-delay: 750ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(4) {
+    -webkit-transition-delay: 700ms;
+    transition-delay: 700ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(5) {
+    -webkit-transition-delay: 650ms;
+    transition-delay: 650ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(6) {
+    -webkit-transition-delay: 600ms;
+    transition-delay: 600ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(7) {
+    -webkit-transition-delay: 550ms;
+    transition-delay: 550ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(8) {
+    -webkit-transition-delay: 500ms;
+    transition-delay: 500ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(9) {
+    -webkit-transition-delay: 450ms;
+    transition-delay: 450ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(10) {
+    -webkit-transition-delay: 400ms;
+    transition-delay: 400ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(11) {
+    -webkit-transition-delay: 350ms;
+    transition-delay: 350ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(12) {
+    -webkit-transition-delay: 300ms;
+    transition-delay: 300ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(13) {
+    -webkit-transition-delay: 250ms;
+    transition-delay: 250ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(14) {
+    -webkit-transition-delay: 200ms;
+    transition-delay: 200ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(15) {
+    -webkit-transition-delay: 150ms;
+    transition-delay: 150ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(16) {
+    -webkit-transition-delay: 100ms;
+    transition-delay: 100ms;
+  }
+
+  .menu-dropdown.profile .submenu a:nth-child(17) {
+    -webkit-transition-delay: 50ms;
+    transition-delay: 50ms;
+  }
+  .menu-dropdown.profile .submenu a:nth-child(18) {
+    -webkit-transition-delay: 0ms;
+    transition-delay: 0ms;
+  }
+}
+/*Конец анимации открытия submenu*/
