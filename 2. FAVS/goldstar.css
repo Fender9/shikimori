@@ -1091,6 +1091,14 @@
   content: "Хироши Сасагава";
 }
 
+/* Такаси Накамура */
+.cover[href*="people/7031-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/7031-"] .title::after {
+  content: "Такаши Накамура";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
@@ -1098,3 +1106,4 @@
 .cover[href*="people/-"] .title::after {
   content: "";
 }
+
