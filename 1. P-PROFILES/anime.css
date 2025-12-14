@@ -1089,6 +1089,26 @@
   --custom-image: url(https://i.imgur.com/nV7cwCj.png);
 }
 
+/* Time Bokan Series: Yattodetaman */
+[href*="animes/4154-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Nly4Vh1.png);
+}
+[href*="animes/4154-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0i71Au4.png);
+}
+
+/* Ohayou! Spank */
+[href*="animes/2912-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DMWdgu8.png);
+}
+[href*="animes/2912-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/apbGqLc.png);
+}
+
 /*  */
 [href*="animes/-"] {
   --show-default: 0;
@@ -1098,4 +1118,3 @@
   --show-default: 0;
   --custom-image: url();
 }
-
