@@ -2463,6 +2463,26 @@
   --custom-image: url(https://i.imgur.com/XGy1BOR.png);
 }
 
+/* Takashi Nakamura */
+[href*="people/7031-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HeGB6cF.png);
+}
+[href*="people/7031-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HeGB6cF.png);
+}
+
+/* Rihoko Yoshida */
+[href*="people/920-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/iqRahDO.png);
+}
+[href*="people/920-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BpnBbrG.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
