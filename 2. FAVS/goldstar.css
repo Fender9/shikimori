@@ -1099,6 +1099,14 @@
   content: "Такаши Накамура";
 }
 
+/* Рихоко Ёсида */
+.cover[href*="people/920-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/920-"] .title::after {
+  content: "Рихоко Ёшида";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
@@ -1106,4 +1114,3 @@
 .cover[href*="people/-"] .title::after {
   content: "";
 }
-
