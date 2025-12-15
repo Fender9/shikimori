@@ -2483,6 +2483,36 @@
   --custom-image: url(https://i.imgur.com/BpnBbrG.png);
 }
 
+/* Mana */
+[href*="people/10542-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zEEGCdA.png);
+}
+[href*="people/10542-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WrL8gl2.png);
+}
+
+/* Asriel */
+[href*="people/8304-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hp4HUkr.png);
+}
+[href*="people/8304-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WLrrJI2.png);
+}
+
+/* MUCC */
+[href*="people/7517-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gGq01pT.png);
+}
+[href*="people/7517-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0HM2Ndi.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
