@@ -2513,6 +2513,16 @@
   --custom-image: url(https://i.imgur.com/0HM2Ndi.png);
 }
 
+/* Kenji Tsuruta */
+[href*="people/1931-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8DltczZ.png);
+}
+[href*="people/1931-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0WnHPyF.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
