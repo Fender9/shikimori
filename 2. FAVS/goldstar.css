@@ -1107,6 +1107,14 @@
   content: "Рихоко Ёшида";
 }
 
+/* Кэндзи Цурута */
+.cover[href*="people/1931-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/1931-"] .title::after {
+  content: "Кэнджи Цурута";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
