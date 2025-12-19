@@ -1616,11 +1616,11 @@
 /* You Inoue */
 [href*="people/1066-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/u0FtT9M.png);
+  --custom-image: url(https://i.imgur.com/hEeyuko.png);
 }
 [href*="people/1066-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/QAMv00r.png);
+  --custom-image: url(https://i.imgur.com/CwmUTZw.png);
 }
 
 /* The Mad Capsule Markets */
