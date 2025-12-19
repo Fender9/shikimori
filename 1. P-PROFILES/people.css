@@ -1616,11 +1616,11 @@
 /* You Inoue */
 [href*="people/1066-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/hEeyuko.png);
+  --custom-image: url(https://i.imgur.com/TEp9Nee.png);
 }
 [href*="people/1066-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/CwmUTZw.png);
+  --custom-image: url(https://i.imgur.com/Iv2Wrz5.png);
 }
 
 /* The Mad Capsule Markets */
@@ -2521,6 +2521,16 @@
 [href*="people/1931-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/0WnHPyF.png);
+}
+
+/* Kaneto Shiozawa */
+[href*="people/424-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/trAzeBG.png);
+}
+[href*="people/424-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ADMsAe2.png);
 }
 
 /*  */
