@@ -2533,6 +2533,16 @@
   --custom-image: url(https://i.imgur.com/ADMsAe2.png);
 }
 
+/* Mami Koyama */
+[href*="people/571-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CcFTWEO.png);
+}
+[href*="people/571-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QYH9vtn.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
