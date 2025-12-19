@@ -1115,6 +1115,14 @@
   content: "Кэнджи Цурута";
 }
 
+/* Канэто Сиодзава */
+.cover[href*="people/424-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/424-"] .title::after {
+  content: "Канэто Шиодзава";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
