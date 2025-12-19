@@ -1123,6 +1123,14 @@
   content: "Канэто Шиодзава";
 }
 
+/* Икки Кадзивара */
+.cover[href*="people/4017-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/4017-"] .title::after {
+  content: "Икки Кадживара";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
