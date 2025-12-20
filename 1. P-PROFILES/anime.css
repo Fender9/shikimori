@@ -472,11 +472,11 @@
 /* Gasshin Sentai Mechander Robo */
 [href*="animes/3294-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/ekmsLiJ.png);
+  --custom-image: url(https://i.imgur.com/eHKJLPx.png);
 }
 [href*="animes/3294-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/id39Abv.png);
+  --custom-image: url(https://i.imgur.com/pSU1gXG.png);
 }
 
 /* Time Bokan */
@@ -1107,6 +1107,26 @@
 [href*="animes/2912-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/apbGqLc.png);
+}
+
+/* Sengoku Majin Goushougun */
+[href*="animes/2510-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fjfF4hQ.png);
+}
+[href*="animes/2510-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sXgnUBO.png);
+}
+
+/* Ashita no Joe 2 */
+[href*="animes/2921-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OF124iS.png);
+}
+[href*="animes/2921-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Bd2CtX1.png);
 }
 
 /*  */
