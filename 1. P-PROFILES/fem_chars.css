@@ -730,6 +730,16 @@
   --custom-image: url(https://i.imgur.com/qBaPDeV.gif);
 }
 
+/* Remy Shimada */
+[href*="characters/4432-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/srTHKX4.png);
+}
+[href*="characters/4432-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/srTHKX4.png);
+}
+
 /*  */
 [href*="characters/-"] {
   --show-default: 0;
