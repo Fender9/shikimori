@@ -1131,6 +1131,14 @@
   content: "Икки Кадживара";
 }
 
+/* Анна Цутия */
+.cover[href*="people/5376-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5376-"] .title::after {
+  content: "Анна Цучия";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
