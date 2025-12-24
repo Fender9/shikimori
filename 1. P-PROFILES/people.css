@@ -2563,6 +2563,16 @@
   --custom-image: url(https://i.imgur.com/OoE0lZ5.png);
 }
 
+/* Masafumi Takada */
+[href*="people/23581-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Nle817o.png);
+}
+[href*="people/23581-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zF1kzZa.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
