@@ -2593,6 +2593,36 @@
   --custom-image: url(https://i.imgur.com/vRP8NR0.png);
 }
 
+/* Haruomi Hosono */
+[href*="people/47427-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aWwFlpg.png);
+}
+[href*="people/47427-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0w9VtdV.png);
+}
+
+/* Ryuichi Sakamoto */
+[href*="people/9643-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3aEvgZw.png);
+}
+[href*="people/9643-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/E3dGeGf.png);
+}
+
+/* Yukihiro Takahashi */
+[href*="people/999999999999999-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/6o416Ln.png);
+}
+[href*="people/999999999999999-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/At0OnWB.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
