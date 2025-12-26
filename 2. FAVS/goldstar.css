@@ -1139,6 +1139,14 @@
   content: "Анна Цучия";
 }
 
+/* Рюити Сакамото */
+.cover[href*="people/9643-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/9643-"] .title::after {
+  content: "Рюичи Сакамото";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
