@@ -106,6 +106,8 @@
 .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-23581, /* MASAFUMI TAKADA */
 .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-51637, /* AKIRA YAMAOKA */
 .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-9607, /* ERIC SATIE */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-9643, /* RYUICHI SAKAMOTO */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-47427, /* HARUOMI HOSONO */
 .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-508 /* YOKO KANNO */ {
   order: 2;
 }
