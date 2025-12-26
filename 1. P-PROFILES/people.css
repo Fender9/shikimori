@@ -2573,6 +2573,16 @@
   --custom-image: url(https://i.imgur.com/zF1kzZa.png);
 }
 
+/* Akira Yamaoka */
+[href*="people/51637-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ViAUuxf.png);
+}
+[href*="people/51637-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ItqUCjC.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
