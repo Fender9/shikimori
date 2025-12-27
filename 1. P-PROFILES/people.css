@@ -2614,11 +2614,11 @@
 }
 
 /* Yukihiro Takahashi */
-[href*="people/999999999999999-"] {
+[href*="people/91972-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/6o416Ln.png);
 }
-[href*="people/999999999999999-"]:hover {
+[href*="people/91972-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/At0OnWB.png);
 }
