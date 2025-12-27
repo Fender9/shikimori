@@ -1147,6 +1147,14 @@
   content: "Рюичи Сакамото";
 }
 
+/* Юкихиро Такахаси */
+.cover[href*="people/91972-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/91972-"] .title::after {
+  content: "Юкихиро Такахаши";
+}
+
 /* Кэнсукэ Усио */
 .cover[href*="people/34079-"] .title span {
   display: none !important;
