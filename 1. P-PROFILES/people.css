@@ -2633,6 +2633,86 @@
   --custom-image: url(https://i.imgur.com/1A6whs2.png);
 }
 
+/* Kazuhiro Watanabe */
+[href*="people/92069-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7hqdhVf.png);
+}
+[href*="people/92069-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/FXzR1Tj.png);
+}
+
+/* ZIZZ Studio */
+[href*="people/14331-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kRVigqB.png);
+}
+[href*="people/14331-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8aqzoYw.png);
+}
+
+/* Norio Wakamoto */
+[href*="people/84-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UrHKJze.png);
+}
+[href*="people/84-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QE5I4AK.png);
+}
+
+/* Junichi Suwabe */
+[href*="people/95-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/41424e5.png);
+}
+[href*="people/95-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/XnooWW4.png);
+}
+
+/* Hikaru Midorikawa */
+[href*="people/112-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HOBBOFi.png);
+}
+[href*="people/112-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Unls1SB.png);
+}
+
+/* Kaori Mizuhashi */
+[href*="people/156-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/k9b5iMf.png);
+}
+[href*="people/156-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1BfuREG.png);
+}
+
+/* Yuka Komatsu */
+[href*="people/9858-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ElC6JU2.png);
+}
+[href*="people/9858-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ThifQXC.png);
+}
+
+/* Yuuki Kajita */
+[href*="people/8949-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DQbDiBt.png);
+}
+[href*="people/8949-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DGAJrE0.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
