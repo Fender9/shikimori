@@ -740,6 +740,26 @@
   --custom-image: url(https://i.imgur.com/srTHKX4.png);
 }
 
+/* Lunaria */
+[href*="characters/287198-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vdTRbcx.png);
+}
+[href*="characters/287198-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/f97Siya.png);
+}
+
+/* Mannakka */
+[href*="characters/78659-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1sMo9ss.png);
+}
+[href*="characters/78659-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7ZzQt1q.gif);
+}
+
 /*  */
 [href*="characters/-"] {
   --show-default: 0;
