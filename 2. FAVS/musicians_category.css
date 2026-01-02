@@ -110,6 +110,8 @@
 .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-9643, /* RYUICHI SAKAMOTO */
 .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-47427, /* HARUOMI HOSONO */
 .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-91972, /* YUKIHIRO TAKAHASHI */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-14331, /* ZIZZ STUDIO */
+.p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-92069, /* KAZUHIRO WATANABE */
 .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213) .c-person.entry-508 /* YOKO KANNO */ {
   order: 2;
 }
