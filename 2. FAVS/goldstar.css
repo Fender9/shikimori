@@ -1163,6 +1163,30 @@
   content: "Кэнсукэ Ушио";
 }
 
+/* Дзюнъити Сувабэ */
+.cover[href*="people/95-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/95-"] .title::after {
+  content: "Джуничи Сувабэ";
+}
+
+/* Каори Мидзухаси */
+.cover[href*="people/156-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/156-"] .title::after {
+  content: "Каори Мидзухаши";
+}
+
+/* Юки Кадзита */
+.cover[href*="people/8949-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/8949-"] .title::after {
+  content: "Юки Каджита";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
