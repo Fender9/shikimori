@@ -2686,17 +2686,17 @@
 /* Kaori Mizuhashi */
 [href*="people/156-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/29O51Qy.png);
+  --custom-image: url(https://i.imgur.com/LUjdW1W.png);
 }
 [href*="people/156-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/3U6kN7w.png);
+  --custom-image: url(https://i.imgur.com/lN9ODts.png);
 }
 
 /* Yuka Komatsu */
 [href*="people/9858-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/OXcS747.png);
+  --custom-image: url(https://i.imgur.com/ZTCQxb5.png);
 }
 [href*="people/9858-"]:hover {
   --show-default: 0;
@@ -2711,6 +2711,16 @@
 [href*="people/8949-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/DGAJrE0.png);
+}
+
+/* Sakuraba Wakana */
+[href*="people/9999999999-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wr0oI9k.png);
+}
+[href*="people/9999999999-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mflAytm.png);
 }
 
 /*  */
