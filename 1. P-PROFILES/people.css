@@ -206,11 +206,11 @@
 /* Masatou Ibu */
 [href*="people/6202-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/AkAOBLt.png);
+  --custom-image: url(https://i.imgur.com/EYgsn3e.png);
 }
 [href*="people/6202-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/XGiSnNh.png);
+  --custom-image: url(https://i.imgur.com/sJaAH87.png);
 }
 
 /* РЕЖИССЕРЫ */
@@ -523,7 +523,7 @@
 /* Shoutarou Ishinomori */
 [href*="people/2478-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/p1Vs220.png);
+  --custom-image: url(https://i.imgur.com/6p3ddi5.png);
 }
 [href*="people/2478-"]:hover {
   --show-default: 0;
@@ -2714,13 +2714,13 @@
 }
 
 /* Sakuraba Wakana */
-[href*="people/9999999999-"] {
+[href*="people/92080-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/wr0oI9k.png);
+  --custom-image: url(https://i.imgur.com/iMyTuWE.png);
 }
-[href*="people/9999999999-"]:hover {
+[href*="people/92080-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/mflAytm.png);
+  --custom-image: url(https://i.imgur.com/TzPqWvh.png);
 }
 
 /*  */
