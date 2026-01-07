@@ -1187,6 +1187,46 @@
   content: "Юки Каджита";
 }
 
+/* Юки Хаяси */
+.cover[href*="people/21495-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/21495-"] .title::after {
+  content: "Юки Хаяши";
+}
+
+/* Масаёси Сокэн */
+.cover[href*="people/78452-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/78452-"] .title::after {
+  content: "Масаёши Сокэн";
+}
+
+/* Тошио Масуда */
+.cover[href*="people/5358-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5358-"] .title::after {
+  content: "";
+}
+
+/* Хигасигути Тюо */
+.cover[href*="people/19217-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/19217-"] .title::after {
+  content: "Хигашигучи Чюо";
+}
+
+/* Тинацу Курахана */
+.cover[href*="people/23415-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/23415-"] .title::after {
+  content: "Чинацу Курахана";
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
