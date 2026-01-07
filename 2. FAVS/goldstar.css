@@ -1203,12 +1203,12 @@
   content: "Масаёши Сокэн";
 }
 
-/* Тошио Масуда */
+/* Тосио Масуда */
 .cover[href*="people/5358-"] .title span {
   display: none !important;
 }
 .cover[href*="people/5358-"] .title::after {
-  content: "";
+  content: "Тошио Масуда";
 }
 
 /* Хигасигути Тюо */
