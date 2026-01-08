@@ -2723,6 +2723,66 @@
   --custom-image: url(https://i.imgur.com/TzPqWvh.png);
 }
 
+/* BUCK-TICK */
+[href*="people/7483-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/z2uAF9t.png);
+}
+[href*="people/7483-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kozKBRG.png);
+}
+
+/* Masayoshi Soken */
+[href*="people/78452-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9S9MSw3.png);
+}
+[href*="people/78452-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GjXTk2V.png);
+}
+
+/* Yuuki Hayashi */
+[href*="people/21495-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RlatN1o.png);
+}
+[href*="people/21495-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SfTtp2C.png);
+}
+
+/* Kow Otani */
+[href*="people/5072-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qt6RL6d.png);
+}
+[href*="people/5072-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/tnD34Zk.png);
+}
+
+/* Higashiguchi Chuuou */
+[href*="people/19217-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1YEIQVw.png);
+}
+[href*="people/19217-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ojhMmDb.png);
+}
+
+/* Chinatsu Kurahana */
+[href*="people/23415-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7vpy82i.png);
+}
+[href*="people/23415-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OAkOsBs.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
