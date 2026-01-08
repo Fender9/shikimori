@@ -176,7 +176,7 @@
 /* Willem Dafoe */
 [href*="people/5512-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/bulbNRF.png);
+  --custom-image: url(https://i.imgur.com/5vKa9Z9.png);
 }
 [href*="people/5512-"]:hover {
   --show-default: 0;
@@ -278,7 +278,7 @@
 /* Takashi Murakami */
 [href*="people/7963-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/ylF723L.png);
+  --custom-image: url(https://i.imgur.com/H6f8S9y.png);
 }
 [href*="people/7963-"]:hover {
   --show-default: 0;
@@ -318,7 +318,7 @@
 /* Yasuomi Umetsu */
 [href*="people/6583-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/eDC4Ist.png);
+  --custom-image: url(https://i.imgur.com/52g8ti7.png);
 }
 [href*="people/6583-"]:hover {
   --show-default: 0;
@@ -386,6 +386,10 @@
 }
 
 /* Shingo Natsume */
+[href*="people/28579-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4xuX68J.png);
+}
 [href*="people/28579-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/UCWaQD2.png);
@@ -463,7 +467,7 @@
 /* Yoshitaka Amano */
 [href*="people/2967-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/Suj0vrN.png);
+  --custom-image: url(https://i.imgur.com/LdouTUK.png);
 }
 [href*="people/2967-"]:hover {
   --show-default: 0;
@@ -483,7 +487,7 @@
 /* Kazuma Kaneko */
 [href*="people/33589-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/uGMul5Y.png);
+  --custom-image: url(https://i.imgur.com/qodyb1N.png);
 }
 [href*="people/33589-"]:hover {
   --show-default: 0;
@@ -573,7 +577,7 @@
 /* Yoshitoshi Abe */
 [href*="people/1991-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/WgsFJQ0.png);
+  --custom-image: url(https://i.imgur.com/Tx24av0.png);
 }
 [href*="people/1991-"]:hover {
   --show-default: 0;
