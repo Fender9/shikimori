@@ -343,6 +343,11 @@
   --overlay-image: url("https://i.imgur.com/ftj5XRT.png");
 }
 
+/* sukekiyo */
+.b-image[data-attrs *= "https://i.imgur.com/oJqz8so.png" ] {
+  --overlay-image: url("https://i.imgur.com/R5gqMKh.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
