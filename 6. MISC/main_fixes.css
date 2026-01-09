@@ -1,0 +1,100 @@
+/* ЦЕНТРИРОВАНИЕ НА МЕЙН СТРАНИЦЕ */
+/* СКРЫТЬ САБХЕДЛАЙН ОБО МНЕ */
+.about.block .subheadline {
+  display: none !important;
+}
+
+/* СКРЫТЬ ДОСТИЖЕНИЯ */
+.block.achievements {
+  display: none !important;
+}
+/*.block.achievements .subheadline {
+  display: none !important;
+}*/
+
+/* ДРУЗЬЯ */
+.c-column.c-right .subheadline a[title="Друзья"] {
+  font-size: 0;
+}
+.c-column.c-right .subheadline a[title="Друзья"]::after {
+  content: "ДРУЗЬЯ";
+  font-size: 14px;
+  text-align: center;
+  width: 100%;
+  display: block; 
+  transform: translateX(-1px) translateY(-2px);
+}
+.c-column.c-right .subheadline a[title="Друзья"]::before {
+  content: none !important;
+}
+
+/* Надо будет фиксить и таргетить по наличию ссылки на страницу с моими клубами если их станет больше 3-х */
+.cc-2a.m30 .subheadline:not(:has(a)) { 
+  font-size: 0;
+}
+.cc-2a.m30 .subheadline:not(:has(a))::after { 
+  content: "КЛУБЫ";
+  font-size: 14px;
+  text-align: center;
+  width: 100%;
+}
+
+/* ИСТОРИЯ */
+.profile-head[data-user-id="506354"] .c-history.x3 .subheadline.m13 > a {
+  font-size: 0;
+}
+.profile-head[data-user-id="506354"] .c-history.x3 .subheadline.m13 > a::after {
+  content: "ИСТОРИЯ";
+  font-size: 14px;
+  text-align: center;
+  width: 100%;
+  display: block;
+  transform: translateX(-0.5px);
+}
+.profile-head[data-user-id="506354"] .c-history.x3 .subheadline.m13 > a::before {
+  content: none !important;
+}
+
+/* ИЗБРАННОЕ */
+.c-column.c-right .subheadline a[title="Избранное"] {
+  font-size: 0;
+}
+.c-column.c-right .subheadline a[title="Избранное"]::before {
+  content: none !important;
+}
+.c-column.c-right .subheadline a[title="Избранное"]::after {
+  content: "ИЗБРАННОЕ";
+  font-size: 18px;
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+  background-image: linear-gradient(
+    -225deg,
+    #D100FC 0%,
+    #D1006C 29%,
+    #7A00FC 37%,
+    #4D0A94 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-weight: bold;
+  animation: subheadline-gradient 4s linear infinite;
+}
+.c-column.c-right .subheadline a[title="Избранное"]:hover::after {
+  -webkit-text-fill-color: rgba(214, 177, 233, 1);
+  text-fill-color: rgba(214, 177, 233, 1);
+  color: rgba(214, 177, 233, 1);
+}
+@keyframes subheadline-gradient {
+  to {
+    background-position: 200% center;
+  }
+}
+
+/* ЦЕНТРИРОВАТЬ НАЗВАНИЯ */
+.p-profiles-favorites .b-catalog_entry .cover .title {
+  text-align: center;
+}
