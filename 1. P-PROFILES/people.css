@@ -2817,6 +2817,16 @@
   --custom-image: url(https://i.imgur.com/zXT7QTi.png);
 }
 
+/* sukekiyo */
+[href*="people/92364-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/YZ7kvjA.png);
+}
+[href*="people/92364-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zySSkri.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
