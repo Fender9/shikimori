@@ -1243,6 +1243,19 @@
   content: "Шинтаро Джимбо";
 }
 
+/* Merry */
+.cover[href*="people/9210-"] .title {
+  font-size: 0 !important;
+}
+
+.cover[href*="people/9210-"] .title::after {
+  content: "MERRY";
+  font-size: 13px;
+}
+.cover[href*="people/9210-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
 /*  */
 .cover[href*="people/-"] .title span {
   display: none !important;
