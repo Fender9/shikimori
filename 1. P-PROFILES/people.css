@@ -2807,6 +2807,16 @@
   --custom-image: url(https://i.imgur.com/FM9ydue.png);
 }
 
+/* Merry */
+[href*="people/9210-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/xISti2N.png);
+}
+[href*="people/9210-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zXT7QTi.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
