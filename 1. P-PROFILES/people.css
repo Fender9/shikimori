@@ -2827,6 +2827,16 @@
   --custom-image: url(https://i.imgur.com/zySSkri.png);
 }
 
+/* Show Hayami */
+[href*="people/137-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QSzBqyD.png);
+}
+[href*="people/137-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ORkfMnD.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
