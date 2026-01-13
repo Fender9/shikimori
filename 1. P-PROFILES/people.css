@@ -2837,6 +2837,76 @@
   --custom-image: url(https://i.imgur.com/ORkfMnD.png);
 }
 
+/* DIR EN GREY */
+[href*="people/7470-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/jTk648H.png);
+}
+[href*="people/7470-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ROFj2A4.png);
+}
+
+/* GACKT */
+[href*="people/314-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/phTVSLI.png);
+}
+[href*="people/314-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lagsnVB.png);
+}
+
+/* Masatoshi Ono */
+[href*="people/14565-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PokbD7H.png);
+}
+[href*="people/14565-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/dSeBW7m.png);
+}
+
+/* hide */
+[href*="people/7199-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TJSTUpt.png);
+}
+[href*="people/7199-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SxALMLK.png);
+}
+
+/* Yoshiki */
+[href*="people/20552-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/wzpBTQ5.png);
+}
+[href*="people/20552-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Yh2ckks.png);
+}
+
+/* Heath */
+[href*="people/69487-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ntDKfXC.png);
+}
+[href*="people/69487-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4tayMtW.png);
+}
+
+/* Toshi */
+[href*="people/61355-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/swTHEZr.png);
+}
+[href*="people/61355-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fATKdh1.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
