@@ -1247,7 +1247,6 @@
 .cover[href*="people/9210-"] .title {
   font-size: 0 !important;
 }
-
 .cover[href*="people/9210-"] .title::after {
   content: "MERRY";
   font-size: 13px;
@@ -1262,6 +1261,54 @@
 }
 .cover[href*="people/137-"] .title::after {
   content: "Шо Хаями ";
+}
+
+/* Масатоси Оно */
+.cover[href*="people/14565-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/14565-"] .title::after {
+  content: "Масатоши Оно";
+}
+
+/* X JAPAN */
+.cover[href*="people/7381-"] .title {
+  font-size: 0 !important;
+}
+.cover[href*="people/7381-"] .title::after {
+  content: "X JAPAN";
+  font-size: 13px;
+}
+.cover[href*="people/7381-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* YOSHIKI */
+.cover[href*="people/20552-"] .title {
+  font-size: 0 !important;
+}
+.cover[href*="people/20552-"] .title::after {
+  content: "YOSHIKI";
+  font-size: 13px;
+}
+.cover[href*="people/20552-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Тосимицу Дэяма */
+.cover[href*="people/61355-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/61355-"] .title::after {
+  content: "Toshl";
+}
+
+/* Хироси Мориэ */
+.cover[href*="people/69487-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/69487-"] .title::after {
+  content: "HEATH";
 }
 
 /*  */
