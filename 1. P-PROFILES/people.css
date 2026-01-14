@@ -2870,7 +2870,7 @@
 /* hide */
 [href*="people/7199-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/TJSTUpt.png);
+  --custom-image: url(https://i.imgur.com/U9Drf1H.png);
 }
 [href*="people/7199-"]:hover {
   --show-default: 0;
@@ -2905,6 +2905,46 @@
 [href*="people/61355-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/fATKdh1.png);
+}
+
+/* SUGIZO */
+[href*="people/51530-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/EuRP1CX.png);
+}
+[href*="people/51530-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/PJy3OOZ.png);
+}
+
+/* LUNA SEA */
+[href*="people/40967-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8Pd1Cqr.png);
+}
+[href*="people/40967-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/M9YB6QG.png);
+}
+
+/* X Japan */
+[href*="people/7381-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VDL1IQK.png);
+}
+[href*="people/7381-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qhZ3Sp0.png);
+}
+
+/* Kuroyume */
+[href*="people/35617-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Jv2odsD.png);
+}
+[href*="people/35617-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/iTlGCYs.png);
 }
 
 /*  */
