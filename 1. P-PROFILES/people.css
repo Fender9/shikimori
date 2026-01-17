@@ -2947,6 +2947,16 @@
   --custom-image: url(https://i.imgur.com/iTlGCYs.png);
 }
 
+/* Niθ */
+[href*="people/19900-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/c5iMosN.png);
+}
+[href*="people/19900-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/OwTe7cT.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
