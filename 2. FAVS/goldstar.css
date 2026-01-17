@@ -1311,10 +1311,134 @@
   content: "HEATH";
 }
 
-/*  */
-.cover[href*="people/-"] .title span {
+/* Феномен */
+.cover[href*="ranobe/45347-"] .title span {
   display: none !important;
 }
-.cover[href*="people/-"] .title::after {
+.cover[href*="ranobe/45347-"] .title::after {
+  content: "Феномен";
+}
+
+/* Jingai Makyou */
+.cover[href*="ranobe/59709-"] .title {
+  font-size: 0 !important;
+}
+.cover[href*="ranobe/59709-"] .title::after {
+  content: "Закат Мира Иных";
+  font-size: 13px;
+}
+.cover[href*="ranobe/59709-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Путевые заметки о поездке за покупками в Йокогаму */
+.cover[href*="manga/4-"] .title span {
+  display: none !important;
+}
+.cover[href*="manga/4-"] .title::after {
+  content: "Поездка за покупками в Йокогаму";
+}
+
+/* Бамби */
+.cover[href*="manga/5710-"] .title span {
+  display: none !important;
+}
+.cover[href*="manga/5710-"] .title::after {
+  content: "Бамби и её розовый пистолет";
+}
+
+/* Сквозь бальный зал */
+.cover[href*="manga/48347-"] .title span {
+  display: none !important;
+}
+.cover[href*="manga/48347-"] .title::after {
+  content: "Сквозь бальный зал";
+}
+
+/* На северо-северо-запад вслед за облаками */
+.cover[href*="manga/97179-"] .title span {
+  display: none !important;
+}
+.cover[href*="manga/97179-"] .title::after {
+  content: "На северо-северо-запад вслед за облаками";
+}
+
+/* Охотник-суицидник SSS-уровня */
+.cover[href*="manga/146909-"] .title span {
+  display: none !important;
+}
+.cover[href*="manga/146909-"] .title::after {
+  content: "Охотник-самоубийца SSS-класса";
+}
+
+/* Безвинный: Помада */
+.cover[href*="manga/93699-"] .title span {
+  display: none !important;
+}
+.cover[href*="manga/93699-"] .title::after {
+  content: "Безвинный: Помада";
+}
+
+/* Золотое божество */
+.cover[href*="manga/85968-"] .title span {
+  display: none !important;
+}
+.cover[href*="manga/85968-"] .title::after {
+  content: "Золотое божество";
+}
+
+/* Сонни Бой */
+.cover[href*="anime/48849-"] .title span {
+  display: none !important;
+}
+.cover[href*="anime/48849-"] .title::after {
+  content: "Сонни Бой";
+}
+
+/* Гандам: Сконструированные бойцы */
+.cover[href*="anime/19319-"] .title span {
+  display: none !important;
+}
+.cover[href*="anime/19319-"] .title::after {
+  content: "Гандам: Сконструированные бойцы";
+}
+
+/* Красная черта */
+.cover[href*="anime/6675-"] .title span {
+  display: none !important;
+}
+.cover[href*="anime/6675-"] .title::after {
+  content: "Красная черта";
+}
+
+/* Эрго Прокси */
+.cover[href*="anime/790-"] .title span {
+  display: none !important;
+}
+.cover[href*="anime/790-"] .title::after {
+  content: "Эрго Прокси";
+}
+
+/* Гандам: Объединение */
+.cover[href*="anime/95-"] .title span {
+  display: none !important;
+}
+.cover[href*="anime/95-"] .title::after {
+  content: "Гандам: Объединение";
+}
+
+/* Мобильный боец Джи-Гандам */
+.cover[href*="anime/96-"] .title span {
+  display: none !important;
+}
+.cover[href*="anime/96-"] .title::after {
+  content: "Мобильный боец Джи-Гандам";
+}
+
+/*  */
+.cover[href*="/-"] .title span {
+  display: none !important;
+}
+.cover[href*="/-"] .title::after {
   content: "";
 }
