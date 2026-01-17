@@ -352,11 +352,11 @@
 /* Hokuhokusei */
 [href*="mangas/97179-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/FDnad94.png);
+  --custom-image: url(https://i.imgur.com/y9zIEGE.png);
 }
 [href*="mangas/97179-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/y9zIEGE.png);
+  --custom-image: url(https://i.imgur.com/FDnad94.png);
 }
 
 /* Billy Bat */
