@@ -1437,6 +1437,14 @@
   white-space: pre-line;
 }
 
+/* Адзуманга Дайо */
+.cover[href*="animes/66-"] .title span {
+  display: none !important;
+}
+.cover[href*="animes/66-"] .title::after {
+  content: "Адзуманга Дайо";
+}
+
 /*  */
 .cover[href*="/-"] .title span {
   display: none !important;
