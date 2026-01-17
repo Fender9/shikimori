@@ -68,3 +68,33 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/X7yGuBn.png);
 }
+
+/* Phenomeno */
+[href*="ranobe/45347-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uQNhuzm.png);
+}
+[href*="ranobe/45347-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/UnkUiYl.png);
+}
+
+/* Jingai Makyou */
+[href*="ranobe/59709-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/j1sGMbK.png);
+}
+[href*="ranobe/59709-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TBYvbTW.png);
+}
+
+/*  */
+[href*="ranobe/-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="ranobe/-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
