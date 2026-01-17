@@ -1368,7 +1368,8 @@
   display: none !important;
 }
 .cover[href*="mangas/146909-"] .title::after {
-  content: "Охотник-самоубийца SSS-класса";
+  content: "Охотник-самоубийца\ASSS-класса";
+  white-space: pre-line;
 }
 
 /* Безвинный: Помада */
@@ -1412,10 +1413,10 @@
 }
 
 /* Эрго Прокси */
-.cover[href*="animes/790-"] .title span {
+.cover[href*="animes/z790-"] .title span {
   display: none !important;
 }
-.cover[href*="animes/790-"] .title::after {
+.cover[href*="animes/z790-"] .title::after {
   content: "Эрго Прокси";
 }
 
@@ -1432,7 +1433,8 @@
   display: none !important;
 }
 .cover[href*="animes/96-"] .title::after {
-  content: "Мобильный боец Джи-Гандам";
+  content: "Мобильный боец\AДжи-Гандам";
+  white-space: pre-line;
 }
 
 /*  */
