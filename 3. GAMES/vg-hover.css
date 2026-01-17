@@ -1042,3 +1042,8 @@
 .b-image[data-attrs *= "https://i.imgur.com/yI18M6k.png" ] {
   --overlay-image: url("https://i.imgur.com/oEyQRyT.png");
 }
+
+/* JINGAI MAKYOU */
+.b-image[data-attrs *= "https://i.imgur.com/9Mxhsw2.png" ] {
+  --overlay-image: url("https://i.imgur.com/IHNlRVV.png");
+}
