@@ -2957,6 +2957,16 @@
   --custom-image: url(https://i.imgur.com/OwTe7cT.png);
 }
 
+/* Katsuyuki Konishi */
+[href*="people/20-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rqXMCcC.png);
+}
+[href*="people/20-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2gr1j5M.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
