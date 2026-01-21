@@ -1450,7 +1450,8 @@
   display: none !important;
 }
 .cover[href*="ranobe/94175-"] .title::after {
-  content: "Записки Кёко Окитэгами";
+  content: "Записки\AКёко Окитэгами";
+ white-space: pre-line;
 }
 
 /* Кацуюки Кониси */
