@@ -1445,6 +1445,22 @@
   content: "Адзуманга Дайо";
 }
 
+/* Boukyaku Tantei Series */
+.cover[href*="ranobe/94175-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/94175-"] .title::after {
+  content: "Записки Кёко Окитэгами";
+}
+
+/* Кацуюки Кониси */
+.cover[href*="people/20-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/20-"] .title::after {
+  content: "Кацуюки Кониши";
+}
+
 /*  */
 .cover[href*="/-"] .title span {
   display: none !important;
