@@ -2640,7 +2640,7 @@
 /* Kazuhiro Watanabe */
 [href*="people/92069-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/zGO578J.png);
+  --custom-image: url(https://i.imgur.com/MLUProL.png);
 }
 [href*="people/92069-"]:hover {
   --show-default: 0;
@@ -2966,6 +2966,27 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/2gr1j5M.png);
 }
+
+/* Crazy Ken Band */
+[href*="people/39437-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VdRwdgh.png);
+}
+[href*="people/39437-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AzcXBlt.png);
+}
+
+/* School Food Punishment */
+[href*="people/7508-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/nYuVZ80.png);
+}
+[href*="people/7508-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KPwqxfv.png);
+}
+
 
 /*  */
 [href*="people/-"] {
