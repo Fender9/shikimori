@@ -2987,6 +2987,15 @@
   --custom-image: url(https://i.imgur.com/KPwqxfv.png);
 }
 
+/* Kanako Itou */
+[href*="people/5297-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/b6qgFjK.png);
+}
+[href*="people/5297-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5tLK2QG.png);
+}
 
 /*  */
 [href*="people/-"] {
