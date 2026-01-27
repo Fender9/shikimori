@@ -92,11 +92,11 @@
 /* Boukyaku Tantei */
 [href*="ranobe/94175-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/vcn3O5J.png);
+  --custom-image: url(https://i.imgur.com/F5CkiHW.png);
 }
 [href*="ranobe/94175-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/tSaTVjM.png);
+  --custom-image: url(https://i.imgur.com/RMABCUl.png);
 }
 
 /*  */
