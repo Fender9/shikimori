@@ -591,7 +591,7 @@
 }
 [href*="people/3445-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/F8ngO4a.png);
+  --custom-image: url(https://i.imgur.com/N1e7HB0.png);
 }
 
 /* Naoyuki Katou */
@@ -2995,6 +2995,26 @@
 [href*="people/5297-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/5tLK2QG.png);
+}
+
+/* Hyde */
+[href*="people/5300-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4nMeHyj.png);
+}
+[href*="people/5300-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ACBmv8M.png);
+}
+
+/* Eikichi Yazawa */
+[href*="people/92875-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hzHqEh2.png);
+}
+[href*="people/92875-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0fB4SGg.png);
 }
 
 /*  */
