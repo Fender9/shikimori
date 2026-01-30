@@ -99,6 +99,26 @@
   --custom-image: url(https://i.imgur.com/RMABCUl.png);
 }
 
+/* Cop Craft */
+[href*="ranobe/23958-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/088y0Hv.png);
+}
+[href*="ranobe/23958-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/x7x8gBW.png);
+}
+
+/* Hathaway's Flash */
+[href*="ranobe/5206-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VtWelcf.png);
+}
+[href*="ranobe/5206-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Y6jaZNW.png);
+}
+
 /*  */
 [href*="ranobe/-"] {
   --show-default: 0;
