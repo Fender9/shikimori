@@ -1470,6 +1470,22 @@
   content: "Эйкичи Ядзава";
 }
 
+/* Cop Craft */
+.cover[href*="ranobe/23958-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/23958-"] .title::after {
+  content: "Коповство";
+}
+
+/* S&M Series */
+.cover[href*="ranobe/169425-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/169425-"] .title::after {
+  content: "С&М";
+}
+
 /*  */
 .cover[href*="/-"] .title span {
   display: none !important;
