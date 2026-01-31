@@ -1479,11 +1479,15 @@
 }
 
 /* S&M Series */
-.cover[href*="ranobe/169425-"] .title span {
-  display: none !important;
+.cover[href*="ranobe/169425-"] .title {
+  font-size: 0 !important;
 }
 .cover[href*="ranobe/169425-"] .title::after {
   content: "С&М";
+  font-size: 13px;
+}
+.cover[href*="ranobe/169425-"] .title.two_lined::after {
+  font-size: 11.5px;
 }
 
 /*  */
