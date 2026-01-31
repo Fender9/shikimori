@@ -106,7 +106,7 @@
 }
 [href*="ranobe/23958-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/x7x8gBW.png);
+  --custom-image: url(https://i.imgur.com/UOHXXVS.png);
 }
 
 /* Hathaway's Flash */
@@ -117,6 +117,16 @@
 [href*="ranobe/5206-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Y6jaZNW.png);
+}
+
+/* S&M */
+[href*="ranobe/169425-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/b0Ustb9.png);
+}
+[href*="ranobe/169425-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zhsNEWR.png);
 }
 
 /*  */
