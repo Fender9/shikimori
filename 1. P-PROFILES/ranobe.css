@@ -106,7 +106,7 @@
 }
 [href*="ranobe/23958-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/UOHXXVS.png);
+  --custom-image: url(https://i.imgur.com/WZKY4m8.png);
 }
 
 /* Hathaway's Flash */
@@ -127,6 +127,16 @@
 [href*="ranobe/169425-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/zhsNEWR.png);
+}
+
+/* Densetsu */
+[href*="ranobe/187831-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/m0LAu74.png);
+}
+[href*="ranobe/187831-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/m0LAu74.png);
 }
 
 /*  */
