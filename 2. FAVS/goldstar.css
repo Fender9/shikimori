@@ -1490,6 +1490,30 @@
   font-size: 11.5px;
 }
 
+/* Kidou Senshi Gundam: Senkou no Hathaway */
+.cover[href*="ranobe/5206-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/5206-"] .title::after {
+  content: "Мобильный воин Гандам: Вспышка Хэтэуэя";
+}
+
+/* Decoration Disorder Disconnection */
+.cover[href*="ranobe/15486-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/15486-"] .title::after {
+  content: "Декорация Дисфункция Диссоциация";
+}
+
+/* Shin Honkaku Mahou Shoujo Risuka */
+.cover[href*="ranobe/15200-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/15200-"] .title::after {
+  content: "Новая подлинная девочка-волшебница Рисука";
+}
+
 /*  */
 .cover[href*="/-"] .title span {
   display: none !important;
