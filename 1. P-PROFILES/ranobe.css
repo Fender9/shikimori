@@ -139,6 +139,26 @@
   --custom-image: url(https://i.imgur.com/m0LAu74.png);
 }
 
+/* Decoration Disorder Disconnection */
+[href*="ranobe/15486-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/NZLPvsq.png);
+}
+[href*="ranobe/15486-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0jEyNaq.png);
+}
+
+/* Shin Honkaku Mahou Shoujo Risuka */
+[href*="ranobe/15200-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cxVto2P.png);
+}
+[href*="ranobe/15200-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yHOd1fV.png);
+}
+
 /*  */
 [href*="ranobe/-"] {
   --show-default: 0;
