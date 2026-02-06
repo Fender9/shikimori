@@ -159,6 +159,56 @@
   --custom-image: url(https://i.imgur.com/yHOd1fV.png);
 }
 
+/* Vampire Hunter D */
+[href*="ranobe/1360-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/MoaLfWu.png);
+}
+[href*="ranobe/1360-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rDrGmek.png);
+}
+
+/* Juuni Kokuki */
+[href*="ranobe/3807-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LkWKVq6.png);
+}
+[href*="ranobe/3807-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/I9bVnHD.png);
+}
+
+/* Ningen Series */
+[href*="ranobe/18162-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fNHAbAQ.png);
+}
+[href*="ranobe/18162-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5HLZhB1.png);
+}
+
+/* Saikyou Series */
+[href*="ranobe/87518-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SJPeQ5F.png);
+}
+[href*="ranobe/87518-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8p1VTr7.png);
+}
+
+/* Shibou Yuugi de Meshi wo Kuu. */
+[href*="ranobe/160251-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/B9vO317.png);
+}
+[href*="ranobe/160251-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BqjhNAF.png);
+}
+
 /*  */
 [href*="ranobe/-"] {
   --show-default: 0;
