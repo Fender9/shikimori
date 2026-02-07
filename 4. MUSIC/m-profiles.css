@@ -315,7 +315,7 @@
 
 /* Kazuhiro Watanabe */
 .b-image[data-attrs *= "https://i.imgur.com/b0PNXer.png" ] {
-  --overlay-image: url("https://i.imgur.com/taPwiQ9.png");
+  --overlay-image: url("https://i.imgur.com/myEUexM.png");
 }
 
 /* Asriel */
@@ -346,6 +346,56 @@
 /* sukekiyo */
 .b-image[data-attrs *= "https://i.imgur.com/oJqz8so.png" ] {
   --overlay-image: url("https://i.imgur.com/R5gqMKh.png");
+}
+
+/* Crazy Ken Band */
+.b-image[data-attrs *= "https://i.imgur.com/oO9rIqo.png" ] {
+  --overlay-image: url("https://i.imgur.com/FU7xbe3.png");
+}
+
+/* GACKT */
+.b-image[data-attrs *= "https://i.imgur.com/VvUBbgq.png" ] {
+  --overlay-image: url("https://i.imgur.com/yC2vIjR.png");
+}
+
+/* X JAPAN */
+.b-image[data-attrs *= "https://i.imgur.com/wkw2UZ9.png" ] {
+  --overlay-image: url("https://i.imgur.com/lZcqISD.png");
+}
+
+/* hide */
+.b-image[data-attrs *= "https://i.imgur.com/sCEdKU3.png" ] {
+  --overlay-image: url("https://i.imgur.com/9EC22RU.png");
+}
+
+/* Hyde */
+.b-image[data-attrs *= "https://i.imgur.com/WntPHz4.png" ] {
+  --overlay-image: url("https://i.imgur.com/syxzwor.png");
+}
+
+/* Kuroyume */
+.b-image[data-attrs *= "https://i.imgur.com/03fG24V.png" ] {
+  --overlay-image: url("https://i.imgur.com/RiyChOL.png");
+}
+
+/* Kyo */
+.b-image[data-attrs *= "https://i.imgur.com/21M12we.png" ] {
+  --overlay-image: url("https://i.imgur.com/2MCysBA.png");
+}
+
+/* SUGIZO */
+.b-image[data-attrs *= "https://i.imgur.com/7DKqfDN.png" ] {
+  --overlay-image: url("https://i.imgur.com/0zLzULp.png");
+}
+
+/* MERRY */
+.b-image[data-attrs *= "https://i.imgur.com/yk4pxlx.png" ] {
+  --overlay-image: url("https://i.imgur.com/sIAZB7d.png");
+}
+
+/* School Food Punishment */
+.b-image[data-attrs *= "https://i.imgur.com/HzYcd6b.png" ] {
+  --overlay-image: url("https://i.imgur.com/ovFYegS.png");
 }
 
 /*  */
