@@ -1129,6 +1129,56 @@
   --custom-image: url(https://i.imgur.com/Bd2CtX1.png);
 }
 
+/* To Be Hero X */
+[href*="animes/53447-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HZ5ruGN.png);
+}
+[href*="animes/53447-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/NcKgyKb.png);
+}
+
+/* Gachiakuta */
+[href*="animes/59062-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aOPX3S2.png);
+}
+[href*="animes/59062-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Lr6PSBQ.png);
+}
+
+/* Hyakuemu. */
+[href*="animes/58919-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/F2Vf86I.png);
+}
+[href*="animes/58919-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Nn3x1lI.png);
+}
+
+/* Chainsaw Man Movie: Reze-hen */
+[href*="animes/57555-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AsIyVwj.png);
+}
+[href*="animes/57555-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BOBamvo.png);
+}
+
+/* Fujimoto Tatsuki 17-26 */
+[href*="animes/62405-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/1SzXKCg.png);
+}
+[href*="animes/62405-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/qCd62rv.png);
+}
+
 /*  */
 [href*="animes/-"] {
   --show-default: 0;
