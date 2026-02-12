@@ -1179,6 +1179,16 @@
   --custom-image: url(https://i.imgur.com/qCd62rv.png);
 }
 
+/* Ikoku Nikki */
+[href*="animes/58788-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/n9LGale.png);
+}
+[href*="animes/58788-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SWBECRt.png);
+}
+
 /*  */
 [href*="animes/-"] {
   --show-default: 0;
