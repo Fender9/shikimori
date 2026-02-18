@@ -3017,6 +3017,26 @@
   --custom-image: url(https://i.imgur.com/0fB4SGg.png);
 }
 
+/* The Back Horn */
+[href*="people/10602-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IZbzjGR.png);
+}
+[href*="people/10602-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KtVl35y.png);
+}
+
+/* Nothing's Carved in Stone */
+[href*="people/20572-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kBW96Xh.png);
+}
+[href*="people/20572-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IB8RjCT.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
