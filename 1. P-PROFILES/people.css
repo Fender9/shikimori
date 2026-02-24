@@ -3037,6 +3037,26 @@
   --custom-image: url(https://i.imgur.com/IB8RjCT.png);
 }
 
+/* Fuki */
+[href*="people/41109-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/e39nAft.png);
+}
+[href*="people/41109-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vD61ykd.png);
+}
+
+/* Galneryus */
+[href*="people/6353-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lYW4UBy.png);
+}
+[href*="people/6353-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lYW4UBy.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
