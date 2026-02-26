@@ -398,6 +398,41 @@
   --overlay-image: url("https://i.imgur.com/ovFYegS.png");
 }
 
+/* Fuki */
+.b-image[data-attrs *= "https://i.imgur.com/ObZBYCg.png" ] {
+  --overlay-image: url("https://i.imgur.com/RoL9dXK.png");
+}
+
+/* Masatoshi Ono */
+.b-image[data-attrs *= "https://i.imgur.com/RfHj4k8.png" ] {
+  --overlay-image: url("https://i.imgur.com/znDlv4X.png");
+}
+
+/* Mad Jamie */
+.b-image[data-attrs *= "https://i.imgur.com/j48y5UC.png" ] {
+  --overlay-image: url("https://i.imgur.com/fnWQbBN.png");
+}
+
+/* Nek! */
+.b-image[data-attrs *= "https://i.imgur.com/1LZIDsf.png" ] {
+  --overlay-image: url("https://i.imgur.com/uv0DWXW.png");
+}
+
+/* Nemophila */
+.b-image[data-attrs *= "https://i.imgur.com/zPt6F1Q.png" ] {
+  --overlay-image: url("https://i.imgur.com/0PTUZ1U.png");
+}
+
+/* Undead Corporation */
+.b-image[data-attrs *= "https://i.imgur.com/5hWr0cc.png" ] {
+  --overlay-image: url("https://i.imgur.com/1MwLmJ2.png");
+}
+
+/* Zenbukiminoseida */
+.b-image[data-attrs *= "https://i.imgur.com/HGHvs3P.png" ] {
+  --overlay-image: url("https://i.imgur.com/3JSOsc9.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
