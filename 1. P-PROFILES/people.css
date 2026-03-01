@@ -429,7 +429,11 @@
 /* Hirohiko Araki */
 [href*="people/2619-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/FKQNIK9.png);
+  --custom-image: url(https://i.imgur.com/a2BPzG0.png);
+}
+[href*="people/2619-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vjlapvR.png);
 }
 
 /* huke */
@@ -3065,6 +3069,26 @@
 [href*="people/12327-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/R8oqheg.png);
+}
+
+/* Takashi Miyamoto */
+[href*="people/70334-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Atv0Afh.png);
+}
+[href*="people/70334-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3P0P5wH.png);
+}
+
+/* ORKA */
+[href*="people/52626-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SYR1cmB.png);
+}
+[href*="people/52626-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/o04CHaL.png);
 }
 
 /*  */
