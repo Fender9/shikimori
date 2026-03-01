@@ -1514,6 +1514,14 @@
   content: "Новая подлинная девочка-волшебница Рисука";
 }
 
+/* Такаси Миямото */
+.cover[href*="people/70334-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/70334-"] .title::after {
+  content: "Такаши Миямото";
+}
+
 /*  */
 .cover[href*="/-"] .title span {
   display: none !important;
