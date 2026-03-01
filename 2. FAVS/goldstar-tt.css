@@ -483,14 +483,18 @@
 }
 
 /* Цикл историй: Второй сезон */
-.cover[href*="ranobe/z23751-"] .title span,
+.cover[href*="ranobe/z23751-"] .title span {
+  display: none !important;
+}
 .tooltip a.data.name[href*="ranobe/z23751-"] .name-ru {
   display: none !important;
 }
-.cover[href*="ranobe/z23751-"] .title::after,
-.tooltip a.data.name[href*="ranobe/z23751-"]::after {
+.cover[href*="ranobe/z23751-"] .title::after {
   content: "Цикл историй:\AВторой сезон";
   white-space: pre-line;
+}
+.tooltip a.data.name[href*="ranobe/z23751-"]::after {
+  content: "Цикл историй: Второй сезон";
 }
 
 /* Ночь Ведьм */
@@ -1701,14 +1705,18 @@
 }
 
 /* Охотник-суицидник SSS-уровня */
-.cover[href*="mangas/146909-"] .title span,
+.cover[href*="mangas/146909-"] .title span {
+  display: none !important;
+}
 .tooltip a.data.name[href*="mangas/146909-"] .name-ru {
   display: none !important;
 }
-.cover[href*="mangas/146909-"] .title::after,
-.tooltip a.data.name[href*="mangas/146909-"]::after {
+.cover[href*="mangas/146909-"] .title::after {
   content: "Охотник-самоубийца\ASSS-класса";
   white-space: pre-line;
+}
+.tooltip a.data.name[href*="mangas/146909-"]::after {
+  content: "Охотник-самоубийца SSS-класса";
 }
 
 /* Безвинный: Помада */
@@ -1782,14 +1790,18 @@
 }
 
 /* Мобильный боец Джи-Гандам */
-.cover[href*="animes/96-"] .title span,
+.cover[href*="animes/96-"] .title span {
+  display: none !important;
+}
 .tooltip a.data.name[href*="animes/96-"] .name-ru {
   display: none !important;
 }
-.cover[href*="animes/96-"] .title::after,
-.tooltip a.data.name[href*="animes/96-"]::after {
+.cover[href*="animes/96-"] .title::after {
   content: "Мобильный боец\AДжи-Гандам";
   white-space: pre-line;
+}
+.tooltip a.data.name[href*="animes/96-"]::after {
+  content: "Мобильный боец Джи-Гандам";
 }
 
 /* Адзуманга Дайо */
@@ -1803,14 +1815,18 @@
 }
 
 /* Boukyaku Tantei Series */
-.cover[href*="ranobe/94175-"] .title span,
+.cover[href*="ranobe/94175-"] .title span {
+  display: none !important;
+}
 .tooltip a.data.name[href*="ranobe/94175-"] .name-ru {
   display: none !important;
 }
-.cover[href*="ranobe/94175-"] .title::after,
-.tooltip a.data.name[href*="ranobe/94175-"]::after {
+.cover[href*="ranobe/94175-"] .title::after {
   content: "Записки\AОкитэгами Кёко";
   white-space: pre-line;
+}
+.tooltip a.data.name[href*="ranobe/94175-"]::after {
+  content: "Записки Окитэгами Кёко";
 }
 
 /* Кацуюки Кониси */
