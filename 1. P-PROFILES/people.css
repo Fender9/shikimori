@@ -3057,6 +3057,16 @@
   --custom-image: url(https://i.imgur.com/Tm4ytVg.png);
 }
 
+/* GO!GO!7188 */
+[href*="people/12327-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uSHohrW.png);
+}
+[href*="people/12327-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/R8oqheg.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
