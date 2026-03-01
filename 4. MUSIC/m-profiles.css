@@ -443,6 +443,31 @@
   --overlay-image: url("https://i.imgur.com/fUdgK4f.png");
 }
 
+/* GO!GO!7188 */
+.b-image[data-attrs *= "https://i.imgur.com/XX8R5Zx.png" ] {
+  --overlay-image: url("https://i.imgur.com/15mJEIa.png");
+}
+
+/* 171 */
+.b-image[data-attrs *= "https://i.imgur.com/4iw3Zyo.png" ] {
+  --overlay-image: url("https://i.imgur.com/MN1p8pr.png");
+}
+
+/* 八十八ヶ所巡礼 */
+.b-image[data-attrs *= "https://i.imgur.com/9tvqMBM.png" ] {
+  --overlay-image: url("https://i.imgur.com/VNE8GDo.png");
+}
+
+/* 板歯目 */
+.b-image[data-attrs *= "https://i.imgur.com/ebx8hng.png" ] {
+  --overlay-image: url("https://i.imgur.com/h6Edo9d.png");
+}
+
+/* Suspended 4th */
+.b-image[data-attrs *= "https://i.imgur.com/9YJ9bzG.png" ] {
+  --overlay-image: url("https://i.imgur.com/8sU0V5S.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
