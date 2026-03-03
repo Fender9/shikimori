@@ -3091,6 +3091,16 @@
   --custom-image: url(https://i.imgur.com/o04CHaL.png);
 }
 
+/* Kuni Fukai */
+[href*="people/40446-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yy7slFy.png);
+}
+[href*="people/40446-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/A1tuJpp.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
