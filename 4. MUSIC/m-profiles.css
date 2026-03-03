@@ -468,6 +468,11 @@
   --overlay-image: url("https://i.imgur.com/8sU0V5S.png");
 }
 
+/* domico */
+.b-image[data-attrs *= "https://i.imgur.com/FaJK6Iy.png" ] {
+  --overlay-image: url("https://i.imgur.com/CSsVze1.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
