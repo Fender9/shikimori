@@ -473,6 +473,11 @@
   --overlay-image: url("https://i.imgur.com/CSsVze1.png");
 }
 
+/* UPLIFT SPICE */
+.b-image[data-attrs *= "https://i.ibb.co/1tHH7WhF/UPLIFT-SPICE-2.png" ] {
+  --overlay-image: url("https://i.ibb.co/HDV8SR4J/UPLIFT-SPICE-1.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
