@@ -3101,6 +3101,36 @@
   --custom-image: url(https://i.imgur.com/A1tuJpp.png);
 }
 
+/* Hidenori Mukai */
+[href*="people/93461-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rcQFgYC.png);
+}
+[href*="people/93461-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/BBrdIAe.png);
+}
+
+/* AiNA THE END */
+[href*="people/46209-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TQFB6q2.png);
+}
+[href*="people/46209-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ALH3vcH.png);
+}
+
+/* Yutaka Ozaki */
+[href*="people/63472-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HnTm5eg.png);
+}
+[href*="people/63472-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JFWCDvc.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
