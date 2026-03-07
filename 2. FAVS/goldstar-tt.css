@@ -1915,12 +1915,122 @@
   content: "Такаши Миямото";
 }
 
-/*  */
-.cover[href*="XXXXX/-"] .title span,
-.tooltip a.data.name[href*="XXXXX/-"] .name-ru {
+/* Макото Кобаяси */
+.cover[href*="people/22729-"] .title span,
+.tooltip a.data.name[href*="people/22729-"] .name-ru {
   display: none !important;
 }
-.cover[href*="XXXXX/-"] .title::after,
-.tooltip a.data.name[href*="XXXXX/-"]::after {
-  content: "";
+.cover[href*="people/22729-"] .title::after,
+.tooltip a.data.name[href*="people/22729-"]::after {
+  content: "Макото Кобаяши";
+}
+
+/* Хадзимэ Катоки */
+.cover[href*="people/10269-"] .title span,
+.tooltip a.data.name[href*="people/10269-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/10269-"] .title::after,
+.tooltip a.data.name[href*="people/10269-"]::after {
+  content: "Хаджимэ Катоки";
+}
+
+/* Сёдзи Кавамори */
+.cover[href*="people/2501-"] .title span,
+.tooltip a.data.name[href*="people/2501-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/2501-"] .title::after,
+.tooltip a.data.name[href*="people/2501-"]::after {
+  content: "Шоджи Кавамори";
+}
+
+/* Тёко Фудзи */
+.cover[href*="people/16381-"] .title span,
+.tooltip a.data.name[href*="people/16381-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/16381-"] .title::after,
+.tooltip a.data.name[href*="people/16381-"]::after {
+  content: "Чоко Фуджи";
+}
+
+/* Мика Пикадзо */
+.cover[href*="people/38603-"] .title span,
+.tooltip a.data.name[href*="people/38603-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/38603-"] .title::after,
+.tooltip a.data.name[href*="people/38603-"]::after {
+  content: "Мика Пиказо";
+}
+
+/* Кодзи Моримото */
+.cover[href*="people/5066-"] .title span,
+.tooltip a.data.name[href*="people/5066-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/5066-"] .title::after,
+.tooltip a.data.name[href*="people/5066-"]::after {
+  content: "Коджи Моримото";
+}
+
+/* Хироси Хирата */
+.cover[href*="people/3463-"] .title span,
+.tooltip a.data.name[href*="people/3463-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/3463-"] .title::after,
+.tooltip a.data.name[href*="people/3463-"]::after {
+  content: "Хироши Хирата";
+}
+
+/* Сасими Акаи */
+.cover[href*="people/76386-"] .title span,
+.tooltip a.data.name[href*="people/76386-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/76386-"] .title::after,
+.tooltip a.data.name[href*="people/76386-"]::after {
+  content: "Сашими Акаи";
+}
+
+/* Хироси Манабэ */
+.cover[href*="people/62698-"] .title span,
+.tooltip a.data.name[href*="people/62698-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/62698-"] .title::after,
+.tooltip a.data.name[href*="people/62698-"]::after {
+  content: "Хироши Манабэ";
+}
+
+/* Кю Хаясида */
+.cover[href*="people/3024-"] .title span,
+.tooltip a.data.name[href*="people/3024-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/3024-"] .title::after,
+.tooltip a.data.name[href*="people/3024-"]::after {
+  content: "Кью Хаяшида";
+}
+
+/* Дайсукэ Игараси */
+.cover[href*="people/2838-"] .title span,
+.tooltip a.data.name[href*="people/2838-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/2838-"] .title::after,
+.tooltip a.data.name[href*="people/2838-"]::after {
+  content: "Дайсукэ Игараши";
+}
+
+/* Юмико Осима */
+.cover[href*="people/3974-"] .title span,
+.tooltip a.data.name[href*="people/3974-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/3974-"] .title::after,
+.tooltip a.data.name[href*="people/3974-"]::after {
+  content: "Юмико Ошима";
 }
