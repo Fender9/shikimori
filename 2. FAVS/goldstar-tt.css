@@ -2034,3 +2034,23 @@
 .tooltip a.data.name[href*="people/3974-"]::after {
   content: "Юмико Ошима";
 }
+
+/* Кэнъити Ёсида */
+.cover[href*="people/8498-"] .title span,
+.tooltip a.data.name[href*="people/8498-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/8498-"] .title::after,
+.tooltip a.data.name[href*="people/8498-"]::after {
+  content: "Кэничи Ёшида";
+}
+
+/* Нао Цукидзи */
+.cover[href*="people/7597-"] .title span,
+.tooltip a.data.name[href*="people/7597-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/7597-"] .title::after,
+.tooltip a.data.name[href*="people/7597-"]::after {
+  content: "Нао Цукиджи";
+}
