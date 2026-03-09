@@ -2054,3 +2054,33 @@
 .tooltip a.data.name[href*="people/7597-"]::after {
   content: "Нао Цукиджи";
 }
+
+/* Косукэ Фудзисима */
+.cover[href*="people/2467-"] .title span,
+.tooltip a.data.name[href*="people/2467-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/2467-"] .title::after,
+.tooltip a.data.name[href*="people/2467-"]::after {
+  content: "Косукэ Фуджишима";
+}
+
+/* Такэси Обата */
+.cover[href*="people/1888-"] .title span,
+.tooltip a.data.name[href*="people/1888-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/1888-"] .title::after,
+.tooltip a.data.name[href*="people/1888-"]::after {
+  content: "Такэши Обата";
+}
+
+/* Дайсукэ Исиватари */
+.cover[href*="people/11278-"] .title span,
+.tooltip a.data.name[href*="people/11278-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="people/11278-"] .title::after,
+.tooltip a.data.name[href*="people/11278-"]::after {
+  content: "Дайсукэ Ишиватари";
+}
