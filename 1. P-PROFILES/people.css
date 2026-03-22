@@ -3521,6 +3521,16 @@
   --custom-image: url(https://i.imgur.com/yPRJhEA.png);
 }
 
+/* w.o.d. */
+[href*="people/66784-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/YYeriYO.png);
+}
+[href*="people/66784-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rOmRBeK.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
