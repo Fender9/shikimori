@@ -119,8 +119,8 @@
 }
 
 /* YUKI */
-.b-image[data-attrs *= "https://i.imgur.com/vRk4uQp.png" ] {
-  --overlay-image: url("https://i.imgur.com/5Albfv1.png");
+.b-image[data-attrs *= "https://i.imgur.com/pzmgClc.png" ] {
+  --overlay-image: url("https://i.imgur.com/OiLWXLs.png");
 }
 
 /* Perfume */
@@ -476,6 +476,36 @@
 /* UPLIFT SPICE */
 .b-image[data-attrs *= "https://i.imgur.com/gQbgIG4.png" ] {
   --overlay-image: url("https://i.imgur.com/VdjBj0o.png");
+}
+
+/* Yutaka Ozaki */
+.b-image[data-attrs *= "https://i.imgur.com/bsDMI3l.png" ] {
+  --overlay-image: url("https://i.imgur.com/iCDZdf9.png");
+}
+
+/* w.o.d. */
+.b-image[data-attrs *= "https://i.imgur.com/UWrvjIi.png" ] {
+  --overlay-image: url("https://i.imgur.com/Jw2fqWv.png");
+}
+
+/* The Black Horn */
+.b-image[data-attrs *= "https://i.imgur.com/bzDQ8EW.png" ] {
+  --overlay-image: url("https://i.imgur.com/fVW9psd.png");
+}
+
+/* Nothing's Carved in Stone */
+.b-image[data-attrs *= "https://i.imgur.com/CqzaEZL.png" ] {
+  --overlay-image: url("https://i.imgur.com/lu1Z5Ow.png");
+}
+
+/* limited express has gone */
+.b-image[data-attrs *= "https://i.imgur.com/3p8lsew.png" ] {
+  --overlay-image: url("https://i.imgur.com/xXmdBvi.png");
+}
+
+/* Aina the End */
+.b-image[data-attrs *= "https://i.imgur.com/at0Nxy5.png" ] {
+  --overlay-image: url("https://i.imgur.com/czmvpkR.png");
 }
 
 /*  */
