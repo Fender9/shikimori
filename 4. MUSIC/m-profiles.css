@@ -508,6 +508,11 @@
   --overlay-image: url("https://i.imgur.com/czmvpkR.png");
 }
 
+/* ผ้าอ้อม99999 */
+.b-image[data-attrs *= "https://i.imgur.com/OvYWbwN.png" ] {
+  --overlay-image: url("https://i.imgur.com/56whPzh.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
