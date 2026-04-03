@@ -1,0 +1,448 @@
+/* RIP E-DESIGN FIXES */
+.b-stats_bar.visual_novel .bar .first {
+    background: rgba(var(--vn-complete), 1);
+    opacity: 0.7;
+}
+
+.b-stats_bar.visual_novel .bar .second {
+    background: rgba(var(--vn-inprocess), 1);
+    opacity: 0.7;
+}
+.line .studio-more-toggle,
+.line .b-platform-tag,
+.line .b-genre-tag,
+.line .genre-more-toggle,
+.tags .b-tag {
+    position: relative;
+    padding: 0 1px;
+    margin: 2px !important;
+    transition: 0.3s ease, width 0s, margin 0s, padding 0s, font-size 0s, height 0s, top 0s, left 0s, line-height 0s,
+    min-height 0s !important;
+    border: none !important;
+    border-radius: 10px;
+    background: rgba(var(--block-color), 0.6) !important;
+}
+
+.line .studio-more-toggle,
+.line .b-platform-tag,
+.line .b-genre-tag,
+.line .genre-more-toggle,
+.tags .b-tag {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px 12px !important;
+}
+
+.line .studio-more-toggle:hover,
+.line .b-platform-tag:hover,
+.line .b-genre-tag:hover,
+.line .genre-more-toggle:hover,
+.tags .b-tag:hover {
+    background-color: rgba(var(--hover-buttoms-2), 1) !important;
+    color: white !important;
+    box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2) !important;
+    border: none !important;
+}
+
+/* НАЗВАНИЯ */
+/* Tre Donne Crudelli */
+.cover[href*="visual_novels/428-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/428-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/428-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/428-"]::after {
+  content: "Три Жестоких Женщины";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/428-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Steins;Gate */
+.cover[href*="visual_novels/2002-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/2002-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/2002-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/2002-"]::after {
+  content: "Врата;Штейна";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/2002-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Muramasa */
+.cover[href*="visual_novels/2016-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/2016-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/2016-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/2016-"]::after {
+  content: "Цельнометаллический Демон Мурамаса";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/2016-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Chaos;Child */
+.cover[href*="visual_novels/14018-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/14018-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/14018-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/14018-"]::after {
+  content: "Дитя;Хаоса";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/14018-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* МХЦ */
+.cover[href*="visual_novels/777-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/777-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/777-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/777-"]::after {
+  content: "Ночь Ведьм";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/777-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Эйс Атторни 3 */
+.cover[href*="visual_novels/716-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/716-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/716-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/716-"]::after {
+  content: "Эйс Атторни:\AТяжбы и Тернии";
+  white-space: pre-line;
+  font-size: 13px;
+}
+.cover[href*="visual_novels/716-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Жига */
+.cover[href*="visual_novels/400-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/400-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/400-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/400-"]::after {
+  content: "Врата Хаоса";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/400-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* КнШ2 */
+.cover[href*="visual_novels/5922-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/5922-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/5922-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/5922-"]::after {
+  content: "Зияющая Пустота";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/5922-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Ангелос Армас */
+.cover[href*="visual_novels/429-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/429-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/429-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/429-"]::after {
+  content: "Ангелос Армас";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/429-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* П4Д */
+.cover[href*="visual_novels/19238-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/19238-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/19238-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/19238-"]::after {
+  content: "Персона 4: Танцуя\AВсю Ночь";
+  white-space: pre-line;
+  font-size: 13px;
+}
+.cover[href*="visual_novels/19238-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Цукихиме */
+.cover[href*="visual_novels/7-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/7-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/7-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/7-"]::after {
+  content: "Лунная Принцесса";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/7-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Снэтчер */
+.cover[href*="visual_novels/1305-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/1305-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/1305-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/1305-"]::after {
+  content: "Снэтчер";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/1305-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* NAME */
+.cover[href*="visual_novels/XXX-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/XXX-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/XXX-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/XXX-"]::after {
+  content: "XXXX";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/XXX-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* NAME */
+.cover[href*="visual_novels/XXX-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="visual_novels/XXX-"] {
+  font-size: 0 !important;
+}
+.cover[href*="visual_novels/XXX-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/XXX-"]::after {
+  content: "XXXX";
+  font-size: 13px;
+}
+.cover[href*="visual_novels/XXX-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* ГЭ999 */
+.cover[href*="animes/1491-"] .title span,
+.tooltip a.data.name[href*="animes/1491-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="animes/1491-"] .title::after,
+.tooltip a.data.name[href*="animes/1491-"]::after {
+  content: "Галактический Экспресс 999";
+}
+
+/* 12К */
+.cover[href*="ranobe/3807-"] .title span,
+.tooltip a.data.name[href*="ranobe/3807-"] .name-ru {
+  display: none !important;
+}
+.cover[href*="ranobe/3807-"] .title::after,
+.tooltip a.data.name[href*="ranobe/3807-"]::after {
+  content: "Двенадцать Королевств";
+}
+
+/* ЦЕНТРИРОВАНИЕ ВН */
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-visual_novel.entry-7) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-visual_novel.entry-7)::after {
+  content: "ВИЗУАЛЬНЫЕ НОВЕЛЛЫ";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
+}
+
+/* ОБЛОГИ ВН */
+/* SNATCHER */
+[href*="visual_novels/1305-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rZOHE9K.png);
+}
+[href*="visual_novels/1305-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/F8Vw33G.png);
+}
+
+/* TSUKIHIME */
+[href*="visual_novels/7-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WqZN0xh.png);
+}
+[href*="visual_novels/7-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Eyhp4My.png);
+}
+
+/* AA3 */
+[href*="visual_novels/716-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zTGyGpj.png);
+}
+[href*="visual_novels/716-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Trirs7e.png);
+}
+
+/* ANGELOS ARMAS */
+[href*="visual_novels/429-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yI18M6k.png);
+}
+[href*="visual_novels/429-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oEyQRyT.png);
+}
+
+/* JINGAI */
+[href*="visual_novels/400-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/9Mxhsw2.png);
+}
+[href*="visual_novels/400-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IHNlRVV.png);
+}
+
+/* TDC */
+[href*="visual_novels/428-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/c5iMosN.png);
+}
+[href*="visual_novels/428-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/015u7Pm.png);
+}
+
+/* STEINS GATE */
+[href*="visual_novels/2002-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SVB1Rsf.png);
+}
+[href*="visual_novels/2002-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gyqceIl.png);
+}
+
+/* MURAMASA */
+[href*="visual_novels/2016-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/l2nrhyy.png);
+}
+[href*="visual_novels/2016-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RMDxWyX.png);
+}
+
+/* MAHOUTSUKAI */
+[href*="visual_novels/777-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zp7SQW5.png);
+}
+[href*="visual_novels/777-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WPwHyJx.png);
+}
+
+/* KNS2 */
+[href*="visual_novels/5922-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/KRC3TzN.png);
+}
+[href*="visual_novels/5922-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hxJBf6w.png);
+}
+
+/* CHAOS CHILD */
+[href*="visual_novels/14018-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/EWuNXXd.png);
+}
+[href*="visual_novels/14018-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QGEv2pc.png);
+}
+
+/* P4D */
+[href*="visual_novels/19238-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2Ix24Le.png);
+}
+[href*="visual_novels/19238-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HuDpoCX.png);
+}
+
+/* NAME */
+[href*="visual_novels/XXX-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="visual_novels/XXX-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
+
+/* NAME */
+[href*="visual_novels/XXX-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="visual_novels/XXX-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
