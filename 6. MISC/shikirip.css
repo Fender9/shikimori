@@ -1,4 +1,28 @@
 /* RIP E-DESIGN FIXES */
+/* ДРУЗЬЯ */
+.c-column.c-right .cc-2a > .c-column:nth-child(1) .subheadline {
+  font-size: 0;
+}
+.c-column.c-right .cc-2a > .c-column:nth-child(1) .subheadline::after {
+  content: "ДРУЗЬЯ";
+  font-size: 14px;
+  text-align: center;
+  width: 100%;
+  display: block; 
+  transform: translateX(-1px) translateY(-2px);
+}
+.c-column.c-right .cc-2a > .c-column:nth-child(2) .subheadline {
+  font-size: 0;
+}
+.c-column.c-right .cc-2a > .c-column:nth-child(2) .subheadline::after {
+  content: "КЛУБЫ";
+  font-size: 14px;
+  text-align: center;
+  width: 100%;
+  display: block; 
+  transform: translateX(-1px) translateY(-2px);
+}
+
 .b-stats_bar.visual_novel .bar .first {
     background: rgba(var(--vn-complete), 1);
     opacity: 0.7;
@@ -242,34 +266,18 @@
 }
 
 /* NAME */
-.cover[href*="visual_novels/XXX-"] .title {
+.cover[href*="visual_novels/4307-"] .title {
   font-size: 0 !important;
 }
-.tooltip a.data.name[href*="visual_novels/XXX-"] {
+.tooltip a.data.name[href*="visual_novels/4307-"] {
   font-size: 0 !important;
 }
-.cover[href*="visual_novels/XXX-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/XXX-"]::after {
-  content: "XXXX";
+.cover[href*="visual_novels/4307-"] .title::after,
+.tooltip a.data.name[href*="visual_novels/4307-"]::after {
+  content: "Траурница";
   font-size: 13px;
 }
-.cover[href*="visual_novels/XXX-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
-
-/* NAME */
-.cover[href*="visual_novels/XXX-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/XXX-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/XXX-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/XXX-"]::after {
-  content: "XXXX";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/XXX-"] .title.two_lined::after {
+.cover[href*="visual_novels/4307-"] .title.two_lined::after {
   font-size: 11.5px;
 }
 
@@ -427,24 +435,24 @@
   --custom-image: url(https://i.imgur.com/Sg045R9.png);
 }
 
-/* NAME */
-[href*="visual_novels/XXX-"] {
+/* Imabikisou */
+[href*="visual_novels/4307-"] {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/K8bqqf9.png);
 }
-[href*="visual_novels/XXX-"]:hover {
+[href*="visual_novels/4307-"]:hover {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/ndyouVb.png);
 }
 
-/* NAME */
-[href*="visual_novels/XXX-"] {
+/* I/O */
+[href*="visual_novels/96-"] {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/kWG1zrF.png);
 }
-[href*="visual_novels/XXX-"]:hover {
+[href*="visual_novels/96-"]:hover {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/SyIoEcf.png);
 }
 
 /* Wakana Sakuraba */
