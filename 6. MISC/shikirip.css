@@ -446,3 +446,49 @@
   --show-default: 0;
   --custom-image: url();
 }
+
+/* Wakana Sakuraba */
+.cover[href*="people/92080-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="people/92080-"] {
+  font-size: 0 !important;
+}
+.cover[href*="people/92080-"] .title::after,
+.tooltip a.data.name[href*="people/92080-"]::after {
+  content: "Вакана Сакураба";
+  font-size: 13px;
+}
+.cover[href*="people/92080-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+/* Yutaka Ozaki */
+.cover[href*="people/63472-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="people/63472-"] {
+  font-size: 0 !important;
+}
+.cover[href*="people/63472-"] .title::after,
+.tooltip a.data.name[href*="people/63472-"]::after {
+  content: "Ютака Одзаки";
+  font-size: 13px;
+}
+.cover[href*="people/63472-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+/* Shintarou Jinbo */
+.cover[href*="people/92317-"] .title {
+  font-size: 0 !important;
+}
+.tooltip a.data.name[href*="people/92317-"] {
+  font-size: 0 !important;
+}
+.cover[href*="people/92317-"] .title::after,
+.tooltip a.data.name[href*="people/92317-"]::after {
+  content: "Шинтаро Джимбо";
+  font-size: 13px;
+}
+.cover[href*="people/92317-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
