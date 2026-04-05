@@ -1,28 +1,4 @@
 /* RIP E-DESIGN FIXES */
-/* ДРУЗЬЯ */
-.c-column.c-right .cc-2a > .c-column:nth-child(1) .subheadline {
-  font-size: 0;
-}
-.c-column.c-right .cc-2a > .c-column:nth-child(1) .subheadline::after {
-  content: "ДРУЗЬЯ";
-  font-size: 14px;
-  text-align: center;
-  width: 100%;
-  display: block; 
-  transform: translateX(-1px) translateY(-2px);
-}
-.c-column.c-right .cc-2a > .c-column:nth-child(2) .subheadline {
-  font-size: 0;
-}
-.c-column.c-right .cc-2a > .c-column:nth-child(2) .subheadline::after {
-  content: "КЛУБЫ";
-  font-size: 14px;
-  text-align: center;
-  width: 100%;
-  display: block; 
-  transform: translateX(-1px) translateY(-2px);
-}
-
 .b-stats_bar.visual_novel .bar .first {
     background: rgba(var(--vn-complete), 1);
     opacity: 0.7;
