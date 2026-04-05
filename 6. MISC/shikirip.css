@@ -3,7 +3,6 @@
     background: rgba(var(--vn-complete), 1);
     opacity: 0.7;
 }
-
 .b-stats_bar.visual_novel .bar .second {
     background: rgba(var(--vn-inprocess), 1);
     opacity: 0.7;
@@ -22,7 +21,6 @@
     border-radius: 10px;
     background: rgba(var(--block-color), 0.6) !important;
 }
-
 .line .studio-more-toggle,
 .line .b-platform-tag,
 .line .b-genre-tag,
@@ -34,7 +32,6 @@
     justify-content: center;
     padding: 2px 12px !important;
 }
-
 .line .studio-more-toggle:hover,
 .line .b-platform-tag:hover,
 .line .b-genre-tag:hover,
@@ -44,6 +41,84 @@
     color: white !important;
     box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2) !important;
     border: none !important;
+}
+/* SUBMENU */
+@media screen and (min-width: 768px) {
+.l-top_menu-v2 .menu-dropdown.main .submenu {
+  width: 100%;
+}
+.l-top_menu-v2 .menu-dropdown.main .submenu>a {
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: calc(50% - 2px);
+    height: auto;
+    margin: 1px;
+    padding: 0 0 7px;
+    font-size: 10px;
+    line-height: 13px;
+    white-space: pre-line;
+    word-break: break-word;
+    text-align: center;
+    border-radius: 14px;
+}
+.l-top_menu-v2 .menu-dropdown.main  .submenu>a:before {
+    width: 100%;
+    font-size: 22px;
+    line-height: 44px;
+}
+.l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-anime:before, .l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-manga:before, .l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-ranobe:before {
+    font-size: 14px;
+    line-height: 44px;
+}
+}
+.menu-dropdown.main:hover .submenu a:nth-child(19) {
+    -webkit-transition-delay: 900ms;
+    transition-delay: 900ms;
+}
+/* LEFT SUBMENU */
+.submenu a.icon-visual_novel::before {
+  font-size: 14px !important;
+}
+.submenu a.icon-socials[title="Мы в Discord"] {
+  display: none !important;
+}
+
+/* RIGHT SUBMENU */
+.submenu a.icon-visual_novel_list {
+  display: inline-flex !important;
+  align-items: center;
+  padding-top: 1px !important; 
+}
+
+.submenu a.icon-visual_novel_list::before {
+  content: "V" !important;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1px !important;
+  width: 15px !important;
+  height: 14px !important;
+  border-radius: 50% !important;
+  border: 2px solid rgba(var(--white-color), 1) !important;
+  color: rgba(var(--white-color), 1) !important;
+  background: transparent !important;
+  margin-left: 14px !important;
+  margin-right: 15px !important;
+  font-size: 12px !important;
+  font-weight: 590 !important;
+  text-indent: 0 !important;
+  vertical-align: middle;
+  transition: border-color 0.2s ease, color 0.2s ease;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}
+.submenu a.icon-visual_novel_list:hover::before {
+  border-color: var(--hover-color) !important;
+}
+.submenu a.icon-manga_list::before {
+  margin-left: 14px !important;
+  margin-right: 15px !important;
 }
 
 /* НАЗВАНИЯ */
