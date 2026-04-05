@@ -86,7 +86,6 @@
 
 /* RIGHT SUBMENU */
 .submenu a.icon-visual_novel_list {
-  display: inline-flex !important;
   align-items: center;
   padding-top: 1px !important; 
 }
