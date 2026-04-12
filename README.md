@@ -1,5 +1,6 @@
 # Мой шикимори хлам, всякие плашки и тд
-https://shikimori.one/tests/reset_styles_cache
+https://shikimori.io/tests/reset_styles_cache
+https://shikimori.fi/tests/reset_styles_cache
 
 P-PROFILES — ПОСТЕРЫ
 1. anime.css
