@@ -385,15 +385,15 @@
 
 /* SHELL GIRL */
 .b-image[data-attrs *= "https://i.imgur.com/5haaLP6.png" ] {
-  --overlay-image: url("https://i.imgur.com/Ale2wny.png");
+  --overlay-image: url("https://i.imgur.com/wpQY6em.png");
 }
 
-/* FALSE GIRL */
-.b-image[data-attrs *= "https://i.imgur.com/KRC3TzN.png" ] {
-  --overlay-image: url("https://i.imgur.com/hxJBf6w.png");
+/* HOLLOW GIRL */
+.b-image[data-attrs *= "https://i.imgur.com/xNkONdD.png" ] {
+  --overlay-image: url("https://i.imgur.com/mawXor5.png");
 }
 
-/* HEAVENLY GIRL */
+/* HEAVEN GIRL */
 .b-image[data-attrs *= "https://i.imgur.com/a4ypOUI.png" ] {
   --overlay-image: url("https://i.imgur.com/G5jU5n9.png");
 }
