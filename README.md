@@ -1,5 +1,6 @@
 # Мой шикимори хлам, всякие плашки и тд
 https://shikimori.io/tests/reset_styles_cache
+
 https://shikimori.fi/tests/reset_styles_cache
 
 P-PROFILES — ПОСТЕРЫ
