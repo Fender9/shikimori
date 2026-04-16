@@ -780,6 +780,16 @@
   --custom-image: url(https://i.imgur.com/vBfetdO.png);
 }
 
+/* Asou Junko */
+[href*="characters/-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/EEg8GYH.png);
+}
+[href*="characters/-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/TPmQiVh.png);
+}
+
 /*  */
 [href*="characters/-"] {
   --show-default: 0;
