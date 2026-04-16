@@ -227,8 +227,8 @@
   top: 1px;
 }
 
-/* Maetel */
-.tira-page [href*="characters/6321-"] {
+/* Celes Chere */
+.tira-page [href*="characters/293694-"] {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
@@ -237,7 +237,7 @@
   top: 1px;
 }
 
-.tira-page [href*="characters/6321-"]:hover {
+.tira-page [href*="characters/293694-"]:hover {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
