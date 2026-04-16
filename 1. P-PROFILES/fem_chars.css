@@ -760,6 +760,26 @@
   --custom-image: url(https://i.imgur.com/7ZzQt1q.gif);
 }
 
+/* Celes Chere */
+[href*="characters/293694-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DOz0sSk.png);
+}
+[href*="characters/293694-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/LdkwSE8.gif);
+}
+
+/* Elena E-014297 */
+[href*="characters/293695-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2cd46zA.png);
+}
+[href*="characters/293695-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vBfetdO.png);
+}
+
 /*  */
 [href*="characters/-"] {
   --show-default: 0;
