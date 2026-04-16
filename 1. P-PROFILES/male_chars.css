@@ -610,3 +610,23 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/YBGI1cH.gif);
 }
+
+/* Zidane Tribal */
+[href*="characters/159148-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/o4T54qr.png);
+}
+[href*="characters/159148-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/aOlekQw.gif);
+}
+
+/*  */
+[href*="characters/-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="characters/-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
