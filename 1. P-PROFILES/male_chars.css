@@ -621,6 +621,16 @@
   --custom-image: url(https://i.imgur.com/aOlekQw.gif);
 }
 
+/* Aleph */
+[href*="characters/294114-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/82quUWc.png);
+}
+[href*="characters/294114-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fmK8uXW.gif);
+}
+
 /*  */
 [href*="characters/-"] {
   --show-default: 0;
