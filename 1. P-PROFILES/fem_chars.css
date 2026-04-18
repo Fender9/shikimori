@@ -790,6 +790,16 @@
   --custom-image: url(https://i.imgur.com/TPmQiVh.png);
 }
 
+/* Mora */
+[href*="characters/53273-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vOKx47P.png);
+}
+[href*="characters/53273-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7PtVWRd.png);
+}
+
 /*  */
 [href*="characters/-"] {
   --show-default: 0;
