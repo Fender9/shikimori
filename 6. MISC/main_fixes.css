@@ -13,10 +13,10 @@
 }*/
 
 /* ДРУЗЬЯ */
-.c-column.c-right .subheadline a[title="Друзья"] {
+.profile-content .subheadline > a[href$="/friends"] {
   font-size: 0;
 }
-.c-column.c-right .subheadline a[title="Друзья"]::after {
+.profile-content .subheadline > a[href$="/friends"]::after {
   content: "ДРУЗЬЯ";
   font-size: 14px;
   text-align: center;
@@ -24,7 +24,7 @@
   display: block; 
   transform: translateX(-1px) translateY(-2px);
 }
-.c-column.c-right .subheadline a[title="Друзья"]::before {
+.profile-content .subheadline > a[href$="/friends"]::before {
   content: none !important;
 }
 
@@ -56,13 +56,13 @@
 }
 
 /* ИЗБРАННОЕ */
-.c-column.c-right .subheadline a[title="Избранное"] {
+.profile-content .subheadline > a[href$="/favorites"] {
   font-size: 0;
 }
-.c-column.c-right .subheadline a[title="Избранное"]::before {
+.profile-content .subheadline > a[href$="/favorites"]::before {
   content: none !important;
 }
-.c-column.c-right .subheadline a[title="Избранное"]::after {
+.profile-content .subheadline > a[href$="/favorites"]::after {
   content: "ИЗБРАННОЕ";
   font-size: 18px;
   text-align: center;
@@ -83,7 +83,7 @@
   font-weight: bold;
   animation: subheadline-gradient 4s linear infinite;
 }
-.c-column.c-right .subheadline a[title="Избранное"]:hover::after {
+.profile-content .subheadline > a[href$="/favorites"]:hover::after {
   -webkit-text-fill-color: rgba(214, 177, 233, 1);
   text-fill-color: rgba(214, 177, 233, 1);
   color: rgba(214, 177, 233, 1);
