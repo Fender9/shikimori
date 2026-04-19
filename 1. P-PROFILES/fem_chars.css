@@ -781,11 +781,11 @@
 }
 
 /* Asou Junko */
-[href*="characters/-"] {
+[href*="characters/294135-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/fVoxBTg.png);
 }
-[href*="characters/-"]:hover {
+[href*="characters/294135-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/TPmQiVh.png);
 }
