@@ -83,6 +83,9 @@
 .submenu a.icon-socials[title="Мы в Discord"] {
   display: none !important;
 }
+.submenu a.icon-socials[title="In social networks"] {
+  display: none !important;
+}
 
 /* RIGHT SUBMENU */
 .submenu a.icon-visual_novel_list {
@@ -130,249 +133,162 @@
 }
 
 /* НАЗВАНИЯ */
-/* Tre Donne Crudelli */
-.cover[href*="visual_novels/428-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/428-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/428-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/428-"]::after {
-  content: "Три Жестоких Женщины";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/428-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- GE 999 --- */
+.cover[href*="animes/1491-"] .title .name-ru, .cover[href*="animes/1491-"] .title .name-en,
+.tooltip a.data.name[href*="animes/1491-"] .name-ru, .tooltip a.data.name[href*="animes/1491-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/1491-"] .title .name-ru::after { content: "Галактический экспресс 999"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/1491-"] .title .name-en::after { content: "Galaxy Express 999"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/1491-"]:hover .title .name-ru::after, .cover[href*="animes/1491-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/1491-"] .name-ru::after { content: "Галактический экспресс 999"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/1491-"] .name-en::after { content: "Galaxy Express 999"; font-size: 13px !important; visibility: visible; }
 
-/* Steins;Gate */
-.cover[href*="visual_novels/2002-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/2002-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/2002-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/2002-"]::after {
-  content: "Врата;Штейна";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/2002-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- 12 КОРОЛЕВСТВ --- */
+.cover[href*="ranobe/3807-"] .title .name-ru, .cover[href*="ranobe/3807-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/3807-"] .name-ru, .tooltip a.data.name[href*="ranobe/3807-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/3807-"] .title .name-ru::after { content: "Двенадцать Королевств"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/3807-"] .title .name-en::after { content: "The Twelve Kingdoms"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/3807-"]:hover .title .name-ru::after, .cover[href*="ranobe/3807-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/3807-"] .name-ru::after { content: "Двенадцать Королевств"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/3807-"] .name-en::after { content: "The Twelve Kingdoms"; font-size: 13px !important; visibility: visible; }
 
-/* Muramasa */
-.cover[href*="visual_novels/2016-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/2016-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/2016-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/2016-"]::after {
-  content: "Цельнометаллический Демон Мурамаса ⚔";
-  color: #D32F23;
-  font-size: 13px;
-}
-.cover[href*="visual_novels/2016-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
-.cover[href*="visual_novels/2016-"]::after {
-  content: " ";
-  position: absolute !important;
-  top: 0.5rem;
-  right: 0.4rem;
-  height: 30px;
-  width: 30px;
-  background-image: url('https://i.imgur.com/8oxX96X.png');
-  background-size: cover;
-  font-size: 35px;
-  color: white;
-  z-index: 1;
-}
+/* --- СНЭТЧЕР --- */
+.cover[href*="visual_novels/1305-"] .title, 
+.tooltip a.data.name[href*="visual_novels/1305-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/1305-"] .title::after { content: "Снэтчер"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/1305-"]::after { content: "Снэтчер"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/1305-"] .title::after,
+.cover[href*="visual_novels/1305-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/1305-"][href*="locale=en"]::after { content: "SNATCHER" !important; }
+.cover[href*="visual_novels/1305-"]:hover .title::after { color: #ddafe8 !important; }
 
-/* Chaos;Child */
-.cover[href*="visual_novels/14018-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/14018-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/14018-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/14018-"]::after {
-  content: "Дитя;Хаоса";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/14018-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- ЛУННАЯ ПРИНЦЕССА --- */
+.cover[href*="visual_novels/7-"] .title, 
+.tooltip a.data.name[href*="visual_novels/7-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/7-"] .title::after { content: "Лунная Принцесса"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/7-"]::after { content: "Лунная Принцесса"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/7-"] .title::after,
+.cover[href*="visual_novels/7-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/7-"][href*="locale=en"]::after { content: "Tsukihime" !important; }
+.cover[href*="visual_novels/7-"]:hover .title::after { color: #ddafe8 !important; }
 
-/* МХЦ */
-.cover[href*="visual_novels/777-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/777-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/777-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/777-"]::after {
-  content: "Ночь Ведьм";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/777-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- ЭЙС АТТОРНИ 3 --- */
+.cover[href*="visual_novels/716-"] .title .name-ru, .cover[href*="visual_novels/716-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/716-"] .name-ru, .tooltip a.data.name[href*="visual_novels/716-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/716-"] .title .name-ru::after { content: "Эйс Атторни:\AТяжбы и Тернии"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/716-"] .title .name-en::after { content: "Ace Attorney:\ATrials and Tribulations"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/716-"]:hover .title .name-ru::after, .cover[href*="visual_novels/716-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/716-"] .name-ru::after { content: "Эйс Атторни:\AТяжбы и Тернии"; white-space: pre-line; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/716-"] .name-en::after { content: "Ace Attorney:\ATrials and Tribulations"; white-space: pre-line; font-size: 13px !important; visibility: visible; }
 
-/* Эйс Атторни 3 */
-.cover[href*="visual_novels/716-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/716-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/716-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/716-"]::after {
-  content: "Эйс Атторни:\AТяжбы и Тернии";
-  white-space: pre-line;
-  font-size: 13px;
-}
-.cover[href*="visual_novels/716-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- АНГЕЛОС АРМАС --- */
+.cover[href*="visual_novels/429-"] .title, 
+.tooltip a.data.name[href*="visual_novels/429-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/429-"] .title::after { content: "Ангелос Армас"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/429-"]::after { content: "Ангелос Армас"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/429-"] .title::after,
+.cover[href*="visual_novels/429-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/429-"][href*="locale=en"]::after { content: "Angelos Armas" !important; }
+.cover[href*="visual_novels/429-"]:hover .title::after { color: #ddafe8 !important; }
 
-/* Жига */
-.cover[href*="visual_novels/400-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/400-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/400-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/400-"]::after {
-  content: "Врата Хаоса";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/400-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- ВРАТА ХАОСА --- */
+.cover[href*="visual_novels/400-"] .title, 
+.tooltip a.data.name[href*="visual_novels/400-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/400-"] .title::after { content: "Врата Хаоса"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/400-"]::after { content: "Врата Хаоса"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/400-"] .title::after,
+.cover[href*="visual_novels/400-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/400-"][href*="locale=en"]::after { content: "Jingai Makyou" !important; }
+.cover[href*="visual_novels/400-"]:hover .title::after { color: #ddafe8 !important; }
 
-/* КнШ2 */
-.cover[href*="visual_novels/5922-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/5922-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/5922-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/5922-"]::after {
-  content: "Зияющая Пустота";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/5922-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- I/O --- */
+.cover[href*="visual_novels/96-"] .title, 
+.tooltip a.data.name[href*="visual_novels/96-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/96-"] .title::after { content: "I/O"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/96-"]::after { content: "I/O"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/96-"] .title::after,
+.cover[href*="visual_novels/96-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/96-"][href*="locale=en"]::after { content: "I/O" !important; }
+.cover[href*="visual_novels/96-"]:hover .title::after { color: #ddafe8 !important; }
 
-/* Ангелос Армас */
-.cover[href*="visual_novels/429-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/429-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/429-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/429-"]::after {
-  content: "Ангелос Армас";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/429-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- TRE DONNE CRUDELLI --- */
+.cover[href*="visual_novels/428-"] .title, 
+.tooltip a.data.name[href*="visual_novels/428-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/428-"] .title::after { content: "Три Жестоких Женщины"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/428-"]::after { content: "Три Жестоких Женщины"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/428-"] .title::after,
+.cover[href*="visual_novels/428-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/428-"][href*="locale=en"]::after { content: "Tre Donne Crudelli" !important; }
+.cover[href*="visual_novels/428-"]:hover .title::after { color: #ddafe8 !important; }
 
-/* П4Д */
-.cover[href*="visual_novels/19238-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/19238-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/19238-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/19238-"]::after {
-  content: "Персона 4: Танцуя\AВсю Ночь";
-  white-space: pre-line;
-  font-size: 13px;
-}
-.cover[href*="visual_novels/19238-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- ТРАУРНИЦА --- */
+.cover[href*="visual_novels/4307-"] .title, 
+.tooltip a.data.name[href*="visual_novels/4307-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/4307-"] .title::after { content: "Траурница"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/4307-"]::after { content: "Траурница"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/4307-"] .title::after,
+.cover[href*="visual_novels/4307-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/4307-"][href*="locale=en"]::after { content: "Imabikisou" !important; }
+.cover[href*="visual_novels/4307-"]:hover .title::after { color: #ddafe8 !important; }
 
-/* Цукихиме */
-.cover[href*="visual_novels/7-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/7-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/7-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/7-"]::after {
-  content: "Лунная Принцесса";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/7-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- STEINS;GATE --- */
+.cover[href*="visual_novels/2002-"] .title, 
+.tooltip a.data.name[href*="visual_novels/2002-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/2002-"] .title::after { content: "Врата;Штейна"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/2002-"]::after { content: "Врата;Штейна"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/2002-"] .title::after,
+.cover[href*="visual_novels/2002-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/2002-"][href*="locale=en"]::after { content: "STEINS;GATE" !important; }
+.cover[href*="visual_novels/2002-"]:hover .title::after { color: #ddafe8 !important; }
 
-/* Снэтчер */
-.cover[href*="visual_novels/1305-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/1305-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/1305-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/1305-"]::after {
-  content: "Снэтчер";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/1305-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- MURAMASA --- */
+.cover[href*="visual_novels/2016-"] .title, 
+.tooltip a.data.name[href*="visual_novels/2016-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/2016-"] .title::after { content: "Цельнометаллический Демон Мурамаса ⚔"; font-size: 11.5px !important; color: #D32F23; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/2016-"]::after { content: "Цельнометаллический Демон Мурамаса ⚔"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/2016-"] .title::after,
+.cover[href*="visual_novels/2016-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/2016-"][href*="locale=en"]::after { content: "Full Metal Daemon Muramasa ⚔" !important; }
+.cover[href*="visual_novels/2016-"]:hover .title::after { color: #ddafe8 !important; }
+.cover[href*="visual_novels/2016-"]::after { content: " "; position: absolute !important; top: 0.5rem; right: 0.4rem; height: 30px; width: 30px; background-image: url('https://i.imgur.com/8oxX96X.png'); background-size: cover; z-index: 1; }
 
-/* NAME */
-.cover[href*="visual_novels/4307-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="visual_novels/4307-"] {
-  font-size: 0 !important;
-}
-.cover[href*="visual_novels/4307-"] .title::after,
-.tooltip a.data.name[href*="visual_novels/4307-"]::after {
-  content: "Траурница";
-  font-size: 13px;
-}
-.cover[href*="visual_novels/4307-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+/* --- НОЧЬ ВЕДЬМ --- */
+.cover[href*="visual_novels/777-"] .title .name-ru, .cover[href*="visual_novels/777-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/777-"] .name-ru, .tooltip a.data.name[href*="visual_novels/777-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/777-"] .title .name-ru::after { content: "Ночь Ведьм"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/777-"] .title .name-en::after { content: "Mahoutsukai no Yoru"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/777-"]:hover .title .name-ru::after, .cover[href*="visual_novels/777-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/777-"] .name-ru::after { content: "Ночь Ведьм"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/777-"] .name-en::after { content: "Mahoutsukai no Yoru"; font-size: 13px !important; visibility: visible; }
 
-/* ГЭ999 */
-.cover[href*="animes/1491-"] .title span,
-.tooltip a.data.name[href*="animes/1491-"] .name-ru {
-  display: none !important;
-}
-.cover[href*="animes/1491-"] .title::after,
-.tooltip a.data.name[href*="animes/1491-"]::after {
-  content: "Галактический Экспресс 999";
-}
+/* --- ЗИЯЮЩАЯ ПУСТОТА --- */
+.cover[href*="visual_novels/5922-"] .title, 
+.tooltip a.data.name[href*="visual_novels/5922-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/5922-"] .title::after { content: "Зияющая Пустота"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/5922-"]::after { content: "Зияющая Пустота"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/5922-"] .title::after,
+.cover[href*="visual_novels/5922-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/5922-"][href*="locale=en"]::after { content: "Uro no Shoujo" !important; }
+.cover[href*="visual_novels/5922-"]:hover .title::after { color: #ddafe8 !important; }
 
-/* 12К */
-.cover[href*="ranobe/3807-"] .title span,
-.tooltip a.data.name[href*="ranobe/3807-"] .name-ru {
-  display: none !important;
-}
-.cover[href*="ranobe/3807-"] .title::after,
-.tooltip a.data.name[href*="ranobe/3807-"]::after {
-  content: "Двенадцать Королевств";
-}
+/* --- CHAOS;CHILD --- */
+.cover[href*="visual_novels/14018-"] .title, 
+.tooltip a.data.name[href*="visual_novels/14018-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/14018-"] .title::after { content: "Дитя;Хаоса"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/14018-"]::after { content: "Дитя;Хаоса"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/14018-"] .title::after,
+.cover[href*="visual_novels/14018-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/14018-"][href*="locale=en"]::after { content: "CHAOS;CHILD" !important; }
+.cover[href*="visual_novels/14018-"]:hover .title::after { color: #ddafe8 !important; }
+
+/* --- ПЕРСОНА 4: ТАНЦУЯ --- */
+.cover[href*="visual_novels/19238-"] .title, 
+.tooltip a.data.name[href*="visual_novels/19238-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/19238-"] .title::after { content: "Персона 4: Танцуя\AВсю Ночь"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/19238-"]::after { content: "Персона 4: Танцуя\AВсю Ночь"; white-space: pre-line; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="visual_novels/19238-"] .title::after,
+.cover[href*="visual_novels/19238-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="visual_novels/19238-"][href*="locale=en"]::after { content: "Persona 4: Dancing\AAll Night" !important; }
+.cover[href*="visual_novels/19238-"]:hover .title::after { color: #ddafe8 !important; }
 
 /* ЦЕНТРИРОВАНИЕ ВН */
 .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-visual_novel.entry-7) {
@@ -528,51 +444,39 @@
   --custom-image: url(https://i.imgur.com/SyIoEcf.png);
 }
 
-/* Wakana Sakuraba */
-.cover[href*="people/92080-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="people/92080-"] {
-  font-size: 0 !important;
-}
-.cover[href*="people/92080-"] .title::after,
-.tooltip a.data.name[href*="people/92080-"]::after {
-  content: "Вакана Сакураба";
-  font-size: 13px;
-}
-.cover[href*="people/92080-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
-/* Yutaka Ozaki */
-.cover[href*="people/63472-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="people/63472-"] {
-  font-size: 0 !important;
-}
-.cover[href*="people/63472-"] .title::after,
-.tooltip a.data.name[href*="people/63472-"]::after {
-  content: "Ютака Одзаки";
-  font-size: 13px;
-}
-.cover[href*="people/63472-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
-/* Shintarou Jinbo */
-.cover[href*="people/92317-"] .title {
-  font-size: 0 !important;
-}
-.tooltip a.data.name[href*="people/92317-"] {
-  font-size: 0 !important;
-}
-.cover[href*="people/92317-"] .title::after,
-.tooltip a.data.name[href*="people/92317-"]::after {
-  content: "Шинтаро Джимбо";
-  font-size: 13px;
-}
-.cover[href*="people/92317-"] .title.two_lined::after {
-  font-size: 11.5px;
-}
+
+/* --- Wakana Sakuraba --- */
+.cover[href*="people/92080-"] .title, 
+.tooltip a.data.name[href*="people/92080-"] { font-size: 0 !important; }
+.cover[href*="people/92080-"] .title::after { content: "Вакана Сакураба"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/92080-"] .title.two_lined::after { font-size: 11.5px !important; }
+.tooltip a.data.name[href*="people/92080-"]::after { content: "Вакана Сакураба"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="people/92080-"] .title::after,
+.cover[href*="people/92080-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="people/92080-"][href*="locale=en"]::after { content: "Wakana Sakuraba" !important; }
+.cover[href*="people/92080-"]:hover .title::after { color: #ddafe8 !important; }
+
+/* --- Yutaka Ozaki --- */
+.cover[href*="people/63472-"] .title, 
+.tooltip a.data.name[href*="people/63472-"] { font-size: 0 !important; }
+.cover[href*="people/63472-"] .title::after { content: "Ютака Одзаки"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/63472-"] .title.two_lined::after { font-size: 11.5px !important; }
+.tooltip a.data.name[href*="people/63472-"]::after { content: "Ютака Одзаки"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="people/63472-"] .title::after,
+.cover[href*="people/63472-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="people/63472-"][href*="locale=en"]::after { content: "Yutaka Ozaki" !important; }
+.cover[href*="people/63472-"]:hover .title::after { color: #ddafe8 !important; }
+
+/* --- Shintarou Jinbo --- */
+.cover[href*="people/92317-"] .title, 
+.tooltip a.data.name[href*="people/92317-"] { font-size: 0 !important; }
+.cover[href*="people/92317-"] .title::after { content: "Шинтаро Джимбо"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/92317-"] .title.two_lined::after { font-size: 11.5px !important; }
+.tooltip a.data.name[href*="people/92317-"]::after { content: "Шинтаро Джимбо"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="people/92317-"] .title::after,
+.cover[href*="people/92317-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="people/92317-"][href*="locale=en"]::after { content: "Shintarou Jinbo" !important; }
+.cover[href*="people/92317-"]:hover .title::after { color: #ddafe8 !important; }
 
 /* Lunaria */
 [href*="characters/10010468-"] {
