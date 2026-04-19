@@ -1,0 +1,1399 @@
+/* --- COWBOY BEBOP --- */
+.cover[href*="animes/1-"] .title .name-ru, .cover[href*="animes/1-"] .title .name-en,
+.tooltip a.data.name[href*="animes/1-"] .name-ru, .tooltip a.data.name[href*="animes/1-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/1-"] .title .name-ru::after { content: "Ковбой Бибоп ✶"; font-size: 11.5px !important; color: #e32816; visibility: visible; }
+.cover[href*="animes/1-"] .title .name-en::after { content: "Cowboy Bebop ✶"; font-size: 11.5px !important; color: #e32816; visibility: visible; }
+.tooltip a.data.name[href*="animes/1-"] .name-ru::after { content: "Ковбой Бибоп ✶"; font-size: 13px !important; color: #e32816; visibility: visible; }
+.tooltip a.data.name[href*="animes/1-"] .name-en::after { content: "Cowboy Bebop ✶"; font-size: 13px !important; color: #e32816; visibility: visible; }
+
+/* --- YOTSUBA --- */
+.cover[href*="mangas/104-"] .title .name-ru, .cover[href*="mangas/104-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/104-"] .name-ru, .tooltip a.data.name[href*="mangas/104-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/104-"] .title .name-ru::after { content: "Ёцуба! ✤"; font-size: 11.5px !important; color: #11b03c; visibility: visible; }
+.cover[href*="mangas/104-"] .title .name-en::after { content: "Yotsuba to! ✤"; font-size: 11.5px !important; color: #11b03c; visibility: visible; }
+.tooltip a.data.name[href*="mangas/104-"] .name-ru::after { content: "Ёцуба! ✤"; font-size: 13px !important; color: #11b03c; visibility: visible; }
+.tooltip a.data.name[href*="mangas/104-"] .name-en::after { content: "Yotsuba to! ✤"; font-size: 13px !important; color: #11b03c; visibility: visible; }
+
+/* --- ZAREGOTO --- */
+.cover[href*="ranobe/9726-"] .title .name-ru, .cover[href*="ranobe/9726-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/9726-"] .name-ru, .tooltip a.data.name[href*="ranobe/9726-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/9726-"] .title .name-ru::after { content: "Зарегото ⭗"; font-size: 11.5px !important; color: #e2732b; visibility: visible; }
+.cover[href*="ranobe/9726-"] .title .name-en::after { content: "Zaregoto ⭗"; font-size: 11.5px !important; color: #e2732b; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/9726-"] .name-ru::after { content: "Зарегото ⭗"; font-size: 13px !important; color: #e2732b; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/9726-"] .name-en::after { content: "Zaregoto ⭗"; font-size: 13px !important; color: #e2732b; visibility: visible; }
+
+/* --- SHEENA RINGO --- */
+.cover[href*="people/8213-"] .title .name-ru, .cover[href*="people/8213-"] .title .name-en,
+.tooltip a.data.name[href*="people/8213-"] .name-ru, .tooltip a.data.name[href*="people/8213-"] .name-en { font-size: 0 !important; }
+.cover[href*="people/8213-"] .title .name-ru::after { content: "Шиина Ринго ♪"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/8213-"] .title .name-en::after { content: "Sheena Ringo ♪"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/8213-"] .name-ru::after { content: "Шиина Ринго ♪"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/8213-"] .name-en::after { content: "Sheena Ringo ♪"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* --- MARIKO GOTO --- */
+.cover[href*="people/31631-"] .title .name-ru, .cover[href*="people/31631-"] .title .name-en,
+.tooltip a.data.name[href*="people/31631-"] .name-ru, .tooltip a.data.name[href*="people/31631-"] .name-en { font-size: 0 !important; }
+.cover[href*="people/31631-"] .title .name-ru::after { content: "Марико Гото ♪"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/31631-"] .title .name-en::after { content: "Mariko Gotou ♪"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/31631-"] .name-ru::after { content: "Марико Гото ♪"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/31631-"] .name-en::after { content: "Mariko Gotou ♪"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* --- BORIS --- */
+.cover[href*="people/40186-"] .title, .tooltip a.data.name[href*="people/40186-"] { font-size: 0 !important; }
+.cover[href*="people/40186-"] .title::after { content: "Boris ♪"; color: #fde68f; font-size: 11.5px !important; }
+.tooltip a.data.name[href*="people/40186-"]::after { content: "Boris ♪"; color: #fde68f; font-size: 13px !important; }
+
+/* --- YOSHITAKA AMANO --- */
+.cover[href*="people/2967-"] .title .name-ru, .cover[href*="people/2967-"] .title .name-en,
+.tooltip a.data.name[href*="people/2967-"] .name-ru, .tooltip a.data.name[href*="people/2967-"] .name-en { font-size: 0 !important; }
+.cover[href*="people/2967-"] .title .name-ru::after { content: "Ёшитака Амано 🖌"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/2967-"] .title .name-en::after { content: "Yoshitaka Amano 🖌"; font-size: 11.1px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/2967-"] .name-ru::after { content: "Ёшитака Амано 🖌"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/2967-"] .name-en::after { content: "Yoshitaka Amano 🖌"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* --- NISIOISIN --- */
+.cover[href*="people/5254-"] .title span, 
+.tooltip a.data.name[href*="people/5254-"] .name-ru,
+.tooltip a.data.name[href*="people/5254-"] .name-en { display: none !important; }
+.cover[href*="people/5254-"] .title::after { content: "NISIOISIN ✎"; color: #fde68f; font-size: 11.5px !important; }
+.tooltip a.data.name[href*="people/5254-"]::after { content: "NISIOISIN ✎"; color: #fde68f; font-size: 13px !important; }
+
+/* --- TAKE --- */
+.cover[href*="people/10875-"] .title, .tooltip a.data.name[href*="people/10875-"] { font-size: 0 !important; }
+.cover[href*="people/10875-"] .title::after { content: "Take 🖌"; color: #fde68f; font-size: 11.5px !important; }
+.tooltip a.data.name[href*="people/10875-"]::after { content: "Take 🖌"; color: #fde68f; font-size: 13px !important; }
+
+/* --- AKIYUKI SHINBOU --- */
+.cover[href*="people/5089-"] .title .name-ru, .cover[href*="people/5089-"] .title .name-en,
+.tooltip a.data.name[href*="people/5089-"] .name-ru, .tooltip a.data.name[href*="people/5089-"] .name-en { font-size: 0 !important; }
+.cover[href*="people/5089-"] .title .name-ru::after { content: "Акиюки Шимбо 🎞"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/5089-"] .title .name-en::after { content: "Akiyuki Shinbou 🎞"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/5089-"] .name-ru::after { content: "Акиюки Шимбо 🎞"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/5089-"] .name-en::after { content: "Akiyuki Shinbou 🎞"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* --- SHINICHIRO WATANABE --- */
+.cover[href*="people/2009-"] .title .name-ru, .cover[href*="people/2009-"] .title .name-en,
+.tooltip a.data.name[href*="people/2009-"] .name-ru, .tooltip a.data.name[href*="people/2009-"] .name-en { font-size: 0 !important; }
+.cover[href*="people/2009-"] .title .name-ru::after { content: "Шиничиро Ватанабэ 🎞"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/2009-"] .title .name-en::after { content: "Shinichirou Watanabe 🎞"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/2009-"] .name-ru::after { content: "Шиничиро Ватанабэ 🎞"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/2009-"] .name-en::after { content: "Shinichirou Watanabe 🎞"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* --- SATOSHI KON --- */
+.cover[href*="people/4580-"] .title .name-ru, .cover[href*="people/4580-"] .title .name-en,
+.tooltip a.data.name[href*="people/4580-"] .name-ru, .tooltip a.data.name[href*="people/4580-"] .name-en { font-size: 0 !important; }
+.cover[href*="people/4580-"] .title .name-ru::after { content: "Сатоши Кон 🎞"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/4580-"] .title .name-en::after { content: "Satoshi Kon 🎞"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/4580-"] .name-ru::after { content: "Сатоши Кон 🎞"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/4580-"] .name-en::after { content: "Satoshi Kon 🎞"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* --- MAAYA SAKAMOTO --- */
+.cover[href*="people/90-"] .title .name-ru, .cover[href*="people/90-"] .title .name-en,
+.tooltip a.data.name[href*="people/90-"] .name-ru, .tooltip a.data.name[href*="people/90-"] .name-en { font-size: 0 !important; }
+.cover[href*="people/90-"] .title .name-ru::after { content: "Маая Сакамото 🎙"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/90-"] .title .name-en::after { content: "Maaya Sakamoto 🎙"; font-size: 11.2px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/90-"] .name-ru::after { content: "Маая Сакамото 🎙"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/90-"] .name-en::after { content: "Maaya Sakamoto 🎙"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* --- HIROSHI KAMIYA --- */
+.cover[href*="people/118-"] .title .name-ru, .cover[href*="people/118-"] .title .name-en,
+.tooltip a.data.name[href*="people/118-"] .name-ru, .tooltip a.data.name[href*="people/118-"] .name-en { font-size: 0 !important; }
+.cover[href*="people/118-"] .title .name-ru::after { content: "Хироши Камия 🎙"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/118-"] .title .name-en::after { content: "Hiroshi Kamiya 🎙"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/118-"] .name-ru::after { content: "Хироши Камия 🎙"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/118-"] .name-en::after { content: "Hiroshi Kamiya 🎙"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* --- KOUICHI YAMADERA --- */
+.cover[href*="people/11-"] .title .name-ru, .cover[href*="people/11-"] .title .name-en,
+.tooltip a.data.name[href*="people/11-"] .name-ru, .tooltip a.data.name[href*="people/11-"] .name-en { font-size: 0 !important; }
+.cover[href*="people/11-"] .title .name-ru::after { content: "Коичи Ямадера 🎙"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/11-"] .title .name-en::after { content: "Kouichi Yamadera 🎙"; font-size: 10.7px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/11-"] .name-ru::after { content: "Коичи Ямадера 🎙"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/11-"] .name-en::after { content: "Kouichi Yamadera 🎙"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* --- OSHINO SHINOBU --- */
+.cover[href*="characters/23602-"] .title .name-ru, .cover[href*="characters/23602-"] .title .name-en,
+.tooltip a.data.name[href*="characters/23602-"] .name-ru, .tooltip a.data.name[href*="characters/23602-"] .name-en { font-size: 0 !important; }
+.cover[href*="characters/23602-"] .title .name-ru::after { content: "Ошино Шинобу ❂"; font-size: 11.5px !important; color: #fbec96; visibility: visible; }
+.cover[href*="characters/23602-"] .title .name-en::after { content: "Oshino Shinobu ❂"; font-size: 11.5px !important; color: #fbec96; visibility: visible; }
+.tooltip a.data.name[href*="characters/23602-"] .name-ru::after { content: "Ошино Шинобу ❂"; font-size: 13px !important; color: #fbec96; visibility: visible; }
+.tooltip a.data.name[href*="characters/23602-"] .name-en::after { content: "Oshino Shinobu ❂"; font-size: 13px !important; color: #fbec96; visibility: visible; }
+
+/* --- MINATO KAGEAKI --- */
+.cover[href*="characters/91703-"] .title .name-ru, .cover[href*="characters/91703-"] .title .name-en,
+.tooltip a.data.name[href*="characters/91703-"] .name-ru, .tooltip a.data.name[href*="characters/91703-"] .name-en { font-size: 0 !important; }
+.cover[href*="characters/91703-"] .title .name-ru::after { content: "Минато Кагеаки 🗣"; font-size: 11.5px !important; color: #fe522b; visibility: visible; }
+.cover[href*="characters/91703-"] .title .name-en::after { content: "Minato Kageaki 🗣"; font-size: 11.5px !important; color: #fe522b; visibility: visible; }
+.tooltip a.data.name[href*="characters/91703-"] .name-ru::after { content: "Минато Кагеаки 🗣"; font-size: 13px !important; color: #fe522b; visibility: visible; }
+.tooltip a.data.name[href*="characters/91703-"] .name-en::after { content: "Minato Kageaki 🗣"; font-size: 13px !important; color: #fe522b; visibility: visible; }
+
+/* --- KURISU MAKISE --- */
+.cover[href*="characters/34470-"] .title .name-ru, .cover[href*="characters/34470-"] .title .name-en,
+.tooltip a.data.name[href*="characters/34470-"] .name-ru, .tooltip a.data.name[href*="characters/34470-"] .name-en { font-size: 0 !important; }
+.cover[href*="characters/34470-"] .title .name-ru::after { content: "Курису Макисе ⛭"; font-size: 11.5px !important; color: #E17951; visibility: visible; }
+.cover[href*="characters/34470-"] .title .name-en::after { content: "Kurisu Makise ⛭"; font-size: 11.5px !important; color: #E17951; visibility: visible; }
+.tooltip a.data.name[href*="characters/34470-"] .name-ru::after { content: "Курису Макисе ⛭"; font-size: 13px !important; color: #E17951; visibility: visible; }
+.tooltip a.data.name[href*="characters/34470-"] .name-en::after { content: "Kurisu Makise ⛭"; font-size: 13px !important; color: #E17951; visibility: visible; }
+
+/* --- JUN AIKAWA --- */
+.cover[href*="characters/29595-"] .title .name-ru, .cover[href*="characters/29595-"] .title .name-en,
+.tooltip a.data.name[href*="characters/29595-"] .name-ru, .tooltip a.data.name[href*="characters/29595-"] .name-en { font-size: 0 !important; }
+.cover[href*="characters/29595-"] .title .name-ru::after { content: "Джун Айкава 🗲"; font-size: 11.5px !important; color: #FF0000; visibility: visible; }
+.cover[href*="characters/29595-"] .title .name-en::after { content: "Jun Aikawa 🗲"; font-size: 11.5px !important; color: #FF0000; visibility: visible; }
+.tooltip a.data.name[href*="characters/29595-"] .name-ru::after { content: "Джун Айкава 🗲"; font-size: 13px !important; color: #FF0000; visibility: visible; }
+.tooltip a.data.name[href*="characters/29595-"] .name-en::after { content: "Jun Aikawa 🗲"; font-size: 13px !important; color: #FF0000; visibility: visible; }
+
+/* --- CAIM --- */
+.cover[href*="characters/109471-"] .title .name-ru, .cover[href*="characters/109471-"] .title .name-en,
+.tooltip a.data.name[href*="characters/109471-"] .name-ru, .tooltip a.data.name[href*="characters/109471-"] .name-en { font-size: 0 !important; }
+.cover[href*="characters/109471-"] .title .name-ru::after { content: "Каим ⩐"; font-size: 11.5px !important; color: #FF8B2E; visibility: visible; }
+.cover[href*="characters/109471-"] .title .name-en::after { content: "Caim ⩐"; font-size: 11.5px !important; color: #FF8B2E; visibility: visible; }
+.tooltip a.data.name[href*="characters/109471-"] .name-ru::after { content: "Каим ⩐"; font-size: 13px !important; color: #FF8B2E; visibility: visible; }
+.tooltip a.data.name[href*="characters/109471-"] .name-en::after { content: "Caim ⩐"; font-size: 13px !important; color: #FF8B2E; visibility: visible; }
+
+/* --- SOUJUUROU SHIZUKI --- */
+.cover[href*="characters/61129-"] .title .name-ru, .cover[href*="characters/61129-"] .title .name-en,
+.tooltip a.data.name[href*="characters/61129-"] .name-ru, .tooltip a.data.name[href*="characters/61129-"] .name-en { font-size: 0 !important; }
+.cover[href*="characters/61129-"] .title .name-ru::after { content: "Соджиро Шизуки ֎"; color: #1B5CC5; font-size: 11.399px !important; visibility: visible; }
+.cover[href*="characters/61129-"] .title .name-en::after { content: "Soujuurou Shizuki ֎"; color: #1B5CC5; font-size: 11px !important; visibility: visible; }
+.tooltip a.data.name[href*="characters/61129-"] .name-ru::after { content: "Соджиро Шизуки ֎"; color: #1B5CC5; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="characters/61129-"] .name-en::after { content: "Soujuurou Shizuki ֎"; color: #1B5CC5; font-size: 13px !important; visibility: visible; }
+
+/* --- HITOSHIKI ZEROZAKI --- */
+.cover[href*="characters/34293-"] .title .name-ru, .cover[href*="characters/34293-"] .title .name-en,
+.tooltip a.data.name[href*="characters/34293-"] .name-ru, .tooltip a.data.name[href*="characters/34293-"] .name-en { font-size: 0 !important; }
+.cover[href*="characters/34293-"] .title .name-ru::after { content: "Хитошики Зэрозаки 🗡"; color: #DDE5E7; font-size: 10.223px !important; visibility: visible; }
+.cover[href*="characters/34293-"] .title .name-en::after { content: "Hitoshiki Zerozaki 🗡"; color: #DDE5E7; font-size: 10.9px !important; visibility: visible; }
+.tooltip a.data.name[href*="characters/34293-"] .name-ru::after { content: "Хитошики Зэрозаки 🗡"; color: #DDE5E7; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="characters/34293-"] .name-en::after { content: "Hitoshiki Zerozaki 🗡"; color: #DDE5E7; font-size: 13px !important; visibility: visible; }
+
+/* --- MAYA AMANO --- */
+.cover[href*="characters/126857-"] .title .name-ru, .cover[href*="characters/126857-"] .title .name-en,
+.tooltip a.data.name[href*="characters/126857-"] .name-ru, .tooltip a.data.name[href*="characters/126857-"] .name-en { font-size: 0 !important; }
+.cover[href*="characters/126857-"] .title .name-ru::after { content: "Мая Амано ♥"; font-size: 11.5px !important; color: #EBD7DD; visibility: visible; }
+.cover[href*="characters/126857-"] .title .name-en::after { content: "Maya Amano ♥"; font-size: 11.5px !important; color: #EBD7DD; visibility: visible; }
+.tooltip a.data.name[href*="characters/126857-"] .name-ru::after { content: "Мая Амано ♥"; font-size: 13px !important; color: #EBD7DD; visibility: visible; }
+.tooltip a.data.name[href*="characters/126857-"] .name-en::after { content: "Maya Amano ♥"; font-size: 13px !important; color: #EBD7DD; visibility: visible; }
+
+/* --- LEIJI MATSUMOTO --- */
+.cover[href*="people/2597-"] .title .name-ru, .cover[href*="people/2597-"] .title .name-en,
+.tooltip a.data.name[href*="people/2597-"] .name-ru, .tooltip a.data.name[href*="people/2597-"] .name-en { font-size: 0 !important; }
+.cover[href*="people/2597-"] .title .name-ru::after { content: "Лэйджи Мацумото ✎"; color: #fde68f; font-size: 10.54px !important; visibility: visible; }
+.cover[href*="people/2597-"] .title .name-en::after { content: "Leiji Matsumoto ✎"; color: #fde68f; font-size: 11.5px !important; visibility: visible; }
+.tooltip a.data.name[href*="people/2597-"] .name-ru::after { content: "Лэйджи Мацумото ✎"; color: #fde68f; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="people/2597-"] .name-en::after { content: "Leiji Matsumoto ✎"; color: #fde68f; font-size: 13px !important; visibility: visible; }
+
+/* --- KIYOHIKO AZUMA --- */
+.cover[href*="people/1939-"] .title .name-ru, .cover[href*="people/1939-"] .title .name-en,
+.tooltip a.data.name[href*="people/1939-"] .name-ru, .tooltip a.data.name[href*="people/1939-"] .name-en { font-size: 0 !important; }
+
+.cover[href*="people/1939-"] .title .name-ru::after { content: "Киёхико Адзума ✎"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/1939-"] .title .name-en::after { content: "Kiyohiko Azuma ✎"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+
+.tooltip a.data.name[href*="people/1939-"] .name-ru::after { content: "Киёхико Адзума ✎"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/1939-"] .name-en::after { content: "Kiyohiko Azuma ✎"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* --- YOJI SHINKAWA --- */
+.cover[href*="people/90613-"] .title .name-ru, .cover[href*="people/90613-"] .title .name-en,
+.tooltip a.data.name[href*="people/90613-"] .name-ru, .tooltip a.data.name[href*="people/90613-"] .name-en { font-size: 0 !important; }
+
+.cover[href*="people/90613-"] .title .name-ru::after { content: "Ёджи Шинкава 🖌"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+.cover[href*="people/90613-"] .title .name-en::after { content: "Yoji Shinkawa 🖌"; font-size: 11.5px !important; color: #fde68f; visibility: visible; }
+
+.tooltip a.data.name[href*="people/90613-"] .name-ru::after { content: "Ёджи Шинкава 🖌"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+.tooltip a.data.name[href*="people/90613-"] .name-en::after { content: "Yoji Shinkawa 🖌"; font-size: 13px !important; color: #fde68f; visibility: visible; }
+
+/* РЕНЕЙМЫ */
+/* АНИМЕ */
+/* --- САБУ И ИЧИ --- */
+.cover[href*="animes/5997-"] .title .name-ru, .cover[href*="animes/5997-"] .title .name-en,
+.tooltip a.data.name[href*="animes/5997-"] .name-ru, .tooltip a.data.name[href*="animes/5997-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/5997-"] .title .name-ru::after { content: "Сабу и Ичи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/5997-"] .title .name-en::after { content: "Sabu to Ichi"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/5997-"]:hover .title .name-ru::after, .cover[href*="animes/5997-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/5997-"] .name-ru::after { content: "Сабу и Ичи"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/5997-"] .name-en::after { content: "Sabu to Ichi"; font-size: 13px !important; visibility: visible; }
+
+/* --- БЕЙ ЭЙС! OVA --- */
+.cover[href*="animes/314-"] .title .name-ru, .cover[href*="animes/314-"] .title .name-en,
+.tooltip a.data.name[href*="animes/314-"] .name-ru, .tooltip a.data.name[href*="animes/314-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/314-"] .title .name-ru::after { content: "Бей эйс! OVA"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/314-"] .title .name-en::after { content: "Ace wo Nerae! 2"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/314-"]:hover .title .name-ru::after, .cover[href*="animes/314-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/314-"] .name-ru::after { content: "Бей эйс! OVA"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/314-"] .name-en::after { content: "Ace wo Nerae! 2"; font-size: 13px !important; visibility: visible; }
+
+/* --- МОБИЛЬНЫЙ БОЕЦ ДЖИ-ГАНДАМ --- */
+.cover[href*="animes/96-"] .title .name-ru, .cover[href*="animes/96-"] .title .name-en,
+.tooltip a.data.name[href*="animes/96-"] .name-ru, .tooltip a.data.name[href*="animes/96-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/96-"] .title .name-ru::after { content: "Мобильный боец\AДжи-Гандам"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/96-"] .title .name-en::after { content: "Mobile Fighter G Gundam"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/96-"]:hover .title .name-ru::after, .cover[href*="animes/96-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/96-"] .name-ru::after { content: "Мобильный боец Джи-Гандам"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/96-"] .name-en::after { content: "Mobile Fighter G Gundam"; font-size: 13px !important; visibility: visible; }
+
+/* --- ∀ ГАНДАМ --- */
+.cover[href*="animes/95-"] .title .name-ru, .cover[href*="animes/95-"] .title .name-en,
+.tooltip a.data.name[href*="animes/95-"] .name-ru, .tooltip a.data.name[href*="animes/95-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/95-"] .title .name-ru::after { content: "∀ Гандам"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/95-"] .title .name-en::after { content: "∀ Gundam"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/95-"]:hover .title .name-ru::after, .cover[href*="animes/95-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/95-"] .name-ru::after { content: "∀ Гандам"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/95-"] .name-en::after { content: "∀ Gundam"; font-size: 13px !important; visibility: visible; }
+
+/* --- АДЗУМАНГА ДАЙО --- */
+.cover[href*="animes/66-"] .title .name-ru, .cover[href*="animes/66-"] .title .name-en,
+.tooltip a.data.name[href*="animes/66-"] .name-ru, .tooltip a.data.name[href*="animes/66-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/66-"] .title .name-ru::after { content: "Адзуманга Дайо"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/66-"] .title .name-en::after { content: "Azumanga Daiou"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/66-"]:hover .title .name-ru::after, .cover[href*="animes/66-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/66-"] .name-ru::after { content: "Адзуманга Дайо"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/66-"] .name-en::after { content: "Azumanga Daiou"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЭРГО ПРОКСИ --- */
+.cover[href*="animes/z790-"] .title .name-ru, .cover[href*="animes/z790-"] .title .name-en,
+.tooltip a.data.name[href*="animes/z790-"] .name-ru, .tooltip a.data.name[href*="animes/z790-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/z790-"] .title .name-ru::after { content: "Эрго Прокси"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/z790-"] .title .name-en::after { content: "Ergo Proxy"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/z790-"]:hover .title .name-ru::after, .cover[href*="animes/z790-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/z790-"] .name-ru::after { content: "Эрго Прокси"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/z790-"] .name-en::after { content: "Ergo Proxy"; font-size: 13px !important; visibility: visible; }
+
+/* --- КРАСНАЯ ЧЕРТА --- */
+.cover[href*="animes/6675-"] .title .name-ru, .cover[href*="animes/6675-"] .title .name-en,
+.tooltip a.data.name[href*="animes/6675-"] .name-ru, .tooltip a.data.name[href*="animes/6675-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/6675-"] .title .name-ru::after { content: "Красная черта"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/6675-"] .title .name-en::after { content: "Redline"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/6675-"]:hover .title .name-ru::after, .cover[href*="animes/6675-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/6675-"] .name-ru::after { content: "Красная черта"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/6675-"] .name-en::after { content: "Redline"; font-size: 13px !important; visibility: visible; }
+
+/* --- ВРАТА ШТЕЙНА --- */
+.cover[href*="animes/z9253-"] .title .name-ru, .cover[href*="animes/z9253-"] .title .name-en,
+.tooltip a.data.name[href*="animes/z9253-"] .name-ru, .tooltip a.data.name[href*="animes/z9253-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/z9253-"] .title .name-ru::after { content: "Врата;Штейна"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/z9253-"] .title .name-en::after { content: "Steins;Gate"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/z9253-"]:hover .title .name-ru::after, .cover[href*="animes/z9253-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/z9253-"] .name-ru::after { content: "Врата;Штейна"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/z9253-"] .name-en::after { content: "Steins;Gate"; font-size: 13px !important; visibility: visible; }
+
+/* --- ГАНДАМ: АРЕНА МАСТЕРОВ --- */
+.cover[href*="animes/19319-"] .title .name-ru, .cover[href*="animes/19319-"] .title .name-en,
+.tooltip a.data.name[href*="animes/19319-"] .name-ru, .tooltip a.data.name[href*="animes/19319-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/19319-"] .title .name-ru::after { content: "Гандам: Арена Мастеров"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/19319-"] .title .name-en::after { content: "Gundam Build Fighters"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/19319-"]:hover .title .name-ru::after, .cover[href*="animes/19319-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/19319-"] .name-ru::after { content: "Гандам: Арена Мастеров"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/19319-"] .name-en::after { content: "Gundam Build Fighters"; font-size: 13px !important; visibility: visible; }
+
+/* --- КОСМИЧЕСКИЙ ДЕНДИ 2 --- */
+.cover[href*="animes/23327-"] .title .name-ru, .cover[href*="animes/23327-"] .title .name-en,
+.tooltip a.data.name[href*="23327-"] .name-ru, .tooltip a.data.name[href*="23327-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/23327-"] .title .name-ru::after { content: "Космический☆Денди 2"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/23327-"] .title .name-en::after { content: "Space☆Dandy 2nd Season"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/23327-"]:hover .title .name-ru::after, .cover[href*="animes/23327-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="23327-"] .name-ru::after { content: "Космический☆Денди 2"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="23327-"] .name-en::after { content: "Space☆Dandy 2nd Season"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЕВАНГЕЛИОН 3.0+1.01 --- */
+.cover[href*="animes/3786-"] .title .name-ru, .cover[href*="animes/3786-"] .title .name-en,
+.tooltip a.data.name[href*="animes/3786-"] .name-ru, .tooltip a.data.name[href*="animes/3786-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/3786-"] .title .name-ru::after { content: "Евангелион: 3.0+1.01"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/3786-"] .title .name-en::after { content: "Evangelion: 3.0+1.01"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/3786-"]:hover .title .name-ru::after, .cover[href*="animes/3786-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/3786-"] .name-ru::after { content: "Евангелион: 3.0+1.01"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/3786-"] .name-en::after { content: "Evangelion: 3.0+1.01"; font-size: 13px !important; visibility: visible; }
+
+/* --- СОННИ БОЙ --- */
+.cover[href*="animes/48849-"] .title .name-ru, .cover[href*="animes/48849-"] .title .name-en,
+.tooltip a.data.name[href*="animes/48849-"] .name-ru, .tooltip a.data.name[href*="animes/48849-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/48849-"] .title .name-ru::after { content: "Сонни Бой"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/48849-"] .title .name-en::after { content: "Sonny Boy"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/48849-"]:hover .title .name-ru::after, .cover[href*="animes/48849-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/48849-"] .name-ru::after { content: "Сонни Бой"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/48849-"] .name-en::after { content: "Sonny Boy"; font-size: 13px !important; visibility: visible; }
+
+/* --- ПЛУТОН --- */
+.cover[href*="animes/35737-"] .title .name-ru, .cover[href*="animes/35737-"] .title .name-en,
+.tooltip a.data.name[href*="animes/35737-"] .name-ru, .tooltip a.data.name[href*="animes/35737-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/35737-"] .title .name-ru::after { content: "Плутон"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/35737-"] .title .name-en::after { content: "Pluto"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/35737-"]:hover .title .name-ru::after, .cover[href*="animes/35737-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/35737-"] .name-ru::after { content: "Плутон"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/35737-"] .name-en::after { content: "Pluto"; font-size: 13px !important; visibility: visible; }
+
+/* --- ПОЕЗДКА ЗА ПОКУПКАМИ В ЙОКОГАМУ --- */
+.cover[href*="mangas/4-"] .title .name-ru, .cover[href*="mangas/4-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/4-"] .name-ru, .tooltip a.data.name[href*="mangas/4-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/4-"] .title .name-ru::after { content: "Поездка за покупками в Йокогаму"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/4-"] .title .name-en::after { content: "Yokohama Kaidashi Kikou"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/4-"]:hover .title .name-ru::after, .cover[href*="mangas/4-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/4-"] .name-ru::after { content: "Поездка за покупками в Йокогаму"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/4-"] .name-en::after { content: "Yokohama Kaidashi Kikou"; font-size: 13px !important; visibility: visible; }
+
+/* --- БАМБИ И ЕЁ РОЗОВЫЙ ПИСТОЛЕТ --- */
+.cover[href*="mangas/5710-"] .title .name-ru, .cover[href*="mangas/5710-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/5710-"] .name-ru, .tooltip a.data.name[href*="mangas/5710-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/5710-"] .title .name-ru::after { content: "Бамби и её розовый пистолет"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/5710-"] .title .name-en::after { content: "Bambi and Her Pink Gun"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/5710-"]:hover .title .name-ru::after, .cover[href*="mangas/5710-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/5710-"] .name-ru::after { content: "Бамби и её розовый пистолет"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/5710-"] .name-en::after { content: "Bambi and Her Pink Gun"; font-size: 13px !important; visibility: visible; }
+
+/* --- МАСТЕР МУШИ --- */
+.cover[href*="mangas/418-"] .title .name-ru, .cover[href*="mangas/418-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/418-"] .name-ru, .tooltip a.data.name[href*="mangas/418-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/418-"] .title .name-ru::after { content: "Мастер муши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/418-"] .title .name-en::after { content: "Mushishi"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/418-"]:hover .title .name-ru::after, .cover[href*="mangas/418-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/418-"] .name-ru::after { content: "Мастер муши"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/418-"] .name-en::after { content: "Mushishi"; font-size: 13px !important; visibility: visible; }
+
+/* --- ГАНДАМ ОРИДЖИН --- */
+.cover[href*="mangas/214-"] .title .name-ru, .cover[href*="mangas/214-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/214-"] .name-ru, .tooltip a.data.name[href*="mangas/214-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/214-"] .title .name-ru::after { content: "Мобильный воин Гандам: Происхождение"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/214-"] .title .name-en::after { content: "Mobile Suit Gundam:\AThe Origin"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/214-"]:hover .title .name-ru::after, .cover[href*="mangas/214-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/214-"] .name-ru::after { content: "Мобильный воин Гандам: Происхождение"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/214-"] .name-en::after { content: "Mobile Suit Gundam: The Origin"; font-size: 13px !important; visibility: visible; }
+
+/* --- СКАЛОЛАЗ --- */
+.cover[href*="mangas/7375-"] .title .name-ru, .cover[href*="mangas/7375-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/7375-"] .name-ru, .tooltip a.data.name[href*="mangas/7375-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/7375-"] .title .name-ru::after { content: "Скалолаз"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/7375-"] .title .name-en::after { content: "Kokou no Hito"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/7375-"]:hover .title .name-ru::after, .cover[href*="mangas/7375-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/7375-"] .name-ru::after { content: "Скалолаз"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/7375-"] .name-en::after { content: "Kokou no Hito"; font-size: 13px !important; visibility: visible; }
+
+/* --- БАРАКАМОН --- */
+.cover[href*="mangas/17051-"] .title .name-ru, .cover[href*="mangas/17051-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/17051-"] .name-ru, .tooltip a.data.name[href*="mangas/17051-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/17051-"] .title .name-ru::after { content: "Баракамон"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/17051-"] .title .name-en::after { content: "Barakamon"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/17051-"]:hover .title .name-ru::after, .cover[href*="mangas/17051-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/17051-"] .name-ru::after { content: "Баракамон"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/17051-"] .name-en::after { content: "Barakamon"; font-size: 13px !important; visibility: visible; }
+
+/* --- СКВОЗЬ БАЛЬНЫЙ ЗАЛ --- */
+.cover[href*="mangas/48347-"] .title .name-ru, .cover[href*="mangas/48347-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/48347-"] .name-ru, .tooltip a.data.name[href*="mangas/48347-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/48347-"] .title .name-ru::after { content: "Сквозь бальный зал"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/48347-"] .title .name-en::after { content: "Ballroom e Youkoso"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/48347-"]:hover .title .name-ru::after, .cover[href*="mangas/48347-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/48347-"] .name-ru::after { content: "Сквозь бальный зал"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/48347-"] .name-en::after { content: "Ballroom e Youkoso"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЗОЛОТОЕ БОЖЕСТВО --- */
+.cover[href*="mangas/85968-"] .title .name-ru, .cover[href*="mangas/85968-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/85968-"] .name-ru, .tooltip a.data.name[href*="mangas/85968-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/85968-"] .title .name-ru::after { content: "Золотое божество"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/85968-"] .title .name-en::after { content: "Golden Kamuy"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/85968-"]:hover .title .name-ru::after, .cover[href*="mangas/85968-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/85968-"] .name-ru::after { content: "Золотое божество"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/85968-"] .name-en::after { content: "Golden Kamuy"; font-size: 13px !important; visibility: visible; }
+
+/* --- БЕЗВИННЫЙ: ПОМАДА --- */
+.cover[href*="mangas/93699-"] .title .name-ru, .cover[href*="mangas/93699-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/93699-"] .name-ru, .tooltip a.data.name[href*="mangas/93699-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/93699-"] .title .name-ru::after { content: "Безвинный: Помада"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/93699-"] .title .name-en::after { content: "Innocent Rouge"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/93699-"]:hover .title .name-ru::after, .cover[href*="mangas/93699-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/93699-"] .name-ru::after { content: "Безвинный: Помада"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/93699-"] .name-en::after { content: "Innocent Rouge"; font-size: 13px !important; visibility: visible; }
+
+/* --- НА СЕВЕРО-СЕВЕРО-ЗАПАД --- */
+.cover[href*="mangas/97179-"] .title .name-ru, .cover[href*="mangas/97179-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/97179-"] .name-ru, .tooltip a.data.name[href*="mangas/97179-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/97179-"] .title .name-ru::after { content: "На северо-северо-запад вслед за облаками"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/97179-"] .title .name-en::after { content: "Hokuhokusei ni\AKumo to Ike "; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/97179-"]:hover .title .name-ru::after, .cover[href*="mangas/97179-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/97179-"] .name-ru::after { content: "На северо-северо-запад вслед за облаками"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/97179-"] .name-en::after { content: "Hokuhokusei ni Kumo to Ike"; font-size: 13px !important; visibility: visible; }
+
+/* --- ВУАЛЬ --- */
+.cover[href*="mangas/132678-"] .title .name-ru, .cover[href*="mangas/132678-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/132678-"] .name-ru, .tooltip a.data.name[href*="mangas/132678-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/132678-"] .title .name-ru::after { content: "Вуаль"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/132678-"] .title .name-en::after { content: "Veil"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/132678-"]:hover .title .name-ru::after, .cover[href*="mangas/132678-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/132678-"] .name-ru::after { content: "Вуаль"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/132678-"] .name-en::after { content: "Veil"; font-size: 13px !important; visibility: visible; }
+
+/* --- ОХОТНИК-САМОУБИЙЦА SSS-КЛАССА --- */
+.cover[href*="mangas/146909-"] .title .name-ru, .cover[href*="mangas/146909-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/146909-"] .name-ru, .tooltip a.data.name[href*="mangas/146909-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/146909-"] .title .name-ru::after { content: "Охотник-самоубийца\ASSS-класса"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/146909-"] .title .name-en::after { content: "SSS-Class Revival Hunter"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/146909-"]:hover .title .name-ru::after, .cover[href*="mangas/146909-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/146909-"] .name-ru::after { content: "Охотник-самоубийца SSS-класса"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/146909-"] .name-en::after { content: "SSS-Class Revival Hunter"; font-size: 13px !important; visibility: visible; }
+
+/* --- ДАНДАДАН --- */
+.cover[href*="mangas/135496-"] .title .name-ru, .cover[href*="mangas/135496-"] .title .name-en,
+.tooltip a.data.name[href*="mangas/135496-"] .name-ru, .tooltip a.data.name[href*="mangas/135496-"] .name-en { font-size: 0 !important; }
+.cover[href*="mangas/135496-"] .title .name-ru::after { content: "Дандадан"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/135496-"] .title .name-en::after { content: "Dandadan"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="mangas/135496-"]:hover .title .name-ru::after, .cover[href*="mangas/135496-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="mangas/135496-"] .name-ru::after { content: "Дандадан"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="mangas/135496-"] .name-en::after { content: "Dandadan"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЛЕГЕНДА О ГЕРОЯХ ГАЛАКТИКИ --- */
+.cover[href*="ranobe/6978-"] .title .name-ru, .cover[href*="ranobe/6978-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/6978-"] .name-ru, .tooltip a.data.name[href*="ranobe/6978-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/6978-"] .title .name-ru::after { content: "Легенда о Героях Галактики"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/6978-"] .title .name-en::after { content: "Ginga Eiyuu Densetsu"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/6978-"]:hover .title .name-ru::after, .cover[href*="ranobe/6978-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/6978-"] .name-ru::after { content: "Легенда о Героях Галактики"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/6978-"] .name-en::after { content: "Ginga Eiyuu Densetsu"; font-size: 13px !important; visibility: visible; }
+
+/* --- ВСПЫШКА ХЭТЭУЭЯ --- */
+.cover[href*="ranobe/5206-"] .title .name-ru, .cover[href*="ranobe/5206-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/5206-"] .name-ru, .tooltip a.data.name[href*="ranobe/5206-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/5206-"] .title .name-ru::after { content: "Мобильный воин Гандам: Вспышка Хэтэуэя"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/5206-"] .title .name-en::after { content: "Mobile Suit Gundam: Hathaway's Flash"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/5206-"]:hover .title .name-ru::after, .cover[href*="ranobe/5206-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/5206-"] .name-ru::after { content: "Мобильный воин Гандам: Вспышка Хэтэуэя"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/5206-"] .name-en::after { content: "Mobile Suit Gundam: Hathaway's Flash"; font-size: 13px !important; visibility: visible; }
+
+/* --- С&М --- */
+.cover[href*="ranobe/169425-"] .title .name-ru, .cover[href*="ranobe/169425-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/169425-"] .name-ru, .tooltip a.data.name[href*="ranobe/169425-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/169425-"] .title .name-ru::after { content: "С&М"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/169425-"] .title .name-en::after { content: "S&M Series"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/169425-"]:hover .title .name-ru::after, .cover[href*="ranobe/169425-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/169425-"] .name-ru::after { content: "С&М"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/169425-"] .name-en::after { content: "S&M Series"; font-size: 13px !important; visibility: visible; }
+
+/* --- ДЕВОЧКА-ВОЛШЕБНИЦА РИСУКА --- */
+.cover[href*="ranobe/15200-"] .title .name-ru, .cover[href*="ranobe/15200-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/15200-"] .name-ru, .tooltip a.data.name[href*="ranobe/15200-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/15200-"] .title .name-ru::after { content: "Новая подлинная девочка-волшебница Рисука"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/15200-"] .title .name-en::after { content: "Shin Honkaku Mahou Shoujo Risuka"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/15200-"]:hover .title .name-ru::after, .cover[href*="ranobe/15200-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/15200-"] .name-ru::after { content: "Новая подлинная девочка-волшебница Рисука"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/15200-"] .name-en::after { content: "Shin Honkaku Mahou Shoujo Risuka"; font-size: 13px !important; visibility: visible; }
+
+/* --- НАШ РАЗРУШЕННЫЙ МИР --- */
+.cover[href*="ranobe/21115-"] .title .name-ru, .cover[href*="ranobe/21115-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/21115-"] .name-ru, .tooltip a.data.name[href*="ranobe/21115-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/21115-"] .title .name-ru::after { content: "Наш разрушенный мир"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/21115-"] .title .name-en::after { content: "Sekai Series"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/21115-"]:hover .title .name-ru::after, .cover[href*="ranobe/21115-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/21115-"] .name-ru::after { content: "Наш разрушенный мир"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/21115-"] .name-en::after { content: "Sekai Series"; font-size: 13px !important; visibility: visible; }
+
+/* --- ВРАТА ХАОСА --- */
+.cover[href*="ranobe/59709-"] .title, 
+.tooltip a.data.name[href*="ranobe/59709-"] { font-size: 0 !important; }
+.cover[href*="ranobe/59709-"] .title::after { content: "Врата Хаоса"; font-size: 13px; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/59709-"] .title.two_lined::after { font-size: 11.5px; }
+.tooltip a.data.name[href*="ranobe/59709-"]::after { content: "Врата Хаоса"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="ranobe/59709-"] .title::after,
+.cover[href*="ranobe/59709-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="ranobe/59709-"][href*="locale=en"]::after { content: "Jingai Makyou" !important; }
+.cover[href*="ranobe/59709-"]:hover .title::after { color: #ddafe8 !important; }
+
+/* --- РАЙДО КУДЗУНОХА --- */
+.cover[href*="ranobe/76973-"] .title .name-ru, .cover[href*="ranobe/76973-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/76973-"] .name-ru, .tooltip a.data.name[href*="ranobe/76973-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/76973-"] .title .name-ru::after { content: "Райдо Кудзуноха против Вестника Смерти"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/76973-"] .title .name-en::after { content: "Kuzunoha Raidou vs Shibito Ekishi"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/76973-"]:hover .title .name-ru::after, .cover[href*="ranobe/76973-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/76973-"] .name-ru::after { content: "Райдо Кудзуноха против Вестника Смерти"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/76973-"] .name-en::after { content: "Kuzunoha Raidou vs Shibito Ekishi"; font-size: 13px !important; visibility: visible; }
+
+/* --- ДЕКОРАЦИЯ ДИСФУНКЦИЯ ДИССОЦИАЦИЯ --- */
+.cover[href*="ranobe/15486-"] .title .name-ru, .cover[href*="ranobe/15486-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/15486-"] .name-ru, .tooltip a.data.name[href*="ranobe/15486-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/15486-"] .title .name-ru::after { content: "Декорация Дисфункция Диссоциация"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/15486-"] .title .name-en::after { content: "Decoration Disorder Disconnection"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/15486-"]:hover .title .name-ru::after, .cover[href*="ranobe/15486-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/15486-"] .name-ru::after { content: "Декорация Дисфункция Диссоциация"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/15486-"] .name-en::after { content: "Decoration Disorder Disconnection"; font-size: 13px !important; visibility: visible; }
+
+/* --- COP CRAFT --- */
+.cover[href*="ranobe/23958-"] .title .name-ru, .cover[href*="ranobe/23958-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/23958-"] .name-ru, .tooltip a.data.name[href*="ranobe/23958-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/23958-"] .title .name-ru::after { content: "Коповство"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/23958-"] .title .name-en::after { content: "Cop Craft"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/23958-"]:hover .title .name-ru::after, .cover[href*="ranobe/23958-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/23958-"] .name-ru::after { content: "Коповство"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/23958-"] .name-en::after { content: "Cop Craft"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЦИКЛ ИСТОРИЙ --- */
+.cover[href*="ranobe/z23751-"] .title .name-ru, .cover[href*="ranobe/z23751-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/z23751-"] .name-ru, .tooltip a.data.name[href*="ranobe/z23751-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/z23751-"] .title .name-ru::after { content: "Цикл историй:\AВторой сезон"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/z23751-"] .title .name-en::after { content: "Monogatari Series:\ASecond Season"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/z23751-"]:hover .title .name-ru::after, .cover[href*="ranobe/z23751-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/z23751-"] .name-ru::after { content: "Цикл историй: Второй сезон"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/z23751-"] .name-en::after { content: "Monogatari Series: Second Season"; font-size: 13px !important; visibility: visible; }
+
+/* --- ФЕНОМЕН --- */
+.cover[href*="ranobe/45347-"] .title .name-ru, .cover[href*="ranobe/45347-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/45347-"] .name-ru, .tooltip a.data.name[href*="ranobe/45347-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/45347-"] .title .name-ru::after { content: "Феномен"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/45347-"] .title .name-en::after { content: "Phenomeno"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/45347-"]:hover .title .name-ru::after, .cover[href*="ranobe/45347-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/45347-"] .name-ru::after { content: "Феномен"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/45347-"] .name-en::after { content: "Phenomeno"; font-size: 13px !important; visibility: visible; }
+
+/* --- НОЧЬ ВЕДЬМ --- */
+.cover[href*="ranobe/26027-"] .title .name-ru, .cover[href*="ranobe/26027-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/26027-"] .name-ru, .tooltip a.data.name[href*="ranobe/26027-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/26027-"] .title .name-ru::after { content: "Ночь Ведьм"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/26027-"] .title .name-en::after { content: "Mahoutsukai no Yoru"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/26027-"]:hover .title .name-ru::after, .cover[href*="ranobe/26027-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/26027-"] .name-ru::after { content: "Ночь Ведьм"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/26027-"] .name-en::after { content: "Mahoutsukai no Yoru"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЗАПИСКИ ОКИTЭГАМИ КЁКО --- */
+.cover[href*="ranobe/94175-"] .title .name-ru, .cover[href*="ranobe/94175-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/94175-"] .name-ru, .tooltip a.data.name[href*="ranobe/94175-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/94175-"] .title .name-ru::after { content: "Записки\AОкитэгами Кёко"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/94175-"] .title .name-en::after { content: "Boukyaku Tantei Series"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/94175-"]:hover .title .name-ru::after, .cover[href*="ranobe/94175-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/94175-"] .name-ru::after { content: "Записки Окитэгами Кёко"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/94175-"] .name-en::after { content: "Boukyaku Tantei Series"; font-size: 13px !important; visibility: visible; }
+
+/* --- КЭЙИЧИ ТАНААМИ --- */
+.cover[href*="people/28807-"] .title .name-ru,
+.tooltip a.data.name[href*="people/28807-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/28807-"] .title .name-ru::after { content: "Кэйичи Танаами"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/28807-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/28807-"] .name-ru::after { content: "Кэйичи Танаами"; font-size: 13px !important; visibility: visible; }
+
+/* --- ДЖЕРАРД УЭЙ --- */
+.cover[href*="people/7894-"] .title span, 
+.tooltip a.data.name[href*="people/7894-"] .name-ru,
+.tooltip a.data.name[href*="people/7894-"] .name-en { font-size: 0 !important; display: none !important; }
+.cover[href*="people/7894-"] .title::after { content: "My Chemical Romance"; font-size: 13px; color: #fafafa; visibility: visible; }
+.cover[href*="people/7894-"]:hover .title::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/7894-"]::after { content: "My Chemical Romance"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТАКАШИ МУРАКАМИ --- */
+.cover[href*="people/7963-"] .title .name-ru, .tooltip a.data.name[href*="people/7963-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/7963-"] .title .name-ru::after { content: "Такаши Мураками"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/7963-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/7963-"] .name-ru::after { content: "Такаши Мураками"; font-size: 13px !important; visibility: visible; }
+
+/* --- ХИРОШИ НАГАХАМА --- */
+.cover[href*="people/4346-"] .title .name-ru, .tooltip a.data.name[href*="people/4346-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/4346-"] .title .name-ru::after { content: "Хироши Нагахама"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/4346-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/4346-"] .name-ru::after { content: "Хироши Нагахама"; font-size: 13px !important; visibility: visible; }
+
+/* --- МАМОРУ ОШИИ --- */
+.cover[href*="people/4097-"] .title .name-ru, .tooltip a.data.name[href*="people/4097-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/4097-"] .title .name-ru::after { content: "Мамору Ошии"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/4097-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/4097-"] .name-ru::after { content: "Мамору Ошии"; font-size: 13px !important; visibility: visible; }
+
+/* --- ШИНГО НАЦУМЭ --- */
+.cover[href*="people/28579-"] .title .name-ru, .tooltip a.data.name[href*="people/28579-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/28579-"] .title .name-ru::after { content: "Шинго Нацумэ"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/28579-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/28579-"] .name-ru::after { content: "Шинго Нацумэ"; font-size: 13px !important; visibility: visible; }
+
+/* --- АМИ КОШИМИДЗУ --- */
+.cover[href*="people/70-"] .title .name-ru, .tooltip a.data.name[href*="people/70-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/70-"] .title .name-ru::after { content: "Ами Кошимидзу"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/70-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/70-"] .name-ru::after { content: "Ами Кошимидзу"; font-size: 13px !important; visibility: visible; }
+
+/* --- МИЮКИ САВАШИРО --- */
+.cover[href*="people/99-"] .title .name-ru, .tooltip a.data.name[href*="people/99-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/99-"] .title .name-ru::after { content: "Миюки Саваширо"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/99-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/99-"] .name-ru::after { content: "Миюки Саваширо"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЮИЧИ НАКАМУРА --- */
+.cover[href*="people/513-"] .title .name-ru, .tooltip a.data.name[href*="people/513-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/513-"] .title .name-ru::after { content: "Юичи Накамура"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/513-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/513-"] .name-ru::after { content: "Юичи Накамура"; font-size: 13px !important; visibility: visible; }
+
+/* --- ШИНИЧИРО МИКИ --- */
+.cover[href*="people/22-"] .title .name-ru, .tooltip a.data.name[href*="people/22-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/22-"] .title .name-ru::after { content: "Шиничиро Мики"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/22-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/22-"] .name-ru::after { content: "Шиничиро Мики"; font-size: 13px !important; visibility: visible; }
+
+/* --- МАНКИЧИ ТОГАВА --- */
+.cover[href*="characters/193546-"] .title .name-ru, .tooltip a.data.name[href*="characters/193546-"] .name-ru { font-size: 0 !important; }
+.cover[href*="characters/193546-"] .title .name-ru::after { content: "Манкичи Тогава"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="characters/193546-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="characters/193546-"] .name-ru::after { content: "Манкичи Тогава"; font-size: 13px !important; visibility: visible; }
+
+/* --- САТОРУ ГОДЖО --- */
+.cover[href*="characters/164471-"] .title .name-ru, .tooltip a.data.name[href*="characters/164471-"] .name-ru { font-size: 0 !important; }
+.cover[href*="characters/164471-"] .title .name-ru::after { content: "Сатору Годжо"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="characters/164471-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="characters/164471-"] .name-ru::after { content: "Сатору Годжо"; font-size: 13px !important; visibility: visible; }
+
+/* --- ДЕЙШУ КАЙКИ --- */
+.cover[href*="characters/53641-"] .title .name-ru, .tooltip a.data.name[href*="characters/53641-"] .name-ru { font-size: 0 !important; }
+.cover[href*="characters/53641-"] .title .name-ru::after { content: "Кайки Дейшу"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="characters/53641-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="characters/53641-"] .name-ru::after { content: "Кайки Дейшу"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТОУКО КУЧИКИ --- */
+.cover[href*="characters/29926-"] .title .name-ru, .tooltip a.data.name[href*="characters/29926-"] .name-ru { font-size: 0 !important; }
+.cover[href*="characters/29926-"] .title .name-ru::after { content: "Тоуко Кучики"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="characters/29926-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="characters/29926-"] .name-ru::after { content: "Тоуко Кучики"; font-size: 13px !important; visibility: visible; }
+
+/* --- АЯСЭ КИШИМОТО --- */
+.cover[href*="characters/16414-"] .title .name-ru, .tooltip a.data.name[href*="characters/16414-"] .name-ru { font-size: 0 !important; }
+.cover[href*="characters/16414-"] .title .name-ru::after { content: "Аясэ Кишимото"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="characters/16414-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="characters/16414-"] .name-ru::after { content: "Аясэ Кишимото"; font-size: 13px !important; visibility: visible; }
+
+/* --- КЛЭР ФАРРОН --- */
+.cover[href*="characters/118835-"] .title .name-ru, .cover[href*="characters/118835-"] .title .name-en, .tooltip a.data.name[href*="characters/118835-"] .name-ru, .tooltip a.data.name[href*="characters/118835-"] .name-en { font-size: 0 !important; }
+.cover[href*="characters/118835-"] .title .name-ru::after { content: "Клэр Фаррон"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="characters/118835-"] .title .name-en::after { content: "Claire Farron"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="characters/118835-"]:hover .title .name-ru::after, .cover[href*="characters/118835-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="characters/118835-"] .name-ru::after { content: "Клэр Фаррон"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="characters/118835-"] .name-en::after { content: "Claire Farron"; font-size: 13px !important; visibility: visible; }
+
+/* --- САНПЕЙ ШИРАТО --- */
+.cover[href*="people/6586-"] .title .name-ru, .tooltip a.data.name[href*="people/6586-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/6586-"] .title .name-ru::after { content: "Санпэй Ширато"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/6586-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/6586-"] .name-ru::after { content: "Санпэй Ширато"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЁШИТОШИ АБЭ --- */
+.cover[href*="people/1991-"] .title .name-ru, .tooltip a.data.name[href*="people/1991-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/1991-"] .title .name-ru::after { content: "Ёшитоши Абэ"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/1991-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/1991-"] .name-ru::after { content: "Ёшитоши Абэ"; font-size: 13px !important; visibility: visible; }
+
+/* --- ШОТАРО ИШИНОМОРИ --- */
+.cover[href*="people/2478-"] .title .name-ru, .tooltip a.data.name[href*="people/2478-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2478-"] .title .name-ru::after { content: "Шотаро Ишиномори"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2478-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2478-"] .name-ru::after { content: "Шотаро Ишиномори"; font-size: 13px !important; visibility: visible; }
+
+/* --- СИГЭНОРИ СОЭДЗИМА --- */
+.cover[href*="people/12279-"] .title .name-ru, .tooltip a.data.name[href*="people/12279-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/12279-"] .title .name-ru::after { content: "Шигэнори Соэджима"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/12279-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/12279-"] .name-ru::after { content: "Шигэнори Соэджима"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЁШИКАДЗУ ЯСУХИКО --- */
+.cover[href*="people/2220-"] .title .name-ru, .tooltip a.data.name[href*="people/2220-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2220-"] .title .name-ru::after { content: "Ёшикадзу Ясухико"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2220-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2220-"] .name-ru::after { content: "Ёшикадзу Ясухико"; font-size: 13px !important; visibility: visible; }
+
+/* --- СЭЙИЧИ ХАЯШИ --- */
+.cover[href*="people/5926-"] .title .name-ru, .tooltip a.data.name[href*="people/5926-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/5926-"] .title .name-ru::after { content: "Сэйичи Хаяши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/5926-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/5926-"] .name-ru::after { content: "Сэйичи Хаяши"; font-size: 13px !important; visibility: visible; }
+
+/* --- АЦУШИ КАНЕКО --- */
+.cover[href*="people/3628-"] .title .name-ru, .tooltip a.data.name[href*="people/3628-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/3628-"] .title .name-ru::after { content: "Ацуши Канэко"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/3628-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/3628-"] .name-ru::after { content: "Ацуши Канэко"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЁШИЮКИ САДАМОТО --- */
+.cover[href*="people/3158-"] .title .name-ru, .tooltip a.data.name[href*="people/3158-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/3158-"] .title .name-ru::after { content: "Ёшиюки Садамото"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/3158-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/3158-"] .name-ru::after { content: "Ёшиюки Садамото"; font-size: 13px !important; visibility: visible; }
+
+/* --- ШИНИЧИ САКАМОТО --- */
+.cover[href*="people/5215-"] .title .name-ru, .tooltip a.data.name[href*="people/5215-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/5215-"] .title .name-ru::after { content: "Шиничи Сакамото"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/5215-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/5215-"] .name-ru::after { content: "Шиничи Сакамото"; font-size: 13px !important; visibility: visible; }
+
+/* --- МАСАМУНЭ ШИРО --- */
+.cover[href*="people/2609-"] .title .name-ru, .tooltip a.data.name[href*="people/2609-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2609-"] .title .name-ru::after { content: "Масамунэ Широ"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2609-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2609-"] .name-ru::after { content: "Масамунэ Широ"; font-size: 13px !important; visibility: visible; }
+
+/* --- КИНУ НИШИМУРА --- */
+.cover[href*="people/24539-"] .title .name-ru, .tooltip a.data.name[href*="people/24539-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/24539-"] .title .name-ru::after { content: "Кину Нишимура"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/24539-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/24539-"] .name-ru::after { content: "Кину Нишимура"; font-size: 13px !important; visibility: visible; }
+
+/* --- ШИРО МИВА --- */
+.cover[href*="people/2974-"] .title .name-ru, .tooltip a.data.name[href*="people/2974-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2974-"] .title .name-ru::after { content: "Широ Мива"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2974-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2974-"] .name-ru::after { content: "Широ Мива"; font-size: 13px !important; visibility: visible; }
+
+/* --- АККИХИКО ЁШИДА --- */
+.cover[href*="people/46007-"] .title .name-ru, .tooltip a.data.name[href*="people/46007-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/46007-"] .title .name-ru::after { content: "Акихико Ёшида"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/46007-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/46007-"] .name-ru::after { content: "Акихико Ёшида"; font-size: 13px !important; visibility: visible; }
+
+/* --- ПАБЛО УЧИДА --- */
+.cover[href*="people/48931-"] .title .name-ru, .tooltip a.data.name[href*="people/48931-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/48931-"] .title .name-ru::after { content: "Пабло Учида"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/48931-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/48931-"] .name-ru::after { content: "Пабло Учида"; font-size: 13px !important; visibility: visible; }
+
+/* --- ИЧИРО МИДЗУКИ --- */
+.cover[href*="people/6024-"] .title .name-ru, .tooltip a.data.name[href*="people/6024-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/6024-"] .title .name-ru::after { content: "Ичиро Мидзуки"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/6024-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/6024-"] .name-ru::after { content: "Ичиро Мидзуки"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТАКЕШИ НАКАЦУКА --- */
+.cover[href*="people/55462-"] .title .name-ru, .tooltip a.data.name[href*="people/55462-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/55462-"] .title .name-ru::after { content: "Такэши Накацука"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/55462-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/55462-"] .name-ru::after { content: "Такэши Накацука"; font-size: 13px !important; visibility: visible; }
+
+/* --- ШИНТАРО КАГО --- */
+.cover[href*="people/5547-"] .title .name-ru, .tooltip a.data.name[href*="people/5547-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/5547-"] .title .name-ru::after { content: "Шинтаро Каго"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/5547-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/5547-"] .name-ru::after { content: "Шинтаро Каго"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЯСУШИ ИШИИ --- */
+.cover[href*="people/5346-"] .title .name-ru, .tooltip a.data.name[href*="people/5346-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/5346-"] .title .name-ru::after { content: "Ясуши Ишии"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/5346-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/5346-"] .name-ru::after { content: "Ясуши Ишии"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТАТСУО ЁШИДА --- */
+.cover[href*="people/5241-"] .title .name-ru, .tooltip a.data.name[href*="people/5241-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/5241-"] .title .name-ru::after { content: "Тацуо Ёшида"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/5241-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/5241-"] .name-ru::after { content: "Тацуо Ёшида"; font-size: 13px !important; visibility: visible; }
+
+/* --- НИКО РОБИН --- */
+.cover[href*="characters/61-"] .title .name-ru, .tooltip a.data.name[href*="characters/61-"] .name-ru { font-size: 0 !important; }
+.cover[href*="characters/61-"] .title .name-ru::after { content: "Нико Робин"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="characters/61-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="characters/61-"] .name-ru::after { content: "Нико Робин"; font-size: 13px !important; visibility: visible; }
+
+/* --- КАЗУМА КАНЕКО --- */
+.cover[href*="people/33589-"] .title .name-ru, .tooltip a.data.name[href*="people/33589-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/33589-"] .title .name-ru::after { content: "Кадзума Канэко"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/33589-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/33589-"] .name-ru::after { content: "Кадзума Канэко"; font-size: 13px !important; visibility: visible; }
+
+/* --- ИЧИ --- */
+.cover[href*="characters/80839-"] .title .name-ru, .tooltip a.data.name[href*="characters/80839-"] .name-ru { font-size: 0 !important; }
+.cover[href*="characters/80839-"] .title .name-ru::after { content: "Ичи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="characters/80839-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="characters/80839-"] .name-ru::after { content: "Ичи"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТОШИДЗО ХИДЗИКАТА --- */
+.cover[href*="characters/138492-"] .title .name-ru, .tooltip a.data.name[href*="characters/138492-"] .name-ru { font-size: 0 !important; }
+.cover[href*="characters/138492-"] .title .name-ru::after { content: "Тошидзо Хиджиката"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="characters/138492-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="characters/138492-"] .name-ru::after { content: "Тошидзо Хиджиката"; font-size: 13px !important; visibility: visible; }
+
+/* --- АЦУШИ САКУРАИ --- */
+.cover[href*="people/6672-"] .title .name-ru, .tooltip a.data.name[href*="people/6672-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/6672-"] .title .name-ru::after { content: "Ацуши Сакураи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/6672-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/6672-"] .name-ru::after { content: "Ацуши Сакураи"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЙОКО ТАРО --- */
+.cover[href*="people/29087-"] .title .name-ru, .tooltip a.data.name[href*="people/29087-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/29087-"] .title .name-ru::after { content: "Йоко Таро"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/29087-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/29087-"] .name-ru::after { content: "Йоко Таро"; font-size: 13px !important; visibility: visible; }
+
+/* --- НОРИЁШИ ОРАЙ --- */
+.cover[href*="people/66224-"] .title .name-ru, .tooltip a.data.name[href*="people/66224-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/66224-"] .title .name-ru::after { content: "Нориёши Орай"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/66224-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/66224-"] .name-ru::after { content: "Нориёши Орай"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЯСУШИ НИРАСАВА --- */
+.cover[href*="people/61040-"] .title .name-ru, .tooltip a.data.name[href*="people/61040-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/61040-"] .title .name-ru::after { content: "Ясуши Нирасава"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/61040-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/61040-"] .name-ru::after { content: "Ясуши Нирасава"; font-size: 13px !important; visibility: visible; }
+
+/* --- ШОУ ТАДЗИМА --- */
+.cover[href*="people/2580-"] .title .name-ru, .tooltip a.data.name[href*="people/2580-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2580-"] .title .name-ru::after { content: "Шоу Тадзима"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2580-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2580-"] .name-ru::after { content: "Шоу Тадзима"; font-size: 13px !important; visibility: visible; }
+
+/* --- ШИНИЧИ ХИРОМОТО --- */
+.cover[href*="people/2486-"] .title .name-ru, .tooltip a.data.name[href*="people/2486-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2486-"] .title .name-ru::after { content: "Шиничи Хиромото"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2486-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2486-"] .name-ru::after { content: "Шиничи Хиромото"; font-size: 13px !important; visibility: visible; }
+
+/* --- ДЖУН СУЭМИ --- */
+.cover[href*="people/40293-"] .title .name-ru, .tooltip a.data.name[href*="people/40293-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/40293-"] .title .name-ru::after { content: "Джун Суэми"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/40293-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/40293-"] .name-ru::after { content: "Джун Суэми"; font-size: 13px !important; visibility: visible; }
+
+/* --- ХИРОАК ХАШИМОТО --- */
+.cover[href*="people/78784-"] .title .name-ru, .tooltip a.data.name[href*="78784-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/78784-"] .title .name-ru::after { content: "Хироаки Хашимото"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/78784-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="78784-"] .name-ru::after { content: "Хироаки Хашимото"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТОРЭС ШИБАМОТО --- */
+.cover[href*="people/6328-"] .title, 
+.tooltip a.data.name[href*="people/6328-"] { font-size: 0 !important; }
+.cover[href*="people/6328-"] .title::after { content: "Торэс Шибамото"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/6328-"] .title.two_lined::after { font-size: 11.5px !important; }
+.tooltip a.data.name[href*="people/6328-"]::after { content: "Торэс Шибамото"; font-size: 13px !important; visibility: visible; }
+html[lang="en"] .cover[href*="people/6328-"] .title::after,
+.cover[href*="people/6328-"][href*="locale=en"] .title::after,
+.tooltip a.data.name[href*="people/6328-"][href*="locale=en"]::after { content: "Thores Shibamoto" !important; }
+.cover[href*="people/6328-"]:hover .title::after { color: #ddafe8 !important; }
+
+/* --- ХИТОШИ АШИНАНО --- */
+.cover[href*="people/1869-"] .title .name-ru, .tooltip a.data.name[href*="people/1869-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/1869-"] .title .name-ru::after { content: "Хитоши Ашинано"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/1869-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/1869-"] .name-ru::after { content: "Хитоши Ашинано"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЧИКИ ОЯ --- */
+.cover[href*="people/23871-"] .title .name-ru, .tooltip a.data.name[href*="people/23871-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/23871-"] .title .name-ru::after { content: "Чики Оя"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/23871-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/23871-"] .name-ru::after { content: "Чики Оя"; font-size: 13px !important; visibility: visible; }
+
+/* --- ХИДЭКИ ТАНИУЧИ --- */
+.cover[href*="people/6009-"] .title .name-ru, .tooltip a.data.name[href*="people/6009-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/6009-"] .title .name-ru::after { content: "Хидэки Таниучи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/6009-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/6009-"] .name-ru::after { content: "Хидэки Таниучи"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТОМОМИ КОБАЯШИ --- */
+.cover[href*="people/8705-"] .title .name-ru, .tooltip a.data.name[href*="people/8705-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/8705-"] .title .name-ru::after { content: "Томоми Кобаяши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/8705-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/8705-"] .name-ru::after { content: "Томоми Кобаяши"; font-size: 13px !important; visibility: visible; }
+
+/* --- СИНЪИТИ ОСАВА --- */
+.cover[href*="people/37119-"] .title .name-ru, .tooltip a.data.name[href*="people/37119-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/37119-"] .title .name-ru::after { content: "Шиничи Осава"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/37119-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/37119-"] .name-ru::after { content: "Шиничи Осава"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЁШИЮКИ ТОМИНО --- */
+.cover[href*="people/2337-"] .title .name-ru, .tooltip a.data.name[href*="people/2337-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2337-"] .title .name-ru::after { content: "Ёшиюки Томино"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2337-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2337-"] .name-ru::after { content: "Ёшиюки Томино"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЧИАКИ САТО --- */
+.cover[href*="people/74301-"] .title .name-ru, .tooltip a.data.name[href*="people/74301-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/74301-"] .title .name-ru::after { content: "Чиаки Сато"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/74301-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/74301-"] .name-ru::after { content: "Чиаки Сато"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЁШИМАСА ТЭРУИ --- */
+.cover[href*="people/45106-"] .title .name-ru, .tooltip a.data.name[href*="people/45106-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/45106-"] .title .name-ru::after { content: "Ёшимаса Тэруи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/45106-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/45106-"] .name-ru::after { content: "Ёшимаса Тэруи"; font-size: 13px !important; visibility: visible; }
+
+/* --- SOIL&"PIMP"SESSIONS --- */
+.cover[href*="people/51398-"] .title, .tooltip a.data.name[href*="people/51398-"] { font-size: 0 !important; }
+.cover[href*="people/51398-"] .title::after { content: "SOIL & ''PIMP'' SESSIONS"; font-size: 13px; color: #fafafa; visibility: visible; }
+.cover[href*="people/51398-"] .title.two_lined::after { font-size: 11.5px; }
+.cover[href*="people/51398-"]:hover .title::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/51398-"]::after { content: "SOIL & ''PIMP'' SESSIONS"; font-size: 13px !important; visibility: visible; }
+
+/* --- КИМИХИКО ФУДЖИСАКА --- */
+.cover[href*="people/90996-"] .title .name-ru, .tooltip a.data.name[href*="people/90996-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/90996-"] .title .name-ru::after { content: "Кимихико Фуджисака"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/90996-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/90996-"] .name-ru::after { content: "Кимихико Фуджисака"; font-size: 13px !important; visibility: visible; }
+
+/* --- КАДЗУЯ ТАКАХАШИ --- */
+.cover[href*="people/72580-"] .title .name-ru, .tooltip a.data.name[href*="people/72580-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/72580-"] .title .name-ru::after { content: "Кадзуя Такахаши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/72580-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/72580-"] .name-ru::after { content: "Кадзуя Такахаши"; font-size: 13px !important; visibility: visible; }
+
+/* --- МАРИ ШИМАДЗАКИ --- */
+.cover[href*="people/39633-"] .title .name-ru, .tooltip a.data.name[href*="people/39633-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/39633-"] .title .name-ru::after { content: "Мари Шимадзаки"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/39633-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/39633-"] .name-ru::after { content: "Мари Шимадзаки"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЮТАКА ИДЗУБУЧИ --- */
+.cover[href*="people/4075-"] .title .name-ru, .tooltip a.data.name[href*="people/4075-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/4075-"] .title .name-ru::after { content: "Ютака Идзубучи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/4075-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/4075-"] .name-ru::after { content: "Ютака Идзубучи"; font-size: 13px !important; visibility: visible; }
+
+/* --- ХИСАШИ ЭГУЧИ --- */
+.cover[href*="people/18237-"] .title .name-ru, .tooltip a.data.name[href*="people/18237-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/18237-"] .title .name-ru::after { content: "Хисаши Эгучи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/18237-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/18237-"] .name-ru::after { content: "Хисаши Эгучи"; font-size: 13px !important; visibility: visible; }
+
+/* --- КОХЭЙ ХОРИКОСИ --- */
+.cover[href*="people/9834-"] .title .name-ru, .tooltip a.data.name[href*="people/9834-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/9834-"] .title .name-ru::after { content: "Кохэй Хорикоши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/9834-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/9834-"] .name-ru::after { content: "Кохэй Хорикоши"; font-size: 13px !important; visibility: visible; }
+
+/* --- СУИ ИСИДА --- */
+.cover[href*="people/15753-"] .title .name-ru, .tooltip a.data.name[href*="people/15753-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/15753-"] .title .name-ru::after { content: "Суи Ишида"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/15753-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/15753-"] .name-ru::after { content: "Суи Ишида"; font-size: 13px !important; visibility: visible; }
+
+/* --- ИТИРО ИТАНО --- */
+.cover[href*="people/8268-"] .title .name-ru, .tooltip a.data.name[href*="people/8268-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/8268-"] .title .name-ru::after { content: "Ичиро Итано"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/8268-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/8268-"] .name-ru::after { content: "Ичиро Итано"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТОЯ ОСИМА --- */
+.cover[href*="people/71916-"] .title .name-ru, .tooltip a.data.name[href*="people/71916-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/71916-"] .title .name-ru::after { content: "Тоя Ошима"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/71916-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/71916-"] .name-ru::after { content: "Тоя Ошима"; font-size: 13px !important; visibility: visible; }
+
+/* --- АККИРА ХАМАГУТИ --- */
+.cover[href*="people/28583-"] .title .name-ru, .tooltip a.data.name[href*="people/28583-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/28583-"] .title .name-ru::after { content: "Акира Хамагучи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/28583-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/28583-"] .name-ru::after { content: "Акира Хамагучи"; font-size: 13px !important; visibility: visible; }
+
+/* --- КЭЙИТИРО ВАТАНАБЭ --- */
+.cover[href*="people/57035-"] .title .name-ru, .tooltip a.data.name[href*="people/57035-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/57035-"] .title .name-ru::after { content: "Кэйичиро Ватанабэ"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/57035-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/57035-"] .name-ru::after { content: "Кэйичиро Ватанабэ"; font-size: 13px !important; visibility: visible; }
+
+/* --- СИНЪЯ ОХИРА --- */
+.cover[href*="people/8893-"] .title .name-ru, .tooltip a.data.name[href*="people/8893-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/8893-"] .title .name-ru::after { content: "Шинъя Охира"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/8893-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/8893-"] .name-ru::after { content: "Шинъя Охира"; font-size: 13px !important; visibility: visible; }
+
+/* --- СЁТА ГОСЁДЗОНО --- */
+.cover[href*="people/61234-"] .title .name-ru, .tooltip a.data.name[href*="people/61234-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/61234-"] .title .name-ru::after { content: "Шота Гошодзоно"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/61234-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/61234-"] .name-ru::after { content: "Шота Гошодзоно"; font-size: 13px !important; visibility: visible; }
+
+/* --- Ё ЁСИНАРИ --- */
+.cover[href*="people/7998-"] .title .name-ru, .tooltip a.data.name[href*="people/7998-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/7998-"] .title .name-ru::after { content: "Ё Ёшинари"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/7998-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/7998-"] .name-ru::after { content: "Ё Ёшинари"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТАКЭСИ ХОНДА --- */
+.cover[href*="people/8303-"] .title .name-ru, .tooltip a.data.name[href*="people/8303-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/8303-"] .title .name-ru::after { content: "Такэши Хонда"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/8303-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/8303-"] .name-ru::after { content: "Такэши Хонда"; font-size: 13px !important; visibility: visible; }
+
+/* --- ГЭНЪИТИРО АБЭ --- */
+.cover[href*="people/33723-"] .title .name-ru, .tooltip a.data.name[href*="people/33723-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/33723-"] .title .name-ru::after { content: "Гэничиро Абэ"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/33723-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/33723-"] .name-ru::after { content: "Гэничиро Абэ"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТАКЭСИ КОИКЭ --- */
+.cover[href*="people/10231-"] .title .name-ru, .tooltip a.data.name[href*="people/10231-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/10231-"] .title .name-ru::after { content: "Такэши Коикэ"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/10231-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/10231-"] .name-ru::after { content: "Такэши Коикэ"; font-size: 13px !important; visibility: visible; }
+
+/* --- НАОКИ КОБАЯСИ --- */
+.cover[href*="people/40127-"] .title .name-ru, .tooltip a.data.name[href*="people/40127-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/40127-"] .title .name-ru::after { content: "Наоки Кобаяши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/40127-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/40127-"] .name-ru::after { content: "Наоки Кобаяши"; font-size: 13px !important; visibility: visible; }
+
+/* --- ИСАО ХАЯСИ --- */
+.cover[href*="people/70490-"] .title .name-ru, .tooltip a.data.name[href*="people/70490-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/70490-"] .title .name-ru::after { content: "Исао Хаяши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/70490-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/70490-"] .name-ru::after { content: "Исао Хаяши"; font-size: 13px !important; visibility: visible; }
+
+/* --- СЮКО МУРАСЭ --- */
+.cover[href*="people/5793-"] .title .name-ru, .tooltip a.data.name[href*="people/5793-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/5793-"] .title .name-ru::after { content: "Шюко Мурасэ"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/5793-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/5793-"] .name-ru::after { content: "Шюко Мурасэ"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЮЯ ГЭСИ --- */
+.cover[href*="people/40111-"] .title .name-ru, .tooltip a.data.name[href*="people/40111-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/40111-"] .title .name-ru::after { content: "Юя Гэши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/40111-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/40111-"] .name-ru::after { content: "Юя Гэши"; font-size: 13px !important; visibility: visible; }
+
+/* --- СИГЭНОРИ КАГЭЯМА --- */
+.cover[href*="people/14935-"] .title .name-ru, .tooltip a.data.name[href*="people/14935-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/14935-"] .title .name-ru::after { content: "Шигэнори Кагэяма"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/14935-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/14935-"] .name-ru::after { content: "Шигэнори Кагэяма"; font-size: 13px !important; visibility: visible; }
+
+/* --- ФУДЗИКО Ф. ФУДЗИО --- */
+.cover[href*="people/2610-"] .title .name-ru, .tooltip a.data.name[href*="people/2610-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2610-"] .title .name-ru::after { content: "Фуджико Ф. Фуджио"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2610-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2610-"] .name-ru::after { content: "Фуджико Ф. Фуджио"; font-size: 13px !important; visibility: visible; }
+
+/* --- ФУДЗИО А. ФУДЗИКО --- */
+.cover[href*="people/13941-"] .title .name-ru, .tooltip a.data.name[href*="people/13941-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/13941-"] .title .name-ru::after { content: "Фуджио А. Фуджико"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/13941-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/13941-"] .name-ru::after { content: "Фуджио А. Фуджико"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЁСИКО ОТА --- */
+.cover[href*="people/14175-"] .title .name-ru, .tooltip a.data.name[href*="people/14175-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/14175-"] .title .name-ru::after { content: "Ёшико Ота"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/14175-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/14175-"] .name-ru::after { content: "Ёшико Ота"; font-size: 13px !important; visibility: visible; }
+
+/* --- ХИРОСИ САСАГАВА --- */
+.cover[href*="people/8573-"] .title .name-ru, .tooltip a.data.name[href*="people/8573-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/8573-"] .title .name-ru::after { content: "Хироши Сасагава"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/8573-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/8573-"] .name-ru::after { content: "Хироши Сасагава"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТАКАСИ НАКАМУРА --- */
+.cover[href*="people/7031-"] .title .name-ru, .tooltip a.data.name[href*="people/7031-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/7031-"] .title .name-ru::after { content: "Такаши Накамура"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/7031-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/7031-"] .name-ru::after { content: "Такаши Накамура"; font-size: 13px !important; visibility: visible; }
+
+/* --- РИХОКО ЁСИДА --- */
+.cover[href*="people/920-"] .title .name-ru, .tooltip a.data.name[href*="people/920-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/920-"] .title .name-ru::after { content: "Рихоко Ёшида"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/920-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/920-"] .name-ru::after { content: "Рихоко Ёшида"; font-size: 13px !important; visibility: visible; }
+
+/* --- КЭНДЗИ ЦУРУТА --- */
+.cover[href*="people/1931-"] .title .name-ru, .tooltip a.data.name[href*="people/1931-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/1931-"] .title .name-ru::after { content: "Кэнджи Цурута"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/1931-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/1931-"] .name-ru::after { content: "Кэнджи Цурута"; font-size: 13px !important; visibility: visible; }
+
+/* --- КАНЭТО СИОДЗАВА --- */
+.cover[href*="people/424-"] .title .name-ru, .tooltip a.data.name[href*="people/424-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/424-"] .title .name-ru::after { content: "Канэто Шиодзава"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/424-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/424-"] .name-ru::after { content: "Канэто Шиодзава"; font-size: 13px !important; visibility: visible; }
+
+/* --- ИККИ КАДЗИВАРА --- */
+.cover[href*="people/4017-"] .title .name-ru,
+.tooltip a.data.name[href*="people/4017-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/4017-"] .title .name-ru::after { content: "Икки Кадживара"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/4017-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/4017-"] .name-ru::after { content: "Икки Кадживара"; font-size: 13px !important; visibility: visible; }
+
+/* --- АННА ЦУТИЯ --- */
+.cover[href*="people/5376-"] .title .name-ru,
+.tooltip a.data.name[href*="people/5376-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/5376-"] .title .name-ru::after { content: "Анна Цучия"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/5376-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/5376-"] .name-ru::after { content: "Анна Цучия"; font-size: 13px !important; visibility: visible; }
+
+/* --- РЮИТИ САКАМОТО --- */
+.cover[href*="people/9643-"] .title .name-ru,
+.tooltip a.data.name[href*="people/9643-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/9643-"] .title .name-ru::after { content: "Рюичи Сакамото"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/9643-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/9643-"] .name-ru::after { content: "Рюичи Сакамото"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЮКИХИРО ТАКАХАСИ --- */
+.cover[href*="people/91972-"] .title .name-ru,
+.tooltip a.data.name[href*="people/91972-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/91972-"] .title .name-ru::after { content: "Юкихиро Такахаши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/91972-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/91972-"] .name-ru::after { content: "Юкихиро Такахаши"; font-size: 13px !important; visibility: visible; }
+
+/* --- КЭНСУКЭ УСИО --- */
+.cover[href*="people/34079-"] .title .name-ru,
+.tooltip a.data.name[href*="people/34079-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/34079-"] .title .name-ru::after { content: "Кэнсукэ Ушио"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/34079-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/34079-"] .name-ru::after { content: "Кэнсукэ Ушио"; font-size: 13px !important; visibility: visible; }
+
+/* --- ДЗЮНЪИТИ СУВАБЭ --- */
+.cover[href*="people/95-"] .title .name-ru,
+.tooltip a.data.name[href*="people/95-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/95-"] .title .name-ru::after { content: "Джуничи Сувабэ"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/95-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/95-"] .name-ru::after { content: "Джуничи Сувабэ"; font-size: 13px !important; visibility: visible; }
+
+/* --- КАОРИ МИДЗУХАСИ --- */
+.cover[href*="people/156-"] .title .name-ru,
+.tooltip a.data.name[href*="people/156-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/156-"] .title .name-ru::after { content: "Каори Мидзухаши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/156-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/156-"] .name-ru::after { content: "Каори Мидзухаши"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЮКИ КАДЗИТА --- */
+.cover[href*="people/8949-"] .title .name-ru,
+.tooltip a.data.name[href*="people/8949-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/8949-"] .title .name-ru::after { content: "Юки Каджита"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/8949-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/8949-"] .name-ru::after { content: "Юки Каджита"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЮКИ ХАЯСИ --- */
+.cover[href*="people/21495-"] .title .name-ru,
+.tooltip a.data.name[href*="people/21495-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/21495-"] .title .name-ru::after { content: "Юки Хаяши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/21495-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/21495-"] .name-ru::after { content: "Юки Хаяши"; font-size: 13px !important; visibility: visible; }
+
+/* --- МАСАЁСИ СОКЭН --- */
+.cover[href*="people/78452-"] .title .name-ru,
+.tooltip a.data.name[href*="people/78452-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/78452-"] .title .name-ru::after { content: "Масаёши Сокэн"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/78452-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/78452-"] .name-ru::after { content: "Масаёши Сокэн"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТОСИО МАСУДА --- */
+.cover[href*="people/5358-"] .title .name-ru,
+.tooltip a.data.name[href*="people/5358-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/5358-"] .title .name-ru::after { content: "Тошио Масуда"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/5358-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/5358-"] .name-ru::after { content: "Тошио Масуда"; font-size: 13px !important; visibility: visible; }
+
+/* --- ХИГАСИГУТИ ТЮО --- */
+.cover[href*="people/19217-"] .title .name-ru,
+.tooltip a.data.name[href*="people/19217-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/19217-"] .title .name-ru::after { content: "Хигашигучи Чюо"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/19217-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/19217-"] .name-ru::after { content: "Хигашигучи Чюо"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТИНАЦУ КУРАХАНА --- */
+.cover[href*="people/23415-"] .title .name-ru,
+.tooltip a.data.name[href*="people/23415-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/23415-"] .title .name-ru::after { content: "Чинацу Курахана"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/23415-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/23415-"] .name-ru::after { content: "Чинацу Курахана"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТОСИМИТИ ИСОЭ --- */
+.cover[href*="people/92315-"] .title .name-ru,
+.tooltip a.data.name[href*="people/92315-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/92315-"] .title .name-ru::after { content: "Тошимичи Исоэ"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/92315-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/92315-"] .name-ru::after { content: "Тошимичи Исоэ"; font-size: 13px !important; visibility: visible; }
+
+/* --- СИНТАРО ДЗИМБО --- */
+.cover[href*="people/92317-"] .title .name-ru,
+.tooltip a.data.name[href*="people/92317-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/92317-"] .title .name-ru::after { content: "Шинтаро Джимбо"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/92317-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/92317-"] .name-ru::after { content: "Шинтаро Джимбо"; font-size: 13px !important; visibility: visible; }
+
+/* --- MERRY --- */
+.cover[href*="people/9210-"] .title,
+.tooltip a.data.name[href*="people/9210-"] { font-size: 0 !important; }
+.cover[href*="people/9210-"] .title::after { content: "MERRY"; font-size: 13px; color: #fafafa; }
+.cover[href*="people/9210-"] .title.two_lined::after { font-size: 11.5px; }
+.cover[href*="people/9210-"]:hover .title::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/9210-"]::after { content: "MERRY"; font-size: 13px !important; visibility: visible; }
+
+/* --- СЁ ХАЯМИ --- */
+.cover[href*="people/137-"] .title .name-ru,
+.tooltip a.data.name[href*="people/137-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/137-"] .title .name-ru::after { content: "Шо Хаями"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/137-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/137-"] .name-ru::after { content: "Шо Хаями"; font-size: 13px !important; visibility: visible; }
+
+/* --- МАСАТОСИ ОНО --- */
+.cover[href*="people/14565-"] .title .name-ru,
+.tooltip a.data.name[href*="people/14565-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/14565-"] .title .name-ru::after { content: "Масатоши Оно"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/14565-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/14565-"] .name-ru::after { content: "Масатоши Оно"; font-size: 13px !important; visibility: visible; }
+
+/* --- X JAPAN --- */
+.cover[href*="people/7381-"] .title,
+.tooltip a.data.name[href*="people/7381-"] { font-size: 0 !important; }
+.cover[href*="people/7381-"] .title::after { content: "X JAPAN"; font-size: 13px; color: #fafafa; }
+.cover[href*="people/7381-"] .title.two_lined::after { font-size: 11.5px; }
+.cover[href*="people/7381-"]:hover .title::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/7381-"]::after { content: "X JAPAN"; font-size: 13px !important; visibility: visible; }
+
+/* --- YOSHIKI --- */
+.cover[href*="people/20552-"] .title,
+.tooltip a.data.name[href*="people/20552-"] { font-size: 0 !important; }
+.cover[href*="people/20552-"] .title::after { content: "YOSHIKI"; font-size: 13px; color: #fafafa; }
+.cover[href*="people/20552-"] .title.two_lined::after { font-size: 11.5px; }
+.cover[href*="people/20552-"]:hover .title::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/20552-"]::after { content: "YOSHIKI"; font-size: 13px !important; visibility: visible; }
+
+/* --- TECHNOBOYS PULCRAFT GREEN-FUND --- */
+.cover[href*="people/34829-"] .title,
+.tooltip a.data.name[href*="people/34829-"] { font-size: 0 !important; }
+.cover[href*="people/34829-"] .title::after { content: "Technoboys Pulcraft Green-Fund"; font-size: 13px; color: #fafafa; }
+.cover[href*="people/34829-"] .title.two_lined::after { font-size: 11px; }
+.cover[href*="people/34829-"]:hover .title::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/34829-"]::after { content: "Technoboys Pulcraft Green-Fund"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТОСИМИЦУ ДЭЯМА --- */
+.cover[href*="people/61355-"] .title span,
+.tooltip a.data.name[href*="people/61355-"] .name-ru,
+.tooltip a.data.name[href*="people/61355-"] .name-en { display: none !important; }
+.cover[href*="people/61355-"] .title::after { content: "Toshl"; color: #fafafa; }
+.cover[href*="people/61355-"]:hover .title::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/61355-"]::after { content: "Toshl"; font-size: 13px !important; visibility: visible; }
+
+/* --- ХИРОСИ МОРИЭ --- */
+.cover[href*="people/69487-"] .title span,
+.tooltip a.data.name[href*="people/69487-"] .name-ru,
+.tooltip a.data.name[href*="people/69487-"] .name-en { display: none !important; }
+.cover[href*="people/69487-"] .title::after { content: "HEATH"; color: #fafafa; }
+.cover[href*="people/69487-"]:hover .title::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/69487-"]::after { content: "HEATH"; font-size: 13px !important; visibility: visible; }
+
+/* --- КАЦУЮКИ КОНИСИ --- */
+.cover[href*="people/20-"] .title .name-ru,
+.tooltip a.data.name[href*="people/20-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/20-"] .title .name-ru::after { content: "Кацуюки Кониши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/20-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/20-"] .name-ru::after { content: "Кацуюки Кониши"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЭЙКИТИ ЯДЗАВА --- */
+.cover[href*="people/92875-"] .title .name-ru,
+.tooltip a.data.name[href*="people/92875-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/92875-"] .title .name-ru::after { content: "Эйкичи Ядзава"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/92875-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/92875-"] .name-ru::after { content: "Эйкичи Ядзава"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТАКАСИ МИЯМОТО --- */
+.cover[href*="people/70334-"] .title .name-ru,
+.tooltip a.data.name[href*="people/70334-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/70334-"] .title .name-ru::after { content: "Такаши Миямото"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/70334-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/70334-"] .name-ru::after { content: "Такаши Миямото"; font-size: 13px !important; visibility: visible; }
+
+/* --- МАКОТО КОБАЯСИ --- */
+.cover[href*="people/22729-"] .title .name-ru,
+.tooltip a.data.name[href*="people/22729-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/22729-"] .title .name-ru::after { content: "Макото Кобаяши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/22729-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/22729-"] .name-ru::after { content: "Макото Кобаяши"; font-size: 13px !important; visibility: visible; }
+
+/* --- ХАДЗИМЭ КАТОКИ --- */
+.cover[href*="people/10269-"] .title .name-ru,
+.tooltip a.data.name[href*="people/10269-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/10269-"] .title .name-ru::after { content: "Хаджимэ Катоки"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/10269-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/10269-"] .name-ru::after { content: "Хаджимэ Катоки"; font-size: 13px !important; visibility: visible; }
+
+/* --- СЁДЗИ КАВАМОРИ --- */
+.cover[href*="people/2501-"] .title .name-ru,
+.tooltip a.data.name[href*="people/2501-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2501-"] .title .name-ru::after { content: "Шоджи Кавамори"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2501-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2501-"] .name-ru::after { content: "Шоджи Кавамори"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТЁКО ФУДЗИ --- */
+.cover[href*="people/16381-"] .title .name-ru,
+.tooltip a.data.name[href*="people/16381-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/16381-"] .title .name-ru::after { content: "Чоко Фуджи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/16381-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/16381-"] .name-ru::after { content: "Чоко Фуджи"; font-size: 13px !important; visibility: visible; }
+
+/* --- МИКА ПИКАДЗО --- */
+.cover[href*="people/38603-"] .title .name-ru,
+.tooltip a.data.name[href*="people/38603-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/38603-"] .title .name-ru::after { content: "Мика Пиказо"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/38603-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/38603-"] .name-ru::after { content: "Мика Пиказо"; font-size: 13px !important; visibility: visible; }
+
+/* --- КОДЗИ МОРИМОТО --- */
+.cover[href*="people/5066-"] .title .name-ru,
+.tooltip a.data.name[href*="people/5066-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/5066-"] .title .name-ru::after { content: "Коджи Моримото"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/5066-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/5066-"] .name-ru::after { content: "Коджи Моримото"; font-size: 13px !important; visibility: visible; }
+
+/* --- ХИРОСИ ХИРАТА --- */
+.cover[href*="people/3463-"] .title .name-ru,
+.tooltip a.data.name[href*="people/3463-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/3463-"] .title .name-ru::after { content: "Хироши Хирата"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/3463-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/3463-"] .name-ru::after { content: "Хироши Хирата"; font-size: 13px !important; visibility: visible; }
+
+/* --- САСИМИ АКАИ --- */
+.cover[href*="people/76386-"] .title .name-ru,
+.tooltip a.data.name[href*="people/76386-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/76386-"] .title .name-ru::after { content: "Сашими Акаи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/76386-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/76386-"] .name-ru::after { content: "Сашими Акаи"; font-size: 13px !important; visibility: visible; }
+
+/* --- ХИРОСИ МАНАБЭ --- */
+.cover[href*="people/62698-"] .title .name-ru,
+.tooltip a.data.name[href*="people/62698-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/62698-"] .title .name-ru::after { content: "Хироши Манабэ"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/62698-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/62698-"] .name-ru::after { content: "Хироши Манабэ"; font-size: 13px !important; visibility: visible; }
+
+/* --- КЮ ХАЯСИДА --- */
+.cover[href*="people/3024-"] .title .name-ru,
+.tooltip a.data.name[href*="people/3024-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/3024-"] .title .name-ru::after { content: "Кью Хаяшида"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/3024-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/3024-"] .name-ru::after { content: "Кью Хаяшида"; font-size: 13px !important; visibility: visible; }
+
+/* --- ДАЙСУКЭ ИГАРАСИ --- */
+.cover[href*="people/2838-"] .title .name-ru,
+.tooltip a.data.name[href*="people/2838-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2838-"] .title .name-ru::after { content: "Дайсукэ Игараши"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2838-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2838-"] .name-ru::after { content: "Дайсукэ Игараши"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЮМИКО ОСИМА --- */
+.cover[href*="people/3974-"] .title .name-ru,
+.tooltip a.data.name[href*="people/3974-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/3974-"] .title .name-ru::after { content: "Юмико Ошима"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/3974-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/3974-"] .name-ru::after { content: "Юмико Ошима"; font-size: 13px !important; visibility: visible; }
+
+/* --- КЭНЪИТИ ЁСИДА --- */
+.cover[href*="people/8498-"] .title .name-ru,
+.tooltip a.data.name[href*="people/8498-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/8498-"] .title .name-ru::after { content: "Кэничи Ёшида"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/8498-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/8498-"] .name-ru::after { content: "Кэничи Ёшида"; font-size: 13px !important; visibility: visible; }
+
+/* --- НАО ЦУКИДЗИ --- */
+.cover[href*="people/7597-"] .title .name-ru,
+.tooltip a.data.name[href*="people/7597-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/7597-"] .title .name-ru::after { content: "Нао Цукиджи"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/7597-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/7597-"] .name-ru::after { content: "Нао Цукиджи"; font-size: 13px !important; visibility: visible; }
+
+/* --- КОСУКЭ ФУДЗИСИМА --- */
+.cover[href*="people/2467-"] .title .name-ru,
+.tooltip a.data.name[href*="people/2467-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2467-"] .title .name-ru::after { content: "Косукэ Фуджишима"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2467-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2467-"] .name-ru::after { content: "Косукэ Фуджишима"; font-size: 13px !important; visibility: visible; }
+
+/* --- ТАКЭСИ ОБАТА --- */
+.cover[href*="people/1888-"] .title .name-ru,
+.tooltip a.data.name[href*="people/1888-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/1888-"] .title .name-ru::after { content: "Такэши Обата"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/1888-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/1888-"] .name-ru::after { content: "Такэши Обата"; font-size: 13px !important; visibility: visible; }
+
+/* --- ДАЙСУКЭ ИСИВАТАРИ --- */
+.cover[href*="people/11278-"] .title .name-ru,
+.tooltip a.data.name[href*="people/11278-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/11278-"] .title .name-ru::after { content: "Дайсукэ Ишиватари"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/11278-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/11278-"] .name-ru::after { content: "Дайсукэ Ишиватари"; font-size: 13px !important; visibility: visible; }
