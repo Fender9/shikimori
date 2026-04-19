@@ -115,10 +115,6 @@
 .submenu a.icon-visual_novel_list:hover::before {
   border-color: var(--hover-color) !important;
 }
-.submenu a.icon-manga_list::before {
-  margin-left: 14px !important;
-  margin-right: 15px !important;
-}
 
 /* VN В СПИСКЕ*/
 .entries .user_rate .num span.translation_missing[title*="visual_novel"] {
