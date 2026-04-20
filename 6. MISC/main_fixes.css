@@ -100,22 +100,22 @@
 }
 
 /* АНГЛ */
-html:has(a[href*="?locale=en"]) .cc-2a.m30 .subheadline:not(:has(a)) {
+body[data-locale="en"] .cc-2a.m30 .subheadline:not(:has(a)) {
   font-size: 0;
 }
 
-html:has(a[href*="?locale=en"]) .cc-2a.m30 .subheadline:not(:has(a))::after {
+body[data-locale="en"] .cc-2a.m30 .subheadline:not(:has(a))::after {
   content: "CLUBS";
   font-size: 14px;
   text-align: center;
   display: block;
   width: 100%;
 }
-html:has(a[href*="?locale=en"]) .profile-head[data-user-id="506354"] .c-history.x3 .subheadline.m13 > a {
+body[data-locale="en"] .profile-head[data-user-id="506354"] .c-history.x3 .subheadline.m13 > a {
   font-size: 0;
 }
 
-html:has(a[href*="?locale=en"]) .profile-head[data-user-id="506354"] .c-history.x3 .subheadline.m13 > a::after {
+body[data-locale="en"] .profile-head[data-user-id="506354"] .c-history.x3 .subheadline.m13 > a::after {
   content: "HISTORY";
   font-size: 14px;
   text-align: center;
@@ -124,15 +124,15 @@ html:has(a[href*="?locale=en"]) .profile-head[data-user-id="506354"] .c-history.
   transform: translateX(-0.5px);
 }
 
-html:has(a[href*="?locale=en"]) .profile-head[data-user-id="506354"] .c-history.x3 .subheadline.m13 > a::before {
+body[data-locale="en"] .profile-head[data-user-id="506354"] .c-history.x3 .subheadline.m13 > a::before {
   content: none !important;
 }
 
-/* ДРУЗЬЯ */
-.profile-content .subheadline > a[href$="/friends?locale=en"] {
+/* ДРУЗЬЯ (АНГЛ) */
+body[data-locale="en"] .profile-content .subheadline > a[href$="/friends"] {
   font-size: 0;
 }
-.profile-content .subheadline > a[href$="/friends?locale=en"]::after {
+body[data-locale="en"] .profile-content .subheadline > a[href$="/friends"]::after {
   content: "FRIENDS";
   font-size: 14px;
   text-align: center;
@@ -140,18 +140,18 @@ html:has(a[href*="?locale=en"]) .profile-head[data-user-id="506354"] .c-history.
   display: block; 
   transform: translateX(-1px) translateY(-2px);
 }
-.profile-content .subheadline > a[href$="/friends?locale=en"]::before {
+body[data-locale="en"] .profile-content .subheadline > a[href$="/friends"]::before {
   content: none !important;
 }
 
-/* ИЗБРАННОЕ */
-.profile-content .subheadline > a[href$="/favorites?locale=en"] {
+/* ИЗБРАННОЕ (АНГЛ) */
+body[data-locale="en"] .profile-content .subheadline > a[href$="/favorites"] {
   font-size: 0;
 }
-.profile-content .subheadline > a[href$="/favorites?locale=en"]::before {
+body[data-locale="en"] .profile-content .subheadline > a[href$="/favorites"]::before {
   content: none !important;
 }
-.profile-content .subheadline > a[href$="/favorites?locale=en"]::after {
+body[data-locale="en"] .profile-content .subheadline > a[href$="/favorites"]::after {
   content: "FAVORITES";
   font-size: 18px;
   text-align: center;
@@ -172,7 +172,7 @@ html:has(a[href*="?locale=en"]) .profile-head[data-user-id="506354"] .c-history.
   font-weight: bold;
   animation: subheadline-gradient 4s linear infinite;
 }
-.profile-content .subheadline > a[href$="/favorites?locale=en"]:hover::after {
+body[data-locale="en"] .profile-content .subheadline > a[href$="/favorites"]:hover::after {
   -webkit-text-fill-color: rgba(214, 177, 233, 1);
   text-fill-color: rgba(214, 177, 233, 1);
   color: rgba(214, 177, 233, 1);
