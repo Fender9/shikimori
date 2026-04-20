@@ -1,19 +1,19 @@
 /* FAVORITES DELUXE */
-html:has(a[href*="?locale=en"]) .tira-page .glow strong span {
+body[data-locale="en"] .tira-page .glow strong span {
   font-size: 0 !important;
 }
-html:has(a[href*="?locale=en"]) .tira-page .glow strong span::after {
+body[data-locale="en"] .tira-page .glow strong span::after {
   content: "FAVORITES DELUXE";
   font-size: 35px; 
   visibility: visible;
   display: block;
 }
-html:has(a[href*="locale=en"]) .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"] {
+body[data-locale="en"] .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"] {
   color: transparent !important;
   font-size: 14px !important;
   position: relative;
 }
-html:has(a[href*="locale=en"]) .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]::before {
+body[data-locale="en"] .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]::before {
   color: #928f92 !important;
   position: absolute;
   left: 0;
@@ -25,19 +25,20 @@ html:has(a[href*="locale=en"]) .tira-page .use-tabs > div[data-dynamic="switcher
   justify-content: center;
   pointer-events: none;
 }
-html:has(a[href*="locale=en"]) .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(1)::before { content: "Great Anime"; }
-html:has(a[href*="locale=en"]) .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(2)::before { content: "Peak Manga"; }
-html:has(a[href*="locale=en"]) .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(3)::before { content: "Fav Games"; }
-html:has(a[href*="locale=en"]) .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(4)::before { content: "Must Listen"; }
-html:has(a[href*="locale=en"]) .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(5)::before { content: "Best Boys"; }
-html:has(a[href*="locale=en"]) .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(6)::before { content: "Best Girls"; }
+body[data-locale="en"] .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(1)::before { content: "Great Anime"; }
+body[data-locale="en"] .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(2)::before { content: "Peak Manga"; }
+body[data-locale="en"] .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(3)::before { content: "Fav Games"; }
+body[data-locale="en"] .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(4)::before { content: "Must Listen"; }
+body[data-locale="en"] .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(5)::before { content: "Best Boys"; }
+body[data-locale="en"] .tira-page .use-tabs > div[data-dynamic="switcher"][data-switcher="tab1"]:nth-child(6)::before { content: "Best Girls"; }
+
 /* TAB 3 SWITCHERS ONLY */
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .custom-panel > div[data-dynamic="switcher"][data-switcher="tab3"] {
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .custom-panel > div[data-dynamic="switcher"][data-switcher="tab3"] {
   color: transparent !important;
   font-size: 14px !important;
   position: relative;
 }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .custom-panel > div[data-dynamic="switcher"][data-switcher="tab3"]::before {
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .custom-panel > div[data-dynamic="switcher"][data-switcher="tab3"]::before {
   color: #928f92 !important;
   position: absolute;
   left: 0; right: 0; top: 0; bottom: 0;
@@ -45,56 +46,62 @@ html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PAN
   align-items: center; justify-content: center;
   pointer-events: none;
 }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .custom-panel > div[data-dynamic="switcher"][data-switcher="tab3"]:nth-child(1)::before { content: "Absolute Peak"; }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .custom-panel > div[data-dynamic="switcher"][data-switcher="tab3"]:nth-child(2)::before { content: "Favorite Franchises"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .custom-panel > div[data-dynamic="switcher"][data-switcher="tab3"]:nth-child(1)::before { content: "Absolute Peak"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .custom-panel > div[data-dynamic="switcher"][data-switcher="tab3"]:nth-child(2)::before { content: "Favorite Franchises"; }
+
 /* SPOILER LABELS ONLY */
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(1) label,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(2) label,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(1) label,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(2) label,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) > .b-spoiler label,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(1) label,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(2) label,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(5) > .b-spoiler label,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(6) > .b-spoiler label {
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(1) label,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(2) label,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(1) label,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(2) label,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) > .b-spoiler label,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(1) label,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(2) label,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(5) > .b-spoiler label,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(6) > .b-spoiler label {
   font-size: 0 !important; 
   color: transparent !important;
 }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(1) label::before,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(2) label::before,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(1) label::before,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(2) label::before,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) > .b-spoiler label::before,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(1) label::before,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(2) label::before,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(5) > .b-spoiler label::before,
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(6) > .b-spoiler label::before {
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(1) label::before,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(2) label::before,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(1) label::before,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(2) label::before,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) > .b-spoiler label::before,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(1) label::before,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(2) label::before,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(5) > .b-spoiler label::before,
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(6) > .b-spoiler label::before {
   font-size: 15px !important; 
   color: #000 !important;
   display: inline-block;
 }
+
 /* --- PANEL 1 --- */
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(1) label::before { content: "Western Cartoons"; }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(2) label::before { content: "Solid Fiction"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(1) label::before { content: "Western Cartoons"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) center .b-spoiler:nth-child(2) label::before { content: "Solid Fiction"; }
+
 /* --- PANEL 2 --- */
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(1) label::before { content: "Excellent Books"; }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(2) label::before { content: "Enjoyable Reads"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(1) label::before { content: "Excellent Books"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(2) center .b-spoiler:nth-child(2) label::before { content: "Enjoyable Reads"; }
+
 /* --- PANEL 3 --- */
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) > .b-spoiler label::before { content: "Gaming Favs"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) > .b-spoiler label::before { content: "Gaming Favs"; }
+
 /* --- PANEL 4 --- */
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(1) label::before { content: "Fav JP Artists/Bands"; }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(2) label::before { content: "Peak JP OSTs"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(1) label::before { content: "Fav JP Artists/Bands"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(4) center .b-spoiler:nth-child(2) label::before { content: "Peak JP OSTs"; }
+
 /* --- PANEL 5 & 6 --- */
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(5) > .b-spoiler label::before { content: "Other Favorites"; }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(6) > .b-spoiler label::before { content: "Other Favorites"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(5) > .b-spoiler label::before { content: "Other Favorites"; }
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(6) > .b-spoiler label::before { content: "Other Favorites"; }
+
 /* MECHA (Tab 2, Item 5) */
-html:has(a[href*="locale=en"]) .tira-page div[data-dynamic="switcher"][data-switcher="tab2"]:nth-child(5) {
+body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher="tab2"]:nth-child(5) {
   color: transparent !important;
   font-size: 14px !important;
   position: relative;
 }
-
-html:has(a[href*="locale=en"]) .tira-page div[data-dynamic="switcher"][data-switcher="tab2"]:nth-child(5)::before {
+body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher="tab2"]:nth-child(5)::before {
   content: "Mecha";
   color: #928f92 !important;
   position: absolute;
@@ -103,13 +110,14 @@ html:has(a[href*="locale=en"]) .tira-page div[data-dynamic="switcher"][data-swit
   align-items: center; justify-content: center;
   pointer-events: none;
 }
+
 /* ISIN (Tab 4 & 5, Item 1) */
-html:has(a[href*="locale=en"]) .tira-page div[data-dynamic="switcher"][data-switcher="tab4"]:nth-child(1) {
+body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher="tab4"]:nth-child(1) {
   color: transparent !important;
   font-size: 14.5px !important;
   position: relative;
 }
-html:has(a[href*="locale=en"]) .tira-page div[data-dynamic="switcher"][data-switcher="tab4"]:nth-child(1)::before {
+body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher="tab4"]:nth-child(1)::before {
   content: "Masterpieces of the Yap-Master";
   color: #928f92 !important;
   position: absolute;
@@ -118,12 +126,12 @@ html:has(a[href*="locale=en"]) .tira-page div[data-dynamic="switcher"][data-swit
   align-items: center; justify-content: center;
   pointer-events: none;
 }
-html:has(a[href*="locale=en"]) .tira-page div[data-dynamic="switcher"][data-switcher="tab5"]:nth-child(1) {
+body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher="tab5"]:nth-child(1) {
   color: transparent !important;
   font-size: 14.5px !important;
   position: relative;
 }
-html:has(a[href*="locale=en"]) .tira-page div[data-dynamic="switcher"][data-switcher="tab5"]:nth-child(1)::before {
+body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher="tab5"]:nth-child(1)::before {
   content: "Masterpieces of the Yap-Master";
   color: #928f92 !important;
   position: absolute;
@@ -132,35 +140,38 @@ html:has(a[href*="locale=en"]) .tira-page div[data-dynamic="switcher"][data-swit
   align-items: center; justify-content: center;
   pointer-events: none;
 }
+
 /* IN-SPOILER ITALIC TEXT */
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) .inner center > span > strong > em {
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) .inner center > span > strong > em {
   font-size: 0 !important;
   color: transparent !important;
 }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) .inner center > span > strong > em::before {
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(1) .inner center > span > strong > em::before {
   content: "Strictly TV Shows";
   font-size: 14px !important;
   color: #fff !important;
   font-style: italic;
 }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .inner center > span > strong > em {
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .inner center > span > strong > em {
   font-size: 0 !important;
   color: transparent !important;
 }
-html:has(a[href*="locale=en"]) .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .inner center > span > strong > em::before {
+body[data-locale="en"] .tira-page .CUSTOM_PANELS_CONTAINER > .CUSTOM_PANEL:nth-child(3) .inner center > span > strong > em::before {
   content: "Only those not in the DB";
   font-size: 14px !important;
   color: #fff !important;
   font-style: italic;
 }
+
 /* ACTIVE TAB COLOR OVERRIDE */
-html:has(a[href*="locale=en"]) .tira-page .use-tabs > div[data-dynamic="switcher"].active::before,
-html:has(a[href*="locale=en"]) .tira-page .custom-panel > div[data-dynamic="switcher"].active::before,
-html:has(a[href*="locale=en"]) .tira-page div[data-dynamic="switcher"][data-switcher^="tab"].active:nth-child(n)::before {
+body[data-locale="en"] .tira-page .use-tabs > div[data-dynamic="switcher"].active::before,
+body[data-locale="en"] .tira-page .custom-panel > div[data-dynamic="switcher"].active::before,
+body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher^="tab"].active:nth-child(n)::before {
   color: #c1c1c1 !important;
 }
+
 /* FAVORITES */
-html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-anime)::after {
+body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-anime)::after {
   content: "ANIME";
   font-size: 16px;
   vertical-align: top;
@@ -168,7 +179,7 @@ html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favou
   text-align: center;
   width: 100%;
 }
-html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-104)::after {
+body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-104)::after {
   content: "MANGA";
   font-size: 16px;
   vertical-align: top;
@@ -176,7 +187,7 @@ html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favou
   text-align: center;
   width: 100%;
 }
-html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-9726)::after {
+body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-9726)::after {
   content: "NOVELS";
   font-size: 16px;
   vertical-align: top;
@@ -184,7 +195,7 @@ html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favou
   text-align: center;
   width: 100%;
 }
-html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-118)::after {
+body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-118)::after {
   content: "SEIYUU";
   font-size: 16px;
   vertical-align: top;
@@ -192,7 +203,7 @@ html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favou
   text-align: center;
   width: 100%;
 }
-html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2009)::after {
+body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2009)::after {
   content: "DIRECTORS";
   font-size: 16px;
   vertical-align: top;
@@ -200,7 +211,7 @@ html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favou
   text-align: center;
   width: 100%;
 }
-html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-8213)::after {
+body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-8213)::after {
   content: "AUTEURS";
   font-size: 16px;
   vertical-align: top;
@@ -208,7 +219,7 @@ html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favou
   text-align: center;
   width: 100%;
 }
-html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2967)::after {
+body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2967)::after {
   content: "ARTISTS / ILLUSTRATORS";
   font-size: 16px;
   vertical-align: top;
@@ -216,15 +227,15 @@ html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favou
   text-align: center;
   width: 100%;
 }
-html:has(a[href*="locale=en"]) .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213)::before {
+body[data-locale="en"] .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213)::before {
   content: "MUSICIANS / PRODUCERS / SOUND DIRECTORS";
 }
-html:has(a[href*="locale=en"]) .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-5089)::before {
+body[data-locale="en"] .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-5089)::before {
   content: "ANIMATORS";
 }
-html:has(a[href*="locale=en"]) .p-profiles-favorites .cc-favourites:has(>.c-character)::before {
+body[data-locale="en"] .p-profiles-favorites .cc-favourites:has(>.c-character)::before {
   content: "FEMALE CHARACTERS";
 }
-html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-character)::after {
+body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-character)::after {
   content: "MALE CHARACTERS";
 }
