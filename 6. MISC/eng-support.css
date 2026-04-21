@@ -185,7 +185,7 @@ html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favou
   width: 100%;
 }
 html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-118)::after {
-  content: "SEIYUU";
+  content: "SEIYU";
   font-size: 16px;
   vertical-align: top;
   display: block;  
