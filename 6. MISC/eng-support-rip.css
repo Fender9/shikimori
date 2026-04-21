@@ -1,0 +1,211 @@
+/* RIP ONLY */
+body[data-locale="en"] label.boolean.optional.control-label.checkbox {
+    font-size: 0;
+}
+body[data-locale="en"] label.boolean.optional.control-label.checkbox::after {
+    content: "RIP Only";
+    font-size: 14px;
+    color: var(--dark-color);
+}
+/* VN LIST */
+body[data-locale="en"] .b-stats_bar.visual_novel .stat_name[data-type="planned"] a { font-size: 0; }
+body[data-locale="en"] .b-stats_bar.visual_novel .stat_name[data-type="planned"] a::before {
+    content: "Planned to play";
+    font-size: 11px;
+    color: var(--dark-color);
+}
+body[data-locale="en"] .b-stats_bar.visual_novel .stat_name[data-type="watching,rewatching"] a { font-size: 0; }
+body[data-locale="en"] .b-stats_bar.visual_novel .stat_name[data-type="watching,rewatching"] a::before {
+    content: "Playing";
+    font-size: 11px;
+    color: var(--dark-color);
+}
+body[data-locale="en"] .b-stats_bar.visual_novel .stat_name[data-type="completed"] a { font-size: 0; }
+body[data-locale="en"] .b-stats_bar.visual_novel .stat_name[data-type="completed"] a::before {
+    content: "Completed";
+    font-size: 11px;
+    color: var(--dark-color);
+}
+body[data-locale="en"] .b-stats_bar.visual_novel .stat_name a .size {
+    font-size: 11px;
+    color: var(--dark-color);
+    margin-left: 5px;
+}
+body[data-locale="en"] .b-stats_bar.visual_novel a.title {
+    font-size: 0;
+}
+body[data-locale="en"] .b-stats_bar.visual_novel a.title::before {
+    content: "Visual Novel List";
+    font-size: 15px;
+    color: var(--white-color);
+}
+/* SUBMENUS */
+body[data-locale="en"] .submenu a.icon-visual_novel_list .text {
+    font-size: 0;
+}
+body[data-locale="en"] .submenu a.icon-visual_novel_list .text::before {
+    content: "VN List";
+    font-size: 13px;
+    color: var(--white-color);
+    position: relative;
+    top: 0.25rem;       /* 4px / 16 */
+    left: 0.1875rem;    /* 3px / 16 */
+}
+body[data-locale="en"] .lifetime.b-stats_bar .title .label {
+    font-size: 0;
+}
+body[data-locale="en"] .lifetime.b-stats_bar .title .label::before {
+    content: "Time spent on media";
+    font-size: 15px;
+    color: var(--dark-color);
+}
+
+/* ФИКС ОТЗЫВОВ НА ГЛАВНОЙ */
+.top-reviews-carousel::before,
+.top-reviews-carousel::after,
+.top-reviews-carousel .reviews-track::before,
+.top-reviews-carousel .reviews-track::after {
+  display: none !important;
+}
+.top-reviews-carousel .review-slide {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* SUBMENU */
+@media screen and (min-width: 768px) {
+.l-top_menu-v2 .menu-dropdown.main .submenu {
+  width: 100%;
+}
+.l-top_menu-v2 .menu-dropdown.main .submenu>a {
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: calc(50% - 2px);
+    height: auto;
+    margin: 1px;
+    padding: 0 0 7px;
+    font-size: 10px;
+    line-height: 13px;
+    white-space: pre-line;
+    word-break: break-word;
+    text-align: center;
+    border-radius: 14px;
+}
+.l-top_menu-v2 .menu-dropdown.main  .submenu>a:before {
+    width: 100%;
+    font-size: 22px;
+    line-height: 44px;
+}
+.l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-anime:before, .l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-manga:before, .l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-ranobe:before {
+    font-size: 14px;
+    line-height: 44px;
+}
+}
+.menu-dropdown.main:hover .submenu a:nth-child(19) {
+    -webkit-transition-delay: 900ms;
+    transition-delay: 900ms;
+}
+
+/* ENG SUPPORT */
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/6.%20MISC/eng-support.css");
+@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/6.%20MISC/eng-support_2.css");
+/* FAVORITES */
+body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-anime)::after {
+  content: "ANIME";
+  font-size: 16px;
+  vertical-align: top;
+  display: block !important;
+  text-align: center;
+  width: 100%;
+}
+body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-manga.entry-104)::after {
+  content: "MANGA";
+  font-size: 16px;
+  vertical-align: top;
+  display: block !important;
+  text-align: center;
+  width: 100%;
+}
+
+body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-manga.entry-9726)::after {
+  content: "NOVELS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block !important;
+  text-align: center;
+  width: 100%;
+}
+
+body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-visual_novel)::after {
+  content: "VISUAL NOVELS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block !important;
+  text-align: center;
+  width: 100%;
+}
+
+body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-person.entry-118)::after {
+  content: "SEIYU";
+  font-size: 16px;
+  vertical-align: top;
+  display: block !important;
+  text-align: center;
+  width: 100%;
+}
+
+body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-person.entry-2009)::after {
+  content: "DIRECTORS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block !important;
+  text-align: center;
+  width: 100%;
+}
+
+body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-person.entry-8213)::after {
+  content: "AUTEURS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block !important;
+  text-align: center;
+  width: 100%;
+}
+
+body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-person.entry-2967)::after {
+  content: "ARTISTS / ILLUSTRATORS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block !important;
+  text-align: center;
+  width: 100%;
+}
+
+body[data-locale="en"]#profiles_favorites .block > .cc-favourites:has(.c-person.entry-8213)::before {
+  content: "MUSICIANS / PRODUCERS / SOUND DIRECTORS";
+  display: block !important;
+  padding-top: 2px;
+}
+
+body[data-locale="en"]#profiles_favorites .block > .cc-favourites:has(.c-person.entry-5089)::before {
+  content: "ANIMATORS";
+  display: block !important;
+  padding-top: 2px;
+}
+
+body[data-locale="en"]#profiles_favorites .cc-favourites:has(>.c-character)::before {
+  content: "FEMALE CHARACTERS";
+  display: block !important;
+  padding-top: 2px;
+}
+
+body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-character)::after {
+  content: "MALE CHARACTERS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block !important;
+  text-align: center;
+  width: 100%;
+}
