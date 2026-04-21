@@ -42,6 +42,14 @@
     box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2) !important;
     border: none !important;
 }
+
+.subheadline a[href*="/feed"][title="Лента"] {
+    display: none;
+}
+.subheadline > a[href*="/forum/"][title="Все комментарии"] {
+    display: none;
+}
+
 /* SUBMENU */
 @media screen and (min-width: 768px) {
 .l-top_menu-v2 .menu-dropdown.main .submenu {
