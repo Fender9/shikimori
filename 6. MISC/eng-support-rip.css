@@ -59,58 +59,6 @@ body[data-locale="en"] .lifetime.b-stats_bar .title .label::before {
     font-size: 15px;
     color: var(--dark-color);
 }
-
-/* ФИКС ОТЗЫВОВ НА ГЛАВНОЙ */
-.top-reviews-carousel::before,
-.top-reviews-carousel::after,
-.top-reviews-carousel .reviews-track::before,
-.top-reviews-carousel .reviews-track::after {
-  display: none !important;
-}
-.top-reviews-carousel .review-slide {
-  background: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-
-/* SUBMENU */
-@media screen and (min-width: 768px) {
-.l-top_menu-v2 .menu-dropdown.main .submenu {
-  width: 100%;
-}
-.l-top_menu-v2 .menu-dropdown.main .submenu>a {
-    display: inline-flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    width: calc(50% - 2px);
-    height: auto;
-    margin: 1px;
-    padding: 0 0 7px;
-    font-size: 10px;
-    line-height: 13px;
-    white-space: pre-line;
-    word-break: break-word;
-    text-align: center;
-    border-radius: 14px;
-}
-.l-top_menu-v2 .menu-dropdown.main  .submenu>a:before {
-    width: 100%;
-    font-size: 22px;
-    line-height: 44px;
-}
-.l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-anime:before, .l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-manga:before, .l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-ranobe:before {
-    font-size: 14px;
-    line-height: 44px;
-}
-}
-.menu-dropdown.main:hover .submenu a:nth-child(19) {
-    -webkit-transition-delay: 900ms;
-    transition-delay: 900ms;
-}
-
-/* ENG SUPPORT */
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/6.%20MISC/eng-support.css");
-@import url("https://raw.githubusercontent.com/Fender9/shikimori/refs/heads/main/6.%20MISC/eng-support_2.css");
 /* FAVORITES */
 body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-anime)::after {
   content: "ANIME";
