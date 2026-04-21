@@ -183,9 +183,8 @@
 .tooltip a.data.name[href*="visual_novels/429-"] { font-size: 0 !important; }
 .cover[href*="visual_novels/429-"] .title::after { content: "Ангелос Армас"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
 .tooltip a.data.name[href*="visual_novels/429-"]::after { content: "Ангелос Армас"; font-size: 13px !important; visibility: visible; }
-html[lang="en"] .cover[href*="visual_novels/429-"] .title::after,
-.cover[href*="visual_novels/429-"][href*="locale=en"] .title::after,
-.tooltip a.data.name[href*="visual_novels/429-"][href*="locale=en"]::after { content: "Angelos Armas" !important; }
+body[data-locale="en"] .cover[href*="visual_novels/429-"] .title::after,
+body[data-locale="en"] .tooltip a.data.name[href*="visual_novels/429-"]::after { content: "Angelos Armas" !important; }
 .cover[href*="visual_novels/429-"]:hover .title::after { color: #ddafe8 !important; }
 
 /* --- ВРАТА ХАОСА --- */
@@ -202,9 +201,8 @@ html[lang="en"] .cover[href*="visual_novels/429-"] .title::after,
 .tooltip a.data.name[href*="visual_novels/96-"] { font-size: 0 !important; }
 .cover[href*="visual_novels/96-"] .title::after { content: "I/O"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
 .tooltip a.data.name[href*="visual_novels/96-"]::after { content: "I/O"; font-size: 13px !important; visibility: visible; }
-html[lang="en"] .cover[href*="visual_novels/96-"] .title::after,
-.cover[href*="visual_novels/96-"][href*="locale=en"] .title::after,
-.tooltip a.data.name[href*="visual_novels/96-"][href*="locale=en"]::after { content: "I/O" !important; }
+body[data-locale="en"] .cover[href*="visual_novels/96-"] .title::after,
+body[data-locale="en"] .tooltip a.data.name[href*="visual_novels/96-"]::after { content: "I/O" !important; }
 .cover[href*="visual_novels/96-"]:hover .title::after { color: #ddafe8 !important; }
 
 /* --- TRE DONNE CRUDELLI --- */
@@ -221,9 +219,8 @@ html[lang="en"] .cover[href*="visual_novels/96-"] .title::after,
 .tooltip a.data.name[href*="visual_novels/4307-"] { font-size: 0 !important; }
 .cover[href*="visual_novels/4307-"] .title::after { content: "Траурница"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
 .tooltip a.data.name[href*="visual_novels/4307-"]::after { content: "Траурница"; font-size: 13px !important; visibility: visible; }
-html[lang="en"] .cover[href*="visual_novels/4307-"] .title::after,
-.cover[href*="visual_novels/4307-"][href*="locale=en"] .title::after,
-.tooltip a.data.name[href*="visual_novels/4307-"][href*="locale=en"]::after { content: "Imabikisou" !important; }
+body[data-locale="en"] .cover[href*="visual_novels/4307-"] .title::after,
+body[data-locale="en"] .tooltip a.data.name[href*="visual_novels/4307-"]::after { content: "Imabikisou" !important; }
 .cover[href*="visual_novels/4307-"]:hover .title::after { color: #ddafe8 !important; }
 
 /* --- STEINS;GATE --- */
@@ -258,9 +255,8 @@ html[lang="en"] .cover[href*="visual_novels/4307-"] .title::after,
 .tooltip a.data.name[href*="visual_novels/5922-"] { font-size: 0 !important; }
 .cover[href*="visual_novels/5922-"] .title::after { content: "Зияющая Пустота"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
 .tooltip a.data.name[href*="visual_novels/5922-"]::after { content: "Зияющая Пустота"; font-size: 13px !important; visibility: visible; }
-html[lang="en"] .cover[href*="visual_novels/5922-"] .title::after,
-.cover[href*="visual_novels/5922-"][href*="locale=en"] .title::after,
-.tooltip a.data.name[href*="visual_novels/5922-"][href*="locale=en"]::after { content: "Uro no Shoujo" !important; }
+body[data-locale="en"] .cover[href*="visual_novels/5922-"] .title::after,
+body[data-locale="en"] .tooltip a.data.name[href*="visual_novels/5922-"]::after { content: "Uro no Shoujo" !important; }
 .cover[href*="visual_novels/5922-"]:hover .title::after { color: #ddafe8 !important; }
 
 /* --- CHAOS;CHILD --- */
