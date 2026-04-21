@@ -132,6 +132,19 @@
     color: rgba(var(--white-color), 0.8);
 }
 
+/* ФИКС ОТЗЫВОВ НА ГЛАВНОЙ */
+.top-reviews-carousel::before,
+.top-reviews-carousel::after,
+.top-reviews-carousel .reviews-track::before,
+.top-reviews-carousel .reviews-track::after {
+  display: none !important;
+}
+.top-reviews-carousel .review-slide {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
 /* НАЗВАНИЯ */
 /* --- GE 999 --- */
 .cover[href*="animes/1491-"] .title .name-ru, .cover[href*="animes/1491-"] .title .name-en,
