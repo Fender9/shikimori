@@ -196,7 +196,7 @@ body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c
   width: 100%;
 }
 body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-118)::after {
-  content: "SEIYUU";
+  content: "SEIYU";
   font-size: 16px;
   vertical-align: top;
   display: block;  
