@@ -1,8 +1,8 @@
 /* RIP ONLY */
-body[data-locale="en"] label.boolean.optional.control-label.checkbox {
+body[data-locale="en"] .boolean.optional.user_preferences_hide_shiki_comments label[for="user_preferences_hide_shiki_comments"].checkbox {
     font-size: 0;
 }
-body[data-locale="en"] label.boolean.optional.control-label.checkbox::after {
+body[data-locale="en"] .boolean.optional.user_preferences_hide_shiki_comments label[for="user_preferences_hide_shiki_comments"].checkbox::after {
     content: "RIP Only";
     font-size: 14px;
     color: var(--dark-color);
