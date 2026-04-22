@@ -157,3 +157,77 @@ body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-ch
   text-align: center;
   width: 100%;
 }
+
+/* RATING */
+/* Completed */
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="completed"]) .status-name,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="completed"]) .status-name {
+  font-size: 0 !important;
+}
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="completed"]) .status-name::before,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="completed"]) .status-name::before {
+  content: "Completed" !important;
+  font-size: 14px !important;
+  visibility: visible !important;
+  display: inline-block !important;
+}
+/* Playing */
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="watching"]) .status-name,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="watching"]) .status-name {
+  font-size: 0 !important;
+}
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="watching"]) .status-name::before,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="watching"]) .status-name::before {
+  content: "Playing" !important;
+  font-size: 14px !important;
+  visibility: visible !important;
+  display: inline-block !important;
+}
+/* Dropped */
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="dropped"]) .status-name,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="dropped"]) .status-name {
+  font-size: 0 !important;
+}
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="dropped"]) .status-name::before,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="dropped"]) .status-name::before {
+  content: "Dropped" !important;
+  font-size: 14px !important;
+  visibility: visible !important;
+  display: inline-block !important;
+}
+/* Planned */
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="planned"]) .status-name,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="planned"]) .status-name {
+  font-size: 0 !important;
+}
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="planned"]) .status-name::before,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="planned"]) .status-name::before {
+  content: "Planned" !important;
+  font-size: 14px !important;
+  visibility: visible !important;
+  display: inline-block !important;
+}
+/* On Hold */
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="on_hold"]) .status-name,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="on_hold"]) .status-name {
+  font-size: 0 !important;
+}
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="on_hold"]) .status-name::before,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="on_hold"]) .status-name::before {
+  content: "On hold" !important;
+  font-size: 14px !important;
+  visibility: visible !important;
+  display: inline-block !important;
+}
+/* Replaying */
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="rewatching"]) .status-name,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="rewatching"]) .status-name {
+  font-size: 0 !important;
+}
+body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="rewatching"]) .status-name::before,
+html:has(a[href*="locale=en"]) .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="rewatching"]) .status-name::before {
+  content: "Replaying" !important;
+  font-size: 14px !important;
+  visibility: visible !important;
+  display: inline-block !important;
+}
