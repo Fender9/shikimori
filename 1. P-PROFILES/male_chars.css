@@ -1,5 +1,4 @@
 /* MALE CHARS */
-
 /* Seishuu Handa */
 [href*="characters/31274-"] {
   --show-default: 0;
@@ -629,6 +628,16 @@
 [href*="characters/294114-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/fmK8uXW.gif);
+}
+
+/* Nine-Ball */
+[href*="characters/294674-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/E0tMmem.png);
+}
+[href*="characters/294674-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3jAiWle.gif);
 }
 
 /*  */
