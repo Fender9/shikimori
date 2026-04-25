@@ -588,8 +588,8 @@
   top: 1px;
 }
 
-/* Jean Otus */
-.tira-page [href*="characters/143758-"] {
+/* Nine-Ball */
+.tira-page [href*="characters/294674-"] {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
@@ -598,7 +598,7 @@
   top: 1px;
 }
 
-.tira-page [href*="characters/143758-"]:hover {
+.tira-page [href*="characters/294674-"]:hover {
   position: relative;
   border: 2px solid #fde68f !important;
   outline: 2px solid #fde68f;
