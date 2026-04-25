@@ -279,11 +279,11 @@ html[lang="en"] .cover[href*="visual_novels/428-"] .title::after,
 .tooltip a.data.name[href*="visual_novels/428-"][href*="locale=en"]::after { content: "Tre Donne Crudelli" !important; }
 .cover[href*="visual_novels/428-"]:hover .title::after { color: #ddafe8 !important; }
 
-/* --- ТРАУРНИЦА --- */
+/* --- ПЛАМЕЦВЕТ --- */
 .cover[href*="visual_novels/4307-"] .title, 
 .tooltip a.data.name[href*="visual_novels/4307-"] { font-size: 0 !important; }
-.cover[href*="visual_novels/4307-"] .title::after { content: "Траурница"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
-.tooltip a.data.name[href*="visual_novels/4307-"]::after { content: "Траурница"; font-size: 13px !important; visibility: visible; }
+.cover[href*="visual_novels/4307-"] .title::after { content: "Пламецвет"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/4307-"]::after { content: "Пламецвет"; font-size: 13px !important; visibility: visible; }
 body[data-locale="en"] .cover[href*="visual_novels/4307-"] .title::after,
 body[data-locale="en"] .tooltip a.data.name[href*="visual_novels/4307-"]::after { content: "Imabikisou" !important; }
 .cover[href*="visual_novels/4307-"]:hover .title::after { color: #ddafe8 !important; }
