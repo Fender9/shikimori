@@ -517,11 +517,11 @@ html[lang="en"] .cover[href*="visual_novels/19238-"] .title::after,
 /* Imabikisou */
 [href*="visual_novels/4307-"] {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/K8bqqf9.png);
+  --custom-image: url(https://i.imgur.com/r6rgGdX.png);
 }
 [href*="visual_novels/4307-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/ndyouVb.png);
+  --custom-image: url(https://i.imgur.com/avSIQfd.png);
 }
 
 /* I/O */
