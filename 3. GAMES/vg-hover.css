@@ -1047,3 +1047,38 @@
 .b-image[data-attrs *= "https://i.imgur.com/9Mxhsw2.png" ] {
   --overlay-image: url("https://i.imgur.com/IHNlRVV.png");
 }
+
+/* BAROQUE */
+.b-image[data-attrs *= "https://i.imgur.com/fRvbilC.png" ] {
+  --overlay-image: url("https://i.imgur.com/tOJ13Ek.png");
+}
+
+/* ENEMY ZERO */
+.b-image[data-attrs *= "https://i.imgur.com/omdVNRu.png" ] {
+  --overlay-image: url("https://i.imgur.com/e0Eh6gy.png");
+}
+
+/* GERMS */
+.b-image[data-attrs *= "https://i.imgur.com/gzVpC0S.png" ] {
+  --overlay-image: url("https://i.imgur.com/MZ816Gl.png");
+}
+
+/* KOWLOON'S GATE */
+.b-image[data-attrs *= "https://i.imgur.com/PVNGTEc.png" ] {
+  --overlay-image: url("https://i.imgur.com/YgV408D.png");
+}
+
+/* THE LAST STORY */
+.b-image[data-attrs *= "https://i.imgur.com/tGxxPBw.png" ] {
+  --overlay-image: url("https://i.imgur.com/j2mqLJG.png");
+}
+
+/* VERONICA */
+.b-image[data-attrs *= "https://i.imgur.com/FCxBu49.png" ] {
+  --overlay-image: url("https://i.imgur.com/CT6MY0p.png");
+}
+
+/* WACHENRODER */
+.b-image[data-attrs *= "https://i.imgur.com/nhPPttd.png" ] {
+  --overlay-image: url("https://i.imgur.com/uMMt1ca.png");
+}
