@@ -1112,3 +1112,38 @@
 .b-image[data-attrs *= "https://i.imgur.com/Kytajp2.png" ] {
   --overlay-image: url("https://i.imgur.com/aycndWR.png");
 }
+
+/* TERRANIGMA */
+.b-image[data-attrs *= "https://i.imgur.com/b7R0gUs.png" ] {
+  --overlay-image: url("https://i.imgur.com/QWl4YGs.png");
+}
+
+/* NAPPLE TALE */
+.b-image[data-attrs *= "https://i.imgur.com/TxCZqj5.png" ] {
+  --overlay-image: url("https://i.imgur.com/rGdKmux.png");
+}
+
+/* ILLBLEED */
+.b-image[data-attrs *= "https://i.imgur.com/PfqlVqc.png" ] {
+  --overlay-image: url("https://i.imgur.com/enTDq2l.png");
+}
+
+/* IHATOVO MONOGATARI */
+.b-image[data-attrs *= "https://i.imgur.com/BoEqrP4.png" ] {
+  --overlay-image: url("https://i.imgur.com/UFFFcO8.png");
+}
+
+/* D2 */
+.b-image[data-attrs *= "https://i.imgur.com/o4PYM63.png" ] {
+  --overlay-image: url("https://i.imgur.com/kRe34g8.png");
+}
+
+/* CHU-TENG */
+.b-image[data-attrs *= "https://i.imgur.com/f8CjQGS.png" ] {
+  --overlay-image: url("https://i.imgur.com/YrG4KLD.png");
+}
+
+/*  */
+.b-image[data-attrs *= "" ] {
+  --overlay-image: url("");
+}
