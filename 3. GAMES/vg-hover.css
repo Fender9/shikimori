@@ -1102,3 +1102,13 @@
 .b-image[data-attrs *= "https://i.imgur.com/o03hiQ2.png" ] {
   --overlay-image: url("https://i.imgur.com/99v9Hw7.png");
 }
+
+/* PERSONA 4 REVIVAL */
+.b-image[data-attrs *= "https://i.imgur.com/597d6Ks.png" ] {
+  --overlay-image: url("https://i.imgur.com/WbGUAmu.png");
+}
+
+/* PERSONA 6 */
+.b-image[data-attrs *= "https://i.imgur.com/Kytajp2.png" ] {
+  --overlay-image: url("https://i.imgur.com/aycndWR.png");
+}
