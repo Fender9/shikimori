@@ -474,8 +474,8 @@
 }
 
 /* THE DUSKBLOODS */
-.b-image[data-attrs *= "https://i.imgur.com/BtUXBAe.png" ] {
-  --overlay-image: url("https://i.imgur.com/oFxkmVa.png");
+.b-image[data-attrs *= "https://i.imgur.com/oFxkmVa.png" ] {
+  --overlay-image: url("https://i.imgur.com/BtUXBAe.png");
 }
 
 /* CHAOS HEAD */
