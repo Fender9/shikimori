@@ -3541,6 +3541,26 @@
   --custom-image: url(https://i.imgur.com/GFOrzUs.png);
 }
 
+/* Shunya Yamashita */
+[href*="people/8679-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/j8rpMkC.png);
+}
+[href*="people/8679-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uXDmfMv.png);
+}
+
+/* Kamui Fujiwara */
+[href*="people/2864-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kptxLhd.png);
+}
+[href*="people/2864-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/eDuI3R6.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
