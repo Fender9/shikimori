@@ -1395,3 +1395,17 @@ body[data-locale="en"] .tooltip a.data.name[href*="people/6328-"]::after { conte
 .cover[href*="people/11278-"] .title .name-ru::after { content: "Дайсукэ Ишиватари"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
 .cover[href*="people/11278-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
 .tooltip a.data.name[href*="people/11278-"] .name-ru::after { content: "Дайсукэ Ишиватари"; font-size: 13px !important; visibility: visible; }
+
+/* --- Сюнъя Ямасита --- */
+.cover[href*="people/8679-"] .title .name-ru,
+.tooltip a.data.name[href*="people/8679-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/8679-"] .title .name-ru::after { content: "Шюнъя Ямашита"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/8679-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/8679-"] .name-ru::after { content: "Шюнъя Ямашита"; font-size: 13px !important; visibility: visible; }
+
+/* --- Камуй Фудзивара --- */
+.cover[href*="people/2864-"] .title .name-ru,
+.tooltip a.data.name[href*="people/2864-"] .name-ru { font-size: 0 !important; }
+.cover[href*="people/2864-"] .title .name-ru::after { content: "Камуй Фудживара"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="people/2864-"]:hover .title .name-ru::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="people/2864-"] .name-ru::after { content: "Камуй Фудживара"; font-size: 13px !important; visibility: visible; }
