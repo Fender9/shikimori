@@ -60,6 +60,16 @@ body[data-locale="en"] .lifetime.b-stats_bar .title .label::before {
     color: var(--dark-color);
 }
 
+/* FAVORITES (VN) */
+body[data-locale="en"]#profiles_favorites .subheadline:has(+.cc-favourites>.c-visual_novel)::after {
+  content: "VISUAL NOVELS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block
+  text-align: center;
+  width: 100%;
+}
+
 /* RATING */
 /* Completed */
 body[data-locale="en"] .b-user_rate[data-target_type="VisualNovel"] .b-add_to_list:has(input[name="user_rate[status]"][value="completed"]) .status-name,
