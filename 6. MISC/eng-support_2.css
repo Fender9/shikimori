@@ -118,7 +118,7 @@ body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher="ta
   position: relative;
 }
 body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher="tab4"]:nth-child(1)::before {
-  content: "Masterpieces of the Yap-Master";
+  content: "Masterpieces of the Pedoyapper";
   color: #928f92 !important;
   position: absolute;
   inset: 0;
@@ -132,7 +132,7 @@ body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher="ta
   position: relative;
 }
 body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher="tab5"]:nth-child(1)::before {
-  content: "Masterpieces of the Yap-Master";
+  content: "Masterpieces of the Pedoyapper";
   color: #928f92 !important;
   position: absolute;
   inset: 0;
@@ -171,7 +171,7 @@ body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher^="t
 }
 
 /* FAVORITES */
-body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-anime)::after {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-anime)::after {
   content: "ANIME";
   font-size: 16px;
   vertical-align: top;
@@ -179,7 +179,7 @@ body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c
   text-align: center;
   width: 100%;
 }
-body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-104)::after {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-104)::after {
   content: "MANGA";
   font-size: 16px;
   vertical-align: top;
@@ -187,7 +187,7 @@ body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c
   text-align: center;
   width: 100%;
 }
-body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-9726)::after {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-9726)::after {
   content: "NOVELS";
   font-size: 16px;
   vertical-align: top;
@@ -195,7 +195,7 @@ body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c
   text-align: center;
   width: 100%;
 }
-body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-118)::after {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-118)::after {
   content: "SEIYU";
   font-size: 16px;
   vertical-align: top;
@@ -203,7 +203,7 @@ body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c
   text-align: center;
   width: 100%;
 }
-body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2009)::after {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2009)::after {
   content: "DIRECTORS";
   font-size: 16px;
   vertical-align: top;
@@ -211,7 +211,7 @@ body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c
   text-align: center;
   width: 100%;
 }
-body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-8213)::after {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-8213)::after {
   content: "AUTEURS";
   font-size: 16px;
   vertical-align: top;
@@ -219,7 +219,7 @@ body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c
   text-align: center;
   width: 100%;
 }
-body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2967)::after {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2967)::after {
   content: "ARTISTS / ILLUSTRATORS";
   font-size: 16px;
   vertical-align: top;
@@ -227,15 +227,15 @@ body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c
   text-align: center;
   width: 100%;
 }
-body[data-locale="en"] .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213)::before {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213)::before {
   content: "MUSICIANS / PRODUCERS / SOUND DIRECTORS";
 }
-body[data-locale="en"] .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-5089)::before {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-5089)::before {
   content: "ANIMATORS";
 }
-body[data-locale="en"] .p-profiles-favorites .cc-favourites:has(>.c-character)::before {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .cc-favourites:has(>.c-character)::before {
   content: "FEMALE CHARACTERS";
 }
-body[data-locale="en"] .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-character)::after {
+:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-character)::after {
   content: "MALE CHARACTERS";
 }
