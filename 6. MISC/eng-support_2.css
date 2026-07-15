@@ -171,71 +171,71 @@ body[data-locale="en"] .tira-page div[data-dynamic="switcher"][data-switcher^="t
 }
 
 /* FAVORITES */
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-anime)::after {
-  content: "ANIME";
-  font-size: 16px;
-  vertical-align: top;
-  display: block;  
-  text-align: center;
-  width: 100%;
+html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-anime)::after {
+  content: "ANIME";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
 }
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-104)::after {
-  content: "MANGA";
-  font-size: 16px;
-  vertical-align: top;
-  display: block;  
-  text-align: center;
-  width: 100%;
+html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-104)::after {
+  content: "MANGA";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
 }
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-9726)::after {
-  content: "NOVELS";
-  font-size: 16px;
-  vertical-align: top;
-  display: block;  
-  text-align: center;
-  width: 100%;
+html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-manga.entry-9726)::after {
+  content: "NOVELS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
 }
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-118)::after {
-  content: "SEIYU";
-  font-size: 16px;
-  vertical-align: top;
-  display: block;  
-  text-align: center;
-  width: 100%;
+html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-118)::after {
+  content: "SEIYU";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
 }
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2009)::after {
-  content: "DIRECTORS";
-  font-size: 16px;
-  vertical-align: top;
-  display: block;  
-  text-align: center;
-  width: 100%;
+html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2009)::after {
+  content: "DIRECTORS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
 }
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-8213)::after {
-  content: "AUTEURS";
-  font-size: 16px;
-  vertical-align: top;
-  display: block;  
-  text-align: center;
-  width: 100%;
+html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-8213)::after {
+  content: "AUTEURS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
 }
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2967)::after {
-  content: "ARTISTS / ILLUSTRATORS";
-  font-size: 16px;
-  vertical-align: top;
-  display: block;  
-  text-align: center;
-  width: 100%;
+html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-person.entry-2967)::after {
+  content: "ARTISTS / ILLUSTRATORS";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
 }
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213)::before {
-  content: "MUSICIANS / PRODUCERS / SOUND DIRECTORS";
+html:has(a[href*="locale=en"]) .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-8213)::before {
+  content: "MUSICIANS / PRODUCERS / SOUND DIRECTORS";
 }
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-5089)::before {
-  content: "ANIMATORS";
+html:has(a[href*="locale=en"]) .p-profiles-favorites .block > .cc-favourites:has(.c-person.entry-5089)::before {
+  content: "ANIMATORS";
 }
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .cc-favourites:has(>.c-character)::before {
-  content: "FEMALE CHARACTERS";
+html:has(a[href*="locale=en"]) .p-profiles-favorites .cc-favourites:has(>.c-character)::before {
+  content: "FEMALE CHARACTERS";
 }
-:is(body[data-locale="en"], html:has(a[href*="locale=en"])) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-character)::after {
-  content: "MALE CHARACTERS";
+html:has(a[href*="locale=en"]) .p-profiles-favorites .subheadline:has(+.cc-favourites>.c-character)::after {
+  content: "MALE CHARACTERS";
 }
