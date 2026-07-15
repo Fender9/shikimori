@@ -43,13 +43,6 @@
     border: none !important;
 }
 
-.subheadline a[href*="/feed"][title="Лента"] {
-    display: none;
-}
-.subheadline > a[href*="/forum/"][title="Все комментарии"] {
-    display: none;
-}
-
 /* SUBMENU */
 @media screen and (min-width: 768px) {
 .l-top_menu-v2 .menu-dropdown.main .submenu {
@@ -157,8 +150,33 @@
 .subheadline a[href*="/feed"][title="Feed"] {
     display: none;
 }
+.subheadline a[href*="/feed"][title="Лента"] {
+    display: none;
+}
 .subheadline > a[href*="/forum/"][title="All comments"] {
     display: none;
+}
+.subheadline > a[href*="/forum/"][title="Все комментарии"] {
+    display: none;
+}
+.subheadline > a[href*="/topics/"][title="All comments"] {
+    display: none;
+}
+.subheadline > a[href*="/topics/"][title="Все комментарии"] {
+    display: none;
+}
+
+/* RIP SETTINGS BG FIX */
+.block-rip-sync,
+.block-rip-sync .block-rip-settings,
+.block-rip-sync .block-rip-info,
+.block-rip-sync .block-rip-account-type {
+  background: transparent !important;
+  background-image: none !important;
+  border-color: color-mix(in srgb, var(--border, currentColor) 50%, transparent) !important;
+}
+.block-rip-sync .block-rip-title {
+  color: #fff !important;
 }
 
 /* НАЗВАНИЯ */
