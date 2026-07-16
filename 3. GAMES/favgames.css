@@ -36,16 +36,18 @@
     background-image: var(--ani-bg);
   }
 }
-.ani-1 { --ani-bg: url("https://i.imgur.com/XgQhFJe.png"); --title-text: "SMT III Nocturne"; }
-.ani-2 { --ani-bg: url("https://i.imgur.com/9pxmW10.png"); --title-text: "Nier Replicant"; }
-.ani-3 { --ani-bg: url("https://i.imgur.com/6ynDrMV.png"); --title-text: "Soukou Akki Muramasa"; }
-.ani-4 { --ani-bg: url("https://i.imgur.com/TrQFFef.png"); --title-text: "Final Fantasy VI"; }
-.ani-5 { --ani-bg: url("https://i.imgur.com/97bK62b.png"); --title-text: "Chaos;Child"; }
-.ani-6 { --ani-bg: url("https://i.imgur.com/WGRuJbv.png"); --title-text: "Mass Effect 2"; }
-.ani-7 { --ani-bg: url("https://i.imgur.com/yb5FdgX.png"); --title-text: "Minecraft"; }
-.ani-8 { --ani-bg: url("https://i.imgur.com/DmCoEDu.png"); --title-text: "Patapon 2"; }
 
-/*BOX SETTINGS*/
+/* GAME CONFIGURATIONS */
+.ani-1 { --ani-bg: url("https://i.imgur.com/XgQhFJe.png"); --title-text: "SMT III Nocturne"; --hover-poster: url("https://i.imgur.com/7OLJwgv.png"); }
+.ani-2 { --ani-bg: url("https://i.imgur.com/9pxmW10.png"); --title-text: "Nier Replicant"; --hover-poster: url("https://i.imgur.com/LHT2tKR.png"); }
+.ani-3 { --ani-bg: url("https://i.imgur.com/6ynDrMV.png"); --title-text: "Soukou Akki Muramasa"; --hover-poster: url("https://i.imgur.com/H5WXNFR.png"); }
+.ani-4 { --ani-bg: url("https://i.imgur.com/TrQFFef.png"); --title-text: "Final Fantasy VI"; --hover-poster: url("https://i.imgur.com/hVNNBjg.png"); }
+.ani-5 { --ani-bg: url("https://i.imgur.com/97bK62b.png"); --title-text: "Chaos;Child"; --hover-poster: url("https://i.imgur.com/XEglsei.png"); }
+.ani-6 { --ani-bg: url("https://i.imgur.com/WGRuJbv.png"); --title-text: "Mass Effect 2"; --hover-poster: url("https://i.imgur.com/TAIL0WF.png"); }
+.ani-7 { --ani-bg: url("https://i.imgur.com/yb5FdgX.png"); --title-text: "Minecraft"; --hover-poster: url("https://i.imgur.com/pzBHh7K.png"); }
+.ani-8 { --ani-bg: url("https://i.imgur.com/DmCoEDu.png"); --title-text: "Patapon 2"; --hover-poster: url("https://i.imgur.com/RjTuddZ.png"); }
+
+/* BOX SETTINGS */
 .ani_sid {
   display: block;
   float: left;
@@ -54,6 +56,15 @@
   margin: -1.3rem 0.1rem 0 0;
   line-height: 3;
 }
+
+/* TARGET ONLY THE SIDE POSTER CONTAINER FOR THE HOVER BACKGROUND */
+.ani_sid .b-image {
+  background-image: var(--hover-poster);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 [class^="ani-"] .b-image,
 [class^="ani-"] img.b-poster {
   vertical-align: text-top;
@@ -62,28 +73,40 @@
   border-color: #3e0a45 #3e0d45 #3a0e40 !important;
   box-shadow: 0 2px 6px 2px #0000004d !important;
 }
+
 [class^="ani-"] .b-image img,
 [class^="ani-"] img.b-poster {
   object-fit: cover;
   height: 246px !important;
   width: 171px !important;
-  transition: transform 0.35s, filter 0.35s;
+  transition: transform 0.35s, filter 0.35s, opacity 0.35s;
 }
+
 [class^="ani-"]:nth-child(-n+2) .b-image img,
 [class^="ani-"]:nth-child(-n+2) img.b-poster {
   object-position: center center;
 }
+
 [class^="ani-"] :is(.b-image, img).normalized_width {
   max-width: 100% !important;
 }
+
 [class^="ani-"] :is(.b-image, img).normalized_height {
   max-height: 246px !important;
 }
+
+/* GLOBAL HOVER (SCALING/BLURRING) */
 [class^="ani-"] .b-image img:hover,
 [class^="ani-"] img.b-poster:hover {
   transform: scale(1.08);
   filter: blur(1px);
 }
+
+/* FADE OUT ONLY THE SIDE POSTER TO REVEAL BACKGROUND */
+.ani_sid .b-image:hover img {
+  opacity: 0;
+}
+
 /* FINOM */
 .finom-2, .finom-5 {
   position: relative;
@@ -92,11 +115,13 @@
   color: #d7a0de;
   font-size: 0.9rem;
 }
+
 .finom-5 {
   top: 0.2rem;
   margin: 1rem 0 0 1rem;
   text-shadow: 0 1px 2px #000000;
 }
+
 .finom-4 {
   display: block;
   float: right;
@@ -105,6 +130,7 @@
   margin: -12rem -1rem 0 0;
   line-height: 3;
 }
+
 .finom-4 :is(.b-image, img.b-poster) {
   vertical-align: text-top;
   border-radius: 0.25rem;
@@ -112,17 +138,20 @@
   border-color: #3e0a45 #3e0d45 #3a0e40 !important;
   box-shadow: 0 2px 6px 2px #0000004d !important;
 }
+
 .finom-4 :is(.b-image img, img.b-poster) {
   object-fit: cover;
   max-height: 102px !important;
   width: 330px !important;
 }
+
 /* LOGOS */
 a[href$="wMhWf5o.png"], a[href$="u106mV9.png"], a[href$="4li4qvB.png"], 
 a[href$="4u9LN0I.png"], a[href$="zkEpp22.png"], a[href$="vxF1Jjm.png"], 
 a[href$="QzW2SUQ.png"], a[href$="JhPTY2q.png"] {
   pointer-events: none;
 }
+
 a[href$="Fs7PlW7.png"] img, a[href$="lfRV85S.png"] img, a[href$="cqhnNo0.png"] img, 
 a[href$="qBTNRfF.png"] img, a[href$="F543qCp.png"] img, a[href$="9yl65fA.png"] img, 
 a[href$="1UwbdyK.png"] img, a[href$="kqmKT3q.png"] img {
@@ -132,6 +161,7 @@ a[href$="1UwbdyK.png"] img, a[href$="kqmKT3q.png"] img {
   transition: none !important;
   pointer-events: none;
 }
+
 .finom-6 {
   display: grid;
   position: relative;
@@ -152,6 +182,7 @@ a[href$="1UwbdyK.png"] img, a[href$="kqmKT3q.png"] img {
   box-shadow: 0 2px 6px 2px #0000004d;
   overflow-x: hidden;
 }
+
 .finom-7 {
   display: block;
   float: right;
@@ -162,6 +193,7 @@ a[href$="1UwbdyK.png"] img, a[href$="kqmKT3q.png"] img {
   pointer-events: none !important;
   user-select: none !important;
 }
+
 .finom-7 :is(.b-image img, img.b-poster) {
   object-fit: cover;
   max-height: 40px !important;
@@ -172,10 +204,12 @@ a[href$="1UwbdyK.png"] img, a[href$="kqmKT3q.png"] img {
   transform: none !important;
   filter: none !important;
 }
+
 .ani_sid .b-image .marker {
   right: auto;
   left: 0.3125rem;
 }
+
 .ani_sid .b-image::after {
   content: "";
   position: absolute;
@@ -191,7 +225,8 @@ a[href$="1UwbdyK.png"] img, a[href$="kqmKT3q.png"] img {
   transition: opacity 0.35s ease;
   pointer-events: none;
 }
-/* TITLE TEXT */
+
+/* TITLE TEXT OVERLAY ON THE SIDE POSTER */
 .ani_sid .b-image::before {
   content: var(--title-text, "GLITCHWAVE");
   position: absolute;
@@ -212,10 +247,12 @@ a[href$="1UwbdyK.png"] img, a[href$="kqmKT3q.png"] img {
   pointer-events: none;
   z-index: 11;
 }
+
 .ani_sid .b-image:hover::after,
 .ani_sid .b-image:hover::before {
   opacity: 1;
 }
+
 @media screen and (max-width: 767px) {
   .ani_sid {
     display: flex;
