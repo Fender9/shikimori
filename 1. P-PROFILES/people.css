@@ -3571,6 +3571,16 @@
   --custom-image: url(https://i.imgur.com/7WCh2Gy.png);
 }
 
+/* Undead Corporation */
+[href*="people/95630-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/412Rv5E.png);
+}
+[href*="people/95630-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/YWbv4xJ.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
