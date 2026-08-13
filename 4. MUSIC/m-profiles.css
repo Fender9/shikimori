@@ -513,6 +513,26 @@
   --overlay-image: url("https://i.imgur.com/56whPzh.png");
 }
 
+/* Fukuro */
+.b-image[data-attrs *= "https://i.imgur.com/X3LiKmY.png" ] {
+  --overlay-image: url("https://i.imgur.com/G466Noi.png");
+}
+
+/* Kalavinka */
+.b-image[data-attrs *= "https://i.imgur.com/yT8ebHv.png" ] {
+  --overlay-image: url("https://i.imgur.com/KHSR8KH.png");
+}
+
+/* deadman */
+.b-image[data-attrs *= "https://i.imgur.com/n51eJ6C.png" ] {
+  --overlay-image: url("https://i.imgur.com/ev1Ufjy.png");
+}
+
+/* Femme Fatale */
+.b-image[data-attrs *= "https://i.imgur.com/yPEBdVb.png" ] {
+  --overlay-image: url("https://i.imgur.com/wrHLIY9.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
