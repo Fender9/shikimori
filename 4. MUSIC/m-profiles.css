@@ -533,6 +533,21 @@
   --overlay-image: url("https://i.imgur.com/wrHLIY9.png");
 }
 
+/* Jun Togawa */
+.b-image[data-attrs *= "NeY3FgP.png" ] {
+  --overlay-image: url("https://i.imgur.com/SYggK2h.png");
+}
+
+/* Nashimoto Ui */
+.b-image[data-attrs *= "q1yG8Lg.png" ] {
+  --overlay-image: url("https://i.imgur.com/8yHF4PV.png");
+}
+
+/* TsuShiMaMiRe */
+.b-image[data-attrs *= "ize8uJf.png" ] {
+  --overlay-image: url("https://i.imgur.com/go1gH3S.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
