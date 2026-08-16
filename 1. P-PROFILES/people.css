@@ -3600,3 +3600,23 @@
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/WZAkphr.png);
 }
+
+/* 2NE1 */
+[href*="people/13809-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CCEKFlg.png);
+}
+[href*="people/13809-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/CIJqnCk.png);
+}
+
+/*  */
+[href*="people/-"] {
+  --show-default: 0;
+  --custom-image: url();
+}
+[href*="people/-"]:hover {
+  --show-default: 0;
+  --custom-image: url();
+}
