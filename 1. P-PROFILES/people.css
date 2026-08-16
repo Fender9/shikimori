@@ -3581,12 +3581,22 @@
   --custom-image: url(https://i.imgur.com/YWbv4xJ.png);
 }
 
-/*  */
-[href*="people/-"] {
+/* Jun Togawa */
+[href*="people/47433-"] {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/Wayg7hr.png);
 }
-[href*="people/-"]:hover {
+[href*="people/47433-"]:hover {
   --show-default: 0;
-  --custom-image: url();
+  --custom-image: url(https://i.imgur.com/PDWybr1.png);
+}
+
+/* TsuShiMaMiRe */
+[href*="people/999999999999-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Wl2E1wL.png);
+}
+[href*="people/999999999999-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WZAkphr.png);
 }
