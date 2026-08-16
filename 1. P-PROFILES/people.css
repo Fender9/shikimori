@@ -3611,6 +3611,46 @@
   --custom-image: url(https://i.imgur.com/CIJqnCk.png);
 }
 
+/* Old Xian */
+[href*="people/57701-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/iFuS2R5.png);
+}
+[href*="people/57701-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yfnKGla.png);
+}
+
+/* Coco Uzuki */
+[href*="people/59184-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/avyCPZm.png);
+}
+[href*="people/59184-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/k2J4iHQ.png);
+}
+
+/* Kotoyama */
+[href*="people/33067-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WvxvJ8n.png);
+}
+[href*="people/33067-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/3UINqWF.png);
+}
+
+/* STARember */
+[href*="people/56093-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/uccWOdE.png);
+}
+[href*="people/56093-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/X94W8gF.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
