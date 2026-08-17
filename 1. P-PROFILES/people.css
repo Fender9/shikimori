@@ -3592,11 +3592,11 @@
 }
 
 /* TsuShiMaMiRe */
-[href*="people/999999999999-"] {
+[href*="people/97805-"] {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/Wl2E1wL.png);
 }
-[href*="people/999999999999-"]:hover {
+[href*="people/97805-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/WZAkphr.png);
 }
