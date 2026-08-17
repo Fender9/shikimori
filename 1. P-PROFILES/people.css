@@ -3681,6 +3681,56 @@
   --custom-image: url(https://i.imgur.com/s7YVU68.png);
 }
 
+/* Yuu Morikawa */
+[href*="people/49178-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/m6I8Imd.png);
+}
+[href*="people/49178-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/oixZiiM.png);
+}
+
+/* Raita Honjou */
+[href*="people/59895-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/g8deX4G.png);
+}
+[href*="people/59895-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/sH28WUG.png);
+}
+
+/* Spoon */
+[href*="people/49715-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Yfg0rco.png);
+}
+[href*="people/49715-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/HPALToi.png);
+}
+
+/* SUOL */
+[href*="people/53596-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/IZOn8h1.png);
+}
+[href*="people/53596-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mq185IV.png);
+}
+
+/* Tan Jiu */
+[href*="people/16477-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/EYYkoTm.png);
+}
+[href*="people/16477-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/cXS9OJB.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
