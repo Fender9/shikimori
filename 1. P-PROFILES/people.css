@@ -3651,6 +3651,36 @@
   --custom-image: url(https://i.imgur.com/X94W8gF.png);
 }
 
+/* rurudo */
+[href*="people/62682-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/2kMo9DE.png);
+}
+[href*="people/62682-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/VtiS7FK.png);
+}
+
+/* Necometal */
+[href*="people/32477-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/AalVJJN.png);
+}
+[href*="people/32477-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Pu3HZBf.png);
+}
+
+/* Ohisashiburi */
+[href*="people/53780-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/q6VET9Z.png);
+}
+[href*="people/53780-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/s7YVU68.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
