@@ -1,0 +1,38 @@
+/* ЛЕВОЕ САБМЕНЮ */
+/* TIERLIST ICON */
+.submenu a.icon-tierlists,
+.submenu a.icon-recommendations {
+  display: inline-flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0.25rem !important;
+  aspect-ratio: 1 / 0.75 !important;
+  padding: 0.2rem 0 !important;
+  box-sizing: border-box !important;
+  line-height: 1.1 !important;
+}
+.submenu a.icon-tierlists::before,
+.submenu a.icon-recommendations::before{
+  position: static !important;
+  display: block !important;
+  margin: 0 !important;
+}
+/* топ */
+.submenu a.icon-top {
+    display: none !important;
+}
+/* тирлисты */
+.submenu a.icon-tierlists {
+  transform: translateY(14px) !important;
+}
+.submenu a.icon-tierlists::before {
+  transform: translateY(-10px) !important;
+}
+/* рекомендации */
+.submenu a.icon-recommendations {
+  transform: translateY(13px) !important;
+}
+.submenu a.icon-recommendations::before {
+  transform: translateY(-10px) !important;
+}
