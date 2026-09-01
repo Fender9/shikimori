@@ -149,6 +149,60 @@
   box-shadow: none !important;
 }
 
+/* RANDOM */
+.b-rip_hidden_comments,
+.season-selector-box,
+.year-dropdown,
+.season-selector_add,
+.mode-toggle {
+  background: transparent !important;
+  background-image: none !important;
+  border-color: color-mix(in srgb, var(--border, currentColor) 50%, transparent) !important;
+}
+.mode-toggle_thumb {
+  background-color: rgb(var(--average-rating)) !important;
+}
+.season-selector-box,
+.season-selector-box * {
+  color: rgb(var(--light-color)) !important;
+  border-color: color-mix(in srgb, var(--border, currentColor) 20%, transparent) !important;
+}
+.season-selector-box,
+.season-selector-box *:not(.year-dropdown_list):not(.range-selector-box_hint_popup):not(.season-selector_season) {
+  background-color: transparent !important;
+  background-image: none !important;
+}
+.season-selector-box .year-dropdown_list,
+.season-selector-box .range-selector-box_hint_popup {
+  background-color: rgb(var(--block-color)) !important;
+}
+html body .image-decor .collection_score .collection_score_marker,
+html body .collection_score_marker {
+  background: rgb(var(--block-color), 0.8) !important;
+  background-color: rgb(var(--block-color), 0.8) !important;
+  border: none !important;
+  box-shadow: none !important;
+  color: rgb(var(--white-color)) !important;
+}
+html body .collection_score_marker *,
+html body .collection_score_marker *::before,
+html body .collection_score_marker *::after,
+.image-decor .score_marker_star,
+html body .collection_score_marker .score_marker_star,
+html body .image-decor .collection_score {
+  background: transparent !important;
+  background-color: transparent !important;
+  background-image: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  border-radius: 0 !important;
+}
+html body .image-decor .collection_score,
+html body .collection_score {
+  left: 5 !important;
+  right: auto !important;
+}
+
 /* SHIKI RIP CHECK FIX */
 .subheadline a[href*="/feed"][title="Feed"] {
     display: none;
