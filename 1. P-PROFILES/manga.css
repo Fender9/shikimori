@@ -506,7 +506,7 @@
 }
 [href*="mangas/133641-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://i.imgur.com/sVG0jLu.png);
+  --custom-image: url(https://i.imgur.com/0iiO7N8.png);
 }
 
 /* SSS-Class Revival Hunter */
@@ -537,6 +537,16 @@
 [href*="mangas/132214-"]:hover {
   --show-default: 0;
   --custom-image: url(https://i.imgur.com/T4bfrz4.png);
+}
+
+/* The Spark in Your Eyes */
+[href*="mangas/147986-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/5LJ2rvI.png);
+}
+[href*="mangas/147986-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/4xJEybh.png);
 }
 
 /*  */
