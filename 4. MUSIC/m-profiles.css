@@ -548,7 +548,13 @@
   --overlay-image: url("https://i.imgur.com/go1gH3S.png");
 }
 
+/* PPPP */
+.b-image[data-attrs *= "https://i.imgur.com/C27v0SJ.png" ] {
+  --overlay-image: url("https://i.imgur.com/w4g8zTZ.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
 }
+
