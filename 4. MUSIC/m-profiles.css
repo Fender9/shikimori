@@ -563,6 +563,11 @@
   --overlay-image: url("https://i.imgur.com/9xOYeBC.png");
 }
 
+/* XAMIYA */
+.b-image[data-attrs *= "DjB0kwG.png" ] {
+  --overlay-image: url("https://i.imgur.com/v6hoFxi.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
