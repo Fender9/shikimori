@@ -3731,6 +3731,26 @@
   --custom-image: url(https://i.imgur.com/cXS9OJB.png);
 }
 
+/* CLAMP */
+[href*="people/1877-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/P92nmqJ.png);
+}
+[href*="people/1877-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bBn8mH4.png);
+}
+
+/* Nagimiso */
+[href*="people/6587-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/DDJDquH.png);
+}
+[href*="people/6587-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/0wSarzi.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
