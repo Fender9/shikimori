@@ -3751,6 +3751,16 @@
   --custom-image: url(https://i.imgur.com/0wSarzi.png);
 }
 
+/* TORIENA */
+[href*="people/78077-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/yfHAFFX.png);
+}
+[href*="people/78077-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Warczug.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
