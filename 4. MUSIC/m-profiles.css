@@ -568,6 +568,11 @@
   --overlay-image: url("https://i.imgur.com/v6hoFxi.png");
 }
 
+/* TORIENA */
+.b-image[data-attrs *= "XRW38mi.png" ] {
+  --overlay-image: url("https://i.imgur.com/GhDBzSg.png");
+}
+
 /*  */
 .b-image[data-attrs *= "" ] {
   --overlay-image: url("");
