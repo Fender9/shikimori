@@ -548,6 +548,15 @@ body[data-locale="en"] .tooltip a.data.name[href*="ranobe/59709-"]::after { cont
 .tooltip a.data.name[href*="ranobe/26027-"] .name-ru::after { content: "Ночь Ведьм"; font-size: 13px !important; visibility: visible; }
 .tooltip a.data.name[href*="ranobe/26027-"] .name-en::after { content: "Mahoutsukai no Yoru"; font-size: 13px !important; visibility: visible; }
 
+/* --- НОЧЬ ВЕДЬМ ДАБЛ --- */
+.cover[href*="ranobe/195991-"] .title .name-ru, .cover[href*="ranobe/195991-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/195991-"] .name-ru, .tooltip a.data.name[href*="ranobe/195991-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/195991-"] .title .name-ru::after { content: "Ночь Ведьм"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/195991-"] .title .name-en::after { content: "Mahoutsukai no Yoru"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/195991-"]:hover .title .name-ru::after, .cover[href*="ranobe/195991-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/195991-"] .name-ru::after { content: "Ночь Ведьм"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/195991-"] .name-en::after { content: "Mahoutsukai no Yoru"; font-size: 13px !important; visibility: visible; }
+
 /* --- ЗАПИСКИ ОКИTЭГАМИ КЁКО --- */
 .cover[href*="ranobe/94175-"] .title .name-ru, .cover[href*="ranobe/94175-"] .title .name-en,
 .tooltip a.data.name[href*="ranobe/94175-"] .name-ru, .tooltip a.data.name[href*="ranobe/94175-"] .name-en { font-size: 0 !important; }
