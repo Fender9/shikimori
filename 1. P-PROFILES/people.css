@@ -3761,6 +3761,16 @@
   --custom-image: url(https://i.imgur.com/Warczug.png);
 }
 
+/* G DRAGON */
+[href*="people/98934-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WVJm7kT.png);
+}
+[href*="people/98934-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zyRiphl.png);
+}
+
 /*  */
 [href*="people/-"] {
   --show-default: 0;
