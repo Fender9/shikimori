@@ -1,0 +1,641 @@
+/* RIP E-DESIGN FIXES */
+.b-useful_search {
+  background: transparent !important;
+  border: 1px solid rgba(var(--white-color), 0.25) !important;
+  border-radius: 12px !important;
+}
+.b-useful_search input {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+.b-useful_card {
+  background: transparent !important;
+  border: 1px solid rgba(var(--white-color), 0.25) !important;
+}
+.b-useful_card .title,
+.b-useful_card .title a {
+  color: rgb(var(--white-color)) !important;
+}
+.b-useful_card .votes .vote.up {
+  color: #4caf50 !important;
+  border: 1px solid rgba(var(--white-color), 0.25) !important;
+  background: transparent !important;
+}
+.b-useful_card .votes .vote.down {
+  olor: #e05252 !important;
+  border: 1px solid rgba(var(--white-color), 0.25) !important;
+  background: transparent !important;
+}
+.b-useful_card .votes .vote.up:hover {
+  background: rgba(76, 175, 80, 0.15) !important;
+}
+.b-useful_card .votes .vote.down:hover {
+  background: rgba(224, 82, 82, 0.15) !important;
+}
+.b-useful_controls .b-useful_new {
+  background: rgb(var(--vn-complete)) !important;
+  color: rgb(var(--white-color)) !important;
+  border: 1px solid rgba(var(--white-color), 0.25) !important;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+.b-useful_controls .b-useful_new:hover {
+  background: rgb(var(--input-color)) !important;
+  border-color: rgba(var(--white-color), 0.5) !important;
+}
+.b-collection-filters .b-checkbox-dropdown {
+  background: transparent !important;
+  border: 1px solid rgba(var(--white-color), 0.25) !important;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+.b-collection-filters .b-checkbox-dropdown_trigger {
+  background: transparent !important;
+  border-color: transparent !important;
+}
+.b-collection-filters .b-checkbox-dropdown.open .b-checkbox-dropdown_menu {
+  background: rgba(var(--block-color), 0.78) !important;
+  color: rgb(var(--white-color)) !important;
+  border: 1px solid rgba(var(--white-color), 0.25) !important;
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgba(var(--menu-back), 0.3);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+.b-collection-filters .b-checkbox-dropdown.open .b-checkbox-dropdown_search {
+  background: rgba(var(--menu-back), 0.35) !important;
+  color: rgb(var(--white-color)) !important;
+  border-color: rgba(var(--white-color), 0.2) !important;
+}
+.b-collection-filters .b-checkbox-dropdown_search::placeholder {
+  color: rgba(var(--light-color), 0.6) !important;
+}
+.b-collection-filters .b-checkbox-dropdown_menu .b-block_list,
+.b-collection-filters .b-checkbox-dropdown_menu li {
+  background-color: transparent !important;
+  color: rgba(var(--white-color), 0.95) !important;
+}
+.b-collection-filters .b-checkbox-dropdown_menu li:hover {
+  background: rgba(var(--anime-inprocess), 0.18) !important;
+}
+.b-stats_bar.visual_novel .bar .first {
+    background: rgba(var(--vn-complete), 1);
+    opacity: 0.7;
+}
+.b-stats_bar.visual_novel .bar .second {
+    background: rgba(var(--vn-inprocess), 1);
+    opacity: 0.7;
+}
+.line .studio-more-toggle,
+.line .b-platform-tag,
+.line .b-genre-tag,
+.line .genre-more-toggle,
+.tags .b-tag {
+    position: relative;
+    padding: 0 1px;
+    margin: 2px !important;
+    transition: 0.3s ease, width 0s, margin 0s, padding 0s, font-size 0s, height 0s, top 0s, left 0s, line-height 0s,
+    min-height 0s !important;
+    border: none !important;
+    border-radius: 10px;
+    background: rgba(var(--block-color), 0.6) !important;
+}
+.line .studio-more-toggle,
+.line .b-platform-tag,
+.line .b-genre-tag,
+.line .genre-more-toggle,
+.tags .b-tag {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px 12px !important;
+}
+.line .studio-more-toggle:hover,
+.line .b-platform-tag:hover,
+.line .b-genre-tag:hover,
+.line .genre-more-toggle:hover,
+.tags .b-tag:hover {
+    background-color: rgba(var(--hover-buttoms-2), 1) !important;
+    color: white !important;
+    box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2) !important;
+    border: none !important;
+}
+
+/* SUBMENU */
+@media screen and (min-width: 768px) {
+.l-top_menu-v2 .menu-dropdown.main .submenu {
+  width: 100%;
+}
+.l-top_menu-v2 .menu-dropdown.main .submenu>a {
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: calc(50% - 2px);
+    height: auto;
+    margin: 1px;
+    padding: 0 0 7px;
+    font-size: 10px;
+    line-height: 13px;
+    white-space: pre-line;
+    word-break: break-word;
+    text-align: center;
+    border-radius: 14px;
+}
+.l-top_menu-v2 .menu-dropdown.main  .submenu>a:before {
+    width: 100%;
+    font-size: 22px;
+    line-height: 44px;
+}
+.l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-anime:before, .l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-manga:before, .l-top_menu-v2 .menu-dropdown.main .submenu>a.icon-ranobe:before {
+    font-size: 14px;
+    line-height: 44px;
+}
+}
+.menu-dropdown.main:hover .submenu a:nth-child(19) {
+    -webkit-transition-delay: 900ms;
+    transition-delay: 900ms;
+}
+/* LEFT SUBMENU */
+.submenu a.icon-visual_novel::before {
+  font-size: 14px !important;
+}
+.submenu a.icon-socials[title="Мы в Discord"] {
+  display: none !important;
+}
+.submenu a.icon-socials[title="In social networks"] {
+  display: none !important;
+}
+
+/* VN В СПИСКЕ*/
+.entries .user_rate .num span.translation_missing[title*="visual_novel"] {
+    font-size: 0 !important;
+    display: inline-block;
+}
+.entries .user_rate .num span.translation_missing[title*="visual_novel"]::before {
+    content: "VN" !important;
+    font-size: 13px !important;
+    visibility: visible !important;
+    letter-spacing: 1px;
+    color: rgba(var(--white-color), 0.8);
+}
+
+/* ФИКС ОТЗЫВОВ НА ГЛАВНОЙ */
+.top-reviews-carousel::before,
+.top-reviews-carousel::after,
+.top-reviews-carousel .reviews-track::before,
+.top-reviews-carousel .reviews-track::after {
+  display: none !important;
+}
+.top-reviews-carousel .review-slide {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* RANDOM */
+.b-rip_hidden_comments,
+.season-selector-box,
+.year-dropdown,
+.season-selector_add,
+.mode-toggle {
+  background: transparent !important;
+  background-image: none !important;
+  border-color: color-mix(in srgb, var(--border, currentColor) 50%, transparent) !important;
+}
+.mode-toggle_thumb {
+  background-color: rgb(var(--average-rating)) !important;
+}
+.season-selector-box,
+.season-selector-box * {
+  color: rgb(var(--light-color)) !important;
+  border-color: color-mix(in srgb, var(--border, currentColor) 20%, transparent) !important;
+}
+.season-selector-box,
+.season-selector-box *:not(.year-dropdown_list):not(.range-selector-box_hint_popup):not(.season-selector_season) {
+  background-color: transparent !important;
+  background-image: none !important;
+}
+.season-selector-box .year-dropdown_list,
+.season-selector-box .range-selector-box_hint_popup {
+  background-color: rgb(var(--block-color)) !important;
+}
+html body .image-decor .collection_score .collection_score_marker,
+html body .collection_score_marker {
+  background: rgb(var(--block-color), 0.8) !important;
+  background-color: rgb(var(--block-color), 0.8) !important;
+  border: none !important;
+  box-shadow: none !important;
+  color: rgb(var(--white-color)) !important;
+}
+html body .collection_score_marker *,
+html body .collection_score_marker *::before,
+html body .collection_score_marker *::after,
+.image-decor .score_marker_star,
+html body .collection_score_marker .score_marker_star,
+html body .image-decor .collection_score {
+  background: transparent !important;
+  background-color: transparent !important;
+  background-image: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  border-radius: 0 !important;
+}
+html body .image-decor .collection_score,
+html body .collection_score {
+  left: 5 !important;
+  right: auto !important;
+}
+
+/* SHIKI RIP CHECK FIX */
+.subheadline a[href*="/feed"][title="Feed"] {
+    display: none;
+}
+.subheadline a[href*="/feed"][title="Лента"] {
+    display: none;
+}
+.subheadline > a[href*="/forum/"][title="All comments"] {
+    display: none;
+}
+.subheadline > a[href*="/forum/"][title="Все комментарии"] {
+    display: none;
+}
+.subheadline > a[href*="/topics/"][title="All comments"] {
+    display: none;
+}
+.subheadline > a[href*="/topics/"][title="Все комментарии"] {
+    display: none;
+}
+
+/* RIP SETTINGS BG FIX */
+.block-rip-sync,
+.block-rip-sync .block-rip-settings,
+.block-rip-sync .block-rip-info,
+.block-rip-sync .block-rip-account-type {
+  background: transparent !important;
+  background-image: none !important;
+  border-color: color-mix(in srgb, var(--border, currentColor) 50%, transparent) !important;
+}
+.block-rip-sync .block-rip-title {
+  color: #fff !important;
+}
+
+/* НАЗВАНИЯ */
+/* --- GE 999 --- */
+.cover[href*="animes/1491-"] .title .name-ru, .cover[href*="animes/1491-"] .title .name-en,
+.tooltip a.data.name[href*="animes/1491-"] .name-ru, .tooltip a.data.name[href*="animes/1491-"] .name-en { font-size: 0 !important; }
+.cover[href*="animes/1491-"] .title .name-ru::after { content: "Галактический экспресс 999"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/1491-"] .title .name-en::after { content: "Galaxy Express 999"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="animes/1491-"]:hover .title .name-ru::after, .cover[href*="animes/1491-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="animes/1491-"] .name-ru::after { content: "Галактический экспресс 999"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="animes/1491-"] .name-en::after { content: "Galaxy Express 999"; font-size: 13px !important; visibility: visible; }
+
+/* --- 12 КОРОЛЕВСТВ --- */
+.cover[href*="ranobe/3807-"] .title .name-ru, .cover[href*="ranobe/3807-"] .title .name-en,
+.tooltip a.data.name[href*="ranobe/3807-"] .name-ru, .tooltip a.data.name[href*="ranobe/3807-"] .name-en { font-size: 0 !important; }
+.cover[href*="ranobe/3807-"] .title .name-ru::after { content: "Двенадцать Королевств"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/3807-"] .title .name-en::after { content: "The Twelve Kingdoms"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="ranobe/3807-"]:hover .title .name-ru::after, .cover[href*="ranobe/3807-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="ranobe/3807-"] .name-ru::after { content: "Двенадцать Королевств"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="ranobe/3807-"] .name-en::after { content: "The Twelve Kingdoms"; font-size: 13px !important; visibility: visible; }
+
+/* --- СНЭТЧЕР --- */
+.cover[href*="visual_novels/1305-"] .title .name-ru, .cover[href*="visual_novels/1305-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/1305-"] .name-ru, .tooltip a.data.name[href*="visual_novels/1305-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/1305-"] .title .name-ru::after { content: "Снэтчер"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/1305-"] .title .name-en::after { content: "SNATCHER"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/1305-"]:hover .title .name-ru::after, .cover[href*="visual_novels/1305-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/1305-"] .name-ru::after { content: "Снэтчер"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/1305-"] .name-en::after { content: "SNATCHER"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЛУННАЯ ПРИНЦЕССА --- */
+.cover[href*="visual_novels/7-"] .title .name-ru, .cover[href*="visual_novels/7-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/7-"] .name-ru, .tooltip a.data.name[href*="visual_novels/7-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/7-"] .title .name-ru::after { content: "Лунная Принцесса"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/7-"] .title .name-en::after { content: "Tsukihime"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/7-"]:hover .title .name-ru::after, .cover[href*="visual_novels/7-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/7-"] .name-ru::after { content: "Лунная Принцесса"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/7-"] .name-en::after { content: "Tsukihime"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЭЙС АТТОРНИ 3 --- */
+.cover[href*="visual_novels/716-"] .title .name-ru, .cover[href*="visual_novels/716-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/716-"] .name-ru, .tooltip a.data.name[href*="visual_novels/716-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/716-"] .title .name-ru::after { content: "Эйс Атторни:\AТяжбы и Тернии"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/716-"] .title .name-en::after { content: "Ace Attorney:\ATrials and Tribulations"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/716-"]:hover .title .name-ru::after, .cover[href*="visual_novels/716-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/716-"] .name-ru::after { content: "Эйс Атторни: Тяжбы и Тернии"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/716-"] .name-en::after { content: "Ace Attorney: Trials and Tribulations"; font-size: 13px !important; visibility: visible; }
+
+/* --- АНГЕЛОС АРМАС --- */
+.cover[href*="visual_novels/429-"] .title, 
+.tooltip a.data.name[href*="visual_novels/429-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/429-"] .title::after { content: "Ангелос Армас"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/429-"]::after { content: "Ангелос Армас"; font-size: 13px !important; visibility: visible; }
+body[data-locale="en"] .cover[href*="visual_novels/429-"] .title::after,
+body[data-locale="en"] .tooltip a.data.name[href*="visual_novels/429-"]::after { content: "Angelos Armas" !important; }
+.cover[href*="visual_novels/429-"]:hover .title::after { color: #ddafe8 !important; }
+
+/* --- ВРАТА ХАОСА --- */
+.cover[href*="visual_novels/400-"] .title .name-ru, .cover[href*="visual_novels/400-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/400-"] .name-ru, .tooltip a.data.name[href*="visual_novels/400-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/400-"] .title .name-ru::after { content: "Врата Хаоса"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/400-"] .title .name-en::after { content: "Jingai Makyou"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/400-"]:hover .title .name-ru::after, .cover[href*="visual_novels/400-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/400-"] .name-ru::after { content: "Врата Хаоса"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/400-"] .name-en::after { content: "Jingai Makyou"; font-size: 13px !important; visibility: visible; }
+
+/* --- I/O --- */
+.cover[href*="visual_novels/96-"] .title, 
+.tooltip a.data.name[href*="visual_novels/96-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/96-"] .title::after { content: "I/O"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/96-"]::after { content: "I/O"; font-size: 13px !important; visibility: visible; }
+body[data-locale="en"] .cover[href*="visual_novels/96-"] .title::after,
+body[data-locale="en"] .tooltip a.data.name[href*="visual_novels/96-"]::after { content: "I/O" !important; }
+.cover[href*="visual_novels/96-"]:hover .title::after { color: #ddafe8 !important; }
+
+/* --- TRE DONNE CRUDELLI --- */
+.cover[href*="visual_novels/428-"] .title .name-ru, .cover[href*="visual_novels/428-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/428-"] .name-ru, .tooltip a.data.name[href*="visual_novels/428-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/428-"] .title .name-ru::after { content: "Три Жестоких Женщины"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/428-"] .title .name-en::after { content: "Tre Donne Crudelli"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/428-"]:hover .title .name-ru::after, .cover[href*="visual_novels/428-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/428-"] .name-ru::after { content: "Три Жестоких Женщины"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/428-"] .name-en::after { content: "Tre Donne Crudelli"; font-size: 13px !important; visibility: visible; }
+
+/* --- ПЛАМЕЦВЕТ --- */
+.cover[href*="visual_novels/4307-"] .title, 
+.tooltip a.data.name[href*="visual_novels/4307-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/4307-"] .title::after { content: "Пламецвет"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/4307-"]::after { content: "Пламецвет"; font-size: 13px !important; visibility: visible; }
+body[data-locale="en"] .cover[href*="visual_novels/4307-"] .title::after,
+body[data-locale="en"] .tooltip a.data.name[href*="visual_novels/4307-"]::after { content: "Imabikisou" !important; }
+.cover[href*="visual_novels/4307-"]:hover .title::after { color: #ddafe8 !important; }
+
+/* --- STEINS;GATE --- */
+.cover[href*="visual_novels/2002-"] .title .name-ru, .cover[href*="visual_novels/2002-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/2002-"] .name-ru, .tooltip a.data.name[href*="visual_novels/2002-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/2002-"] .title .name-ru::after { content: "Врата;Штейна"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/2002-"] .title .name-en::after { content: "STEINS;GATE"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/2002-"]:hover .title .name-ru::after, .cover[href*="visual_novels/2002-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/2002-"] .name-ru::after { content: "Врата;Штейна"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/2002-"] .name-en::after { content: "STEINS;GATE"; font-size: 13px !important; visibility: visible; }
+
+/* --- MURAMASA --- */
+.cover[href*="visual_novels/2016-"] .title .name-ru, .cover[href*="visual_novels/2016-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/2016-"] .name-ru, .tooltip a.data.name[href*="visual_novels/2016-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/2016-"] .title .name-ru::after { content: "Цельнометаллический Демон Мурамаса ⚔"; font-size: 11.5px !important; color: #D32F23; visibility: visible; }
+.cover[href*="visual_novels/2016-"] .title .name-en::after { content: "Full Metal Daemon Muramasa ⚔"; font-size: 11.5px !important; color: #D32F23; visibility: visible; }
+.cover[href*="visual_novels/2016-"]:hover .title .name-ru::after, .cover[href*="visual_novels/2016-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/2016-"] .name-ru::after { content: "Цельнометаллический Демон Мурамаса ⚔"; font-size: 13px !important; color: #D32F23; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/2016-"] .name-en::after { content: "Full Metal Daemon Muramasa ⚔"; font-size: 13px !important; color: #D32F23; visibility: visible; }
+
+/* --- НОЧЬ ВЕДЬМ --- */
+.cover[href*="visual_novels/777-"] .title .name-ru, .cover[href*="visual_novels/777-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/777-"] .name-ru, .tooltip a.data.name[href*="visual_novels/777-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/777-"] .title .name-ru::after { content: "Ночь Ведьм"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/777-"] .title .name-en::after { content: "Mahoutsukai no Yoru"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/777-"]:hover .title .name-ru::after, .cover[href*="visual_novels/777-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/777-"] .name-ru::after { content: "Ночь Ведьм"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/777-"] .name-en::after { content: "Mahoutsukai no Yoru"; font-size: 13px !important; visibility: visible; }
+
+/* --- ЗИЯЮЩАЯ ПУСТОТА --- */
+.cover[href*="visual_novels/5922-"] .title, 
+.tooltip a.data.name[href*="visual_novels/5922-"] { font-size: 0 !important; }
+.cover[href*="visual_novels/5922-"] .title::after { content: "Зияющая Пустота"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/5922-"]::after { content: "Зияющая Пустота"; font-size: 13px !important; visibility: visible; }
+body[data-locale="en"] .cover[href*="visual_novels/5922-"] .title::after,
+body[data-locale="en"] .tooltip a.data.name[href*="visual_novels/5922-"]::after { content: "Uro no Shoujo" !important; }
+.cover[href*="visual_novels/5922-"]:hover .title::after { color: #ddafe8 !important; }
+
+/* --- CHAOS;CHILD --- */
+.cover[href*="visual_novels/14018-"] .title .name-ru, .cover[href*="visual_novels/14018-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/14018-"] .name-ru, .tooltip a.data.name[href*="visual_novels/14018-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/14018-"] .title .name-ru::after { content: "Дитя;Хаоса"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/14018-"] .title .name-en::after { content: "CHAOS;CHILD"; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/14018-"]:hover .title .name-ru::after, .cover[href*="visual_novels/14018-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/14018-"] .name-ru::after { content: "Дитя;Хаоса"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/14018-"] .name-en::after { content: "CHAOS;CHILD"; font-size: 13px !important; visibility: visible; }
+
+/* --- ПЕРСОНА 4 ТВН --- */
+.cover[href*="visual_novels/19238-"] .title .name-ru, .cover[href*="visual_novels/19238-"] .title .name-en,
+.tooltip a.data.name[href*="visual_novels/19238-"] .name-ru, .tooltip a.data.name[href*="visual_novels/19238-"] .name-en { font-size: 0 !important; }
+.cover[href*="visual_novels/19238-"] .title .name-ru::after { content: "Персона 4: Танцуя\AВсю Ночь"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/19238-"] .title .name-en::after { content: "Persona 4: Dancing\A All Night"; white-space: pre-line; font-size: 11.5px !important; color: #fafafa; visibility: visible; }
+.cover[href*="visual_novels/19238-"]:hover .title .name-ru::after, .cover[href*="visual_novels/19238-"]:hover .title .name-en::after { color: #ddafe8 !important; }
+.tooltip a.data.name[href*="visual_novels/19238-"] .name-ru::after { content: "Персона 4: Танцуя Всю Ночь"; font-size: 13px !important; visibility: visible; }
+.tooltip a.data.name[href*="visual_novels/19238-"] .name-en::after { content: "Persona 4: Dancing All Night"; font-size: 13px !important; visibility: visible; }
+
+/* ЦЕНТРИРОВАНИЕ ВН */
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-visual_novel.entry-7) {
+  font-size: 0;
+}
+.p-profiles-favorites .subheadline:has(+.cc-favourites>.c-visual_novel.entry-7)::after {
+  content: "ВИЗУАЛЬНЫЕ НОВЕЛЛЫ";
+  font-size: 16px;
+  vertical-align: top;
+  display: block;  
+  text-align: center;
+  width: 100%;
+}
+
+/* ОБЛОГИ ВН */
+/* SNATCHER */
+[href*="visual_novels/1305-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rZOHE9K.png);
+}
+[href*="visual_novels/1305-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/F8Vw33G.png);
+}
+
+/* TSUKIHIME */
+[href*="visual_novels/7-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WqZN0xh.png);
+}
+[href*="visual_novels/7-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Eyhp4My.png);
+}
+
+/* AA3 */
+[href*="visual_novels/716-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fs2rs8t.png);
+}
+[href*="visual_novels/716-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/GBjQrdG.png);
+}
+
+/* ANGELOS ARMAS */
+[href*="visual_novels/429-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WFwu8BB.png);
+}
+[href*="visual_novels/429-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gqRgn6e.png);
+}
+
+/* JINGAI */
+[href*="visual_novels/400-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RKmvsFa.png);
+}
+[href*="visual_novels/400-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bptgTDV.png);
+}
+
+/* TDC */
+[href*="visual_novels/428-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/c5iMosN.png);
+}
+[href*="visual_novels/428-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/j99ifZs.png);
+}
+
+/* STEINS GATE */
+[href*="visual_novels/2002-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SVB1Rsf.png);
+}
+[href*="visual_novels/2002-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gyqceIl.png);
+}
+
+/* MURAMASA */
+[href*="visual_novels/2016-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/l2nrhyy.png);
+}
+[href*="visual_novels/2016-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/RMDxWyX.png);
+}
+
+/* MAHOUTSUKAI */
+[href*="visual_novels/777-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/zp7SQW5.png);
+}
+[href*="visual_novels/777-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/WPwHyJx.png);
+}
+
+/* KNS2 */
+[href*="visual_novels/5922-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/fihNqz3.png);
+}
+[href*="visual_novels/5922-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/gqwbgdr.png);
+}
+
+/* CHAOS CHILD */
+[href*="visual_novels/14018-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/bQqALHd.png);
+}
+[href*="visual_novels/14018-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/QtdzhVy.png);
+}
+
+/* P4D */
+[href*="visual_novels/19238-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Hth0i5S.png);
+}
+[href*="visual_novels/19238-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/Sg045R9.png);
+}
+
+/* Imabikisou */
+[href*="visual_novels/4307-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/r6rgGdX.png);
+}
+[href*="visual_novels/4307-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/avSIQfd.png);
+}
+
+/* I/O */
+[href*="visual_novels/96-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kWG1zrF.png);
+}
+[href*="visual_novels/96-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/SyIoEcf.png);
+}
+
+/* Lunaria */
+[href*="characters/10010468-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vdTRbcx.png);
+}
+[href*="characters/10010468-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/f97Siya.png);
+}
+
+/* Peter */
+[href*="characters/10052181-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/M6hfb5Y.png);
+}
+[href*="characters/10052181-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/kAKJiBA.png);
+}
+
+/* Franco II */
+[href*="characters/10006962-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/8bGUPTn.png);
+}
+[href*="characters/10006962-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/JEApvzK.png);
+}
+
+/* 名前のない女 */
+[href*="characters/10006964-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/hg2i0YX.png);
+}
+[href*="characters/10006964-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/ACQl0ug.png);
+}
+
+/* Mora */
+[href*="characters/10052216-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vOKx47P.png);
+}
+[href*="characters/10052216-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/7PtVWRd.png);
+}
+
+/* Ginny Weasley */
+[href*="characters/10081850-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/rtluan7.png);
+}
+[href*="characters/10081850-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/lpus13P.png);
+}
