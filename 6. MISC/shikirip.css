@@ -168,41 +168,6 @@
   display: none !important;
 }
 
-/* RIGHT SUBMENU */
-.submenu a.icon-visual_novel_list {
-  align-items: center;
-  padding-top: 0.0625rem !important; 
-}
-.submenu a.icon-visual_novel_list::before {
-  content: "V" !important;
-  display: inline-flex !important;
-  align-items: center;
-  justify-content: center;
-  box-sizing: border-box !important;
-  /* Base font size (12px = 1em) */
-  font-size: 0.75rem !important; 
-  font-weight: 590 !important;
-  text-indent: 0 !important;
-  vertical-align: middle;
-  /* Dimensions */
-  width: 1.56em !important;
-  height: 1.5em !important;
-  padding-top: 0.1em !important;
-  border-radius: 50% !important;
-  /* Border */
-  border: none !important;
-  box-shadow: inset 0 0 0 0.15em currentColor !important; 
-  background: transparent !important;
-  color: rgba(var(--white-color), 1) !important;
-  /* Margins */
-  margin-left: 1.25em !important;
-  margin-right: 1.25em !important;
-  transition: color 0.2s ease, box-shadow 0.2s ease;
-}
-.submenu a.icon-visual_novel_list:hover::before {
-  color: var(--hover-color) !important;
-}
-
 /* VN В СПИСКЕ*/
 .entries .user_rate .num span.translation_missing[title*="visual_novel"] {
     font-size: 0 !important;
