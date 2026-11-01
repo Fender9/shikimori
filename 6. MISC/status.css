@@ -23,11 +23,13 @@
     border-radius: 12px !important;
   }
 }
-.profile-head .c-brief > header.head.misc > div.misc > span {
+.profile-head .c-brief > header.head.misc > div.misc > span,
+.l-page > div > header.head.misc > h1 > div.misc > span {
   font-size: 0 !important;
   visibility: hidden !important;
 }
-.profile-head .c-brief > header.head.misc > div.misc > span::before {
+.profile-head .c-brief > header.head.misc > div.misc > span::before,
+.l-page > div > header.head.misc > h1 > div.misc > span::before {
   content: "";
   display: inline !important;
   position: relative !important;
@@ -74,6 +76,29 @@
   }
   .profile-head .c-brief > header.head.misc > .notice {
     display: block !important;
+  }
+}
+@media screen and (min-width: 769px) {
+  .l-page > div > header.head.misc > h1 > div.misc {
+    display: inline-block !important;
+    position: static !important;
+    float: none !important;
+    vertical-align: baseline !important;
+    margin: 0 0 0 8px !important;
+    padding: 0 !important;
+  }
+  .l-page > div > header.head.misc > h1 > div.misc > span {
+    display: inline !important;
+    position: static !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+  }
+  .l-page > div > header.head.misc > h1 > div.misc > span::before {
+    top: -6.7px;
+    left: 4px;
   }
 }
 @media screen and (max-width: 1023px) {
