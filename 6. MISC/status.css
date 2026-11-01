@@ -1,0 +1,97 @@
+.p-profiles .profile-head .c-history {
+  anchor-name: --spotify-status-anchor;
+}
+@supports (position-anchor: --spotify-status-anchor)
+  and (left: anchor(right)) {
+  .p-profiles .profile-content .spotify-status {
+    position: fixed !important;
+    position-anchor: --spotify-status-anchor;
+    top: calc(anchor(bottom) - 0.07rem) !important;
+    left: calc(anchor(left) + 0.17rem) !important;
+    transform: none !important;
+    z-index: 999999 !important;
+    width: min(270px, calc(100vw - 2rem)) !important;
+    height: 100px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .p-profiles .profile-content .spotify-status iframe {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    border: 0 !important;
+    border-radius: 12px !important;
+  }
+}
+.profile-head .c-brief > header.head.misc > div.misc > span {
+  font-size: 0 !important;
+  visibility: hidden !important;
+}
+.profile-head .c-brief > header.head.misc > div.misc > span::before {
+  content: "";
+  display: inline !important;
+  position: relative !important;
+  visibility: visible !important;
+  font-size: 12px !important;
+  font-style: italic !important;
+  line-height: 12px !important;
+  white-space: nowrap;
+}
+@media screen and (min-width: 769px) {
+  .profile-head .c-brief > header.head.misc {
+    display: block !important;
+  }
+  .profile-head .c-brief > header.head.misc > h1.aliases {
+    display: inline-block !important;
+    width: auto !important;
+    float: none !important;
+    vertical-align: baseline !important;
+    margin: 0 8px 0 0 !important;
+  }
+  .profile-head .c-brief > header.head.misc > div.misc {
+    display: inline-block !important;
+    position: static !important;
+    float: none !important;
+    clear: none !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    vertical-align: baseline !important;
+  }
+  .profile-head .c-brief > header.head.misc > div.misc > span {
+    display: inline !important;
+    position: static !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+  }
+  .profile-head .c-brief > header.head.misc > div.misc > span::before {
+    top: -9px;
+    left: 4px;
+  }
+  .profile-head .c-brief > header.head.misc > .notice {
+    display: block !important;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .p-profiles .profile-content .spotify-status {
+    left: auto !important;
+    right: 1rem !important;
+    width: min(270px, calc(100vw - 1rem)) !important;
+    transform: scale(0.667) !important;
+    transform-origin: top right !important;
+  }
+}
+@media screen and (max-width: 768px) {
+  .p-profiles .profile-content .spotify-status {
+    top: calc(anchor(bottom) + 5.3rem) !important;
+  }
+}
+@media screen and (max-width: 768px) {
+  .p-profiles header.head .misc span::before {
+    top: calc(-14px - 1.7rem) !important;
+  }
+}
