@@ -43,7 +43,7 @@
   .profile-head .c-brief > header.head.misc {
     display: block !important;
   }
-  .profile-head .c-brief > header.head.misc > h1.aliases {
+  .profile-head .c-brief > header.head.misc > h1 {
     display: inline-block !important;
     width: auto !important;
     float: none !important;
