@@ -79,7 +79,7 @@
   }
 }
 @media screen and (min-width: 769px) {
-  .l-page > div > header.head.misc > h1 > div.misc {
+  header.head.misc > h1 > div.misc {
     display: inline-block !important;
     position: static !important;
     float: none !important;
@@ -87,7 +87,7 @@
     margin: 0 0 0 8px !important;
     padding: 0 !important;
   }
-  .l-page > div > header.head.misc > h1 > div.misc > span {
+  header.head.misc > h1 > div.misc > span {
     display: inline !important;
     position: static !important;
     width: auto !important;
@@ -96,7 +96,7 @@
     padding: 0 !important;
     border: none !important;
   }
-  .l-page > div > header.head.misc > h1 > div.misc > span::before {
+  header.head.misc > h1 > div.misc > span::before {
     top: -6.7px;
     left: 4px;
   }
